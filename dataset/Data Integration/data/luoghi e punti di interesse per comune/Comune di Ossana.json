@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+<head>
+                
+    <title>Login / Utente - Comune di Ossana</title>
+
+    
+    
+    
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta http-equiv="Content-language" content="it-IT" />
+
+    
+                <meta name="author" content="eZ Systems" />
+                    <meta name="copyright" content="eZ Systems" />
+                    <meta name="description" content="Content Management System" />
+                    <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+        
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/backend" title="Comune di Ossana pagina iniziale" />
+<link rel="Index" href="/backend" />
+<link rel="Top"  href="/backend" title="Login / Utente - Comune di Ossana" />
+<link rel="Search" href="/backend/content/advancedsearch" title="Cerca Comune di Ossana" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/backend/ezinfo/copyright" />
+<link rel="Author" href="/backend/ezinfo/about" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/backend/layout/set/print/api/opendata/v2/content/search" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Versione stampabile";
+    head.appendChild(printNode);
+})();
+</script>
+
+        
+      <link rel="stylesheet" type="text/css" href="/var/ossana/cache/public/stylesheets/70cb575ca91223909f2b8b13f62c68bc_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+/* Terminate floating elements flow in IE < 8 */
+.float-break
+{
+  height: 1%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 8]>
+<style>
+#controlbar-top .box-bc
+{
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=180, Strength=8);
+  zoom: 1;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>
+#controlbar-top .box-bc
+{
+padding-bottom:8px;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.yui3-js-enabled .scroll-to-top {display: none;}
+input.box, textarea.box {width: 99%}
+</style>
+<![endif]-->
+
+
+  <script type="text/javascript" src="/var/ossana/cache/public/javascript/7a42277eb0ecd33a9d3c54dbed87ecf7.js" charset="utf-8"></script>
+
+</head>
+
+<body class="loginpage">
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+<div id="header">
+<div id="header-design" class="float-break">
+</div>
+</div>
+<hr class="hide" />
+
+<div id="columns">
+<div id="maincolumn">
+
+<div id="maincontent">
+<div id="maincontent-design" class="float-break"><div id="fix">
+
+
+
+
+
+<div class="context-block">
+
+<form name="loginform" method="post" action="/backend/user/login">
+
+<div class="login-inputs context-attributes">
+    
+        
+
+    <div class="block">
+        <div class="login-input-wrapper">
+            <div id="icon-login"></div>
+            <input class="halfbox" type="text" autofocus="autofocus" size="10" name="Login" id="logintext" placeholder="Nome utente" tabindex="1" title="Inserisci un nome utente valido in questo campo." />
+        </div>
+    </div>
+
+    <div class="block">
+        <div class="login-input-wrapper">
+            <div id="icon-password"></div>
+            <input class="halfbox" type="password" size="10" name="Password" id="passwordtext" placeholder="Password" tabindex="2" title="Inserisci una password valida in questo campo." />
+        </div>
+    </div>
+
+    
+</div>
+
+
+<div class="controlbar">
+<div class="box-bc"><div class="box-ml">
+<div class="block">
+    <div class="login-input-wrapper">
+        <input class="defaultbutton" type="submit" id="loginbutton" name="LoginButton" value="Login" tabindex="3" title="Premi qui per loggarti usando la combinazione nome utente/password inserita nei campi in alto." />
+    </div>
+    <div class="login-text-wrapper">
+        or
+        <br/>
+        <a href="/backend/user/register">Register new account</a>
+    </div>
+</div>
+</div></div>
+</div>
+
+<input type="hidden" name="RedirectURI" value="api/opendata/v2/content/search?classes=luogo" />
+
+</form>
+
+</div>
+
+
+
+
+</div>
+<div class="break"></div>
+</div></div>
+
+<div class="break"></div>
+</div>
+</div>
+
+<hr class="hide" />
+
+<div id="footer">
+<div id="footer-design">
+
+<p>
+ <a href="http://ez.no/ezpublish">eZ Publish</a> Copyright &copy; 1999-2014 <a href="http://ez.no">eZ Systems AS</a> and others. For more information see <a href="/backend/ezinfo/about">ezinfo/about</a>.
+</p>
+<div class="break"></div>
+</div>
+</div>
+
+
+
+</div><!-- div id="page" -->
+
+</body>
+</html>
