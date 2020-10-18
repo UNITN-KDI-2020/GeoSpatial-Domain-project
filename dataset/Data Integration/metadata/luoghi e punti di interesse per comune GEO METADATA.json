@@ -1,0 +1,85 @@
+{
+	"fields": [
+		{
+			"identifier": "id",
+			"name": {
+				"ita-IT": "Id"
+			},
+			"description": [
+				"id identifing the location"
+			],
+			"dataType": "int",
+			"dataTypeName": "numero identificativo",
+			"template": {
+				"type": "int"
+			},
+			"constraint": [],
+			"isSearchable": true,
+			"isRequired": true
+		},
+		{
+			"identifier": "geometry",
+			"name": {
+				"ita-IT": "posizione in coordinate "
+			},
+			"description": [
+				"latitude and longitude of the location"
+			],
+			"dataType": "point",
+			"dataTypeName": "point",
+			"template": {
+				"type": "geometry",
+				"format": [
+					{
+						"type": "type of Geometry",
+						"coordinates": "float[2]",
+					}
+				]
+			},
+			"constraint": [],
+			"isSearchable": true,
+			"isRequired": false
+		},
+		{
+			"identifier": "type",
+			"name": {
+				"ita-IT": "Caratteristica"
+			},
+			"description": {
+				"ita-IT": ""
+			},
+			"dataType": "string",
+			"dataTypeName": "string",
+			"template": {
+				"type": "string"
+			},
+			"constraint": [],
+			"isSearchable": true,
+			"isRequired": false
+		},
+		{
+			"identifier": "properties",
+			"name": {
+				"ita-IT": "Proprietà luogo"
+			},
+			"description": [
+				"properties of the location"
+			],
+			"dataType": "json",
+			"dataTypeName": "",
+			"template": {
+				"type": "json",
+				"format": {
+					"id": "int",
+					"name": "string",
+					"class_identifier": "string",
+					"mainNodeId": "int",
+					"gps": "string"
+				}
+			},
+			"constraint": [],
+			"isSearchable": true,
+			"isRequired": false
+		}
+	]
+}

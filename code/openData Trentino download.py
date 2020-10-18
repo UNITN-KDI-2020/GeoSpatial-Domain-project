@@ -64,3 +64,4 @@ for i in range(1, 9):
 						file.write(r.text)
 				except:
 					print(name + ": Error during the download of METADATA")
+
