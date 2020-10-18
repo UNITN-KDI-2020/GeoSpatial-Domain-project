@@ -1,0 +1,82 @@
+{
+	"cod_egonciv": {
+		"type": "int",
+		"description": "EGON civic code"
+	},
+	"regione": {
+		"type": "string",
+		"description": "Only the TRENTINO-ALTO ADIGE region"
+	},
+	"provincia": {
+		"type": "string",
+		"description": "only Trento province"
+	},
+	"comune": {
+		"type": "string",
+		"description": "town"
+	},
+	"frazione": {
+		"type": "string",
+		"description": "fraction of the town"
+	},
+	"via": {
+		"type": "string",
+		"description": "street address"
+	},
+	"civico": {
+		"type": "int",
+		"description": "civic code"
+	},
+	"barrato": {
+		"type": "char",
+		"description": "sub-civic code"
+	},
+	"km": {
+		"type": "int",
+		"description": ""
+	},
+	"ist_sez": {
+		"type": "int",
+		"description": ""
+	},
+	"ist_pro": {
+		"type": "int",
+		"description": ""
+	},
+	"ist_com": {
+		"type": "int",
+		"description": ""
+	},
+	"procom17": {
+		"type": "int",
+		"description": ""
+	},
+	"class_19": {
+		"type": "string",
+		"description": "2019 internet coverage",
+		"values":{
+			"non_coperti" : "no coverage",
+			"nero_vhcn_fo" : "at least one VHCN network in optic fiber",
+			"nero_vhcn_fwa" : "no optic fiber, but at least one VHCN network with FWA (radio)",
+			"nero_novhcn" : "at least 2 NGA network, but no VHCN",
+			"grigio_vhcn_fo" : "only one VHCN with fibre optic",
+			"grigio_vhcn_fwa" : "only one VHCN without fibre optic",
+			"grigio_novhcn_rame" : "no VHCN with copper",
+			"grigio_novhcn_fwa" : "no VHCN with radio"
+		}
+	},
+	"class_22": {
+		"type": "string",
+		"description": "2022 internet coverage estimation",
+		"values":{
+			"non_coperti" : "no coverage",
+			"nero_vhcn_fo" : "at least one VHCN network in optic fiber",
+			"nero_vhcn_fwa" : "no optic fiber, but at least one VHCN network with FWA (radio)",
+			"nero_novhcn" : "at least 2 NGA network, but no VHCN",
+			"grigio_vhcn_fo" : "only one VHCN with fibre optic",
+			"grigio_vhcn_fwa" : "only one VHCN without fibre optic",
+			"grigio_novhcn_rame" : "no VHCN with copper",
+			"grigio_novhcn_fwa" : "no VHCN with radio"
+		}
+	}
+}
