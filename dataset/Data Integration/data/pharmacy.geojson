@@ -1,0 +1,3675 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-19T15:28:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36845889",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Bolego Villazzano"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.143509,
+              46.0497479
+            ],
+            [
+              11.1434904,
+              46.0496537
+            ],
+            [
+              11.1436928,
+              46.0496352
+            ],
+            [
+              11.1436985,
+              46.0496534
+            ],
+            [
+              11.1438262,
+              46.0496403
+            ],
+            [
+              11.1438413,
+              46.049714
+            ],
+            [
+              11.143509,
+              46.0497479
+            ]
+          ]
+        ]
+      },
+      "id": "way/36845889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58427508",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Vinante"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.6895844,
+              46.4303502
+            ],
+            [
+              11.6895109,
+              46.4302117
+            ],
+            [
+              11.6896703,
+              46.4301715
+            ],
+            [
+              11.6897171,
+              46.4301597
+            ],
+            [
+              11.6897906,
+              46.4302982
+            ],
+            [
+              11.6895844,
+              46.4303502
+            ]
+          ]
+        ]
+      },
+      "id": "way/58427508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78344907",
+        "amenity": "pharmacy",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.9418603,
+              46.0166504
+            ],
+            [
+              10.941998,
+              46.0166123
+            ],
+            [
+              10.9421072,
+              46.0168028
+            ],
+            [
+              10.9419696,
+              46.0168409
+            ],
+            [
+              10.9418603,
+              46.0166504
+            ]
+          ]
+        ]
+      },
+      "id": "way/78344907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82832580",
+        "amenity": "pharmacy",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1109328,
+              46.0982642
+            ],
+            [
+              11.110932,
+              46.0981792
+            ],
+            [
+              11.1110366,
+              46.0981788
+            ],
+            [
+              11.1110374,
+              46.0982638
+            ],
+            [
+              11.1109328,
+              46.0982642
+            ]
+          ]
+        ]
+      },
+      "id": "way/82832580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84055065",
+        "addr:city": "Nago-Torbole",
+        "addr:housenumber": "6",
+        "addr:postcode": "38069",
+        "addr:street": "Via Stazione",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Chinaglia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.8922189,
+              45.8787343
+            ],
+            [
+              10.892403,
+              45.8786658
+            ],
+            [
+              10.8924377,
+              45.8787186
+            ],
+            [
+              10.8923767,
+              45.8787464
+            ],
+            [
+              10.892396,
+              45.8787722
+            ],
+            [
+              10.8922777,
+              45.8788147
+            ],
+            [
+              10.8922189,
+              45.8787343
+            ]
+          ]
+        ]
+      },
+      "id": "way/84055065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106406092",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "no",
+        "name": "Parafarmacia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.2412426,
+              46.0609057
+            ],
+            [
+              11.2413348,
+              46.0609784
+            ],
+            [
+              11.2411628,
+              46.0610836
+            ],
+            [
+              11.2410705,
+              46.0610109
+            ],
+            [
+              11.2412426,
+              46.0609057
+            ]
+          ]
+        ]
+      },
+      "id": "way/106406092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149937041",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia communale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.8327468,
+              45.9183318
+            ],
+            [
+              10.8327987,
+              45.918186
+            ],
+            [
+              10.8328947,
+              45.9182006
+            ],
+            [
+              10.832848,
+              45.9183477
+            ],
+            [
+              10.8327468,
+              45.9183318
+            ]
+          ]
+        ]
+      },
+      "id": "way/149937041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160392708",
+        "addr:city": "Aldeno",
+        "addr:housenumber": "4",
+        "addr:postcode": "38068",
+        "addr:street": "Piazza Cesare Battisti",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "dott. Barbacovi  Giorgio",
+        "opening_hours": "Mo-Fr 08:30-12:00, 15:30-19:00",
+        "operator": "Giorgio Barbacovi",
+        "ref:vatin": "IT01226750220",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0909885,
+              45.9772925
+            ],
+            [
+              11.0909832,
+              45.9771831
+            ],
+            [
+              11.0911689,
+              45.9771787
+            ],
+            [
+              11.0911742,
+              45.9772882
+            ],
+            [
+              11.0909885,
+              45.9772925
+            ]
+          ]
+        ]
+      },
+      "id": "way/160392708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239014472",
+        "addr:city": "Verla di Giovo",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "38030",
+        "addr:street": "Via Molini",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1511414,
+              46.1574124
+            ],
+            [
+              11.1511781,
+              46.1571772
+            ],
+            [
+              11.1513883,
+              46.1571929
+            ],
+            [
+              11.1513704,
+              46.1573076
+            ],
+            [
+              11.1513114,
+              46.1573032
+            ],
+            [
+              11.1512926,
+              46.1574237
+            ],
+            [
+              11.1511414,
+              46.1574124
+            ]
+          ]
+        ]
+      },
+      "id": "way/239014472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268031004",
+        "addr:city": "Folgaria",
+        "addr:housenumber": "181",
+        "addr:postcode": "38064",
+        "addr:street": "Via E. Colpi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1737142,
+              45.9149439
+            ],
+            [
+              11.1738303,
+              45.9150941
+            ],
+            [
+              11.1736605,
+              45.9151591
+            ],
+            [
+              11.1735398,
+              45.9150134
+            ],
+            [
+              11.1737142,
+              45.9149439
+            ]
+          ]
+        ]
+      },
+      "id": "way/268031004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512340863",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Turazza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0019215,
+              46.0797405
+            ],
+            [
+              11.0019829,
+              46.0798297
+            ],
+            [
+              11.0018795,
+              46.0798639
+            ],
+            [
+              11.001899,
+              46.0798922
+            ],
+            [
+              11.0017505,
+              46.0799414
+            ],
+            [
+              11.0016697,
+              46.079824
+            ],
+            [
+              11.0019215,
+              46.0797405
+            ]
+          ]
+        ]
+      },
+      "id": "way/512340863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677962326",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "indoor": "room",
+        "level": "-1",
+        "name": "Parafarmacia CONAD",
+        "operator": "CONAD",
+        "room": "pharmacy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.040005,
+              45.8912051
+            ],
+            [
+              11.0400543,
+              45.8911928
+            ],
+            [
+              11.040089,
+              45.8911841
+            ],
+            [
+              11.0401012,
+              45.8912075
+            ],
+            [
+              11.0400657,
+              45.8912164
+            ],
+            [
+              11.0400756,
+              45.8912356
+            ],
+            [
+              11.0400271,
+              45.8912478
+            ],
+            [
+              11.040005,
+              45.8912051
+            ]
+          ]
+        ]
+      },
+      "id": "way/677962326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687011003",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "email": "farmacia.comunale5@amr-rovereto.it",
+        "indoor": "room",
+        "level": "0",
+        "name": "Comunale 5",
+        "opening_hours": "Tu-Su 09:00-19:30, Mo 14:00-19:30",
+        "operator": "Farmacia Comunale",
+        "phone": "+39 0464 424961",
+        "room": "amenity",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.01367,
+              45.8687213
+            ],
+            [
+              11.0137079,
+              45.8687333
+            ],
+            [
+              11.0137432,
+              45.8687453
+            ],
+            [
+              11.013718,
+              45.8687852
+            ],
+            [
+              11.0136437,
+              45.8687622
+            ],
+            [
+              11.01367,
+              45.8687213
+            ]
+          ]
+        ]
+      },
+      "id": "way/687011003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/720552223",
+        "amenity": "pharmacy",
+        "building:colour": "#FF9541",
+        "building:part": "yes",
+        "dispensing": "yes",
+        "height": "7",
+        "indoor": "room",
+        "level": "1",
+        "name": "Farmacia",
+        "operator": "Betta Dr. Marco",
+        "roof:colour": "#B4B4B4",
+        "roof:shape": "pyramidal",
+        "rooms": "amenity",
+        "shop": "herbalist",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1113974,
+              46.0409262
+            ],
+            [
+              11.1112683,
+              46.0409378
+            ],
+            [
+              11.1112265,
+              46.0407141
+            ],
+            [
+              11.1113556,
+              46.0407025
+            ],
+            [
+              11.1113974,
+              46.0409262
+            ]
+          ]
+        ]
+      },
+      "id": "way/720552223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247887427",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale San Donà",
+        "opening_hours": "Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00",
+        "operator": "Farmacie Comunali spa",
+        "ref:vatin": "IT01581140223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1402607,
+          46.071609
+        ]
+      },
+      "id": "node/247887427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261081716",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0462 341359",
+        "dispensing": "yes",
+        "opening_hours": "Mo-Sa 08:30-12:15,15:30-19:00",
+        "operator": "Vinante Dr. Giorgio & C. S.N.C.",
+        "ref:vat:it": "02046780223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4362112,
+          46.2818543
+        ]
+      },
+      "id": "node/261081716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/261086651",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 09:15-12:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4172234,
+          46.2725633
+        ]
+      },
+      "id": "node/261086651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/265593284",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "38122",
+        "addr:street": "Largo Medaglie d'Oro",
+        "amenity": "pharmacy",
+        "name": "Farmacia \"Bolghera\"",
+        "ref:vatin": "IT02349510228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1327642,
+          46.0580074
+        ]
+      },
+      "id": "node/265593284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268401568",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "38122",
+        "addr:street": "Piazza del Duomo",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 236139",
+        "name": "Farmacia dall'Armi",
+        "operator": "Pattini Dr. Alberto e Dr.ssa Alessandra",
+        "ref:vatin": "IT02207590221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1219136,
+          46.0676744
+        ]
+      },
+      "id": "node/268401568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268404116",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "20",
+        "addr:postcode": "38122",
+        "addr:street": "Piazza Mario Pasi",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 982103",
+        "name": "Farmacia Santoni",
+        "operator": "Farmacia De Battaglia SNC",
+        "ref:vatin": "IT02099830222",
+        "surveillance": "indoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1223981,
+          46.0677922
+        ]
+      },
+      "id": "node/268404116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268429704",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "51",
+        "addr:postcode": "38122",
+        "addr:street": "Via Mantova",
+        "amenity": "pharmacy",
+        "contact:email": "rcainel@tin.it",
+        "contact:phone": "+39 0461 234387",
+        "contact:website": "http://www.farmaciagallo.com/",
+        "name": "Farmacia Lamberto Gallo",
+        "operator": "Cainelli Paolo & C. snc",
+        "ref:vatin": "IT01855780225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1241882,
+          46.0674124
+        ]
+      },
+      "id": "node/268429704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269032721",
+        "amenity": "pharmacy",
+        "name": "Morelli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2480642,
+          46.1335627
+        ]
+      },
+      "id": "node/269032721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269193734",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "57",
+        "addr:postcode": "38122",
+        "addr:street": "Via Santa Croce",
+        "amenity": "pharmacy",
+        "name": "Farmacia Santa Chiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1237066,
+          46.063667
+        ]
+      },
+      "id": "node/269193734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269348459",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1956614,
+          46.1425363
+        ]
+      },
+      "id": "node/269348459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269615820",
+        "addr:city": "Rovereto",
+        "addr:country": "IT",
+        "addr:housenumber": "11/b",
+        "addr:postcode": "38068",
+        "addr:street": "Via Benacense",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "email": "barbacovi.farmacia@gmail.com",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Barbacovi",
+        "opening_hours": "Mo-Fri 08:00-12:30; 14:45-19:15; Sa 8:00-12:30",
+        "phone": "+390464421373",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0397548,
+          45.8830079
+        ]
+      },
+      "id": "node/269615820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271292343",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1314234,
+          46.0892787
+        ]
+      },
+      "id": "node/271292343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278546539",
+        "addr:city": "Meano",
+        "addr:housenumber": "30",
+        "addr:postcode": "38121",
+        "addr:street": "Via delle Sugarine",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale",
+        "opening_hours": "lunedì\t08:30–12:15, 15–19 martedì\t08:30–12:15, 15–19 mercoledì\t08:30–12:15, 15–19 giovedì\t08:30–12:15, 15–19venerdì\t08:30–12:15, 15–19 sabato\t08:30–12:15 domenica\tChiuso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1165086,
+          46.1264001
+        ]
+      },
+      "id": "node/278546539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/288917447",
+        "addr:city": "Povo",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "38123",
+        "addr:street": "Piazza Giannantonio Manci",
+        "amenity": "pharmacy",
+        "contact:email": "farm06@farcomtrento.it",
+        "contact:website": "http://www.farcomtrento.it/",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale N.6",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1541385,
+          46.0663058
+        ]
+      },
+      "id": "node/288917447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292015868",
+        "addr:city": "Cognola",
+        "addr:housenumber": "10",
+        "addr:postcode": "38121",
+        "addr:street": "Piazza dell'Argentario",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale Cognola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1419881,
+          46.0767326
+        ]
+      },
+      "id": "node/292015868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293870952",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2429905,
+          46.0623036
+        ]
+      },
+      "id": "node/293870952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296362493",
+        "addr:city": "Rovereto",
+        "addr:country": "IT",
+        "addr:housenumber": "17",
+        "addr:postcode": "38068",
+        "addr:street": "Piazza delle Erbe",
+        "amenity": "pharmacy",
+        "contact:website": "http://www.farmaciasoave.com/",
+        "dispensing": "yes",
+        "name": "Soave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0444617,
+          45.8883664
+        ]
+      },
+      "id": "node/296362493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298372268",
+        "amenity": "pharmacy",
+        "name": "Pavani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0279101,
+          45.8858453
+        ]
+      },
+      "id": "node/298372268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299127646",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Madonna Delle Grazie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8441919,
+          45.8997823
+        ]
+      },
+      "id": "node/299127646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299651022",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia dott.ssa Venezian",
+        "operator": "Venezian Patrizia",
+        "ref:msal": "17295",
+        "ref:vatin": "IT01920280227",
+        "source": "Ministero della Salute",
+        "source:start_date": "2015-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8667757,
+          45.918749
+        ]
+      },
+      "id": "node/299651022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305506957",
+        "addr:housenumber": "4",
+        "addr:street": "Strada de Soraporta",
+        "amenity": "pharmacy",
+        "dispensing": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6732782,
+          46.4205104
+        ]
+      },
+      "id": "node/305506957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317916345",
+        "amenity": "pharmacy",
+        "name": "Pizzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2373933,
+          46.067039
+        ]
+      },
+      "id": "node/317916345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/333696242",
+        "addr:city": "Rabbi",
+        "addr:housenumber": "127",
+        "addr:place": "San Bernardo",
+        "addr:postcode": "38020",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0463 808009",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8461831,
+          46.400882
+        ]
+      },
+      "id": "node/333696242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/334743923",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8105073,
+          46.3021572
+        ]
+      },
+      "id": "node/334743923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335694859",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7420375,
+          46.4767228
+        ]
+      },
+      "id": "node/335694859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338894275",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.829935,
+          46.1756298
+        ]
+      },
+      "id": "node/338894275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354932919",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.299756,
+          46.0121165
+        ]
+      },
+      "id": "node/354932919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354933149",
+        "amenity": "pharmacy",
+        "name": "Farmacia Romanese",
+        "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.302148,
+          46.0114325
+        ]
+      },
+      "id": "node/354933149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427547580",
+        "addr:city": "Molveno",
+        "addr:country": "IT",
+        "addr:housenumber": "24b",
+        "addr:postcode": "38018",
+        "addr:street": "Piazza Guglielmo Marconi",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Margonari Ada",
+        "opening_hours": "08:30-12:30,15:30-19:30",
+        "phone": "+39 0461 586972, +39 334 8257059",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9662347,
+          46.142562
+        ]
+      },
+      "id": "node/427547580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427967401",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Madonna Bianca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1333734,
+          46.0401732
+        ]
+      },
+      "id": "node/427967401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429202410",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia \"San Bartolameo\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1296266,
+          46.0537028
+        ]
+      },
+      "id": "node/429202410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431618064",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "38121",
+        "addr:street": "Piazza General Antonio Cantore",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 823529",
+        "dispensing": "yes",
+        "name": "Farmacia San Lorenzo",
+        "ref:vatin": "IT01709540221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.119107,
+          46.076997
+        ]
+      },
+      "id": "node/431618064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432480282",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1215688,
+          46.0583792
+        ]
+      },
+      "id": "node/432480282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437296845",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:street": "Via Benedetto Giovanelli",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale \"San Camillo\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1320121,
+          46.0655277
+        ]
+      },
+      "id": "node/437296845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/468152872",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "7/A",
+        "addr:postcode": "38122",
+        "addr:street": "Via Alessandro Manzoni",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 239805",
+        "dispensing": "yes",
+        "name": "Farmacia \"Grandi\"",
+        "operator": "dott. Mauro Lepore",
+        "ref:vatin": "IT00639430222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1251916,
+          46.0738199
+        ]
+      },
+      "id": "node/468152872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482721037",
+        "addr:city": "Pergine Valsugana",
+        "addr:housenumber": "8",
+        "addr:postcode": "38057",
+        "addr:street": "Piazza Giovanni Serra",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "name": "Farmacia Crescini",
+        "opening_hours": "Mo-Sa 08:30-12:00, Mo-Sa 15:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2383047,
+          46.0598823
+        ]
+      },
+      "id": "node/482721037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/520619249",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2209553,
+          46.1747289
+        ]
+      },
+      "id": "node/520619249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/546523207",
+        "addr:city": "Lavis",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "38015",
+        "addr:street": "Via Giuseppe Segantini",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 246349",
+        "name": "Farmacia Romani",
+        "opening_hours": "Mo-Sa 08:00-12:15, 15:00-19:15",
+        "ref:vatin": "IT02046850224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1071424,
+          46.1413451
+        ]
+      },
+      "id": "node/546523207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/546894657",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8498354,
+          45.894778
+        ]
+      },
+      "id": "node/546894657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560073333",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "42",
+        "addr:postcode": "38122",
+        "addr:street": "Via Giannantonio Manci",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 982584",
+        "name": "Farmacia Alla Madonna",
+        "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1230745,
+          46.0698069
+        ]
+      },
+      "id": "node/560073333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613869965",
+        "addr:housenumber": "82",
+        "addr:postcode": "38020",
+        "addr:street": "Via Brescia",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia",
+        "operator": "Tomasi Dott.ssa Monica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8781988,
+          46.3311395
+        ]
+      },
+      "id": "node/613869965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/614841287",
+        "addr:city": "Malé",
+        "addr:housenumber": "1",
+        "addr:street": "Piazza Dante",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "opening_hours": "Mo-Sa 08:30-12:30,15:30-19:30",
+        "operator": "Tomasi Nicoletta",
+        "ref:msal": "4223",
+        "ref:vatin": "IT00630640225",
+        "source": "Ministero della Salute",
+        "website": "https://www.farmaciatomasi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9121689,
+          46.3520987
+        ]
+      },
+      "id": "node/614841287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622583107",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0425935,
+          45.9264458
+        ]
+      },
+      "id": "node/622583107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663185034",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1820539,
+          46.089857
+        ]
+      },
+      "id": "node/663185034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666810145",
+        "amenity": "pharmacy",
+        "name": "Farmacia Kamal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4104062,
+          46.0529786
+        ]
+      },
+      "id": "node/666810145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690739201",
+        "amenity": "pharmacy",
+        "name": "Farmacia Ottaviani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9565781,
+          45.817258
+        ]
+      },
+      "id": "node/690739201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/729605636",
+        "addr:housenumber": "19",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0464 834118",
+        "name": "Farmacia Calliano",
+        "ref:vatin": "IT02167060223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0940359,
+          45.9354307
+        ]
+      },
+      "id": "node/729605636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737219864",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6008618,
+          45.8902428
+        ]
+      },
+      "id": "node/737219864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/753346159",
+        "amenity": "pharmacy",
+        "name": "Farmacia Fusi",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5779212,
+          45.848452
+        ]
+      },
+      "id": "node/753346159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/753358183",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5404483,
+          45.8083537
+        ]
+      },
+      "id": "node/753358183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761569391",
+        "addr:city": "Rovereto",
+        "addr:housenumber": "33/2",
+        "addr:postcode": "38068",
+        "addr:street": "Viale Trento",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale",
+        "phone": "+39 0464 412812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0419026,
+          45.9013786
+        ]
+      },
+      "id": "node/761569391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/791724455",
+        "addr:city": "Rovereto",
+        "addr:country": "IT",
+        "addr:housenumber": "32",
+        "addr:postcode": "38068",
+        "addr:province": "TN",
+        "addr:street": "Via delle Scuole",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0422041,
+          45.8894599
+        ]
+      },
+      "id": "node/791724455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/821706072",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Chinaglia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8765174,
+          45.870688
+        ]
+      },
+      "id": "node/821706072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836513130",
+        "addr:city": "Villa Lagarina",
+        "addr:country": "IT",
+        "addr:housenumber": "46",
+        "addr:street": "25 Aprile",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.032628,
+          45.9151533
+        ]
+      },
+      "id": "node/836513130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/853801303",
+        "amenity": "pharmacy",
+        "name": "Sanit Service s.r.l."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1284969,
+          46.0669754
+        ]
+      },
+      "id": "node/853801303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885639404",
+        "addr:city": "Mezzolombardo",
+        "addr:country": "IT",
+        "addr:housenumber": "19",
+        "addr:postcode": "38017",
+        "addr:street": "Via Alcide De Gasperi",
+        "amenity": "pharmacy",
+        "contact:email": "info@farmaciacampagnola.it",
+        "contact:fax": "+39 0461 607879",
+        "contact:mobile": "+39 339 4604160",
+        "contact:phone": "+39 0461 601032",
+        "contact:website": "http://farmaciacampagnola.it/",
+        "dispensing": "yes",
+        "name": "Campagnola",
+        "operator": "Dott. G. Campagnola & C. SNC",
+        "ref:vatin": "IT01813570221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0913849,
+          46.2129567
+        ]
+      },
+      "id": "node/885639404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/901169359",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housename": "Palazzo Onda",
+        "addr:housenumber": "40",
+        "addr:postcode": "38121",
+        "addr:street": "Via Renato Lunelli",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 827944",
+        "name": "Farmacia ai Solteri",
+        "operator": "Dottor Gadotti & C. SNC",
+        "ref:vatin": "IT01551840224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.117635,
+          46.0923859
+        ]
+      },
+      "id": "node/901169359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/902473412",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.900851,
+          45.9111219
+        ]
+      },
+      "id": "node/902473412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/902524361",
+        "addr:postcode": "38062",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Bettinazzi - R. & T. Pharma Snc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8856849,
+          45.9164495
+        ]
+      },
+      "id": "node/902524361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905122124",
+        "addr:housenumber": "15",
+        "addr:postcode": "38121",
+        "addr:street": "Piazza della Libertà",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Fontana",
+        "opening_hours": "Mo-Sa 8:00-12:30,15:00-19:30",
+        "operator": "Dott.ssa Fontana",
+        "phone": "+39 0461 990320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1116753,
+          46.1087268
+        ]
+      },
+      "id": "node/905122124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918934812",
+        "amenity": "pharmacy",
+        "name": "Farmacia Nave San Rocco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.110319,
+          46.1672565
+        ]
+      },
+      "id": "node/918934812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/922133564",
+        "amenity": "pharmacy",
+        "name": "Farmacia Boni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7244513,
+          46.0333617
+        ]
+      },
+      "id": "node/922133564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940784613",
+        "addr:city": "Rovereto",
+        "addr:country": "IT",
+        "addr:housenumber": "8",
+        "addr:postcode": "38068",
+        "addr:province": "TN",
+        "addr:street": "Via Giuseppe Mazzini",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Cobelli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0432418,
+          45.8901056
+        ]
+      },
+      "id": "node/940784613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/943811128",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Sanità"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0346924,
+          46.3655522
+        ]
+      },
+      "id": "node/943811128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1013604666",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale Via Benacense",
+        "operator": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0334873,
+          45.8783602
+        ]
+      },
+      "id": "node/1013604666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1100568047",
+        "addr:city": "Pellizzano",
+        "addr:housenumber": "48",
+        "addr:street": "Via Nazionale",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Gallina",
+        "operator": "Gallina Franca",
+        "ref:msal": "4227",
+        "ref:vatin": "IT01376430227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7572486,
+          46.3113252
+        ]
+      },
+      "id": "node/1100568047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112759391",
+        "addr:city": "Pergine Valsugana",
+        "addr:country": "IT",
+        "addr:housename": "Shop Center",
+        "addr:postcode": "38057",
+        "addr:street": "Via Tamarisi",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "layer": "2",
+        "name": "Darma Il Farmastore",
+        "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.223445,
+          46.068036
+        ]
+      },
+      "id": "node/1112759391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1117559404",
+        "addr:housenumber": "1",
+        "addr:street": "Via De Gasperi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Gagliardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8423483,
+          46.0046234
+        ]
+      },
+      "id": "node/1117559404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1129326761",
+        "addr:street": "Via San Pio X",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1206301,
+          46.0534713
+        ]
+      },
+      "id": "node/1129326761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1137509497",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "opening_hours": "Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1298443,
+          46.1906731
+        ]
+      },
+      "id": "node/1137509497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1172425953",
+        "addr:city": "Borgo Valsugana",
+        "addr:country": "IT",
+        "addr:housenumber": "3a",
+        "addr:postcode": "38051",
+        "addr:province": "TN",
+        "addr:state": "IT",
+        "addr:street": "Piazzale Dante Alighieri",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "level": "0",
+        "name": "Farmacia Bailo",
+        "opening_hours": "Mo-Sa 08:30-12:15,15:30-19:00; PH closed",
+        "operator": "Bailo Dr. Luigino",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4548787,
+          46.0537033
+        ]
+      },
+      "id": "node/1172425953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1201851079",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8018422,
+          46.2620746
+        ]
+      },
+      "id": "node/1201851079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1220020564",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:postcode": "38122",
+        "addr:street": "Via Santissima Trinitá",
+        "amenity": "pharmacy",
+        "fixme": "notazione",
+        "name": "Parafarmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1228747,
+          46.0662491
+        ]
+      },
+      "id": "node/1220020564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241248622",
+        "amenity": "pharmacy",
+        "name": "Farmacia comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2177362,
+          46.084496
+        ]
+      },
+      "id": "node/1241248622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293797370",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0700857,
+          45.9291659
+        ]
+      },
+      "id": "node/1293797370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1308870029",
+        "addr:city": "Terre d'Adige",
+        "addr:housenumber": "11/B",
+        "addr:postcode": "38010",
+        "addr:street": "Via Trento",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Brancaleoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0974831,
+          46.1522371
+        ]
+      },
+      "id": "node/1308870029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346805866",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia De Gerloni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0585528,
+          46.073149
+        ]
+      },
+      "id": "node/1346805866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1358269031",
+        "amenity": "pharmacy",
+        "name": "Farmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8062406,
+          46.1542755
+        ]
+      },
+      "id": "node/1358269031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359825886",
+        "addr:housenumber": "31",
+        "addr:street": "Via Luigi Caneppele",
+        "amenity": "pharmacy",
+        "name": "La farmacia di Roncafort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1020825,
+          46.0984636
+        ]
+      },
+      "id": "node/1359825886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1374736035",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale San Rocco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0633565,
+          45.916653
+        ]
+      },
+      "id": "node/1374736035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1400293658",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2584887,
+          46.1874748
+        ]
+      },
+      "id": "node/1400293658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1532671600",
+        "addr:city": "Borgo Valsugana",
+        "addr:country": "IT",
+        "addr:housenumber": "40",
+        "addr:postcode": "38051",
+        "addr:province": "TN",
+        "addr:state": "IT",
+        "addr:street": "Corso Ausugum",
+        "amenity": "pharmacy",
+        "name": "Farmacia Centrale",
+        "operator": "Farmacia Centrale Di Ballista Paolo E Stefano S.N.C.",
+        "phone": "+39 0461 753065",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4577617,
+          46.0539272
+        ]
+      },
+      "id": "node/1532671600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1538128723",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6595457,
+          46.3766041
+        ]
+      },
+      "id": "node/1538128723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669381238",
+        "addr:city": "Roveré della Luna",
+        "addr:country": "IT",
+        "addr:housenumber": "12",
+        "addr:postcode": "38030",
+        "addr:street": "Via Rauti",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-12:00",
+        "phone": "+39 0461 659101",
+        "website": "https://www.farmaciazanini.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1716149,
+          46.2484813
+        ]
+      },
+      "id": "node/1669381238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1695145678",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0084513,
+          45.840892
+        ]
+      },
+      "id": "node/1695145678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1754018682",
+        "addr:city": "Mezzocorona",
+        "addr:country": "IT",
+        "addr:housenumber": "13",
+        "addr:postcode": "38016",
+        "addr:street": "Piazza San Gottardo",
+        "alt_name": "Alla Madonna",
+        "amenity": "pharmacy",
+        "contact:email": "info@farmaciazanini.it",
+        "contact:fax": "+39 0461 605161",
+        "contact:phone": "+39 0461 605161",
+        "contact:website": "http://www.farmaciazanini.it/",
+        "name": "Zanini",
+        "opening_hours": "Mo-Fr 08:30-12:15,15:30-19:15;Sa 08:30-12:15",
+        "operator": "Zanini Paolo",
+        "ref:vatin": "IT01422590222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.118874,
+          46.2146886
+        ]
+      },
+      "id": "node/1754018682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1764382893",
+        "addr:city": "Castelnuovo",
+        "addr:country": "IT",
+        "addr:housenumber": "15a",
+        "addr:postcode": "38050",
+        "addr:province": "TN",
+        "addr:state": "IT",
+        "addr:street": "Viale Venezia",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 751300",
+        "dispensing": "no",
+        "email": "comunalecastelnuovo@gmail.com",
+        "name": "Farmacia Comunale Castelnuovo",
+        "operator": "Farmacia Comunale Castelnuovo TN",
+        "ref:vatin": "IT02116430220",
+        "website": "http://farmaciacomunalecastelnuovo.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4926158,
+          46.0522737
+        ]
+      },
+      "id": "node/1764382893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1840041805",
+        "amenity": "pharmacy",
+        "dispensing": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6927744,
+          46.2988561
+        ]
+      },
+      "id": "node/1840041805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889573420",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8426658,
+          45.8865017
+        ]
+      },
+      "id": "node/1889573420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1904668697",
+        "addr:postcode": "38066",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Accorsi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8409706,
+          45.8852245
+        ]
+      },
+      "id": "node/1904668697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1984744605",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2603123,
+          45.9950813
+        ]
+      },
+      "id": "node/1984744605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1987626808",
+        "addr:city": "Denno",
+        "addr:country": "IT",
+        "addr:housenumber": "10",
+        "addr:postcode": "38010",
+        "addr:street": "Via Guglielmo Marconi",
+        "amenity": "pharmacy",
+        "name": "Farmacia all'Angelo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0479742,
+          46.2744403
+        ]
+      },
+      "id": "node/1987626808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1998966129",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "19/A",
+        "addr:postcode": "38122",
+        "addr:street": "Via Brescia",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1123177,
+          46.070551
+        ]
+      },
+      "id": "node/1998966129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2103936507",
+        "amenity": "pharmacy",
+        "name": "farmacia comunale",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0082956,
+          45.8847764
+        ]
+      },
+      "id": "node/2103936507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2180096986",
+        "addr:city": "Gardolo",
+        "addr:country": "IT",
+        "addr:housename": "Residence Capitol",
+        "addr:housenumber": "32/4",
+        "addr:postcode": "38121",
+        "addr:street": "Via Soprasasso",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 993511",
+        "dispensing": "yes",
+        "name": "Farmacia di Gardolo",
+        "opening_hours": "Mo 15:00-19:00; Tu-Sa 09:00-12:00,15:00-19:00",
+        "operator": "Dott. Brandolani Renato",
+        "ref:vatin": "IT02128090228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10862,
+          46.1064
+        ]
+      },
+      "id": "node/2180096986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2304073385",
+        "addr:city": "Lavis",
+        "addr:country": "IT",
+        "addr:housenumber": "66",
+        "addr:postcode": "38015",
+        "addr:street": "Via Giacomo Matteotti",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1119943,
+          46.1395384
+        ]
+      },
+      "id": "node/2304073385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2316463120",
+        "addr:city": "Romagnano",
+        "addr:housenumber": "14",
+        "addr:postcode": "38123",
+        "addr:street": "Via alle Sette Fontane",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Campagnolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1055828,
+          46.0167581
+        ]
+      },
+      "id": "node/2316463120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338570939",
+        "addr:city": "Castel Ivano",
+        "addr:country": "IT",
+        "addr:district": "Strigno",
+        "addr:housenumber": "29",
+        "addr:postcode": "38059",
+        "addr:province": "TN",
+        "addr:state": "IT",
+        "addr:street": "Via Roma",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmacia Borsato",
+        "phone": "+39 0461 762101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5239854,
+          46.0637581
+        ]
+      },
+      "id": "node/2338570939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2503069997",
+        "addr:city": "Tuenno",
+        "addr:country": "IT",
+        "addr:housenumber": "29",
+        "addr:street": "Via Enrico Leonardi",
+        "amenity": "pharmacy",
+        "name": "Farmacia Baldrachi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0261202,
+          46.3305292
+        ]
+      },
+      "id": "node/2503069997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517370192",
+        "amenity": "pharmacy",
+        "name": "Farmacia Ravagni",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0034033,
+          45.7591484
+        ]
+      },
+      "id": "node/2517370192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2518516216",
+        "amenity": "pharmacy",
+        "name": "Farmacia Franzellin",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0021142,
+          45.7575766
+        ]
+      },
+      "id": "node/2518516216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524024263",
+        "amenity": "pharmacy",
+        "name": "Folgaresi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9717397,
+          45.9933445
+        ]
+      },
+      "id": "node/2524024263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2525035025",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Pieve di Dino Ceschinelli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6391288,
+          45.9395171
+        ]
+      },
+      "id": "node/2525035025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2603444254",
+        "addr:city": "Trento",
+        "addr:housenumber": "112",
+        "addr:postcode": "38123",
+        "addr:street": "Via Alcide Degasperi",
+        "amenity": "pharmacy",
+        "name": "Farmacia Clarina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1256929,
+          46.0487161
+        ]
+      },
+      "id": "node/2603444254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2628566892",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmacia Teseo Francesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4808667,
+          46.0703675
+        ]
+      },
+      "id": "node/2628566892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868373144",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9521966,
+          45.8915027
+        ]
+      },
+      "id": "node/2868373144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2875736483",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9790058,
+          45.8519644
+        ]
+      },
+      "id": "node/2875736483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2888545662",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1181305,
+          45.7827256
+        ]
+      },
+      "id": "node/2888545662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967727727",
+        "amenity": "pharmacy",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4620734,
+          46.2907521
+        ]
+      },
+      "id": "node/2967727727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3028910043",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8545176,
+          46.0519685
+        ]
+      },
+      "id": "node/3028910043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3239277010",
+        "amenity": "pharmacy",
+        "name": "Farmacie Comunali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0252009,
+          45.9118599
+        ]
+      },
+      "id": "node/3239277010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3265198856",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6935363,
+          46.3510072
+        ]
+      },
+      "id": "node/3265198856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326962822",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9395448,
+          45.734889
+        ]
+      },
+      "id": "node/3326962822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424970462",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2350016,
+          46.0414192
+        ]
+      },
+      "id": "node/3424970462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3434314800",
+        "addr:city": "Coredo",
+        "addr:postcode": "38012",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0889288,
+          46.3485815
+        ]
+      },
+      "id": "node/3434314800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3540776707",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Thaler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0403937,
+          45.8898791
+        ]
+      },
+      "id": "node/3540776707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3612862992",
+        "addr:city": "Sant'Orsola Terme",
+        "addr:housenumber": "75",
+        "addr:postcode": "38050",
+        "addr:street": "Località Pintarei",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "name": "Farmacia Valle dei Mocheni",
+        "opening_hours": "Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00; Su off",
+        "phone": "+39 0461 550007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3021324,
+          46.1091824
+        ]
+      },
+      "id": "node/3612862992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3715080105",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7362286,
+          46.1010416
+        ]
+      },
+      "id": "node/3715080105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755058550",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia dott.ssa Venezian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8653341,
+          45.9186901
+        ]
+      },
+      "id": "node/3755058550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786688689",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6594938,
+          46.3770566
+        ]
+      },
+      "id": "node/3786688689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787675288",
+        "amenity": "pharmacy",
+        "name": "Festa Parafarmacia Profumeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6609796,
+          46.376141
+        ]
+      },
+      "id": "node/3787675288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3860156898",
+        "addr:city": "Rovereto",
+        "addr:country": "IT",
+        "addr:postcode": "38068",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Comunale n°1",
+        "operator": "Farmacia Comunale",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0401438,
+          45.8917455
+        ]
+      },
+      "id": "node/3860156898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951262706",
+        "addr:city": "Pergine Valsugana",
+        "addr:country": "IT",
+        "addr:housenumber": "1",
+        "addr:postcode": "38057",
+        "addr:street": "Piazza Mario Garbari",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2413667,
+          46.0605568
+        ]
+      },
+      "id": "node/3951262706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4000752464",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Dispensario farmaceutico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5525707,
+          46.0438265
+        ]
+      },
+      "id": "node/4000752464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013472289",
+        "amenity": "pharmacy",
+        "level": "0",
+        "name": "Farmacia S. Giorgio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0281746,
+          45.8941621
+        ]
+      },
+      "id": "node/4013472289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079555689",
+        "addr:city": "Riva del Garda",
+        "addr:housenumber": "5",
+        "addr:postcode": "38066",
+        "addr:street": "Via Padova",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Parafarmacia E' Qui",
+        "operator": "Parafarmacia Riva del Garda",
+        "phone": "+39 046 4014302",
+        "ref:msal": "011453",
+        "ref:vatin": "IT01447650332",
+        "source": "Ministero della Salute",
+        "source:start_date": "2015-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8541457,
+          45.8826228
+        ]
+      },
+      "id": "node/4079555689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4123995194",
+        "addr:city": "Mezzana",
+        "addr:housenumber": "48",
+        "addr:postcode": "38020",
+        "addr:street": "Via IV Novembre",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Gallina",
+        "operator": "Succursale Gallina Franca",
+        "ref:msal": "17591",
+        "ref:vatin": "IT01376430227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8016006,
+          46.3159016
+        ]
+      },
+      "id": "node/4123995194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4146886717",
+        "addr:city": "Castello Tesino",
+        "addr:housenumber": "12",
+        "addr:postcode": "38053",
+        "addr:street": "Via Dante",
+        "amenity": "pharmacy",
+        "name": "Farmacia Comunale",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339287,
+          46.0625095
+        ]
+      },
+      "id": "node/4146886717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4149795061",
+        "addr:city": "Pieve Tesino",
+        "amenity": "pharmacy",
+        "name": "Farmacia Pieve Tesino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6117172,
+          46.0681123
+        ]
+      },
+      "id": "node/4149795061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4456510054",
+        "addr:city": "Ledro",
+        "addr:housenumber": "4",
+        "addr:place": "Pieve",
+        "addr:postcode": "38067",
+        "addr:street": "Via Nuova",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Alberto Foletto",
+        "operator": "Foletto Alberto & C. S.n.c.",
+        "phone": "+39 0464 591038",
+        "ref:vatin": "IT01406250223",
+        "website": "http://www.foletto.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7323059,
+          45.8885959
+        ]
+      },
+      "id": "node/4456510054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557760205",
+        "addr:city": "Mezzolombardo",
+        "addr:country": "IT",
+        "addr:housename": "Complesso Commerciale Braide",
+        "addr:housenumber": "65/A",
+        "addr:postcode": "38017",
+        "addr:street": "Via Trento",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0461 600696",
+        "level": "0",
+        "name": "Parafarmacia Campagnola",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1000444,
+          46.2071628
+        ]
+      },
+      "id": "node/4557760205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582777035",
+        "amenity": "pharmacy",
+        "name": "Farmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7329018,
+          46.15527
+        ]
+      },
+      "id": "node/4582777035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585088773",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Parafarmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4602172,
+          46.2910265
+        ]
+      },
+      "id": "node/4585088773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4643920791",
+        "addr:city": "Riva del Garda",
+        "addr:housenumber": "12",
+        "addr:postcode": "38066",
+        "addr:street": "Via Lutti",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mutalipassi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8451646,
+          45.8868604
+        ]
+      },
+      "id": "node/4643920791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644165788",
+        "amenity": "pharmacy",
+        "name": "Farmacia Veterinaria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1234078,
+          46.0708418
+        ]
+      },
+      "id": "node/4644165788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4654517956",
+        "addr:street": "Viale della pace",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Scaglia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7654611,
+          46.1601535
+        ]
+      },
+      "id": "node/4654517956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762621253",
+        "amenity": "pharmacy",
+        "name": "Tecnisan articoli sanitari",
+        "name:it": "Tecnisan articoli sanitari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1286721,
+          46.0445596
+        ]
+      },
+      "id": "node/4762621253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5400760154",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8724215,
+          46.0353784
+        ]
+      },
+      "id": "node/5400760154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5401214894",
+        "addr:city": "Dro",
+        "addr:housenumber": "14",
+        "addr:postcode": "38074",
+        "addr:street": "Via Giuseppe Mazzini",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Nardelli Gabriele",
+        "opening_hours": "Mo-Fr 08:30-12:00, Mo-Sa 15:00-19:00, Sa 09:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.914025,
+          45.9606101
+        ]
+      },
+      "id": "node/5401214894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5669932017",
+        "addr:city": "Trento",
+        "addr:housenumber": "68",
+        "addr:street": "Via Milano",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Igea",
+        "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00, Sa 08:30-12:30",
+        "phone": "+39 0461 910761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1280488,
+          46.0608378
+        ]
+      },
+      "id": "node/5669932017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5779215184",
+        "amenity": "pharmacy",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1366928,
+          46.4375538
+        ]
+      },
+      "id": "node/5779215184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840514317",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5851467,
+          46.2592562
+        ]
+      },
+      "id": "node/5840514317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5859452716",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmacia Santoni",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.018394,
+          45.8843881
+        ]
+      },
+      "id": "node/5859452716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6125013169",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0170999,
+          46.4052386
+        ]
+      },
+      "id": "node/6125013169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135283574",
+        "addr:city": "Dimaro",
+        "addr:postcode": "38025",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8740406,
+          46.3260432
+        ]
+      },
+      "id": "node/6135283574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6169477931",
+        "amenity": "pharmacy",
+        "name": "Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1100893,
+          45.9415
+        ]
+      },
+      "id": "node/6169477931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181555281",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0867259,
+          46.2646016
+        ]
+      },
+      "id": "node/6181555281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239519785",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Giupponi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1278389,
+          46.0069356
+        ]
+      },
+      "id": "node/6239519785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6256572711",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Parafarmacia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7702598,
+          46.477323
+        ]
+      },
+      "id": "node/6256572711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6589342086",
+        "addr:housenumber": "24",
+        "addr:postcode": "38036",
+        "addr:street": "Strada Neva",
+        "amenity": "pharmacy",
+        "name": "Farmacia San Giovanni",
+        "opening_hours": "Mo-Sa 08:30-12:30, 15:30-19:30; Su 09:00-12:00, 16:00-19:00",
+        "phone": "+39 0462 764145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6754117,
+          46.4200601
+        ]
+      },
+      "id": "node/6589342086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6609204555",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6339731,
+          46.0163984
+        ]
+      },
+      "id": "node/6609204555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655079622",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Malfatti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1949906,
+          46.004345
+        ]
+      },
+      "id": "node/6655079622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6739124785",
+        "amenity": "pharmacy",
+        "name": "Farmacia",
+        "name:en": "Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9082944,
+          46.0772173
+        ]
+      },
+      "id": "node/6739124785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7057868609",
+        "addr:city": "Cles",
+        "addr:country": "IT",
+        "addr:housenumber": "30",
+        "addr:postcode": "38023",
+        "addr:street": "Via Alcide Degasperi",
+        "amenity": "pharmacy",
+        "contact:phone": "+39 0463 421146",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmacia De Maffei",
+        "opening_hours": "Mo-Sa 08:15-19:15",
+        "operator": "DIEMME FARMA S.N.C. di Paolo De Maffei",
+        "ref:vatin": "IT01764440226",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0330406,
+          46.3630657
+        ]
+      },
+      "id": "node/7057868609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7274656231",
+        "addr:city": "Arco",
+        "addr:housenumber": "3",
+        "addr:postcode": "38062",
+        "addr:street": "Via Nas",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Redi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8799242,
+          45.9175297
+        ]
+      },
+      "id": "node/7274656231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7556597095",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Valore salute",
+        "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00; PH closed",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9524923,
+          46.0456752
+        ]
+      },
+      "id": "node/7556597095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7576263510",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0480565,
+          46.2175233
+        ]
+      },
+      "id": "node/7576263510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644628848",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.073457,
+          45.869393
+        ]
+      },
+      "id": "node/7644628848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7941509977",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Vinotti",
+        "opening_hours": "Mo-Sa 08:30-12:15; Mo-Sa 15:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0655384,
+          46.320896
+        ]
+      },
+      "id": "node/7941509977"
+    }
+  ]
+}

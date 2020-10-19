@@ -1,0 +1,879 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-19T15:03:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33889538",
+        "amenity": "cinema",
+        "building": "yes",
+        "description": "Burned down in 2013",
+        "name": "Cinema Teatro di Cavalese"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.4638479,
+              46.2896544
+            ],
+            [
+              11.463839,
+              46.2894815
+            ],
+            [
+              11.4640578,
+              46.2894766
+            ],
+            [
+              11.4640573,
+              46.2894902
+            ],
+            [
+              11.4644199,
+              46.2894822
+            ],
+            [
+              11.464419,
+              46.2896299
+            ],
+            [
+              11.464027,
+              46.289636
+            ],
+            [
+              11.4640252,
+              46.289659
+            ],
+            [
+              11.4640015,
+              46.2896768
+            ],
+            [
+              11.4639554,
+              46.2896779
+            ],
+            [
+              11.4639317,
+              46.2896654
+            ],
+            [
+              11.463929,
+              46.2896554
+            ],
+            [
+              11.4638479,
+              46.2896544
+            ]
+          ]
+        ]
+      },
+      "id": "way/33889538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58734647",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Teatro Comunale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5138774,
+              46.288952
+            ],
+            [
+              11.5138645,
+              46.2887705
+            ],
+            [
+              11.514368,
+              46.2887534
+            ],
+            [
+              11.5143809,
+              46.2889349
+            ],
+            [
+              11.5138774,
+              46.288952
+            ]
+          ]
+        ]
+      },
+      "id": "way/58734647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/59272521",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Teatro Marmolada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.7689406,
+              46.4768812
+            ],
+            [
+              11.7689515,
+              46.4766013
+            ],
+            [
+              11.7692168,
+              46.4766062
+            ],
+            [
+              11.769206,
+              46.4768861
+            ],
+            [
+              11.7689406,
+              46.4768812
+            ]
+          ]
+        ]
+      },
+      "id": "way/59272521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/63073877",
+        "amenity": "cinema",
+        "building": "yes",
+        "email": "info@supercinemarovereto.it",
+        "name": "Supercinema Rosmini",
+        "phone": "+39 0464 421216",
+        "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI",
+        "website": "http://www.supercinemarovereto.it/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0436089,
+              45.890606
+            ],
+            [
+              11.0436093,
+              45.8906489
+            ],
+            [
+              11.0436096,
+              45.8906833
+            ],
+            [
+              11.0436101,
+              45.8907365
+            ],
+            [
+              11.0435694,
+              45.8907366
+            ],
+            [
+              11.043534,
+              45.8907368
+            ],
+            [
+              11.043501,
+              45.8907369
+            ],
+            [
+              11.043461,
+              45.8907371
+            ],
+            [
+              11.0434131,
+              45.8907373
+            ],
+            [
+              11.0433977,
+              45.8907373
+            ],
+            [
+              11.0433816,
+              45.8907374
+            ],
+            [
+              11.0433546,
+              45.8907375
+            ],
+            [
+              11.0433539,
+              45.89065
+            ],
+            [
+              11.0433522,
+              45.8904576
+            ],
+            [
+              11.0433516,
+              45.8903926
+            ],
+            [
+              11.0435546,
+              45.8903918
+            ],
+            [
+              11.0435552,
+              45.8904567
+            ],
+            [
+              11.043648,
+              45.8904563
+            ],
+            [
+              11.0436492,
+              45.8906058
+            ],
+            [
+              11.0436089,
+              45.890606
+            ]
+          ]
+        ]
+      },
+      "id": "way/63073877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66827939",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Teatro Nuovo Roma"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1251611,
+              46.0617594
+            ],
+            [
+              11.1249538,
+              46.0616652
+            ],
+            [
+              11.125036,
+              46.061578
+            ],
+            [
+              11.124948,
+              46.061538
+            ],
+            [
+              11.1249686,
+              46.0615162
+            ],
+            [
+              11.1248731,
+              46.0614728
+            ],
+            [
+              11.1247377,
+              46.0614113
+            ],
+            [
+              11.1247903,
+              46.0613556
+            ],
+            [
+              11.1249289,
+              46.0614186
+            ],
+            [
+              11.1250751,
+              46.061485
+            ],
+            [
+              11.1251032,
+              46.0614552
+            ],
+            [
+              11.1251466,
+              46.0614749
+            ],
+            [
+              11.1252104,
+              46.0614073
+            ],
+            [
+              11.1254085,
+              46.0614973
+            ],
+            [
+              11.1251611,
+              46.0617594
+            ]
+          ]
+        ]
+      },
+      "id": "way/66827939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72225589",
+        "addr:city": "Trento",
+        "addr:country": "IT",
+        "addr:housenumber": "6",
+        "addr:postcode": "38122",
+        "addr:street": "Via San Francesco d'Assisi",
+        "amenity": "cinema",
+        "building": "yes",
+        "cinema:3D": "yes",
+        "contact:phone": "+39 0461 260399",
+        "contact:website": "http://www.cineworld.info",
+        "drive_in": "no",
+        "name": "Multisala G. Modena",
+        "operator": "Filmax Srl",
+        "ref:vatin": "IT02262420223",
+        "screen": "3",
+        "source": "local_knowledge",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1254552,
+              46.0668504
+            ],
+            [
+              11.1253442,
+              46.0665815
+            ],
+            [
+              11.1255523,
+              46.0665327
+            ],
+            [
+              11.1256831,
+              46.0668423
+            ],
+            [
+              11.1257048,
+              46.0668938
+            ],
+            [
+              11.1255677,
+              46.0668814
+            ],
+            [
+              11.1255603,
+              46.0668507
+            ],
+            [
+              11.1254552,
+              46.0668504
+            ]
+          ]
+        ]
+      },
+      "id": "way/72225589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75603844",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Astra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1191735,
+              46.0757947
+            ],
+            [
+              11.1189233,
+              46.0758466
+            ],
+            [
+              11.1187508,
+              46.0758246
+            ],
+            [
+              11.1187134,
+              46.0757189
+            ],
+            [
+              11.1187767,
+              46.0756571
+            ],
+            [
+              11.1190642,
+              46.0755872
+            ],
+            [
+              11.1191735,
+              46.0757947
+            ]
+          ]
+        ]
+      },
+      "id": "way/75603844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87032579",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema teatro comunale"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.7270266,
+              46.0340664
+            ],
+            [
+              10.7271808,
+              46.0339439
+            ],
+            [
+              10.7272049,
+              46.0339248
+            ],
+            [
+              10.7270062,
+              46.0338043
+            ],
+            [
+              10.727126,
+              46.0337091
+            ],
+            [
+              10.7274288,
+              46.0338927
+            ],
+            [
+              10.7273366,
+              46.0339659
+            ],
+            [
+              10.7273829,
+              46.0339941
+            ],
+            [
+              10.7271771,
+              46.0341576
+            ],
+            [
+              10.7270266,
+              46.0340664
+            ]
+          ]
+        ]
+      },
+      "id": "way/87032579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163977688",
+        "amenity": "cinema",
+        "name": "Cinema oratorio Concordia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5818813,
+              45.8482183
+            ],
+            [
+              10.581815,
+              45.8482141
+            ],
+            [
+              10.5818296,
+              45.8481025
+            ],
+            [
+              10.5818476,
+              45.8481058
+            ],
+            [
+              10.5818936,
+              45.8481204
+            ],
+            [
+              10.5818813,
+              45.8482183
+            ]
+          ]
+        ]
+      },
+      "id": "way/163977688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163977689",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema oratorio Concordia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.5818026,
+              45.8483093
+            ],
+            [
+              10.5816353,
+              45.8482987
+            ],
+            [
+              10.5816617,
+              45.8480925
+            ],
+            [
+              10.5817369,
+              45.8480848
+            ],
+            [
+              10.5818296,
+              45.8481025
+            ],
+            [
+              10.581815,
+              45.8482141
+            ],
+            [
+              10.5818146,
+              45.8482175
+            ],
+            [
+              10.5818026,
+              45.8483093
+            ]
+          ]
+        ]
+      },
+      "id": "way/163977689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189995872",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Teatro Fondo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1367319,
+              46.4403387
+            ],
+            [
+              11.1364336,
+              46.4402595
+            ],
+            [
+              11.1364821,
+              46.4401555
+            ],
+            [
+              11.1366733,
+              46.440206
+            ],
+            [
+              11.1366917,
+              46.4401733
+            ],
+            [
+              11.1368084,
+              46.4401998
+            ],
+            [
+              11.1367319,
+              46.4403387
+            ]
+          ]
+        ]
+      },
+      "id": "way/189995872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407734097",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Paladolomiti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.765905,
+              46.159701
+            ],
+            [
+              10.7659296,
+              46.1592886
+            ],
+            [
+              10.766316,
+              46.1593001
+            ],
+            [
+              10.7663088,
+              46.159407
+            ],
+            [
+              10.766306,
+              46.159467
+            ],
+            [
+              10.7662913,
+              46.1597121
+            ],
+            [
+              10.765905,
+              46.159701
+            ]
+          ]
+        ]
+      },
+      "id": "way/407734097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269184853",
+        "amenity": "cinema",
+        "name": "Supercinema Vittoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1240549,
+          46.0698347
+        ]
+      },
+      "id": "node/269184853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269955384",
+        "amenity": "cinema",
+        "name": "Cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6006178,
+          46.3135289
+        ]
+      },
+      "id": "node/269955384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939451818",
+        "amenity": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0358991,
+          46.3661143
+        ]
+      },
+      "id": "node/939451818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1098424206",
+        "amenity": "cinema",
+        "name": "Cinema Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9139295,
+          46.3530415
+        ]
+      },
+      "id": "node/1098424206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1806514145",
+        "amenity": "cinema",
+        "name": "Cinema Paradiso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1685025,
+          45.9172029
+        ]
+      },
+      "id": "node/1806514145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2140551480",
+        "amenity": "cinema",
+        "name": "Cinema Dolomiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0910096,
+          46.3486626
+        ]
+      },
+      "id": "node/2140551480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2208013392",
+        "amenity": "cinema",
+        "name": "Bar Teatro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6008139,
+          46.3134334
+        ]
+      },
+      "id": "node/2208013392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2853936060",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Pergine Valsugana",
+        "office": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2391965,
+          46.0622048
+        ]
+      },
+      "id": "node/2853936060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170252310",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Dolomiti",
+        "website": "https://www.facebook.com/CinemaTeatroDolomiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2511174,
+          45.9418117
+        ]
+      },
+      "id": "node/3170252310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4749889182",
+        "addr:city": "Ossana",
+        "addr:housenumber": "12",
+        "addr:postcode": "38026",
+        "addr:street": "Via Bartolomeo Bezzi",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Comunale di Ossana",
+        "screen": "1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311525,
+          46.3096073
+        ]
+      },
+      "id": "node/4749889182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156752512",
+        "amenity": "cinema",
+        "name": "Cinema Teatro San Pietro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0945682,
+          46.2114812
+        ]
+      },
+      "id": "node/5156752512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239479972",
+        "addr:city": "Mattarello",
+        "addr:housenumber": "7",
+        "addr:postcode": "38123",
+        "addr:street": "Via Guido Poli",
+        "amenity": "cinema",
+        "name": "Cinema Parrocchiale di Mattarello",
+        "phone": "+39 0461 945313",
+        "website": "http://cinema.parrocchiamattarello.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1287945,
+          46.0065876
+        ]
+      },
+      "id": "node/6239479972"
+    }
+  ]
+}
