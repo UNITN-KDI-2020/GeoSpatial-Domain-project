@@ -12,16 +12,16 @@
     "URI di GeoNames":	"http://www.geonames.org/6541469",
     "Lingue del dataset":	"italiano",
     "Estensione temporale":	"N/A",
-    "Titolare Nome:" "Comune di Trento",
+    "Titolare Nome": "Comune di Trento",
     "Codice IPA/IVA": "c_l378",
     "Frequenza di aggiornamento": "in continuo aggiornamento",
     "Versione di": "N/A",
-    "Conforme a	Standard": "REST/JSON",
+    "Conforme a Standard": "REST/JSON",
     "Autore":{
         "Nome": "Comune di Trento",
         "IPA/IVA": "c_l378"
     },
-    "fields":[
+    "fields":{
         "WKT": {
                     "type": "list <int>",
                     "description": "coordinates of the paths"
@@ -36,7 +36,7 @@
                 },
         "descrizione": {
                     "type": "string",
-                    "description": "name of the path (equivalent to "fumetto")"
+                    "description": "name of the path (equivalent to 'fumetto')"
                 },
         "tipologia": {
                     "type": "string",
@@ -54,5 +54,5 @@
                     "type": "int",
                     "description": "building year of cycle path"
                 }
-    ]
+            }
 }
