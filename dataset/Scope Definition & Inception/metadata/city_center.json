@@ -1,0 +1,59 @@
+{
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "admin_level":
+                "boundary":
+                "name":
+                "ref:ISTAT":
+                "ref:catasto":
+                "type":
+                "wikidata":
+                "wikipedia":
+                "@id":
+                "name:cim":
+                "name:it":
+                "population":
+                "old_name:de":
+                "natural":
+                "name:de":
+                "name:mhn":
+                "alt_name:de":
+                "gfoss_id":
+                "reg_name":
+                "name:lld":
+                "postal_code":
+                "old_name":
+                "name:left":
+                "name:right":
+                "source":
+                "created_by":
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    
