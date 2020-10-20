@@ -30,5 +30,42 @@
 	"Autore": {
 		"Nome": "Servizio Trasporti pubblici",
 		"IPA/IVA": "0OK0PZ"
-	}
+	},
+	"fields":[
+		{
+			"name": "name",
+			"type": "string",
+			"description": "name of the bike station"
+		},
+		{
+			"name": "address",
+			"type": "string",
+			"description": "geographical address of the bike station"
+		},
+		{
+			"name": "id",
+			"type": "string",
+			"description": "identifier"
+		},
+		{
+			"name": "bikes",
+			"type": "int",
+			"description": "realtime data with the number of the present bikes"
+		},
+		{
+			"name": "slots",
+			"type": "int",
+			"description": "realtime data with the number of the free slots"
+		},
+		{
+			"name": "totalSlots",
+			"type": "int",
+			"description": "total number of slot bikes"
+		},
+		{
+			"name": "position",
+			"type": "int[2]",
+			"description": "coordinates of the station"
+		}
+	]
 }
