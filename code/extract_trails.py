@@ -16,11 +16,10 @@ highway_query = """
 ( area["name"="Provincia di Trento"]; )->.searchArea;
 // gather results
 (
-  way["highway"="motorway"](area.searchArea);
-  way["highway"="trunk"](area.searchArea);
-  way["highway"="primary"](area.searchArea);
-  way["highway"="secondary"](area.searchArea);
   // query part for: “highway=path”
+  node["highway"="path"](area.searchArea);
+  way["highway"="path"](area.searchArea);
+  relation["highway"="path"](area.searchArea);
 );
 // print results
 out body;
@@ -31,7 +30,7 @@ print(highway_query)
 r = requests.get(url, params={'data': highway_query})
 # res = api.get(building_query)
 result = osmtogeojson.process_osm_json(r.json())
-filepath = "./highway.geo.json"
+filepath = "./trails.geo.json"
 print(filepath)
 with open(filepath,mode="w") as f:
   geojson.dump(result,f)
