@@ -1,0 +1,312 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T13:50:02Z",
+    "fields": [
+        "type": {
+			"type": "string",
+			"description": "type of data"
+        },
+        "properties": {
+			"type": "map",
+			"description": "item of data",
+            "fields":{
+                "@id": {
+                    "type": "",
+                    "description": "",
+                },
+                "amenity":{
+                    "type": "",
+                    "description": "",
+                },
+                "building":{
+                    "type": "",
+                    "description": "",
+                },
+                "name":{
+                    "type": "",
+                    "description": "",
+                },
+                "type":{
+                    "type": "",
+                    "description": "",
+                },
+                "atm":{
+                    "type": "",
+                    "description": "",
+                },
+                "automated teller machine":{
+                    "type": "",
+                    "description": "",
+                },
+                "operator":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housenumber":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:street":{
+                    "type": "",
+                    "description": "",
+                },
+                "source":{
+                    "type": "",
+                    "description": "",
+                },
+                "opening_hours":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:website":{
+                    "type": "",
+                    "description": "",
+                },
+                "building:levels":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:wikidata":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:wikipedia":{
+                    "type": "",
+                    "description": "",
+                },
+                "wheelchair":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:city":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:postcode":{
+                    "type": "",
+                    "description": "",
+                },
+                "roof:levels":{
+                    "type": "",
+                    "description": "",
+                },
+                "roof:shape":{
+                    "type": "",
+                    "description": "",
+                },
+                "drive_through":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:full":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:country":{
+                    "type": "",
+                    "description": "",
+                },
+                "website":{
+                    "type": "",
+                    "description": "",
+                },
+                "phone":{
+                    "type": "",
+                    "description": "",
+                },
+                "indoor":{
+                    "type": "",
+                    "description": "",
+                },
+                "level":{
+                    "type": "",
+                    "description": "",
+                },
+                "room":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref":{
+                    "type": "",
+                    "description": "",
+                },
+                "entrance":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance:type":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance:zone":{
+                    "type": "",
+                    "description": "",
+                },
+                "created_by":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:email":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:fax":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:phone":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:place":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref:ABI":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref:ATM":{
+                    "type": "",
+                    "description": "",
+                },
+                "int_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "fixme":{
+                    "type": "",
+                    "description": "",
+                },
+                "wikidata":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "man_made":{
+                    "type": "",
+                    "description": "",
+                },
+                "air_conditioning":{
+                    "type": "",
+                    "description": "",
+                },
+                "alt_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:province":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:district":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:state":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housename":{
+                    "type": "",
+                    "description": "",
+                },
+                "layer":{
+                    "type": "",
+                    "description": "",
+                },
+                "email":{
+                    "type": "",
+                    "description": "",
+                },
+                "access":{
+                    "type": "",
+                    "description": "",
+                },
+                "note":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "loc_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:de":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:lad":{
+                    "type": "",
+                    "description": "",
+                },
+                "designation":{
+                    "type": "",
+                    "description": "",
+                },
+                "branch":{
+                    "type": "",
+                    "description": "",
+                },
+                "wheelchair:step_height":{
+                    "type": "",
+                    "description": "",
+                }
+            }
+        },
+        "geometry": {
+			"type": "map",
+			"description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+			        "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+			        "description": "array the points which compose the polygon"
+                },
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        } 
+    ]
+}

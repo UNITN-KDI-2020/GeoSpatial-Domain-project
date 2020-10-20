@@ -1,0 +1,321 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:21:03Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "@id": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:rock": {
+                    "type": "",
+                    "description": "",
+                },
+                "name": {
+                    "type": "",
+                    "description": "",
+                },
+                "natural": {
+                    "type": "",
+                    "description": "",
+                },
+                "sport": {
+                    "type": "",
+                    "description": "",
+                },
+                "type": {
+                    "type": "",
+                    "description": "",
+                },
+                "building": {
+                    "type": "",
+                    "description": "",
+                },
+                "leisure": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:city":
+                "addr:country": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": "",
+                },
+                "landuse": {
+                    "type": "",
+                    "description": "",
+                },
+                "club": {
+                    "type": "",
+                    "description": "",
+                },
+                "email": {
+                    "type": "",
+                    "description": "",
+                },
+                "fax": {
+                    "type": "",
+                    "description": "",
+                },
+                "opening_hours": {
+                    "type": "",
+                    "description": "",
+                },
+                "phone": {
+                    "type": "",
+                    "description": "",
+                },
+                "tourism": {
+                    "type": "",
+                    "description": "",
+                },
+                "website": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:bolted": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:multipitch": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:orientation": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:quality": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:sport": {
+                    "type": "",
+                    "description": "",
+                },
+                "fee": {
+                    "type": "",
+                    "description": "",
+                },
+                "outdoor": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:boulder": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:speed": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:toprope": {
+                    "type": "",
+                    "description": "",
+                },
+                "operator": {
+                    "type": "",
+                    "description": "",
+                },
+                "highway": {
+                    "type": "",
+                    "description": "",
+                },
+                "sac_scale": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:grade:french:max": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:grade:french:min": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:length": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:crag": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:grade:french:mean": {
+                    "type": "",
+                    "description": "",
+                },
+                "height": {
+                    "type": "",
+                    "description": "",
+                },
+                "note": {
+                    "type": "",
+                    "description": "",
+                },
+                "ref": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:trad": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:grade:uiaa:max": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:grade:uiaa:min": {
+                    "type": "",
+                    "description": "",
+                },
+                "url": {
+                    "type": "",
+                    "description": "",
+                },
+                "trailblazed": {
+                    "type": "",
+                    "description": "",
+                },
+                "created_by": {
+                    "type": "",
+                    "description": "",
+                },
+                "description": {
+                    "type": "",
+                    "description": "",
+                },
+                "information": {
+                    "type": "",
+                    "description": "",
+                },
+                "map_size": {
+                    "type": "",
+                    "description": "",
+                },
+                "map_type": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:length:max": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:length:min": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:deepwater": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:ice": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:mixed": {
+                    "type": "",
+                    "description": "",
+                },
+                "playground": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:en": {
+                    "type": "",
+                    "description": "",
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:it": {
+                    "type": "",
+                    "description": "",
+                },
+                "ele": {
+                    "type": "",
+                    "description": "",
+                },
+                "access": {
+                    "type": "",
+                    "description": "",
+                },
+                "indoor": {
+                    "type": "",
+                    "description": "",
+                },
+                "office": {
+                    "type": "",
+                    "description": "",
+                },
+                "ref:vatin": {
+                    "type": "",
+                    "description": "",
+                },
+                "surface": {
+                    "type": "",
+                    "description": "",
+                },
+                "source": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:de": {
+                    "type": "",
+                    "description": "",
+                },
+                "noname": {
+                    "type": "",
+                    "description": "",
+                },
+                "climbing:pitches": {
+                    "type": "",
+                    "description": "",
+                }            }
+        }
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    
+    ]
+}       

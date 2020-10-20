@@ -15,9 +15,9 @@ comuni = [
 #  "Altopiano della Vigolana",
 #  "Amblar-Don",
 #  "Andalo",
-#  "Arco",
+  "Arco",
 #  "Avio",
-#  "Baselga di Pinè",
+#  "Baselga di Piné",
 #  "Bedollo",
 #  "Besenello",
 #  "Bieno",
@@ -44,7 +44,7 @@ comuni = [
 #  "Carzano",
 #  "Castel Condino",
 #  "Castel Ivano",
-#  "Castello Molina di Fiemme",
+#  "Castello-Molina di Fiemme",
 #  "Castello Tesino",
 #  "Castelnuovo",
 #  "Cavalese",
@@ -68,7 +68,7 @@ comuni = [
 #  "Drena",
 #  "Dro",
 #  "Fai della Paganella",
-#  "Fiavè",
+#  "Fiavé",
 #  "Fierozzo - Vlarotz",
 #  "Folgaria",
 #  "Fornace",
@@ -123,11 +123,11 @@ comuni = [
 #  "Romeno",
 #  "Roncegno Terme",
 #  "Ronchi Valsugana",
-#  "Ronzo Chienis",
+#  "Ronzo-Chienis",
 #  "Ronzone",
-#  "Roverè della Luna",
+#  "Roveré della Luna",
 #  "Rovereto",
-#  "Ruffrè-Mendola",
+#  "Ruffré-Mendola",
 #  "Rumo",
 #  "Sagron Mis",
 #  "Samone",
@@ -139,7 +139,7 @@ comuni = [
 #  "Scurelle",
 #  "Segonzano",
 #  "Sella Giudicarie",
-#  "Sèn Jan di Fassa",
+  "San Giovanni di Fassa",
 #  "Sfruz",
 #  "Soraga di Fassa",
 #  "Sover",
@@ -163,17 +163,17 @@ comuni = [
 #  "Trambileno",
 #  "Tre Ville",
 #  "Trento",
-  "Valdaone",
-  "Valfloriana",
-  "Vallarsa",
-  "Vallelaghi",
-  "Vermiglio",
-  "Vignola Falesina",
-  "Villa Lagarina",
-  "Ville d'Anaunia",
-  "Ville di Fiemme",
-  "Volano",
-  "Ziano di Fiemme",
+#  "Valdaone",
+#  "Valfloriana",
+#  "Vallarsa",
+#  "Vallelaghi",
+#  "Vermiglio",
+#  "Vignola Falesina",
+#  "Villa Lagarina",
+#  "Ville d'Anaunia",
+#  "Ville di Fiemme",
+#  "Volano",
+#  "Ziano di Fiemme",
 ]
 
 # api = overpass.API()
@@ -183,12 +183,13 @@ for comune in comuni:
   building_query = """
   [out:json][timeout:25];
   // fetch area “Trentino” to search in
+  ( area["name"="Provincia di Trento"]; )->.externalBoundary;
   ( area["name"="{}"]; )->.searchArea;
   (
     // query part for: “building=yes”
-    node["building"="yes"](area.searchArea);
-    way["building"="yes"](area.searchArea);
-    relation["building"="yes"](area.searchArea);
+    node["building"="yes"](area.searchArea)(area.externalBoundary);
+    way["building"="yes"](area.searchArea)(area.externalBoundary);
+    relation["building"="yes"](area.searchArea)(area.externalBoundary);
   );
   // print results
   out body;

@@ -1,0 +1,304 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:07:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "network": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:type": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "route": {
+                    "type": "",
+                    "description": ""
+                },
+                "type": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "distance": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:difficulty": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:grooming": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "FIXME": {
+                    "type": "",
+                    "description": ""
+                },
+                "roundtrip": {
+                    "type": "",
+                    "description": ""
+                },
+                "park_ride": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:name": {
+                    "type": "",
+                    "description": ""
+                },
+                "area": {
+                    "type": "",
+                    "description": ""
+                },
+                "source_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:oneway": {
+                    "type": "",
+                    "description": ""
+                },
+                "lit": {
+                    "type": "",
+                    "description": ""
+                },
+                "sport": {
+                    "type": "",
+                    "description": ""
+                },
+                "highway": {
+                    "type": "",
+                    "description": ""
+                },
+                "oneway": {
+                    "type": "",
+                    "description": ""
+                },
+                "ski": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "bridge": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "incline": {
+                    "type": "",
+                    "description": ""
+                },
+                "bicycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "designation": {
+                    "type": "",
+                    "description": ""
+                },
+                "disabled": {
+                    "type": "",
+                    "description": ""
+                },
+                "emergency": {
+                    "type": "",
+                    "description": ""
+                },
+                "foot": {
+                    "type": "",
+                    "description": ""
+                },
+                "forestry": {
+                    "type": "",
+                    "description": ""
+                },
+                "horse": {
+                    "type": "",
+                    "description": ""
+                },
+                "motor_vehicle": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:pat": {
+                    "type": "",
+                    "description": ""
+                },
+                "surface": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "aerialway": {
+                    "type": "",
+                    "description": ""
+                },
+                "mtb:scale": {
+                    "type": "",
+                    "description": ""
+                },
+                "sac_scale": {
+                    "type": "",
+                    "description": ""
+                },
+                "tracktype": {
+                    "type": "",
+                    "description": ""
+                },
+                "trail_visibility": {
+                    "type": "",
+                    "description": ""
+                },
+                "history": {
+                    "type": "",
+                    "description": ""
+                },
+                "fee": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "tunnel": {
+                    "type": "",
+                    "description": ""
+                },
+                "smoothness": {
+                    "type": "",
+                    "description": ""
+                },
+                "width": {
+                    "type": "",
+                    "description": ""
+                },
+                "piste:snowboard": {
+                    "type": "",
+                    "description": ""
+                },
+                "@relations": {
+                    "type": "",
+                    "description": ""
+                },
+                "mtb:scale:uphill": {
+                    "type": "",
+                    "description": ""
+                },
+                "motorcar": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed": {
+                    "type": "",
+                    "description": ""
+                },
+                "lanes": {
+                    "type": "",
+                    "description": ""
+                },
+                "service": {
+                    "type": "",
+                    "description": ""
+                },
+                "hgv": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxlength": {
+                    "type": "",
+                    "description": ""
+                },
+                "oneway:bicycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "access": {
+                    "type": "",
+                    "description": ""
+                },
+                "leisure": {
+                    "type": "",
+                    "description": ""
+                }
+            }                
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}    

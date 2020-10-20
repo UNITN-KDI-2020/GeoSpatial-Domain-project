@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:03:03Z",
+    "fields": [
+        "type": {
+			"type": "string",
+			"description": "type of data"
+        },
+        "properties": {
+			"type": "map",
+			"description": "item of data",
+            "fields":{
+                "@id": {
+                    "type": "",
+                    "description": "",
+                },
+                "amenity": {
+                    "type": "",
+                    "description": "",
+                },
+                "building": {
+                    "type": "",
+                    "description": "",
+                },
+                "description": {
+                    "type": "",
+                    "description": "",
+                },
+                "name": {
+                    "type": "",
+                    "description": "",
+                },
+                "email": {
+                    "type": "",
+                    "description": "",
+                },
+                "phone": {
+                    "type": "",
+                    "description": "",
+                },
+                "source": {
+                    "type": "",
+                    "description": "",
+                },
+                "website": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:country": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": "",
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": "",
+                },
+                "cinema:3D": {
+                    "type": "",
+                    "description": "",
+                },
+                "contact:phone": {
+                    "type": "",
+                    "description": "",
+                },
+                "contact:website": {
+                    "type": "",
+                    "description": "",
+                },
+                "drive_in": {
+                    "type": "",
+                    "description": "",
+                },
+                "operator": {
+                    "type": "",
+                    "description": "",
+                },
+                "ref:vatin": {
+                    "type": "",
+                    "description": "",
+                },
+                "screen": {
+                    "type": "",
+                    "description": "",
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": "",
+                },
+                "office": {
+                    "type": "",
+                    "description": "",
+                },
+            }
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}

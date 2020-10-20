@@ -1,0 +1,492 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T09:57:03Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "amenity": {
+                    "type": "",
+                    "description": ""
+                },
+                "fee": {
+                    "type": "",
+                    "description": ""
+                },
+                "type": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking": {
+                    "type": "",
+                    "description": ""
+                },
+                "access": {
+                    "type": "",
+                    "description": ""
+                },
+                "park_ride": {
+                    "type": "",
+                    "description": ""
+                },
+                "surface": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "barrier": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "loc_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity:disabled": {
+                    "type": "",
+                    "description": ""
+                },
+                "highway": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity:parent": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity:women": {
+                    "type": "",
+                    "description": ""
+                },
+                "lit": {
+                    "type": "",
+                    "description": ""
+                },
+                "supervised": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "service": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "landuse": {
+                    "type": "",
+                    "description": ""
+                },
+                "area": {
+                    "type": "",
+                    "description": ""
+                },
+                "indoor": {
+                    "type": "",
+                    "description": ""
+                },
+                "level": {
+                    "type": "",
+                    "description": ""
+                },
+                "bicycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "foot": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": ""
+                },
+                "opening_hours": {
+                    "type": "",
+                    "description": ""
+                },
+                "opening_hours_1": {
+                    "type": "",
+                    "description": ""
+                },
+                "smoothness": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxstay": {
+                    "type": "",
+                    "description": ""
+                },
+                "condition": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:time_interval": {
+                    "type": "",
+                    "description": ""
+                },
+                "motorcar": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "place": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "height": {
+                    "type": "",
+                    "description": ""
+                },
+                "tourism": {
+                    "type": "",
+                    "description": ""
+                },
+                "hgv": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxheight": {
+                    "type": "",
+                    "description": ""
+                },
+                "description": {
+                    "type": "",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "bus": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:cash": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:left": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "",
+                    "description": ""
+                },
+                "motorcycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "psv": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:country": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:province": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxweight": {
+                    "type": "",
+                    "description": ""
+                },
+                "charge": {
+                    "type": "",
+                    "description": ""
+                },
+                "surface:material": {
+                    "type": "",
+                    "description": ""
+                },
+                "time_interval": {
+                    "type": "",
+                    "description": ""
+                },
+                "caravan": {
+                    "type": "",
+                    "description": ""
+                },
+                "covered": {
+                    "type": "",
+                    "description": ""
+                },
+                "leisure": {
+                    "type": "",
+                    "description": ""
+                },
+                "designation": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "natural": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:pat:cat": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:pat:id": {
+                    "type": "",
+                    "description": ""
+                },
+                "source:access": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxwidth": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination": {
+                    "type": "",
+                    "description": ""
+                },
+                "disused:aeroway": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:ca": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "",
+                    "description": ""
+                },
+                "fee:price": {
+                    "type": "",
+                    "description": ""
+                },
+                "motor_vehicle": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:state": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city:lld": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:material": {
+                    "type": "",
+                    "description": ""
+                },
+                "ele": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "wpt_description": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:shape": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:levels:underground": {
+                    "type": "",
+                    "description": ""
+                },
+                "max_level": {
+                    "type": "",
+                    "description": ""
+                },
+                "min_level": {
+                    "type": "",
+                    "description": ""
+                },
+                "access:fuel:lpg": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "",
+                    "description": ""
+                },
+                "phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity:buses": {
+                    "type": "",
+                    "description": ""
+                },
+                "capacity:bus": {
+                    "type": "",
+                    "description": ""
+                },
+                "sport": {
+                    "type": "",
+                    "description": ""
+                },
+                "FIXME": {
+                    "type": "",
+                    "description": ""
+                },
+                "repeat_on": {
+                    "type": "",
+                    "description": ""
+                },
+                "room": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator:type": {
+                    "type": "",
+                    "description": ""
+                },
+                "toilets": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:coins": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:contactless": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:credit_cards": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:debit_cards": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:maestro": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:mastercard": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:visa": {
+                    "type": "",
+                    "description": ""
+                },
+                "description:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "disused": {
+                    "type": "",
+                    "description": ""
+                },
+                "power_supply": {
+                    "type": "",
+                    "description": ""
+                },
+                "sanitary_dump_station": {
+                    "type": "",
+                    "description": ""
+                },
+            }  
+        },              
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}       
