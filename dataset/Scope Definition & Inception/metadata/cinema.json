@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:03:03Z",
+    "fields": [
+        "type": {
+			"type": "string",
+			"description": "type of data"
+        },
+        "properties": {
+			"type": "map",
+			"description": "item of data",
+            "fields":{
+                "latitude:"
+                "longitude:"
+                "altitude:"
+                "geometry:"
+                "coordinates:"
+                "@id:"
+                "amenity:"
+                "building:"
+                "description:"
+                "name:"
+                "email:"
+                "phone:"
+                "source:"
+                "website:"
+                "addr:city:"
+                "addr:country:"
+                "addr:housenumber:"
+                "addr:postcode:"
+                "addr:street:"
+                "cinema:3D:"
+                "contact:phone:"
+                "contact:website:"
+                "drive_in:"
+                "operator:"
+                "ref:vatin:"
+                "screen:"
+                "wheelchair:"
+                "office":
+            }
+        }
+    "id": {
+			"type": "string",
+			"description": "type of data"
+        }
+    }
+  ]
+}
