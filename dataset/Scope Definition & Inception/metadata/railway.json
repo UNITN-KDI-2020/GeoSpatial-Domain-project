@@ -2,7 +2,7 @@
     "type": "FeatureCollection",
     "generator": "overpass-ide",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-    "timestamp": "2020-10-19T15:26:03Z",
+    "timestamp": "2020-10-19T18:07:02Z",
     "fields": [
         "type": {
             "type": "string",
@@ -12,56 +12,200 @@
             "type": "map",
             "description": "item of data",
             "fields": {       
-                "@id":
-                "addr:city":
-                "addr:postcode":
-                "addr:street":
-                "building":
-                "name":
-                "network":
-                "operator":
-                "railway":
-                "wikipedia":
-                "public_transport":
-                "train":
-                "wikidata":
-                "area":
-                "fixme":
-                "electrified":
-                "frequency":
-                "gauge":
-                "maxspeed":
-                "name:de":
-                "passenger_lines":
-                "railway:track_class":
-                "railway:traffic_mode":
-                "ref":
-                "structure_gauge":
-                "tracks":
-                "usage":
-                "voltage":
-                "bridge":
-                "layer":
-                "start_date":
-                "alt_name":
-                "embankment":
-                "service":
-                "tunnel":
-                "covered":
-                "name:it":
-                "bridge:structure":
-                "@relations":
-                "operator:wikidata":
-                "operator:wikipedia":
-                "wheelchair":
-                "old_name:de":
-                "addr:housenumber":
-                "railway:ref:DB":
-                "uic_ref":
-                "note":
-                "internet_access"
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "network": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "public_transport": {
+                    "type": "",
+                    "description": ""
+                },
+                "train": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "area": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "electrified": {
+                    "type": "",
+                    "description": ""
+                },
+                "frequency": {
+                    "type": "",
+                    "description": ""
+                },
+                "gauge": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "passenger_lines": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway:track_class": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway:traffic_mode": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "structure_gauge": {
+                    "type": "",
+                    "description": ""
+                },
+                "tracks": {
+                    "type": "",
+                    "description": ""
+                },
+                "usage": {
+                    "type": "",
+                    "description": ""
+                },
+                "voltage": {
+                    "type": "",
+                    "description": ""
+                },
+                "bridge": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "start_date": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "embankment": {
+                    "type": "",
+                    "description": ""
+                },
+                "service": {
+                    "type": "",
+                    "description": ""
+                },
+                "tunnel": {
+                    "type": "",
+                    "description": ""
+                },
+                "covered": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "bridge:structure": {
+                    "type": "",
+                    "description": ""
+                },
+                "@relations": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator:wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator:wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "old_name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway:ref:DB": {
+                    "type": "",
+                    "description": ""
+                },
+                "uic_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "internet_access": {
+                    "type": "",
+                    "description": ""
+                }
             }                
-
+        },
         "geometry": {
             "type": "map",
             "description": "geometrical features",
@@ -73,13 +217,12 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
-        }
+        },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-
     ]
 }    

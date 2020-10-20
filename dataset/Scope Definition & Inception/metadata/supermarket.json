@@ -12,72 +12,264 @@
             "type": "map",
             "description": "item of data",
             "fields": {       
-                "@id":
-                "building":
-                "name":
-                "opening_hours":
-                "payment:cash":
-                "payment:debit_cards":
-                "shop":
-                "type":
-                "source":
-                "addr:city":
-                "addr:country":
-                "addr:housenumber":
-                "addr:postcode":
-                "addr:street":
-                "operator":
-                "ref:vatin":
-                "brand":
-                "brand:wikidata":
-                "brand:wikipedia":
-                "toilets:wheelchair":
-                "wheelchair":
-                "building:part":
-                "website":
-                "addr:province":
-                "addr:state":
-                "building:levels":
-                "cash_withdrawal:purchase_minimum":
-                "cash_withdrawal:type":
-                "level":
-                "parking":
-                "toilets":
-                "toilets:access":
-                "organic":
-                "roof:levels":
-                "phone":
-                "contact:phone":
-                "note":
-                "payment:bancomat":
-                "layer":
-                "fixme":
-                "indoor":
-                "payment:credit_cards":
-                "room":
-                "wheelchair:description":
-                "ref":
-                "created_by":
-                "addr:place":
-                "addr:district":
-                "addr:housename":
-                "alt_name":
-                "payment:coins":
-                "payment:maestro":
-                "fax":
-                "diet:vegetarian":
-                "ref:it:vat":
-                "lastcheck":
-                "entrance":
-                "ref:vat:it":
-                "contact:website":
-                "contact:email":
-                "email":
-                "name:de":
-                "name:it":
-                "diet:vegan":
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "opening_hours": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:cash": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:debit_cards": {
+                    "type": "",
+                    "description": ""
+                },
+                "shop": {
+                    "type": "",
+                    "description": ""
+                },
+                "type": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:country": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vatin": {
+                    "type": "",
+                    "description": ""
+                },
+                "brand": {
+                    "type": "",
+                    "description": ""
+                },
+                "brand:wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "brand:wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "toilets:wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:part": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:province": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:state": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:levels": {
+                    "type": "",
+                    "description": ""
+                },
+                "cash_withdrawal:purchase_minimum": {
+                    "type": "",
+                    "description": ""
+                },
+                "cash_withdrawal:type": {
+                    "type": "",
+                    "description": ""
+                },
+                "level": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking": {
+                    "type": "",
+                    "description": ""
+                },
+                "toilets": {
+                    "type": "",
+                    "description": ""
+                },
+                "toilets:access": {
+                    "type": "",
+                    "description": ""
+                },
+                "organic": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:levels": {
+                    "type": "",
+                    "description": ""
+                },
+                "phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:bancomat": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "indoor": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:credit_cards": {
+                    "type": "",
+                    "description": ""
+                },
+                "room": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair:description": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:district": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:coins": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:maestro": {
+                    "type": "",
+                    "description": ""
+                },
+                "fax": {
+                    "type": "",
+                    "description": ""
+                },
+                "diet:vegetarian": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:it:vat": {
+                    "type": "",
+                    "description": ""
+                },
+                "lastcheck": {
+                    "type": "",
+                    "description": ""
+                },
+                "entrance": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vat:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:website": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:email": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "diet:vegan": {
+                    "type": "",
+                    "description": ""
+                }
             }                
-
+        },
         "geometry": {
             "type": "map",
             "description": "geometrical features",
@@ -89,13 +281,12 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
-        }
+        },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-
     ]
 }    

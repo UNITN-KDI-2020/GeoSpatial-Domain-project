@@ -12,93 +12,328 @@
             "type": "map",
             "description": "item of data",
             "fields": {       
-                "latitude":
-                "longitude":
-                "altitude":
-                "geometry":
-                "coordinates":
-                "@id":
-                "leisure":
-                "type":
-                "name":
-                "wikidata":
-                "landuse":
-                "access":
-                "operator":
-                "area":
-                "source":
-                "alt_name":
-                "short_name":
-                "start_date":
-                "amenity":
-                "created_by":
-                "old_name":
-                "barrier":
-                "tourism":
-                "wikipedia":
-                "ele":
-                "natural":
-                "sport":
-                "surface":
-                "leaf_type":
-                "wheelchair":
-                "baby":
-                "playground":
-                "water":
-                "description":
-                "playground_1":
-                "playground_2":
-                "playground_3":
-                "colour":
-                "denomination":
-                "religion":
-                "place":
-                "playground:basketswing":
-                "playground:chain_ladder":
-                "playground:slide":
-                "playground:swing":
-                "name:it":
-                "opening_hours":
-                "addr:city":
-                "addr:housenumber":
-                "addr:postcode":
-                "addr:street":
-                "playground:aerialrotator":
-                "playground:basketball_backboard":
-                "playground:exercise":
-                "playground:horizontal_bar":
-                "playground:seesaw":
-                "playground:tunnel_tube":
-                "fireplace":
-                "animal_excrements":
-                "description:it":
-                "landcover":
-                "residential":
-                "foot":
-                "playground:climbingframe":
-                "building":
-                "covered":
-                "addr:place":
-                "motor_vehicle":
-                "website":
-                "fixme":
-                "picnic_table":
-                "contact:website":
-                "playground:multi_play":
-                "playground:sandpit":
-                "dog":
-                "addr:city:it":
-                "addr:city:mhn":
-                "lit":
-                "note":
-                "@relations":
-                "min_age":
-                "playground:theme":
-                "playground:skate_equipment":
-                "playground:teenshelter":
-                "playground:water
-            }                
-
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "leisure": {
+                    "type": "",
+                    "description": ""
+                },
+                "type": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "landuse": {
+                    "type": "",
+                    "description": ""
+                },
+                "access": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "area": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "short_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "start_date": {
+                    "type": "",
+                    "description": ""
+                },
+                "amenity": {
+                    "type": "",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "old_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "barrier": {
+                    "type": "",
+                    "description": ""
+                },
+                "tourism": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "ele": {
+                    "type": "",
+                    "description": ""
+                },
+                "natural": {
+                    "type": "",
+                    "description": ""
+                },
+                "sport": {
+                    "type": "",
+                    "description": ""
+                },
+                "surface": {
+                    "type": "",
+                    "description": ""
+                },
+                "leaf_type": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "baby": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground": {
+                    "type": "",
+                    "description": ""
+                },
+                "water": {
+                    "type": "",
+                    "description": ""
+                },
+                "description": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground_1": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground_2": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground_3": {
+                    "type": "",
+                    "description": ""
+                },
+                "colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "denomination": {
+                    "type": "",
+                    "description": ""
+                },
+                "religion": {
+                    "type": "",
+                    "description": ""
+                },
+                "place": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:basketswing": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:chain_ladder": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:slide": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:swing": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "opening_hours": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:aerialrotator": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:basketball_backboard": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:exercise": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:horizontal_bar": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:seesaw": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:tunnel_tube": {
+                    "type": "",
+                    "description": ""
+                },
+                "fireplace": {
+                    "type": "",
+                    "description": ""
+                },
+                "animal_excrements": {
+                    "type": "",
+                    "description": ""
+                },
+                "description:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "landcover": {
+                    "type": "",
+                    "description": ""
+                },
+                "residential": {
+                    "type": "",
+                    "description": ""
+                },
+                "foot": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:climbingframe": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "covered": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "motor_vehicle": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "picnic_table": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:website": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:multi_play": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:sandpit": {
+                    "type": "",
+                    "description": ""
+                },
+                "dog": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city:mhn": {
+                    "type": "",
+                    "description": ""
+                },
+                "lit": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "@relations": {
+                    "type": "",
+                    "description": ""
+                },
+                "min_age": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:theme": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:skate_equipment": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:teenshelter": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground:water": {
+                    "type": "",
+                    "description": ""
+                }
+            } 
+        },               
         "geometry": {
             "type": "map",
             "description": "geometrical features",
@@ -110,13 +345,12 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
-        }
+        },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-
     ]
 }    
