@@ -1,0 +1,136 @@
+{
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "admin_level": {
+                    "type": "integer",
+                    "description": "the level of the administration roles tree",
+                },
+                "boundary": {
+                    "type": "string",
+                    "description": "the type of boundary",
+                },
+                "name": {
+                    "type": "string",
+                    "description": "the name of the area",
+                },
+                "ref:ISTAT": {
+                    "type": "string",
+                    "description": "the reference to the ISTAT code",
+                },
+                "ref:catasto": {
+                    "type": "string",
+                    "description": "the reference to the codice catastale",
+                },
+                "type": {
+                    "type": "string",
+                    "description": "the type of the object",
+                },
+                "wikidata": {
+                    "type": "string",
+                    "description": "link to the related wikidata object",
+                },
+                "wikipedia": {
+                    "type": "string",
+                    "description": "the wikipedia page of the facility",
+                },
+                "@id": {
+                    "type": "string",
+                    "description": "name that identifies a unique object",
+                },
+                "name:cim": {
+                    "type": "string",
+                    "description": "the name in Cimbro",
+                },
+                "name:it": {
+                    "type": "string",
+                    "description": "the name in Italian",
+                },
+                "population": {
+                    "type": "string",
+                    "description": "the population of this administrative area",
+                },
+                "old_name:de": {
+                    "type": "string",
+                    "description": "the old name in german",
+                },
+                "natural": {
+                    "type": "string",
+                    "description": "describe the type of nature inside the boundary",
+                },
+                "name:de": {
+                    "type": "string",
+                    "description": "the new name in german",
+                },
+                "name:mhn": {
+                    "type": "string",
+                    "description": "the name in mócheno",
+                },
+                "alt_name:de": {
+                    "type": "string",
+                    "description": "an alternative name in german",
+                },
+                "gfoss_id": {
+                    "type": "",
+                    "description": "",
+                },
+                "reg_name": {
+                    "type": "string",
+                    "description": "the name of the region",
+                },
+                "name:lld": {
+                    "type": "string",
+                    "description": "the name in ladin",
+                },
+                "postal_code": {
+                    "type": "string",
+                    "description": "the postal code of the administrative area",
+                },
+                "old_name": {
+                    "type": "string",
+                    "description": "the old name of the administrative area",
+                },
+                "name:left": {
+                    "type": "string",
+                    "description": "the name from the left side",
+                },
+                "name:right": {
+                    "type": "string",
+                    "description": "the name from the right side",
+                },
+                "source": {
+                    "type": "string",
+                    "description": "the source of the information",
+                },
+                "created_by": {
+                    "type": "string",
+                    "description": "who created this set",
+                }
+            } 
+        },               
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}    
