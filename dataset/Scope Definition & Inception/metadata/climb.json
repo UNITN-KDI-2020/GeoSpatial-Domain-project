@@ -12,7 +12,6 @@
             "type": "map",
             "description": "item of data",
             "fields": {
-                "latitude":
                 "@id":
                 "climbing:rock":
                 "name":
@@ -99,5 +98,7 @@
                     "description": "array the points which compose the polygon"
                 },
             }
-        ]
-    }       
+        }
+    
+    ]
+}       
