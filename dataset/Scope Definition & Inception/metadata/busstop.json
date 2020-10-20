@@ -1,0 +1,76 @@
+@id:highway:public_transport:name:shelter:bus:bench:"alt_name:lld":"name:it":"name:lld":departures_board:operator:old_name:route_ref:bus_routes:created_by:wheelchair:note:tactile_paving:covered:source:ref:"name:de":"addr:city":"addr:postcode":"addr:street":alt_name:shelter_type:amenity:bin:network:"toilets:wheelchair":designation:local_ref:mapillary:pole:"survey:date":official_name:website:description:fixme:lit:passenger_information_display:surface:building
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T10:54:03Z",
+	"fields": {
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"properties": {
+			"type": "map",
+			"description": "item of data",
+            "fields": {
+                "@id":
+                "highway":
+                "public_transport":
+                "name":
+                "shelter":
+                "bus":
+                "bench":
+                "alt_name:lld":
+                "name:it":
+                "name:lld":
+                "departures_board":
+                "operator:old_name":
+                "route_ref":
+                "bus_routes":
+                "created_by":
+                "wheelchair":
+                "note:tactile_paving":
+                "covered:source":
+                "ref":
+                "name:de":
+                "addr:city":
+                "addr:postcode":
+                "addr:street":
+                "alt_name":
+                "shelter_type":
+                "amenity":
+                "bin":
+                "network":
+                "toilets:wheelchair":
+                "designation":
+                "local_ref":
+                "mapillary":
+                "pole":
+                "survey:date":
+                "official_name":
+                "website":
+                "description":
+                "fixme": 
+                "lit": 
+                "passenger_information_display": 
+                "surface:building":    
+            }
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+			        "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+			        "description": "array the points which compose the polygon"
+                },
+			"description": "geometrical features"
+            }
+
+		},
+	}
+}
