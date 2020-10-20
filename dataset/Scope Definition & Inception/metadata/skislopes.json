@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:07:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id":
+                "colour":
+                "name":
+                "network":
+                "piste:type":
+                "ref":
+                "route":
+                "type":
+                "website":
+                "name:de":
+                "operator":
+                "distance":
+                "fixme":
+                "piste:difficulty":
+                "piste:grooming":
+                "source":
+                "FIXME":
+                "roundtrip":
+                "park_ride":
+                "piste:name":
+                "area":
+                "source_ref":
+                "piste:oneway":
+                "lit":
+                "sport":
+                "highway":
+                "oneway":
+                "ski":
+                "piste:ref":
+                "bridge":
+                "layer":
+                "created_by":
+                "incline":
+                "bicycle":
+                "designation":
+                "disabled":
+                "emergency":
+                "foot":
+                "forestry":
+                "horse":
+                "motor_vehicle":
+                "ref:pat":
+                "surface":
+                "wikipedia":
+                "aerialway":
+                "mtb:scale":
+                "sac_scale":
+                "tracktype":
+                "trail_visibility":
+                "history":
+                "fee":
+                "note":
+                "tunnel":
+                "smoothness":
+                "width":
+                "piste:snowboard":
+                "@relations":
+                "mtb:scale:uphill":
+                "motorcar":
+                "maxspeed":
+                "lanes":
+                "service":
+                "hgv":
+                "maxlength":
+                "oneway:bicycle":
+                "access":
+                "leisure":
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    
