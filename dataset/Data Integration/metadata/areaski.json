@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:05:03Z",
+	"fields": {
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"properties": {
+			"type": "map",
+			"description": "item of data" 
+            "fields": {
+                "@id": {
+			        "type": "string",
+			        "description": "name that identifies a unique object"
+                },
+                "landuse": {
+			        "type": "string",
+			        "description": "describes the primary use of areas of land"
+                },
+                "description": {
+                	"type": "string",
+			        "description": "describes the type of object"
+                },
+                "area": {
+                    "type": "string",
+			        "description": "date rarely existing (value -> yes/no)"
+                }                
+                "name": {
+			        "type": "string",
+			        "description": "name of data"
+                },
+                "alt_name"{
+			        "type": "string",
+			        "description": "Another name or names by which the feature is known"
+                },
+                "name:de": {
+			        "type": "string",
+			        "description": "german name of data"
+                },  
+                "name:it": {
+			        "type": "string",
+			        "description": "italian name of data"
+                },  
+                "name:lld": {
+			        "type": "string",
+			        "description": "Ladin name of data"
+                },                  
+                "type": {
+			        "type": "string",
+			        "description": "type of data"
+                },     
+                "website": {
+			        "type": "string",
+			        "description": "website"
+                }, 
+                "wikidata": {
+			        "type": "string",
+			        "description": "The ID of the Wikidata item about the feature"
+                }, 
+
+                "ref:pat:cat":  {
+			        "type": "string",
+			        "description": "identification"
+                }, 
+                "ref:pat:id":  {
+			        "type": "string",
+			        "description": "identification"
+                },     
+                "@relations": {
+                    "type": "map",
+                    "description": "describes the commercial relations with other ski areas"
+                }                                                            
+            }
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features"
+            "fields": {
+                "type": {			
+                    "type": "string",
+			        "description": "type of geometry"
+                }
+                "coordinates": {
+                    "type": "array",
+			        "description": "array the points which compose the polygon"
+                }
+			"description": "geometrical features"
+            }
+
+		},
+	}
+}
