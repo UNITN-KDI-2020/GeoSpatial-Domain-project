@@ -183,12 +183,13 @@ for comune in comuni:
   building_query = """
   [out:json][timeout:25];
   // fetch area “Trentino” to search in
+  ( area["name"="Provincia di Trento"]; )->.externalBoundary;
   ( area["name"="{}"]; )->.searchArea;
   (
     // query part for: “building=yes”
-    node["building"="yes"](area.searchArea);
-    way["building"="yes"](area.searchArea);
-    relation["building"="yes"](area.searchArea);
+    node["building"="yes"](area.searchArea)(area.externalBoundary);
+    way["building"="yes"](area.searchArea)(area.externalBoundary);
+    relation["building"="yes"](area.searchArea)(area.externalBoundary);
   );
   // print results
   out body;

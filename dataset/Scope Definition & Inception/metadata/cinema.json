@@ -11,98 +11,98 @@
         "properties": {
 			"type": "map",
 			"description": "item of data",
-            "fields":{
+            "fields": {
                 "@id": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "amenity": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "building": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "description": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "name": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "email": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "phone": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "source": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "website": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:city": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:country": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:housenumber": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:postcode": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:street": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "cinema:3D": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "contact:phone": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "contact:website": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "drive_in": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "operator": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "ref:vatin": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "screen": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "wheelchair": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "office": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
             }
         },
