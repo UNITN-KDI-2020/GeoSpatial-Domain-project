@@ -3,7 +3,7 @@
     "generator": "overpass-ide",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
     "timestamp": "2020-10-19T15:03:03Z",
-    "fields": [
+    "fields": {
         "type": {
 			"type": "string",
 			"description": "type of data"
@@ -14,96 +14,96 @@
             "fields": {
                 "@id": {
                     "type": "string",
-                    "description": "Identifies univocally the object",
+                    "description": "Identifies univocally the object"
                 },
                 "amenity": {
                     "type": "string",
-                    "description": "Descirbes useful and important facilities for visitors and residents",
+                    "description": "Descirbes useful and important facilities for visitors and residents"
                 },
                 "building": {
                     "type": "boolean",
-                    "description": "Is used to mark a given object as a building",
+                    "description": "Is used to mark a given object as a building"
                 },
                 "description": {
                     "type": "",
-                    "description": "Is used to add additional information",
+                    "description": "Is used to add additional information"
                 },
                 "name": {
                     "type": "string",
-                    "description": "Identifies the name of the cinema",
+                    "description": "Identifies the name of the cinema"
                 },
                 "email": {
                     "type": "string",
-                    "description": "Identifies the e-mail ralated to the cinema",
+                    "description": "Identifies the e-mail ralated to the cinema"
                 },
                 "phone": {
                     "type": "string",
-                    "description": "Identifies the e-mail ralated to the cinema",
+                    "description": "Identifies the e-mail ralated to the cinema"
                 },
                 "source": {
                     "type": "string",
-                    "description": "Identifies the information source",
+                    "description": "Identifies the information source"
                 },
                 "website": {
                     "type": "string",
-                    "description": "Identifies the website related to the cinema",
+                    "description": "Identifies the website related to the cinema"
                 },
                 "addr:city": {
                     "type": "string",
-                    "description": "Identifies in term of cites the position of the cinema",
+                    "description": "Identifies in term of cites the position of the cinema"
                 },
                 "addr:country": {
                     "type": "string",
-                    "description": "Identifies in term of state the position of the cinema",
+                    "description": "Identifies in term of state the position of the cinema"
                 },
                 "addr:housenumber": {
                     "type": "int",
-                    "description": "Identifies the hosenumber of the cinema",
+                    "description": "Identifies the hosenumber of the cinema"
                 },
                 "addr:postcode": {
                     "type": "int",
-                    "description": "Identifies the postcode of the cites where the cinema is located",
+                    "description": "Identifies the postcode of the cites where the cinema is located"
                 },
                 "addr:street": {
                     "type": "string",
-                    "description": "Identifies the street name where the cinema is located",
+                    "description": "Identifies the street name where the cinema is located"
                 },
                 "cinema:3D": {
                     "type": "boolean",
-                    "description": "Indentifies the possibility or not to watch 3D projection",
+                    "description": "Indentifies the possibility or not to watch 3D projection"
                 },
                 "contact:phone": {
                     "type": "string",
-                    "description": "Identifies the hosenumber of the cinema",
+                    "description": "Identifies the hosenumber of the cinema"
                 },
                 "contact:website": {
                     "type": "string",
-                    "description": "Identifies the website related to the cinema",
+                    "description": "Identifies the website related to the cinema"
                 },
                 "drive_in": {
                     "type": "boolean",
-                    "description": "Indicate if a cinema is a drive-in cinema",
+                    "description": "Indicate if a cinema is a drive-in cinema"
                 },
                 "operator": {
                     "type": "string",
-                    "description": "Indicate the main operator of the cinema",
+                    "description": "Indicate the main operator of the cinema"
                 },
                 "ref:vatin": {
                     "type": "string",
-                    "description": "VAT identification number of an object",
+                    "description": "VAT identification number of an object"
                 },
                 "screen": {
                     "type": "int",
-                    "description": "indentifies the number of screen",
+                    "description": "indentifies the number of screen"
                 },
                 "wheelchair": {
                     "type": "string",
-                    "description": "Identifies the possibility or not to access with a wheelchair",
+                    "description": "Identifies the possibility or not to access with a wheelchair"
                 },
                 "office": {
                     "type": "string",
-                    "description": "",
-                },
+                    "description": ""
+                }
             }
         },
         "geometry": {
@@ -117,12 +117,12 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
         },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-    ]
+    }
 }

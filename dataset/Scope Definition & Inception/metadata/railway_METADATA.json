@@ -1,0 +1,228 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T18:07:02Z",
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "city of the locaiton"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "postcode of the location"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "street address of the location"
+                },
+                "building": {
+                    "type": "string",
+                    "description": "type of building"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of te location"
+                },
+                "network": {
+                    "type": "string",
+                    "description": "network administration name"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "operator administration name"
+                },
+                "railway": {
+                    "type": "string",
+                    "description": "railway or station classification"
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "public_transport": {
+                    "type": "string",
+                    "description": "type of public transport of the location"
+                },
+                "train": {
+                    "type": "boolean",
+                    "description": "it's a trainstation"
+                },
+                "wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "area": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "electrified": {
+                    "type": "string",
+                    "description": "description of the object electrified"
+                },
+                "frequency": {
+                    "type": "",
+                    "description": ""
+                },
+                "gauge": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed": {
+                    "type": "int",
+                    "description": "speed limit of the railway"
+                },
+                "name:de": {
+                    "type": "string",
+                    "description": "name in German"
+                },
+                "passenger_lines": {
+                    "type": "int",
+                    "description": "number of lines"
+                },
+                "railway:track_class": {
+                    "type": "string",
+                    "description": "The Track class of the railway line"
+                },
+                "railway:traffic_mode": {
+                    "type": "string",
+                    "description": "Lines dedicated to passenger trains (might have some exceptions, especially temporally i.e. freight only during 0200-0330)."
+                },
+                "ref": {
+                    "type": "int",
+                    "description": "The reference number of the railway line the track belongs to."
+                },
+                "structure_gauge": {
+                    "type": "",
+                    "description": ""
+                },
+                "tracks": {
+                    "type": "",
+                    "description": ""
+                },
+                "usage": {
+                    "type": "string",
+                    "description": "usage of the rail line"
+                },
+                "voltage": {
+                    "type": "int",
+                    "description": "Voltage of the railway electrification system"
+                },
+                "bridge": {
+                    "type": "string",
+                    "description": "What kind of bridge carrying the track is"
+                },
+                "layer": {
+                    "type": "int",
+                    "description": "To describe the vertical relationship to other bridges and features."
+                },
+                "start_date": {
+                    "type": "string",
+                    "description": "Date the Interlocking Tower was put into service"
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "embankment": {
+                    "type": "boolean",
+                    "description": "Is the track elevated using earth or concrete dam"
+                },
+                "service": {
+                    "type": "string",
+                    "description": "type of the track"
+                },
+                "tunnel": {
+                    "type": "boolean",
+                    "description": "The track is in a tunnel"
+                },
+                "covered": {
+                    "type": "boolean",
+                    "description": "Is the platform covered?"
+                },
+                "name:it": {
+                    "type": "string",
+                    "description": "name in Italian"
+                },
+                "bridge:structure": {
+                    "type": "",
+                    "description": ""
+                },
+                "@relations": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator:wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator:wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "boolean",
+                    "description": "Is the platform wheelchair accessible?"
+                },
+                "old_name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway:ref:DB": {
+                    "type": "",
+                    "description": ""
+                },
+                "uic_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "note": {
+                    "type": "",
+                    "description": ""
+                },
+                "internet_access": {
+                    "type": "string",
+                    "description": "type of internet access"
+                }
+            }                
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    }
+}    

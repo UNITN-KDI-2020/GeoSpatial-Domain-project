@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:28:02Z",
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "amenity": {
+                    "type": "string",
+                    "description": "For describing useful and important facilities for visitors and residents. Facilities include for example toilets, telephones, banks, pharmacies, prisons and schools."
+                },
+                "building": {
+                    "type": "string",
+                    "description": "type of building"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the location"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "city of the location"
+                },
+                "addr:housenumber": {
+                    "type": "int",
+                    "description": "civic code"
+                },
+                "addr:postcode": {
+                    "type": "int",
+                    "description": "postcode of the location"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "street address of the location"
+                },
+                "drive_through": {
+                    "type": "boolean",
+                    "description": "do it has the drive through?"
+                },
+                "healthcare": {
+                    "type": "string",
+                    "description": "type of healtcare service"
+                },
+                "dispensing": {
+                    "type": "boolean",
+                    "description": "specify whether a pharmacy dispenses prescription drugs or not"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "day and hours of opening"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "name of the company"
+                },
+                "ref:vatin": {
+                    "type": "string",
+                    "description": "VAT identification code"
+                },
+                "wheelchair": {
+                    "type": "boolean",
+                    "description": "is wheelchair accessible?"
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "country of the location"
+                },
+                "indoor": {
+                    "type": "",
+                    "description": ""
+                },
+                "level": {
+                    "type": "",
+                    "description": ""
+                },
+                "room": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "string",
+                    "description": "email of contact"
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "phone number contact"
+                },
+                "building:colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:part": {
+                    "type": "",
+                    "description": ""
+                },
+                "height": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:shape": {
+                    "type": "",
+                    "description": ""
+                },
+                "rooms": {
+                    "type": "",
+                    "description": ""
+                },
+                "shop": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vat:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "surveillance": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:email": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:website": {
+                    "type": "url",
+                    "description": "website of the location"
+                },
+                "ref:msal": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "string",
+                    "description": "source of the data"
+                },
+                "source:start_date": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "url",
+                    "description": "website of the location"
+                },
+                "addr:province": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:fax": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:mobile": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:state": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:district": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:en": {
+                    "type": "",
+                    "description": ""
+                }
+            }                
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    }
+}    

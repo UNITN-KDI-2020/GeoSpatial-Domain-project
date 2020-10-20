@@ -4,7 +4,7 @@
     "generator": "overpass-ide",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
     "timestamp": "2020-10-19T15:26:03Z",
-    "fields": [
+    "fields": {
         "type": {
             "type": "string",
             "description": "type of data"
@@ -214,12 +214,12 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
         },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-    ]
+    }
 }    
