@@ -11,98 +11,191 @@
         "properties": {
 			"type": "map",
 			"description": "item of data",
-            "fields":{
+            "fields": {
                 "@id": {
-                    "type": "",
-                    "description": "",
+<<<<<<< HEAD
+                    "type": "string",
+                    "description": "Identifies univocally the object",
                 },
                 "amenity": {
-                    "type": "",
-                    "description": "",
+                    "type": "string",
+                    "description": "Descirbes useful and important facilities for visitors and residents",
                 },
                 "building": {
-                    "type": "",
-                    "description": "",
+                    "type": "boolean",
+                    "description": "Is used to mark a given object as a building",
                 },
                 "description": {
                     "type": "",
+                    "description": "Is used to add additional information",
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Identifies the name of the cinema",
+                },
+                "email": {
+                    "type": "string",
+                    "description": "Identifies the e-mail ralated to the cinema",
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "Identifies the e-mail ralated to the cinema",
+                },
+                "source": {
+                    "type": "string",
+                    "description": "Identifies the information source",
+                },
+                "website": {
+                    "type": "string",
+                    "description": "Identifies the website related to the cinema",
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "Identifies in term of cites the position of the cinema",
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "Identifies in term of state the position of the cinema",
+                },
+                "addr:housenumber": {
+                    "type": "int",
+                    "description": "Identifies the hosenumber of the cinema",
+                },
+                "addr:postcode": {
+                    "type": "int",
+                    "description": "Identifies the postcode of the cites where the cinema is located",
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "Identifies the street name where the cinema is located",
+                },
+                "cinema:3D": {
+                    "type": "boolean",
+                    "description": "Indentifies the possibility or not to watch 3D projection",
+                },
+                "contact:phone": {
+                    "type": "string",
+                    "description": "Identifies the hosenumber of the cinema",
+                },
+                "contact:website": {
+                    "type": "string",
+                    "description": "Identifies the website related to the cinema",
+                },
+                "drive_in": {
+                    "type": "boolean",
+                    "description": "Indicate if a cinema is a drive-in cinema",
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "Indicate the main operator of the cinema",
+                },
+                "ref:vatin": {
+                    "type": "string",
+                    "description": "VAT identification number of an object",
+                },
+                "screen": {
+                    "type": "int",
+                    "description": "indentifies the number of screen",
+                },
+                "wheelchair": {
+                    "type": "string",
+                    "description": "Identifies the possibility or not to access with a wheelchair",
+                },
+                "office": {
+                    "type": "string",
                     "description": "",
+=======
+                    "type": "",
+                    "description": ""
+                },
+                "amenity": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "description": {
+                    "type": "",
+                    "description": ""
                 },
                 "name": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "email": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "phone": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "source": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "website": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:city": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:country": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:housenumber": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:postcode": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "addr:street": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "cinema:3D": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "contact:phone": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "contact:website": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "drive_in": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "operator": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "ref:vatin": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "screen": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "wheelchair": {
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "office": {
                     "type": "",
-                    "description": "",
+                    "description": ""
+>>>>>>> 653db542169761a931090b52ef0f083835ea4a91
                 },
             }
         },

@@ -1,8 +1,8 @@
 import os
 from shutil import copyfile
 
-SOURCE_FOLDER = "./dataset/Data Integration/data/luoghi e punti di interesse per comune/"
-DEST_FOLDER = "./dataset/Data Integration/metadata/luoghi e punti di interesse per comune METADATA/"
+SOURCE_FOLDER = "./dataset/Scope Definition & Inception/data/luoghi e punti di interesse per comune/"
+DEST_FOLDER = "./dataset/Scope Definition & Inception/metadata/luoghi e punti di interesse per comune METADATA/"
 
 if not os.path.exists(DEST_FOLDER): os.mkdir(DEST_FOLDER)
 

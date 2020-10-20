@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T13:28:02Z",
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "@id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "building": {
+                    "type": "string",
+                    "description": "type of supermarket"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the supermarket"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "days and hours of opening"
+                },
+                "payment:cash": {
+                    "type": "boolean",
+                    "description": "accept cash"
+                },
+                "payment:debit_cards": {
+                    "type": "boolean",
+                    "description": "accept debit card"
+                },
+                "shop": {
+                    "type": "string",
+                    "description": "type of shop"
+                },
+                "type": {
+                    "type": "string",
+                    "description": ""
+                },
+                "source": {
+                    "type": "string",
+                    "description": "source of data"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "city of the location"
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "country if the location"
+                },
+                "addr:housenumber": {
+                    "type": "int",
+                    "description": "civic code"
+                },
+                "addr:postcode": {
+                    "type": "int",
+                    "description": "postcode"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "street of the location"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "operator of the supermarket (coop, conad, despar ...)"
+                },
+                "ref:vatin": {
+                    "type": "string",
+                    "description": "value added tax identification number"
+                },
+                "brand": {
+                    "type": "string",
+                    "description": "brand of the supermarket (coop, conad, despar ...)"
+                },
+                "brand:wikidata": {
+                    "type": "string",
+                    "description": "wikidata identifier code"
+                },
+                "brand:wikipedia": {
+                    "type": "string",
+                    "description": "brand associated with country"
+                },
+                "toilets:wheelchair": {
+                    "type": "boolean",
+                    "description": "wheelchair toilets is present"
+                },
+                "wheelchair": {
+                    "type": "boolean",
+                    "description": "wheelchair service is present"
+                },
+                "building:part": {
+                    "type": "string",
+                    "description": ""
+                },
+                "website": {
+                    "type": "url",
+                    "description": "official website of the brand"
+                },
+                "addr:province": {
+                    "type": "string",
+                    "description": "province of the location"
+                },
+                "addr:state": {
+                    "type": "string",
+                    "description": "state code of the location"
+                },
+                "building:levels": {
+                    "type": "int",
+                    "description": "number of levels of the building"
+                },
+                "cash_withdrawal:purchase_minimum": {
+                    "type": "boolean",
+                    "description": ""
+                },
+                "cash_withdrawal:type": {
+                    "type": "string",
+                    "description": ""
+                },
+                "level": {
+                    "type": "int",
+                    "description": ""
+                },
+                "parking": {
+                    "type": "string",
+                    "description": "type of parking (underground)"
+                },
+                "toilets": {
+                    "type": "boolean",
+                    "description": "it has toilets"
+                },
+                "toilets:access": {
+                    "type": "string",
+                    "description": "type of access of the toilets"
+                },
+                "organic": {
+                    "type": "string",
+                    "description": ""
+                },
+                "roof:levels": {
+                    "type": "int",
+                    "description": ""
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "phone nuber of reference"
+                },
+                "contact:phone": {
+                    "type": "string",
+                    "description": "phone nuber of reference"
+                },
+                "note": {
+                    "type": "string",
+                    "description": "notes"
+                },
+                "payment:bancomat": {
+                    "type": "boolean",
+                    "description": "accept bancomat"
+                },
+                "layer": {
+                    "type": "int",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "string",
+                    "description": ""
+                },
+                "indoor": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:credit_cards": {
+                    "type": "boolean",
+                    "description": "accept credict card"
+                },
+                "room": {
+                    "type": "string",
+                    "description": ""
+                },
+                "wheelchair:description": {
+                    "type": "string",
+                    "description": "description of the service"
+                },
+                "ref": {
+                    "type": "int",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "string",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:district": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:coins": {
+                    "type": "",
+                    "description": ""
+                },
+                "payment:maestro": {
+                    "type": "",
+                    "description": ""
+                },
+                "fax": {
+                    "type": "",
+                    "description": ""
+                },
+                "diet:vegetarian": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:it:vat": {
+                    "type": "",
+                    "description": ""
+                },
+                "lastcheck": {
+                    "type": "",
+                    "description": ""
+                },
+                "entrance": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vat:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:website": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:email": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "diet:vegan": {
+                    "type": "",
+                    "description": ""
+                }
+            }                
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    }
+}    

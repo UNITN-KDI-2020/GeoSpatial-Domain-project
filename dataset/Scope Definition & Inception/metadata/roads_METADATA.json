@@ -1,0 +1,640 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-20T07:44:03Z",
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "area": {
+                    "type": "boolean",
+                    "description": ""
+                },
+                "highway": {
+                    "type": "string",
+                    "description": "type of road (prymary, secondary, tertiary)"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the road"
+                },
+                "oneway": {
+                    "type": "boolean",
+                    "description": "is oneway"
+                },
+                "ref": {
+                    "type": "string",
+                    "description": "road code"
+                },
+                "junction": {
+                    "type": "string",
+                    "description": "type of junction (roundabaout)"
+                },
+                "surface": {
+                    "type": "string",
+                    "description": "type of road surface (asphalt, paved)"
+                },
+                "lanes": {
+                    "type": "int",
+                    "description": "number of lanes"
+                },
+                "maxspeed": {
+                    "type": "int",
+                    "description": "speed limit"
+                },
+                "nat_ref": {
+                    "type": "string",
+                    "description": "road code"
+                },
+                "lit": {
+                    "type": "boolean",
+                    "description": ""
+                },
+                "int_ref": {
+                    "type": "string",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "name in German",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "name in Italian",
+                    "description": ""
+                },
+                "toll": {
+                    "type": "boolean",
+                    "description": "toll present"
+                },
+                "cycleway:both": {
+                    "type": "boolean",
+                    "description": "have 2 way cycleway"
+                },
+                "old_ref": {
+                    "type": "string",
+                    "description": "road code"
+                },
+                "bridge": {
+                    "type": "string",
+                    "description": "it has a bridge"
+                },
+                "layer": {
+                    "type": "int",
+                    "description": ""
+                },
+                "loc_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "cycleway:right": {
+                    "type": "",
+                    "description": ""
+                },
+                "source:maxspeed": {
+                    "type": "string",
+                    "description": "source of the speed limit data"
+                },
+                "destination:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxheight": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxweight": {
+                    "type": "float",
+                    "description": "max weight in tons"
+                },
+                "note": {
+                    "type": "string",
+                    "description": ""
+                },
+                "cycleway": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:type": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "tunnel": {
+                    "type": "boolean",
+                    "description": "it has a tunnel"
+                },
+                "bicycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "foot": {
+                    "type": "boolean",
+                    "description": "can go by foot"
+                },
+                "tunnel:name": {
+                    "type": "string",
+                    "description": "name of the tunnel"
+                },
+                "access": {
+                    "type": "string",
+                    "description": "type of access"
+                },
+                "horse": {
+                    "type": "boolean",
+                    "description": "horse can go"
+                },
+                "length": {
+                    "type": "int",
+                    "description": "length of the road in mt"
+                },
+                "incline": {
+                    "type": "string",
+                    "description": "road inclination infromation"
+                },
+                "tunnel:length": {
+                    "type": "int",
+                    "description": "tunnel length in mt"
+                },
+                "short_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "hgv": {
+                    "type": "",
+                    "description": ""
+                },
+                "disabled": {
+                    "type": "boolean",
+                    "description": "the road is disable"
+                },
+                "motor_vehicle:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "psv": {
+                    "type": "",
+                    "description": ""
+                },
+                "width": {
+                    "type": "",
+                    "description": ""
+                },
+                "centreline": {
+                    "type": "",
+                    "description": ""
+                },
+                "motorroad": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:lane:both": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:right": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:right:maxstay": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:lane:right": {
+                    "type": "",
+                    "description": ""
+                },
+                "loc_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "embankment": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:left": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:lane:left": {
+                    "type": "",
+                    "description": ""
+                },
+                "lanes:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "lanes:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "turn:lanes:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "parking:condition:both": {
+                    "type": "",
+                    "description": ""
+                },
+                "is_in,oneway:psv": {
+                    "type": "",
+                    "description": ""
+                },
+                "shortest_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "oneway:bicycle": {
+                    "type": "",
+                    "description": ""
+                },
+                "oneway:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "history": {
+                    "type": "",
+                    "description": ""
+                },
+                "narrow": {
+                    "type": "",
+                    "description": ""
+                },
+                "lanes:psv": {
+                    "type": "",
+                    "description": ""
+                },
+                "rcn": {
+                    "type": "",
+                    "description": ""
+                },
+                "rcn_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "cutting": {
+                    "type": "",
+                    "description": ""
+                },
+                "sidewalk": {
+                    "type": "",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "cycleway:left": {
+                    "type": "",
+                    "description": ""
+                },
+                "cycleway:left:oneway": {
+                    "type": "",
+                    "description": ""
+                },
+                "priority_road": {
+                    "type": "",
+                    "description": ""
+                },
+                "turn": {
+                    "type": "",
+                    "description": ""
+                },
+                "zone:maxspeed": {
+                    "type": "",
+                    "description": ""
+                },
+                "turn:lanes:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "motor_vehicle": {
+                    "type": "",
+                    "description": ""
+                },
+                "source,psv:lanes:forward":  {
+                    "type": "",
+                    "description": ""
+                }, 
+                "postal_code": {
+                    "type": "",
+                    "description": ""
+                },
+                "bus": {
+                    "type": "",
+                    "description": ""
+                },
+                "goods": {
+                    "type": "",
+                    "description": ""
+                },
+                "reg_ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "hgv:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "tourist_bus:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination": {
+                    "type": "",
+                    "description": ""
+                },
+                "mtb:scale:uphill": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikidata": {
+                    "type": "",
+                    "description": ""
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": ""
+                },
+                "delivery": {
+                    "type": "",
+                    "description": ""
+                },
+                "covered": {
+                    "type": "",
+                    "description": ""
+                },
+                "agricultural": {
+                    "type": "",
+                    "description": ""
+                },
+                "description:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "historic:name": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxwidth": {
+                    "type": "",
+                    "description": ""
+                },
+                "cycleway:left:segregated": {
+                    "type": "",
+                    "description": ""
+                },
+                "psv:lanes": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination:ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "moped": {
+                    "type": "",
+                    "description": ""
+                },
+                "tourist_bus": {
+                    "type": "",
+                    "description": ""
+                },
+                "bridge:structure": {
+                    "type": "",
+                    "description": ""
+                },
+                "abandoned:railway": {
+                    "type": "",
+                    "description": ""
+                },
+                "railway": {
+                    "type": "",
+                    "description": ""
+                },
+                "access:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "is_in:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "turn:lanes": {
+                    "type": "",
+                    "description": ""
+                },
+                "tracktype": {
+                    "type": "",
+                    "description": ""
+                },
+                "change:lanes": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:cim": {
+                    "type": "",
+                    "description": ""
+                },
+                "smoothness": {
+                    "type": "",
+                    "description": ""
+                },
+                "hour_off": {
+                    "type": "",
+                    "description": ""
+                },
+                "hour_on": {
+                    "type": "",
+                    "description": ""
+                },
+                "motorcar:conditional": {
+                    "type": "",
+                    "description": ""
+                },
+                "bicycles": {
+                    "type": "",
+                    "description": ""
+                },
+                "vehicles": {
+                    "type": "",
+                    "description": ""
+                },
+                "description": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxlength": {
+                    "type": "",
+                    "description": ""
+                },
+                "old_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "access:bus": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxlength:hgv": {
+                    "type": "",
+                    "description": ""
+                },
+                "avalanche_protector:left": {
+                    "type": "",
+                    "description": ""
+                },
+                "avalanche_protector:right": {
+                    "type": "",
+                    "description": ""
+                },
+                "vehicle": {
+                    "type": "",
+                    "description": ""
+                },
+                "noname": {
+                    "type": "",
+                    "description": ""
+                },
+                "mapillary": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:source": {
+                    "type": "",
+                    "description": ""
+                },
+                "survey:date": {
+                    "type": "",
+                    "description": ""
+                },
+                "lanes:psv:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "hgv:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "distance": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination:colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "destination:symbol": {
+                    "type": "",
+                    "description": ""
+                },
+                "note:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "service": {
+                    "type": "",
+                    "description": ""
+                },
+                "access:lanes": {
+                    "type": "",
+                    "description": ""
+                },
+                "psv:lanes:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "avalanche_protector:open": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:practical": {
+                    "type": "",
+                    "description": ""
+                },
+                "direction": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:lanes:backward": {
+                    "type": "",
+                    "description": ""
+                },
+                "maxspeed:lanes:forward": {
+                    "type": "",
+                    "description": ""
+                },
+                "mtb:scale": {
+                    "type": "",
+                    "description": ""
+                },
+                "sac_scale": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "tourism": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:mhn": {
+                    "type": "",
+                    "description": ""
+                }
+            }                
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    }
+}    
