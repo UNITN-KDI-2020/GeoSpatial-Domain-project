@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:26:03Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "string",
+                    "description": "name that identifies a unique object"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "city component of the address"
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "the country component of the address"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "the house number component of the address"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "the postal code component of the address"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "the street component of the address"
+                },
+                "amenity": {
+                    "type": "string",
+                    "description": "this variable describe the usage of the building"
+                },
+                "building": {
+                    "type": "boolean",
+                    "description": "describe if the facility is a building"
+                },
+                "contact:website": {
+                    "type": "string",
+                    "description": "the website where contact the facility"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "the name of the facility"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "the name of the facility operator"
+                },
+                "atm": {
+                    "type": "boolean",
+                    "description": "if the facility have an atm"
+                },
+                "building:colour": {
+                    "type": "string",
+                    "description": "the colour of the building"
+                },
+                "building:levels": {
+                    "type": "integer",
+                    "description": "the number of above-ground levels of the buildings"
+                },
+                "building:part": {
+                    "type": "string",
+                    "description": "describe a part of the building where the attribute are different"
+                },
+                "height": {
+                    "type": "double",
+                    "description": "the height of the building"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "the opening hours of the facility"
+                },
+                "roof:colour": {
+                    "type": "string",
+                    "description": "the color of the facility roof"
+                },
+                "roof:shape": {
+                    "type": "string",
+                    "description": "the shape of the facility roof"
+                },
+                "brand": {
+                    "type": "string",
+                    "description": "brand of the post office"
+                },
+                "brand:wikidata": {
+                    "type": "string",
+                    "description": "wikidata identifier code"
+                },
+                "brand:wikipedia": {
+                    "type": "string",
+                    "description": "brand associated with country"
+                },
+                "addr:suburb": {
+                    "type": "string",
+                    "description": "the suburb component of the address"
+                },
+                "contact:fax": {
+                    "type": "string",
+                    "description": "the fax to contact the facility"
+                },
+                "contact:phone": {
+                    "type": "string",
+                    "description": "the phone to contact the facility"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "a description of the building"
+                },
+                "ref": {
+                    "type": "int",
+                    "description": "common reference code of this ammenity"
+                },
+                "surveillance": {
+                    "type": "string",
+                    "description": "describe the type of surveillance"
+                },
+                "surveillance:type": {
+                    "type": "string",
+                    "description": "describe the type of CCTV camera active"
+                },
+                "surveillance:zone": {
+                    "type": "string",
+                    "description": "describe the zone where surveillance is active"
+                },
+                "wheelchair": {
+                    "type": "boolean",
+                    "description": "wheelchair service is present"
+                },
+                "source": {
+                    "type": "string",
+                    "description": "indicate the source of the information"
+                },
+                "fax": {
+                    "type": "string",
+                    "description": "the fax of the facility"
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "the phone of the facility"
+                },
+                "wheelchair:description": {
+                    "type": "string",
+                    "description": "description of the service"
+                },
+                "layer": {
+                    "type": "string",
+                    "description": "describe vertical relationship between objects"
+                },
+                "website": {
+                    "type": "string",
+                    "description": "the website of the facility"
+                },
+                "addr:province": {
+                    "type": "string",
+                    "description": "the province component of the address"
+                },
+                "addr:state": {
+                    "type": "string",
+                    "description": "the state component of the address"
+                },
+                "alt_name": {
+                    "type": "string",
+                    "description": "an alternative name for the facility"
+                },
+                "email": {
+                    "type": "string",
+                    "description": "the email of the facility"
+                },
+                "wikidata": {
+                    "type": "string",
+                    "description": "link to the related wikidata object"
+                },
+                "wikipedia": {
+                    "type": "string",
+                    "description": "the wikipedia page of the facility"
+                },
+                "addr:district": {
+                    "type": "string",
+                    "description": "the district component of the address"
+                },
+                "entrance": {
+                    "type": "string",
+                    "description": "describe the entrance of the building"
+                },
+                "addr:hamlet": {
+                    "type": "string",
+                    "description": "the hamlet component of the address"
+                },
+                "addr:place": {
+                    "type": "string",
+                    "description": "the place component of the address"
+                }
+            }
+        },                
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}    
