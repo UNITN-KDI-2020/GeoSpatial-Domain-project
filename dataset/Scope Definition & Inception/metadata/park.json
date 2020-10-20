@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:30:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "latitude":
+                "longitude":
+                "altitude":
+                "geometry":
+                "coordinates":
+                "@id":
+                "leisure":
+                "type":
+                "name":
+                "wikidata":
+                "landuse":
+                "access":
+                "operator":
+                "area":
+                "source":
+                "alt_name":
+                "short_name":
+                "start_date":
+                "amenity":
+                "created_by":
+                "old_name":
+                "barrier":
+                "tourism":
+                "wikipedia":
+                "ele":
+                "natural":
+                "sport":
+                "surface":
+                "leaf_type":
+                "wheelchair":
+                "baby":
+                "playground":
+                "water":
+                "description":
+                "playground_1":
+                "playground_2":
+                "playground_3":
+                "colour":
+                "denomination":
+                "religion":
+                "place":
+                "playground:basketswing":
+                "playground:chain_ladder":
+                "playground:slide":
+                "playground:swing":
+                "name:it":
+                "opening_hours":
+                "addr:city":
+                "addr:housenumber":
+                "addr:postcode":
+                "addr:street":
+                "playground:aerialrotator":
+                "playground:basketball_backboard":
+                "playground:exercise":
+                "playground:horizontal_bar":
+                "playground:seesaw":
+                "playground:tunnel_tube":
+                "fireplace":
+                "animal_excrements":
+                "description:it":
+                "landcover":
+                "residential":
+                "foot":
+                "playground:climbingframe":
+                "building":
+                "covered":
+                "addr:place":
+                "motor_vehicle":
+                "website":
+                "fixme":
+                "picnic_table":
+                "contact:website":
+                "playground:multi_play":
+                "playground:sandpit":
+                "dog":
+                "addr:city:it":
+                "addr:city:mhn":
+                "lit":
+                "note":
+                "@relations":
+                "min_age":
+                "playground:theme":
+                "playground:skate_equipment":
+                "playground:teenshelter":
+                "playground:water
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    

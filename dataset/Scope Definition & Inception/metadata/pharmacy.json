@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:28:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id":
+                "amenity":
+                "building":
+                "name":
+                "addr:city":
+                "addr:housenumber":
+                "addr:postcode":
+                "addr:street":
+                "drive_through":
+                "healthcare":
+                "dispensing":
+                "opening_hours":
+                "operator":
+                "ref:vatin":
+                "wheelchair":
+                "addr:country":
+                "indoor":
+                "level":
+                "room":
+                "email":
+                "phone":
+                "building:colour":
+                "building:part":
+                "height":
+                "roof:colour":
+                "roof:shape":
+                "rooms":
+                "shop":
+                "contact:phone":
+                "ref:vat:it":
+                "surveillance":
+                "contact:email":
+                "contact:website":
+                "ref:msal":
+                "source":
+                "source:start_date":
+                "addr:place":
+                "website":
+                "addr:province":
+                "contact:fax":
+                "contact:mobile":
+                "addr:housename":
+                "layer":
+                "addr:state":
+                "fixme":
+                "alt_name":
+                "addr:district":
+                "name:it":
+                "name:en
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    
