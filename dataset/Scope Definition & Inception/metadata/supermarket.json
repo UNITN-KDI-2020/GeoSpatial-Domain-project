@@ -3,7 +3,7 @@
     "generator": "overpass-ide",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
     "timestamp": "2020-10-19T13:28:02Z",
-    "fields": [
+    "fields": {
         "type": {
             "type": "string",
             "description": "type of data"
@@ -11,189 +11,189 @@
         "properties": {
             "type": "map",
             "description": "item of data",
-            "fields": {       
+            "fields": {
                 "@id": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "identification code"
                 },
                 "building": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "type of supermarket"
                 },
                 "name": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "name of the supermarket"
                 },
                 "opening_hours": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "days and hours of opening"
                 },
                 "payment:cash": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "accept cash"
                 },
                 "payment:debit_cards": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "accept debit card"
                 },
                 "shop": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "type of shop"
                 },
                 "type": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "source": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "source of data"
                 },
                 "addr:city": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "city of the location"
                 },
                 "addr:country": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "country if the location"
                 },
                 "addr:housenumber": {
-                    "type": "",
-                    "description": ""
+                    "type": "int",
+                    "description": "civic code"
                 },
                 "addr:postcode": {
-                    "type": "",
-                    "description": ""
+                    "type": "int",
+                    "description": "postcode"
                 },
                 "addr:street": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "street of the location"
                 },
                 "operator": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "operator of the supermarket (coop, conad, despar ...)"
                 },
                 "ref:vatin": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "value added tax identification number"
                 },
                 "brand": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "brand of the supermarket (coop, conad, despar ...)"
                 },
                 "brand:wikidata": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "wikidata identifier code"
                 },
                 "brand:wikipedia": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "brand associated with country"
                 },
                 "toilets:wheelchair": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "wheelchair toilets is present"
                 },
                 "wheelchair": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "wheelchair service is present"
                 },
                 "building:part": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "website": {
-                    "type": "",
-                    "description": ""
+                    "type": "url",
+                    "description": "official website of the brand"
                 },
                 "addr:province": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "province of the location"
                 },
                 "addr:state": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "state code of the location"
                 },
                 "building:levels": {
-                    "type": "",
-                    "description": ""
+                    "type": "int",
+                    "description": "number of levels of the building"
                 },
                 "cash_withdrawal:purchase_minimum": {
-                    "type": "",
+                    "type": "boolean",
                     "description": ""
                 },
                 "cash_withdrawal:type": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "level": {
-                    "type": "",
+                    "type": "int",
                     "description": ""
                 },
                 "parking": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "type of parking (underground)"
                 },
                 "toilets": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "it has toilets"
                 },
                 "toilets:access": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "type of access of the toilets"
                 },
                 "organic": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "roof:levels": {
-                    "type": "",
+                    "type": "int",
                     "description": ""
                 },
                 "phone": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "phone nuber of reference"
                 },
                 "contact:phone": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "phone nuber of reference"
                 },
                 "note": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "notes"
                 },
                 "payment:bancomat": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "accept bancomat"
                 },
                 "layer": {
-                    "type": "",
+                    "type": "int",
                     "description": ""
                 },
                 "fixme": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "indoor": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "payment:credit_cards": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "accept credict card"
                 },
                 "room": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "wheelchair:description": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "description of the service"
                 },
                 "ref": {
-                    "type": "",
+                    "type": "int",
                     "description": ""
                 },
                 "created_by": {
-                    "type": "",
+                    "type": "string",
                     "description": ""
                 },
                 "addr:place": {
@@ -288,5 +288,5 @@
             "type": "string",
             "description": "type of data"
         }
-    ]
+    }
 }    
