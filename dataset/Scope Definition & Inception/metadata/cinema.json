@@ -13,7 +13,6 @@
 			"description": "item of data",
             "fields": {
                 "@id": {
-<<<<<<< HEAD
                     "type": "string",
                     "description": "Identifies univocally the object",
                 },
@@ -104,98 +103,6 @@
                 "office": {
                     "type": "string",
                     "description": "",
-=======
-                    "type": "",
-                    "description": ""
-                },
-                "amenity": {
-                    "type": "",
-                    "description": ""
-                },
-                "building": {
-                    "type": "",
-                    "description": ""
-                },
-                "description": {
-                    "type": "",
-                    "description": ""
-                },
-                "name": {
-                    "type": "",
-                    "description": ""
-                },
-                "email": {
-                    "type": "",
-                    "description": ""
-                },
-                "phone": {
-                    "type": "",
-                    "description": ""
-                },
-                "source": {
-                    "type": "",
-                    "description": ""
-                },
-                "website": {
-                    "type": "",
-                    "description": ""
-                },
-                "addr:city": {
-                    "type": "",
-                    "description": ""
-                },
-                "addr:country": {
-                    "type": "",
-                    "description": ""
-                },
-                "addr:housenumber": {
-                    "type": "",
-                    "description": ""
-                },
-                "addr:postcode": {
-                    "type": "",
-                    "description": ""
-                },
-                "addr:street": {
-                    "type": "",
-                    "description": ""
-                },
-                "cinema:3D": {
-                    "type": "",
-                    "description": ""
-                },
-                "contact:phone": {
-                    "type": "",
-                    "description": ""
-                },
-                "contact:website": {
-                    "type": "",
-                    "description": ""
-                },
-                "drive_in": {
-                    "type": "",
-                    "description": ""
-                },
-                "operator": {
-                    "type": "",
-                    "description": ""
-                },
-                "ref:vatin": {
-                    "type": "",
-                    "description": ""
-                },
-                "screen": {
-                    "type": "",
-                    "description": ""
-                },
-                "wheelchair": {
-                    "type": "",
-                    "description": ""
-                },
-                "office": {
-                    "type": "",
-                    "description": ""
->>>>>>> 653db542169761a931090b52ef0f083835ea4a91
                 },
             }
         },
