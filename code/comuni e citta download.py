@@ -1,4 +1,4 @@
-# Script to scrape comunecittá.it
+# Script to scrape comunecittá.it and take the highschools
 
 from os import path
 import time
