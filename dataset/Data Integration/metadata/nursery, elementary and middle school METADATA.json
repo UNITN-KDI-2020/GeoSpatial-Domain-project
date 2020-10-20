@@ -1,0 +1,73 @@
+{
+	"Identificativo del dataset": {
+		"scuole d'infanzia": "3dd956d1-a376-4e9a-8182-d839de4163dd",
+		"scuole elementari": "9368a92a-dbe9-4a43-9fc0-66a5f4695e16",
+		"scuole medie": "ade37eb8-13af-4584-a965-6765e26f1870"
+	},
+	"Altro identificativo": "N/A",
+	"Temi del dataset": "Dati provvisori",
+	"Editore del Dataset": "N/A",
+	"Data di rilascio": "28-04-2020",
+	"Data di modifica": "31-03-2016",
+	"Copertura Geografica": "Trento",
+	"URI di GeoNames": "http://www.geonames.org/3165243",
+	"Lingue del dataset": "N/A",
+	"Estensione temporale": "N/A",
+	"Titolare": {
+		"Nome": "Provincia autonoma di Trento",
+		"Codice IPA/IVA": "p_TN"
+	},
+	"Frequenza di aggiornamento": "sconosciuto",
+	"Versione di": "N/A",
+	"Autore": "N/A",
+	"fields": {
+		"WKT": {
+			"type": "string",
+			"description": "position in WKT system"
+		},
+		"civico_alf": {
+			"type": "int",
+			"description": "civic number"
+		},
+		"strada": {
+			"type": "int",
+			"description": ""
+		},
+		"destra": {
+			"type": "string",
+			"description": "address"
+		},
+		"sobborgo": {
+			"type": "string",
+			"description": "suburb"
+		},
+		"scuola": {
+			"type": "string",
+			"description": "name of the school"
+		},
+		"fumetto": {
+			"type": "string",
+			"description": "name of the school"
+		},
+		"iscritti": {
+			"type": "int",
+			"description": "number of subscribers"
+		},
+		"personale": {
+			"type": "int",
+			"description": "number of staff"
+		},
+		"mail": {
+			"type": "string",
+			"description": "e-mail information"
+		},
+		"telefono": {
+			"type": "string",
+			"description": "telephone number"
+		},
+		"iscritti_bes": {
+			"type": "int",
+			"description": ""
+		}
+	}
+}

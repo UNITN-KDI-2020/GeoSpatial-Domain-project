@@ -1,0 +1,20 @@
+{
+	"fields": {
+		"name": {
+			"type": "string",
+			"description": "name of the school"
+		},
+		"address": {
+			"type": "string",
+			"description": "address"
+		},
+		"school type": {
+			"type": "string",
+			"description": "private or public school"
+		},
+		"study paths": {
+			"type": "string",
+			"description": "study path offers"
+		}
+	}
+}
