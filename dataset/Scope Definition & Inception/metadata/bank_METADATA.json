@@ -12,75 +12,282 @@
 			"type": "map",
 			"description": "item of data",
             "fields":{
-                "@id":
-                "amenity":
-                "building":
-                "name":
-                "type":
-                "atm":
-                "automated teller machine":
-                "operator":
-                "brand":
-                "addr:housenumber":
-                "addr:street":
-                "source":
-                "opening_hours":
-                "contact:website":
-                "building:levels":
-                "brand:wikidata":
-                "brand:wikipedia":
-                "wheelchair":
-                "addr:city":
-                "addr:postcode":
-                "roof:levels":
-                "roof:shape":
-                "drive_through":
-                "addr:full":
-                "addr:country":
-                "website":
-                "phone":
-                "indoor":
-                "level":
-                "room":
-                "ref"
-                "entrance":
-                "surveillance":
-                "surveillance:type":
-                "surveillance:zone":
-                "created_by":
-                "contact:email":
-                "contact:fax":
-                "contact:phone":
-                "addr:place":
-                "ref:ABI":
-                "ref:ATM":
-                "int_name":
-                "fixme":
-                "wikidata":
-                "official_name":
-                "official_name:en":
-                "official_name:it":
-                "man_made":
-                "air_conditioning":
-                "alt_name":
-                "addr:province":
-                "addr:district":
-                "addr:state":
-                "addr:housename":
-                "layer":
-                "email":
-                "access":
-                "note":
-                "brand:en":
-                "brand:it":
-                "name:en":
-                "name:it":
-                "loc_name":
-                "name:de":
-                "name:lad":
-                "designation":
-                "branch":
-                "wheelchair:step_height":
+                "@id":{
+                    "type": "",
+                    "description": "",
+                },
+                "amenity":{
+                    "type": "",
+                    "description": "",
+                },
+                "building":{
+                    "type": "",
+                    "description": "",
+                },
+                "name":{
+                    "type": "",
+                    "description": "",
+                },
+                "type":{
+                    "type": "",
+                    "description": "",
+                },
+                "atm":{
+                    "type": "",
+                    "description": "",
+                },
+                "automated teller machine":{
+                    "type": "",
+                    "description": "",
+                },
+                "operator":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housenumber":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:street":{
+                    "type": "",
+                    "description": "",
+                },
+                "source":{
+                    "type": "",
+                    "description": "",
+                },
+                "opening_hours":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:website":{
+                    "type": "",
+                    "description": "",
+                },
+                "building:levels":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:wikidata":{
+                    "type": "",
+                    "description": "",
+                }
+                "brand:wikipedia":{
+                    "type": "",
+                    "description": "",
+                },
+                "wheelchair":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:city":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:postcode":{
+                    "type": "",
+                    "description": "",
+                },
+                "roof:levels":{
+                    "type": "",
+                    "description": "",
+                },
+                "roof:shape":{
+                    "type": "",
+                    "description": "",
+                },
+                "drive_through":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:full":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:country":{
+                    "type": "",
+                    "description": "",
+                },
+                "website":{
+                    "type": "",
+                    "description": "",
+                },
+                "phone":{
+                    "type": "",
+                    "description": "",
+                },
+                "indoor":{
+                    "type": "",
+                    "description": "",
+                },
+                "level":{
+                    "type": "",
+                    "description": "",
+                },
+                "room":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref":{
+                    "type": "",
+                    "description": "",
+                },
+                "entrance":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance:type":{
+                    "type": "",
+                    "description": "",
+                },
+                "surveillance:zone":{
+                    "type": "",
+                    "description": "",
+                },
+                "created_by":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:email":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:fax":{
+                    "type": "",
+                    "description": "",
+                },
+                "contact:phone":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:place":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref:ABI":{
+                    "type": "",
+                    "description": "",
+                },
+                "ref:ATM":{
+                    "type": "",
+                    "description": "",
+                },
+                "int_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "fixme":{
+                    "type": "",
+                    "description": "",
+                },
+                "wikidata":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "official_name:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "man_made":{
+                    "type": "",
+                    "description": "",
+                },
+                "air_conditioning":{
+                    "type": "",
+                    "description": "",
+                },
+                "alt_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:province":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:district":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:state":{
+                    "type": "",
+                    "description": "",
+                },
+                "addr:housename":{
+                    "type": "",
+                    "description": "",
+                },
+                "layer":{
+                    "type": "",
+                    "description": "",
+                },
+                "email":{
+                    "type": "",
+                    "description": "",
+                },
+                "access":{
+                    "type": "",
+                    "description": "",
+                },
+                "note":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "brand:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:en":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:it":{
+                    "type": "",
+                    "description": "",
+                },
+                "loc_name":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:de":{
+                    "type": "",
+                    "description": "",
+                },
+                "name:lad":{
+                    "type": "",
+                    "description": "",
+                },
+                "designation":{
+                    "type": "",
+                    "description": "",
+                },
+                "branch":{
+                    "type": "",
+                    "description": "",
+                },
+                "wheelchair:step_height":{
+                    "type": "",
+                    "description": "",
+                }
             }
         },
         "geometry": {
@@ -95,10 +302,11 @@
                     "type": "array",
 			        "description": "array the points which compose the polygon"
                 },
-            },
-        "properties": {
-			"type": "string",
-			"description": "type of data"        
-        }
-	}
-  ]
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        } 
+    ]
+}
