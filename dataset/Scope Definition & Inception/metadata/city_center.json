@@ -8,34 +8,112 @@
             "type": "map",
             "description": "item of data",
             "fields": {       
-                "admin_level":
-                "boundary":
-                "name":
-                "ref:ISTAT":
-                "ref:catasto":
-                "type":
-                "wikidata":
-                "wikipedia":
-                "@id":
-                "name:cim":
-                "name:it":
-                "population":
-                "old_name:de":
-                "natural":
-                "name:de":
-                "name:mhn":
-                "alt_name:de":
-                "gfoss_id":
-                "reg_name":
-                "name:lld":
-                "postal_code":
-                "old_name":
-                "name:left":
-                "name:right":
-                "source":
-                "created_by":
-            }                
-
+                "admin_level": {
+                    "type": "",
+                    "description": "",
+                },
+                "boundary": {
+                    "type": "",
+                    "description": "",
+                },
+                "name": {
+                    "type": "",
+                    "description": "",
+                },
+                "ref:ISTAT": {
+                    "type": "",
+                    "description": "",
+                },
+                "ref:catasto": {
+                    "type": "",
+                    "description": "",
+                },
+                "type": {
+                    "type": "",
+                    "description": "",
+                },
+                "wikidata": {
+                    "type": "",
+                    "description": "",
+                },
+                "wikipedia": {
+                    "type": "",
+                    "description": "",
+                },
+                "@id": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:cim": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:it": {
+                    "type": "",
+                    "description": "",
+                },
+                "population": {
+                    "type": "",
+                    "description": "",
+                },
+                "old_name:de": {
+                    "type": "",
+                    "description": "",
+                },
+                "natural": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:de": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:mhn": {
+                    "type": "",
+                    "description": "",
+                },
+                "alt_name:de": {
+                    "type": "",
+                    "description": "",
+                },
+                "gfoss_id": {
+                    "type": "",
+                    "description": "",
+                },
+                "reg_name": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:lld": {
+                    "type": "",
+                    "description": "",
+                },
+                "postal_code": {
+                    "type": "",
+                    "description": "",
+                },
+                "old_name": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:left": {
+                    "type": "",
+                    "description": "",
+                },
+                "name:right": {
+                    "type": "",
+                    "description": "",
+                },
+                "source": {
+                    "type": "",
+                    "description": "",
+                },
+                "created_by": {
+                    "type": "",
+                    "description": "",
+                }
+            } 
+        },               
         "geometry": {
             "type": "map",
             "description": "geometrical features",
@@ -49,11 +127,10 @@
                     "description": "array the points which compose the polygon"
                 },
             }
-        }
+        },
         "id": {
             "type": "string",
             "description": "type of data"
         }
-
     ]
 }    

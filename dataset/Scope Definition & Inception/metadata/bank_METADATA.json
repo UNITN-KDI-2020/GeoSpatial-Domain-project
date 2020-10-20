@@ -12,7 +12,7 @@
 			"type": "map",
 			"description": "item of data",
             "fields":{
-                "@id":{
+                "@id": {
                     "type": "",
                     "description": "",
                 },
@@ -75,7 +75,7 @@
                 "brand:wikidata":{
                     "type": "",
                     "description": "",
-                }
+                },
                 "brand:wikipedia":{
                     "type": "",
                     "description": "",

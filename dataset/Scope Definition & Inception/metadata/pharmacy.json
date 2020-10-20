@@ -12,57 +12,204 @@
             "type": "map",
             "description": "item of data",
             "fields": {       
-                "@id":
-                "amenity":
-                "building":
-                "name":
-                "addr:city":
-                "addr:housenumber":
-                "addr:postcode":
-                "addr:street":
-                "drive_through":
-                "healthcare":
-                "dispensing":
-                "opening_hours":
-                "operator":
-                "ref:vatin":
-                "wheelchair":
-                "addr:country":
-                "indoor":
-                "level":
-                "room":
-                "email":
-                "phone":
-                "building:colour":
-                "building:part":
-                "height":
-                "roof:colour":
-                "roof:shape":
-                "rooms":
-                "shop":
-                "contact:phone":
-                "ref:vat:it":
-                "surveillance":
-                "contact:email":
-                "contact:website":
-                "ref:msal":
-                "source":
-                "source:start_date":
-                "addr:place":
-                "website":
-                "addr:province":
-                "contact:fax":
-                "contact:mobile":
-                "addr:housename":
-                "layer":
-                "addr:state":
-                "fixme":
-                "alt_name":
-                "addr:district":
-                "name:it":
-                "name:en
+                "@id": {
+                    "type": "",
+                    "description": ""
+                },
+                "amenity": {
+                    "type": "",
+                    "description": ""
+                },
+                "building": {
+                    "type": "",
+                    "description": ""
+                },
+                "name": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housenumber": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:postcode": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:street": {
+                    "type": "",
+                    "description": ""
+                },
+                "drive_through": {
+                    "type": "",
+                    "description": ""
+                },
+                "healthcare": {
+                    "type": "",
+                    "description": ""
+                },
+                "dispensing": {
+                    "type": "",
+                    "description": ""
+                },
+                "opening_hours": {
+                    "type": "",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vatin": {
+                    "type": "",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:country": {
+                    "type": "",
+                    "description": ""
+                },
+                "indoor": {
+                    "type": "",
+                    "description": ""
+                },
+                "level": {
+                    "type": "",
+                    "description": ""
+                },
+                "room": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "",
+                    "description": ""
+                },
+                "phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "building:part": {
+                    "type": "",
+                    "description": ""
+                },
+                "height": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:colour": {
+                    "type": "",
+                    "description": ""
+                },
+                "roof:shape": {
+                    "type": "",
+                    "description": ""
+                },
+                "rooms": {
+                    "type": "",
+                    "description": ""
+                },
+                "shop": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:phone": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vat:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "surveillance": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:email": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:website": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:msal": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "source:start_date": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:place": {
+                    "type": "",
+                    "description": ""
+                },
+                "website": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:province": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:fax": {
+                    "type": "",
+                    "description": ""
+                },
+                "contact:mobile": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "",
+                    "description": ""
+                },
+                "layer": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:state": {
+                    "type": "",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "addr:district": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:en": {
+                    "type": "",
+                    "description": ""
+                }
             }                
-
+        },
         "geometry": {
             "type": "map",
             "description": "geometrical features",
@@ -74,9 +221,9 @@
                 "coordinates": {
                     "type": "array",
                     "description": "array the points which compose the polygon"
-                },
+                }
             }
-        }
+        },
         "id": {
             "type": "string",
             "description": "type of data"
