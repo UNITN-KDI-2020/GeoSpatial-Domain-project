@@ -12,11 +12,6 @@
 			"type": "map",
 			"description": "item of data",
             "fields":{
-                "latitude:"
-                "longitude:"
-                "altitude:"
-                "geometry:"
-                "coordinates:"
                 "@id:"
                 "amenity:"
                 "building:"
@@ -42,10 +37,23 @@
                 "office":
             }
         }
-    "id": {
-			"type": "string",
-			"description": "type of data"
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
         }
+        "id": {
+                "type": "string",
+                "description": "type of data"
+            }
     }
   ]
 }
