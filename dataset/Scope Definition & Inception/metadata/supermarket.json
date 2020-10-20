@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T13:28:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id":
+                "building":
+                "name":
+                "opening_hours":
+                "payment:cash":
+                "payment:debit_cards":
+                "shop":
+                "type":
+                "source":
+                "addr:city":
+                "addr:country":
+                "addr:housenumber":
+                "addr:postcode":
+                "addr:street":
+                "operator":
+                "ref:vatin":
+                "brand":
+                "brand:wikidata":
+                "brand:wikipedia":
+                "toilets:wheelchair":
+                "wheelchair":
+                "building:part":
+                "website":
+                "addr:province":
+                "addr:state":
+                "building:levels":
+                "cash_withdrawal:purchase_minimum":
+                "cash_withdrawal:type":
+                "level":
+                "parking":
+                "toilets":
+                "toilets:access":
+                "organic":
+                "roof:levels":
+                "phone":
+                "contact:phone":
+                "note":
+                "payment:bancomat":
+                "layer":
+                "fixme":
+                "indoor":
+                "payment:credit_cards":
+                "room":
+                "wheelchair:description":
+                "ref":
+                "created_by":
+                "addr:place":
+                "addr:district":
+                "addr:housename":
+                "alt_name":
+                "payment:coins":
+                "payment:maestro":
+                "fax":
+                "diet:vegetarian":
+                "ref:it:vat":
+                "lastcheck":
+                "entrance":
+                "ref:vat:it":
+                "contact:website":
+                "contact:email":
+                "email":
+                "name:de":
+                "name:it":
+                "diet:vegan":
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    

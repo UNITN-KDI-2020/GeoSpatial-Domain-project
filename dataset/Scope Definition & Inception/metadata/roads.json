@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:26:03Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id":
+                "area":
+                "highway":
+                "name":
+                "oneway":
+                "ref":
+                "junction":
+                "surface":
+                "lanes":
+                "maxspeed":
+                "nat_ref":
+                "lit":
+                "int_ref":
+                "name:de":
+                "name:it":
+                "toll":
+                "cycleway:both":
+                "old_ref":
+                "bridge":
+                "layer":
+                "loc_ref":
+                "cycleway:right":
+                "source:maxspeed":
+                "destination:forward":
+                "maxheight":
+                "maxweight":
+                "note":
+                "cycleway":
+                "maxspeed:type":
+                "destination:backward":
+                "tunnel":
+                "bicycle":
+                "foot":
+                "tunnel:name":
+                "access":
+                "horse":
+                "length":
+                "incline":
+                "tunnel:length":
+                "short_name":
+                "hgv":
+                "disabled":
+                "motor_vehicle:conditional":
+                "psv":
+                "width":
+                "centreline":
+                "motorroad":
+                "alt_name":
+                "parking:lane:both":
+                "parking:condition:right":
+                "parking:condition:right:maxstay":
+                "parking:lane:right":
+                "loc_name":
+                "embankment":
+                "parking:condition:left":
+                "parking:lane:left":
+                "lanes:backward":
+                "lanes:forward":
+                "turn:lanes:forward":
+                "parking:condition:both":
+                "is_in,oneway:psv":
+                "shortest_name":
+                "oneway:bicycle":
+                "oneway:conditional":
+                "history":
+                "narrow":
+                "lanes:psv":
+                "rcn":
+                "rcn_ref":
+                "cutting":
+                "sidewalk":
+                "created_by":
+                "cycleway:left":
+                "cycleway:left:oneway":
+                "priority_road":
+                "turn":
+                "zone:maxspeed":
+                "turn:lanes:backward":
+                "motor_vehicle":
+                "source,psv:lanes:forward":  
+                "postal_code":
+                "bus":
+                "goods":
+                "reg_ref":
+                "hgv:conditional":
+                "tourist_bus:conditional":
+                "destination":
+                "mtb:scale:uphill":
+                "wikidata":
+                "wikipedia":
+                "delivery":
+                "covered":
+                "agricultural":
+                "description:it":
+                "historic:name":
+                "maxwidth":
+                "cycleway:left:segregated":
+                "psv:lanes":
+                "fixme":
+                "destination:ref":
+                "moped":
+                "tourist_bus":
+                "bridge:structure":
+                "abandoned:railway":
+                "railway":
+                "access:conditional":
+                "is_in:city":
+                "turn:lanes":
+                "tracktype"":
+                "change:lanes":
+                "name:cim"":
+                "smoothness":
+                "hour_off":
+                "hour_on":
+                "motorcar:conditional":
+                "bicycles":
+                "vehicles":
+                "description":
+                "maxlength":
+                "old_name":
+                "access:bus":
+                "maxlength:hgv":
+                "avalanche_protector:left":
+                "avalanche_protector:right":
+                "vehicle":
+                "noname":
+                "mapillary":
+                "maxspeed:source":
+                "survey:date":
+                "lanes:psv:forward":
+                "hgv:forward":
+                "maxspeed:backward":
+                "maxspeed:forward":
+                "distance":
+                "destination:colour":
+                "destination:symbol":
+                "note:it":
+                "service":
+                "access:lanes":
+                "psv:lanes:backward":
+                "operator":
+                "avalanche_protector:open":
+                "maxspeed:practical":
+                "direction":
+                "maxspeed:lanes:backward":
+                "maxspeed:lanes:forward":
+                "mtb:scale":
+                "sac_scale":
+                "alt_name:de":
+                "tourism":
+                "name:mhn":
+            }                
+
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        }
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+
+    ]
+}    
