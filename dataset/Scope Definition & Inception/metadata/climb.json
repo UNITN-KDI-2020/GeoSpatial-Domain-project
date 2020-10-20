@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:21:03Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "latitude":
+                "@id":
+                "climbing:rock":
+                "name":
+                "natural":
+                "sport":
+                "type":
+                "building":
+                "leisure":
+                "addr:city":
+                "addr:country":
+                "addr:housenumber":
+                "addr:postcode":
+                "addr:street":
+                "landuse":
+                "club":
+                "email":
+                "fax":
+                "opening_hours":
+                "phone":
+                "tourism":
+                "website":
+                "climbing:bolted":
+                "climbing:multipitch":
+                "climbing:orientation":
+                "climbing:quality":
+                "climbing:sport":
+                "fee":
+                "outdoor":
+                "climbing:boulder":
+                "climbing":
+                "climbing:speed":
+                "climbing:toprope":
+                "operator":
+                "highway":
+                "sac_scale":
+                "climbing:grade:french:max":
+                "climbing:grade:french:min":
+                "climbing:length":
+                "climbing:crag":
+                "climbing:grade:french:mean":
+                "height":
+                "note":
+                "ref":
+                "climbing:trad":
+                "climbing:grade:uiaa:max":
+                "climbing:grade:uiaa:min":
+                "url":
+                "trailblazed":
+                "created_by":
+                "description":
+                "information":
+                "map_size":
+                "map_type":
+                "climbing:length:max":
+                "climbing:length:min":
+                "climbing:deepwater":
+                "climbing:ice":
+                "climbing:mixed":
+                "playground":
+                "name:en":
+                "alt_name":
+                "name:it":
+                "ele":
+                "access":
+                "indoor":
+                "office":
+                "ref:vatin":
+                "surface":
+                "source":
+                "name:de":
+                "noname":
+                "climbing:pitches":
+            }
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                },
+            }
+        ]
+    }       
