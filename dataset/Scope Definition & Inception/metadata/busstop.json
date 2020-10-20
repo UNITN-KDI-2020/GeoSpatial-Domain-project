@@ -13,47 +13,170 @@
 			"type": "map",
 			"description": "item of data",
             "fields": {
-                "@id":
-                "highway":
-                "public_transport":
-                "name":
-                "shelter":
-                "bus":
-                "bench":
-                "alt_name:lld":
-                "name:it":
-                "name:lld":
-                "departures_board":
-                "operator:old_name":
-                "route_ref":
-                "bus_routes":
-                "created_by":
-                "wheelchair":
-                "note:tactile_paving":
-                "covered:source":
-                "ref":
-                "name:de":
-                "addr:city":
-                "addr:postcode":
-                "addr:street":
-                "alt_name":
-                "shelter_type":
-                "amenity":
-                "bin":
-                "network":
-                "toilets:wheelchair":
-                "designation":
-                "local_ref":
-                "mapillary":
-                "pole":
-                "survey:date":
-                "official_name":
-                "website":
-                "description":
-                "fixme": 
-                "lit": 
-                "passenger_information_display": 
-                "surface:building":    
+                "@id":{
+                    "type": "string",
+			        "description": "name that identifies a unique object"
+                }
+                "highway":{
+                    "type": "string",
+			        "description": "name that identifies objective type"
+                }
+                "public_transport":{
+                    "type": "string",
+			        "description": "name that denotes stop positions and platforms of public transport"
+                }
+                "name":{
+                    "type": "string",
+			        "description": "name that identifies the name of the bus-stop"
+                }
+                "shelter":{
+                    "type": "boolean",
+			        "description": "identifies the presence or absence of the shelter"
+                }
+                "bus":{
+                    "type": "boolean",
+			        "description": "Access values describe restrictions or not of the bus in the bus-stop"
+                }
+                "bench":{
+                    "type": "boolean",
+			        "description": "identifies the presence or absence of the shelter"
+                }
+                "alt_name:lld":{
+                    "type": "string",
+			        "description": "another unofficial but locals feequntly name in local dialects"
+                }
+                "name:it":{
+                    "type": "string",
+			        "description": "Italin name of the bus-stop"
+                }
+                "name:lld":{
+                    "type": "string",
+			        "description": "Ladin name of the bus-stop"
+                }
+                "departures_board":{
+                    "type": "string",
+			        "description": "name that identifies the type of time table or departures present in the bus stop"
+                }
+                "operator:old_name":{
+                    "type": "string",
+			        "description": "name that identifies company who is in charge of the service at the bus stop"
+                }
+                "route_ref":{
+                    "type": "list<string>",
+			        "description": "name that identifies a list of all bus lines that serve the stop"
+                }
+                "bus_routes":{
+                    "type": "list<string>",
+			        "description": "name that identifies a list of Flixbus that serve the stop"
+                }
+                "created_by":{
+                    "type": "string",
+			        "description": "name that identifies the computer program (editor or script) which made the changes"
+                }
+                "wheelchair":{
+                    "type": "string",
+			        "description": "identifies if the bus stop is suitable to be used with a wheelchair and a person with a disability who uses another mobility device (like a walker)"
+                }
+                "note:tactile_paving":{
+                    "type": "boolean",
+			        "description": "identifies if there is Tactile paving"
+                }
+                "covered:source":{
+                    "type": "string",
+			        "description": "identifies how the information was collected"
+                }
+                "ref":{
+                    "type": "list<string>",
+			        "description": "name that identifies a list of all bus lines that serve the stop"
+                }
+                "name:de":{
+                    "type": "string",
+			        "description": "German name of the bus stop"
+                }
+                "addr:city":{
+                    "type": "string",
+			        "description": "name identifying the name of the city where the bus stop is located"
+                }
+                "addr:postcode":{
+                    "type": "int",
+			        "description": "number identifying the postcode of the city where the bus stop is located"
+                }
+                "addr:street":{
+                    "type": "string",
+			        "description": "name identifying the name of the street where the bus stop is located"
+                }
+                "alt_name":{
+                    "type": "string",
+			        "description": "alternative name of the bus stop"
+                }
+                "shelter_type":{
+                    "type": "string",
+			        "description": ""
+                }
+                "amenity":{
+                    "type": "string",
+			        "description": "Describes useful and important facilities for visitors and residents"
+                }
+                "bin":{
+                    "type": "boolean",
+			        "description": "identifies presence or absence of a waste basket"
+                }
+                "network":{
+                    "type": "string",
+			        "description": "name that identifies company who is in charge of the service at the bus stop"
+                }
+                "toilets:wheelchair":{
+                    "type": "boolean",
+			        "description": "identifies if in the bus stop there is a toilets for people with disabilates"
+                }
+                "designation":{
+                    "type": "string",
+			        "description": "The tag is used to record the legal classification of an object. "
+                }
+                "local_ref":{
+                    "type": "string",
+			        "description": "indicate the number or letter of the stop, platform or other transport feature"
+                }
+                "mapillary":{
+                    "type": "string",
+			        "description": " key describes a reference code to an image in Mapillary"
+                }
+                "pole":{
+                    "type": "string",
+			        "description": ""
+                }
+                "survey:date":{
+                    "type": "string",
+			        "description": "date of the last survey"
+                }
+                "official_name":{
+                    "type": "string",
+			        "description": "Identifies official name of the bus stop"
+                }
+                "website":{
+                    "type": "string",
+			        "description": "identifies the website related to the bus stop"
+                }
+                "description":{
+                    "type": "string",
+			        "description": "additional description"
+                }
+                "fixme":{
+                    "type": "string",
+			        "description": "Used to mark objects and places that need further attention"
+                }
+                "lit": {
+                    "type": "boolean",
+			        "description": "indicates the presence of lighting"
+                }
+                "passenger_information_display":{
+                    "type": "boolean",
+			        "description": "indicates the presecne of real-time passenger information"
+                }
+                "surface:building":{
+                    "type": "string",
+			        "description": " "
+                }   
             }
 		},
 		"geometry": {
