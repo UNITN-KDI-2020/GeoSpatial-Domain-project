@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:30:02Z",
+    "fields": [
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {       
+                "@id": {
+                    "type": "string",
+                    "description": "name that identifies a unique object"
+                },
+                "leisure": {
+                    "type": "string",
+                    "description": "type of facility inside"
+                },
+                "type": {
+                    "type": "string",
+                    "description": "type of data"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "the name of the facility"
+                },
+                "wikidata": {
+                    "type": "string",
+                    "description": "link to the related wikidata object"
+                },
+                "landuse": {
+                    "type": "string",
+                    "description": "describe the usage of the land"
+                },
+                "access": {
+                    "type": "string",
+                    "description": "describe the access description"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "the operator of the facility"
+                },
+                "area": {
+                    "type": "boolean",
+                    "description": "describe if the area do not have any physical boundary"
+                },
+                "source": {
+                    "type": "string",
+                    "description": "the source of the data"
+                },
+                "alt_name": {
+                    "type": "string",
+                    "description": "an alternative name for the park"
+                },
+                "short_name": {
+                    "type": "string",
+                    "description": "a short name for the park"
+                },
+                "start_date": {
+                    "type": "date",
+                    "description": "the opening date of the facility"
+                },
+                "amenity": {
+                    "type": "string",
+                    "description": "this variable describe the facility present at the park"
+                },
+                "created_by": {
+                    "type": "string",
+                    "description": "the person that created the facility in openstreetmap"
+                },
+                "old_name": {
+                    "type": "string",
+                    "description": "the old name of the facility"
+                },
+                "barrier": {
+                    "type": "string",
+                    "description": "indicate the type of barrier that limit the facility"
+                },
+                "tourism": {
+                    "type": "string",
+                    "description": "indicate why this facility can be of particular interest for the tourist"
+                },
+                "wikipedia": {
+                    "type": "string",
+                    "description": "the reference to the wikipedia page"
+                },
+                "ele": {
+                    "type": "integer",
+                    "description": "the elevation on the sea level"
+                },
+                "natural": {
+                    "type": "string",
+                    "description": "describe the type of nature inside the boundary"
+                },
+                "sport": {
+                    "type": "string",
+                    "description": "describe one or more sport that can be played in the facility"
+                },
+                "surface": {
+                    "type": "string",
+                    "description": "type of surface in the park"
+                },
+                "leaf_type": {
+                    "type": "string",
+                    "description": "describe the type of leave in the facility"
+                },
+                "wheelchair": {
+                    "type": "boolean",
+                    "description": "wheelchair service is present"
+                },
+                "baby": {
+                    "type": "string",
+                    "description": "specify if the item is tag friendly"
+                },
+                "playground": {
+                    "type": "string",
+                    "description": "describe the type of playground available"
+                },
+                "water": {
+                    "type": "string",
+                    "description": "describe the type of water body"
+                },
+                "description": {
+                    "type": "string",
+                    "description": "the description of the facility"
+                },
+                "playground_1": {
+                    "type": "string",
+                    "description": "see playground"
+                },
+                "playground_2": {
+                    "type": "string",
+                    "description": "see playground"
+                },
+                "playground_3": {
+                    "type": "string",
+                    "description": "see playground"
+                },
+                "colour": {
+                    "type": "string",
+                    "description": "the colour of the facility"
+                },
+                "denomination": {
+                    "type": "string",
+                    "description": "the denomination of the facility"
+                },
+                "religion": {
+                    "type": "string",
+                    "description": "the type of religion practice inside"
+                },
+                "place": {
+                    "type": "string",
+                    "description": "indicate what sort of place it is"
+                },
+                "playground:basketswing": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a basketswing"
+                },
+                "playground:chain_ladder": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a chain ladder"
+                },
+                "playground:slide": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a slide"
+                },
+                "playground:swing": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a swing"
+                },
+                "name:it": {
+                    "type": "string",
+                    "description": "the name in italian"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "the opening hours of the park"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "the city component of the address"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "the house number component of the address"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "the postal code component of the address"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "the street component of the address"
+                },
+                "playground:aerialrotator": {
+                    "type": "boolean",
+                    "description": "describe if the facility have an aerialrotator"
+                },
+                "playground:basketball_backboard": {
+                    "type": "boolean",
+                    "description": "describe if a zone where play basketball is available"
+                },
+                "playground:exercise": {
+                    "type": "boolean",
+                    "description": "describe if an equipment are for the exercise is present"
+                },
+                "playground:horizontal_bar": {
+                    "type": "boolean",
+                    "description": "describe if an horizontal bar is present"
+                },
+                "playground:seesaw": {
+                    "type": "boolean",
+                    "description": "describe if an seesaw is present"
+                },
+                "playground:tunnel_tube": {
+                    "type": "boolean",
+                    "description": "describe if an tunnel tube is present"
+                },
+                "fireplace": {
+                    "type": "boolean",
+                    "description": "say if in the place is available a fireplace"
+                },
+                "animal_excrements": {
+                    "type": "string",
+                    "description": "indicate the presence of animal excrements"
+                },
+                "description:it": {
+                    "type": "string",
+                    "description": "a description of the place in italian"
+                },
+                "landcover": {
+                    "type": "string",
+                    "description": "describe the material at the surface of the earth"
+                },
+                "residential": {
+                    "type": "string",
+                    "description": "indicate the type of residential area"
+                },
+                "foot": {
+                    "type": "string",
+                    "description": "describe the access permission to the area by foot"
+                },
+                "playground:climbingframe": {
+                    "type": "boolean",
+                    "description": "describe if a climbing frame is present"
+                },
+                "building": {
+                    "type": "string",
+                    "description": "describe if is a building"
+                },
+                "covered": {
+                    "type": "boolean",
+                    "description": "describe if it is covered"
+                },
+                "addr:place": {
+                    "type": "string",
+                    "description": "the place component of the address"
+                },
+                "motor_vehicle": {
+                    "type": "string",
+                    "description": "describe the legal restriction to access of motor vehicle"
+                },
+                "website": {
+                    "type": "string",
+                    "description": "a website of the park"
+                },
+                "fixme": {
+                    "type": "boolean",
+                    "description": "mark of an element that require updating of the information"
+                },
+                "picnic_table": {
+                    "type": "boolean",
+                    "description": "describe if picnic table are available"
+                },
+                "contact:website": {
+                    "type": "string",
+                    "description": "the website where contact the park operator"
+                },
+                "playground:multi_play": {
+                    "type": "boolean",
+                    "description": "describe if a multiple usage surface is available"
+                },
+                "playground:sandpit": {
+                    "type": "boolean",
+                    "description": "describe if a sandpit is present"
+                },
+                "dog": {
+                    "type": "string",
+                    "description": "describe the access permission of dog to a certain area"
+                },
+                "addr:city:it": {
+                    "type": "string",
+                    "description": "the place component of the address in Italian"
+                },
+                "addr:city:mhn": {
+                    "type": "string",
+                    "description": "the city component of the address in Moeno"
+                },
+                "lit": {
+                    "type": "string",
+                    "description": "indicate the type of light"
+                },
+                "note": {
+                    "type": "string",
+                    "description": "note about the park"
+                },
+                "@relations": {
+                    "type": "map",
+                    "description": "describes the commercial relations with other parks"
+                },
+                "min_age": {
+                    "type": "integer",
+                    "description": "describe the minimum age of the facility"
+                },
+                "playground:theme": {
+                    "type": "string",
+                    "description": "describe the theme of the park"
+                },
+                "playground:skate_equipment": {
+                    "type": "boolean",
+                    "description": "describe if the park is equipment to play with the skateboard"
+                },
+                "playground:teenshelter": {
+                    "type": "boolean",
+                    "description": "describe if a teen shelter is available"
+                },
+                "playground:water": {
+                    "type": "boolean",
+                    "description": "describe if a water playground is available"
+                }
+            } 
+        },               
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    ]
+}    
