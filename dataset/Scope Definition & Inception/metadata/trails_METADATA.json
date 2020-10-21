@@ -30,31 +30,31 @@
                     },
                     "foot": {
                         "type": "boolean",
-                        "description": "idnetifies the possibility to complete the path by foot"
+                        "description": "identifies the possibility to complete the path by foot"
                     },
                     "from": {
                         "type": "string",
                         "description": "Indicates the start position"
                     },
                     "highway": {
-                        "type": "",
-                        "description": ""
+                        "type": "string",
+                        "description": "path which has been look for these dataset"
                     },
                     "importance": {
                         "type": "",
                         "description": ""
                     },
                     "mtb": {
-                        "type": "",
-                        "description": ""
+                        "type": "bool",
+                        "description": "Indicates if the path is practicable of mtb"
                     },
                     "mtb:scale": {
                         "type": "int",
                         "description": "Indicates the difficult scale of the mtb path"
                     },
                     "network": {
-                        "type": "",
-                        "description": ""
+                        "type": "string",
+                        "description": "specifies the hiking route as a local route (=lwn)"
                     },
                     "note:project_page": {
                         "type": "string",
@@ -62,266 +62,263 @@
                     },
                     "operator": {
                         "type": "string",
-                        "description": "Indicates the main operator of the trail"
+                        "description": "The name of the organization that maintains the path"
                     },
                     "osmc:symbol": {
                         "type": "string",
-                        "description": "describes route symbol that is used as waymarker or on guideposts"
+                        "description": "describe route symbol that is used as waymarker or on guideposts"
                     },
                     "ref": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "route": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": "(route=hiking or route=foot)"
                     },
                     "sac_scale": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "int",
+                        "description": "A difficulty rating scheme for hiking trails."
                     },
                     "source": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "where these data came from"
                     },
                     "to": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "where the path ends"
                     },
                     "trail_visibility": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "describes attributes regarding trail visibility (not route visibility) and orientation"
                     },
                     "type": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "type of the path"
                     },
                     "website": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "link to the website of the organization"
                     },
                     "@id": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "identification number"
                     },
                     "ascent": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "int",
+                        "description": "meters of ascent"
                     },
                     "descent": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "int",
+                        "description": "meters of descent"
                     },
                     "name": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "name of the path"
                     },
                     "colour": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "duration": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "symbol": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "symbol:it": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "surface": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Surface values provide additional information about the physical surface of roads/footpaths."
                     },
                     "bicycle": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "bool",
+                        "description": "affordable for byclicle"
                     },
                     "created_by": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "bridge": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "layer": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "access": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "incline": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "For marking a way's incline (or steepness/slope)."
                     },
                     "mtb:scale:uphill": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "width": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "note": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "lit": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "mtb:name": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "name:de": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "old_ref": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "hiking": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "smoothness": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "tracktype": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "visibility": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "motor_vehicle": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "FIXME": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "assisted_trail": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "description:it": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "segregated": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "horse": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "name:it": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "rcn": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "rcn_ref": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "vehicle": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "reg_ref": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": "t"
                     },
                     "is_in": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "description": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "narrow": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "sport": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "via_ferrata_scale": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "motorcar": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "motorcycle": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
-                    }, {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "piste:difficulty": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "piste:grooming": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "piste:type": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "mtb:type": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "sac_scale_ref": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "horse_scale": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },	
                     "ski": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "note:it": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "alt_name": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "oneway": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "fixme": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "piste:oneway": {
                         "type": "",
@@ -496,8 +493,8 @@
                         "description": ""
                     },
                     "informal": {
-                        "type": "",
-                        "description": ""
+                        "type": "bool",
+                        "description": "Distinguish purposely built paths from informal ones."
                     },
                     "noexit": {
                         "type": "",
