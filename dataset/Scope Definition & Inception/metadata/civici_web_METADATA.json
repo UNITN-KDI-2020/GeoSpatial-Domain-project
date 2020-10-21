@@ -1,0 +1,84 @@
+{
+    "Identificativo del dataset":	"4f474fc8-181d-4b15-9ee4-60b3f54f4068",
+    "Altro identificativo":	"N/A",
+    "Temi del dataset":	"Dati provvisori",
+    "Editore del Dataset":	"N/A",
+    "Data di rilascio":	"22-02-2013",
+    "Data di modifica":	"08-05-2019",
+    "Copertura Geografica":	"Area di competenza dell'unità organizzativa preposta",
+    "URI di GeoNames":	"N/A",
+    "Lingue del dataset":	"N/A",
+    "Estensione temporale": {
+        "Da:" "22-02-2013"
+    },
+    "Titolare": {
+        "Nome": "Comune di Trento",
+        "Codice IPA/IVA": "c_l378"
+    },
+    "Frequenza di aggiornamento":	"quotidiano",
+    "Versione di":	"N/A",
+    "fields":{
+        "coordinates": {
+            "type": "array<double>",
+            "description": "x,y coordinate of the building"
+        },
+        "properties":{
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "civico_num": {
+                    "type": "string",
+                    "description": "civic number (without slash)"
+                },                   
+                "civico_let": {
+                    "type": "string",
+                    "description": "slash, if exist"
+                },
+                "civico_alf": {
+                    "type": "string",
+                    "description": "numero civico con barra (se presente)"
+                },
+                "desvia": {
+                    "type": "string",
+                    "description": "street description"
+                },
+                "strada": {
+                    "type": "string",
+                    "description": "street code"
+                },
+                "cap": {
+                    "type": "int",
+                    "description": "postal code"
+                },
+                "tipo_num": {
+                    "type": "string",
+                    "description": "type of civic: 'principale' or 'secondaria' (language: italy)"
+                },
+                "tipo_en": {
+                    "type": "string",
+                    "description": "type of civic: 'principal' or 'secondary' (language: english)"
+                },
+                "ingresso": {
+                    "type": "string",
+                    "description": "entrance type: 'abitazione', 'cancello' or 'altro' (language: italy)"
+                },
+                "ingr_en": {
+                    "type": "string",
+                    "description": "entrance type: 'abitation', 'gate' or 'other'  (language: english)"
+                },
+                "fumetto": {
+                    "type": "string",
+                    "description": "complete adress"
+                },
+                "url": {
+                    "type": "string",
+                    "description": "not useful"
+                },
+                "sobborgo": {
+                    "type": "string",
+                    "description": "Cadastral community"
+                }
+            }
+        }
+    }
+}
