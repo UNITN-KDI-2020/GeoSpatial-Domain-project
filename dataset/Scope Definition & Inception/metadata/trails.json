@@ -14,59 +14,59 @@
                     },
                     "cai_scale": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Identifies the cai scale difficulty classification"
                     },
                     "distance": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "int",
+                        "description": "Identifies the distance of the trials"
                     },
                     "duration:backward": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Identifies the duration of the backward"
                     },
                     "duration:forward": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Identifies the duration of the backward"
                     },
                     "foot": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "boolean",
+                        "description": "idnetifies the possibility to complete the path by foot"
                     },
                     "from": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Indicates the start position"
                     },
                     "highway": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "importance": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "mtb": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "mtb:scale": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "int",
+                        "description": "Indicates the difficult scale of the mtb path"
                     },
                     "network": {
-                        "type": "string",
-                        "description": "name that identifies a unique object"
+                        "type": "",
+                        "description": ""
                     },
                     "note:project_page": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Indicates the project page url"
                     },
                     "operator": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "Indicates the main operator of the trail"
                     },
                     "osmc:symbol": {
                         "type": "string",
-                        "description": "name that identifies a unique object"
+                        "description": "describes route symbol that is used as waymarker or on guideposts"
                     },
                     "ref": {
                         "type": "string",
@@ -780,8 +780,8 @@
                         "description": ""
                     },
                     "dog": {
-                        "type": "",
-                        "description": ""
+                        "type": "boolean",
+                        "description": "Indicates if the trail are sutiable for dog"
                     }
                 }
             },
