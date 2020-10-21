@@ -44,10 +44,6 @@
                     "type": "string",
                     "description": "is for places people go in their spare time."
                 },
-                "addr:city":{
-                    "type":"",
-                    "description":""
-                },
                 "addr:country": {
                     "type": "string",
                     "description": "Indicates the city in the address information"
@@ -217,88 +213,88 @@
                     "description": "Additional Information"
                 },
                 "map_size": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates what are is covered bt the map "
                 },
                 "map_type": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the typology of map available"
                 },
                 "climbing:length:max": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": " Maximum and maximum length of routes in meters "
                 },
                 "climbing:length:min": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Minimum and maximum length of routes in meters "
                 },
                 "climbing:deepwater": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates number of steep cliffs with deep enough water below permit Deep-Water-Soloing. "
                 },
                 "climbing:ice": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the presence and eventually the number of icefalls or the like enable Ice climbing. In contrast to mixed climbing, no rock climbing is involved here. "
                 },
                 "climbing:mixed": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the presence and eventually the number of mixed climbing site or partially iced rocks. "
                 },
                 "playground": {
                     "type": "",
                     "description": ""
                 },
                 "name:en": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the name in English"
                 },
                 "alt_name": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates an alternative name"
                 },
                 "name:it": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the Italian name"
                 },
                 "ele": {
-                    "type": "",
-                    "description": ""
+                    "type": "int",
+                    "description": "Indicates the elevation (height abovesea level) of the point"
                 },
                 "access": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "Indicates possibile access restrictions"
                 },
                 "indoor": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "Indicates if the site is indoor or not"
                 },
                 "office": {
                     "type": "",
                     "description": ""
                 },
                 "ref:vatin": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the VAT identification number of an object "
                 },
                 "surface": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the typology of surface"
                 },
                 "source": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the source of the information"
                 },
                 "name:de": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "Indicates the name in German"
                 },
                 "noname": {
-                    "type": "",
-                    "description": ""
+                    "type": "boolean",
+                    "description": "Indicates if the place not has a name"
                 },
                 "climbing:pitches": {
-                    "type": "",
-                    "description": ""
+                    "type": "int",
+                    "description": "Indicates the number of pitches that make uo the route"
                 }            }
         },
         "geometry": {
@@ -321,4 +317,4 @@
         }
     
     }
-}  
+}       
