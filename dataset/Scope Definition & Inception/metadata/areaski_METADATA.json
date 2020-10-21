@@ -74,7 +74,7 @@
                 }                                                            
             }
 		},
-		"geometry": {
+        "geometry": {
 			"type": "map",
 			"description": "geometrical features",
             "fields": {
@@ -85,9 +85,12 @@
                 "coordinates": {
                     "type": "array",
 			        "description": "array the points which compose the polygon"
-                },
-			"description": "geometrical features"
+                }
             }
-		}
-	}
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        } 
+    }
 }

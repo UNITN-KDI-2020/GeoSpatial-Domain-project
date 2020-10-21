@@ -1,0 +1,808 @@
+{
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                    "id": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "cai_scale": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "distance": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "duration:backward": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "duration:forward": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "foot": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "from": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "highway": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "importance": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "mtb": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "mtb:scale": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "network": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "note:project_page": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "operator": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "osmc:symbol": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "ref": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "route": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "sac_scale": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "source": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "to": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "trail_visibility": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "type": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "website": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "@id": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "ascent": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "descent": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "colour": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "duration": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "symbol": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "symbol:it": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "surface": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "bicycle": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "created_by": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "bridge": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "layer": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "access": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "incline": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "mtb:scale:uphill": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "width": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "note": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "lit": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "mtb:name": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "name:de": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "old_ref": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "hiking": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "smoothness": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "tracktype": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "visibility": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "motor_vehicle": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "FIXME": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "assisted_trail": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "description:it": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "segregated": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "horse": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "name:it": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "rcn": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "rcn_ref": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "vehicle": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "reg_ref": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "is_in": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "narrow": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "sport": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "via_ferrata_scale": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "motorcar": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "motorcycle": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    }, {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "piste:difficulty": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "piste:grooming": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "piste:type": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "mtb:type": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "sac_scale_ref": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "horse_scale": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },	
+                    "ski": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "note:it": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "alt_name": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "oneway": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "fixme": {
+                        "type": "string",
+                        "description": "name that identifies a unique object"
+                    },
+                    "piste:oneway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "tunnel": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "old_name": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "loc_name": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "path": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "embankment": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "snowmobile": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "obstacle": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "wikipedia": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "agricultural": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "emergency": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "forestry": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "mtb:description": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "mtb:scale:imba": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "trailblazed": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "man_made": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "ford": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "KS": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "description:de": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "via_ferrata": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "maxspeed": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "est_width": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "wheelchair": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "amenity": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "historic": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "leisure": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "mtb:incline": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "cutting": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "bridge:structure": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "cycleway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "class:bicycle:mtb": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "footway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "safety_rope": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "safety_rope_side": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "ladder": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "historic_1": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "historic_2": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "material": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "crossing": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "class:bicycle": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "ruins": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "survey:date": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "note:de": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "informal": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "noexit": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "sidewalk": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "oneway:bicycle": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "loc_ref": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "level": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "handrail": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "name:en": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "area": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "abandoned:highway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "maxwidth": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "designation": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "history": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "end_date": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "location": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "military": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "start_date": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "old:highway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "time": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "cycleway:both": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "fixme:ref": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "height": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "hazard": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "waterway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "bridge:name": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "arcade:left": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "covered": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "historic:military": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "old:military": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "shelter_type": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "crossing_ref": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "date_from": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "barrier": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "destination:forward": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "tactile_paving": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "barrier:left": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "barrier:right": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "fence_type:right": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "fence_type:left": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "disabled": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "tourism": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "disused:military": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "wikidata": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "sac_scale:note": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "toll": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "mapillary": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "bridge:material": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "boat": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "intermittent": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "bike": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "name_1": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "historic:highway": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "ref:pat": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "survey": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "maxheight": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "snowshoe": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "maintenance	": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "anes": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "flood_prone": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "est_heigh": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "mtb:description:de": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "artificial_path": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:bolted": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:grade:uiaa:max": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:orientation": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:quality": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:rock": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "climbing:trad": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "step_count": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "steps": {
+                        "type": "",
+                        "description": ""
+                    },
+                    "dog": {
+                        "type": "",
+                        "description": ""
+                    }
+                }
+            },
+        "geometry": {
+			"type": "map",
+			"description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+			        "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+			        "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        } 
+    }
+}
+
