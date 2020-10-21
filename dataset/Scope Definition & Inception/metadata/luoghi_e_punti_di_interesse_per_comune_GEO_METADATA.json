@@ -32,7 +32,7 @@
 				"format": [
 					{
 						"type": "type of Geometry",
-						"coordinates": "float[2]",
+						"coordinates": "float[2]"
 					}
 				]
 			},

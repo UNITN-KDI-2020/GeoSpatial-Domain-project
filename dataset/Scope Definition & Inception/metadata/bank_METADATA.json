@@ -3,7 +3,7 @@
     "generator": "overpass-ide",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
     "timestamp": "2020-10-19T13:50:02Z",
-    "fields": [
+    "fields": {
         "type": {
 			"type": "string",
 			"description": "type of data"
@@ -14,279 +14,279 @@
             "fields":{
                 "@id": {
                     "type": "string",
-                    "description": "identification code",
+                    "description": "identification code"
                 },
                 "amenity":{
                     "type": "",
-                    "description": "",
+                    "description": ""
                 },
                 "building":{
                     "type": "string",
-                    "description": "type fo building",
+                    "description": "type fo building"
                 },
                 "name":{
                     "type": "string",
-                    "description": "name of the facility",
+                    "description": "name of the facility"
                 },
                 "type":{
                     "type": "string",
-                    "description": "type of element",
+                    "description": "type of element"
                 },
                 "atm":{
                     "type": "boolean",
-                    "description": "indicate the presence of an atm",
+                    "description": "indicate the presence of an atm"
                 },
                 "automated teller machine":{
                     "type": "boolean",
-                    "description": "see atm",
+                    "description": "see atm"
                 },
                 "operator":{
                     "type": "string",
-                    "description": "indicate the operator of the facility",
+                    "description": "indicate the operator of the facility"
                 },
                 "brand":{
                     "type": "string",
-                    "description": "indicate the brand of the facility",
+                    "description": "indicate the brand of the facility"
                 },
                 "addr:housenumber":{
                     "type": "string",
-                    "description": "the house number component of the address",
+                    "description": "the house number component of the address"
                 },
                 "addr:street":{
                     "type": "string",
-                    "description": "the street component of the address",
+                    "description": "the street component of the address"
                 },
                 "source":{
                     "type": "string",
-                    "description": "the source of the data",
+                    "description": "the source of the data"
                 },
                 "opening_hours":{
                     "type": "string",
-                    "description": "the opening hours of the facility",
+                    "description": "the opening hours of the facility"
                 },
                 "contact:website":{
                     "type": "string",
-                    "description": "the website where contact the facility",
+                    "description": "the website where contact the facility"
                 },
                 "building:levels":{
                     "type": "integer",
-                    "description": "the level above ground of the facility",
+                    "description": "the level above ground of the facility"
                 },
                 "brand:wikidata":{
                     "type": "string",
-                    "description": "wikidata identifier code",
+                    "description": "wikidata identifier code"
                 },
                 "brand:wikipedia":{
                     "type": "string",
-                    "description": "the wikipedia page of the bank branch",
+                    "description": "the wikipedia page of the bank branch"
                 },
                 "wheelchair":{
                     "type": "boolean",
-                    "description": "describe if it is accesible for wheelchair users",
+                    "description": "describe if it is accesible for wheelchair users"
                 },
                 "addr:city":{
                     "type": "string",
-                    "description": "the city component of the address",
+                    "description": "the city component of the address"
                 },
                 "addr:postcode":{
                     "type": "string",
-                    "description": "the postcode component of the address",
+                    "description": "the postcode component of the address"
                 },
                 "roof:levels":{
                     "type": "integer",
-                    "description": "the level of the roof",
+                    "description": "the level of the roof"
                 },
                 "roof:shape":{
                     "type": "string",
-                    "description": "the shape of the roof",
+                    "description": "the shape of the roof"
                 },
                 "drive_through":{
                     "type": "boolean",
-                    "description": "describe if the facility offer drive through",
+                    "description": "describe if the facility offer drive through"
                 },
                 "addr:full":{
                     "type": "string",
-                    "description": "the full address of the facility",
+                    "description": "the full address of the facility"
                 },
                 "addr:country":{
                     "type": "string",
-                    "description": "the country component of the address",
+                    "description": "the country component of the address"
                 },
                 "website":{
                     "type": "string",
-                    "description": "the website of the facility",
+                    "description": "the website of the facility"
                 },
                 "phone":{
                     "type": "string",
-                    "description": "the phone of the facility",
+                    "description": "the phone of the facility"
                 },
                 "indoor":{
                     "type": "string",
-                    "description": "describe the type of indoor place",
+                    "description": "describe the type of indoor place"
                 },
                 "level":{
                     "type": "integer",
-                    "description": "indicate the floor of the building where the facility is located",
+                    "description": "indicate the floor of the building where the facility is located"
                 },
                 "room":{
                     "type": "string",
-                    "description": "the type of room describe by this boundary",
+                    "description": "the type of room describe by this boundary"
                 },
                 "ref":{
                     "type": "string",
-                    "description": "official code use to describe the place",
+                    "description": "official code use to describe the place"
                 },
                 "entrance":{
                     "type": "string",
-                    "description": "describe the entrance to the building",
+                    "description": "describe the entrance to the building"
                 },
                 "surveillance":{
                     "type": "string",
-                    "description": "describe the type of surveillance",
+                    "description": "describe the type of surveillance"
                 },
                 "surveillance:type":{
                     "type": "string",
-                    "description": "describe the type of CCTV",
+                    "description": "describe the type of CCTV"
                 },
                 "surveillance:zone":{
                     "type": "string",
-                    "description": "describe the zone where the surveillance are active",
+                    "description": "describe the zone where the surveillance are active"
                 },
                 "created_by":{
                     "type": "string",
-                    "description": "describe who created the information",
+                    "description": "describe who created the information"
                 },
                 "contact:email":{
                     "type": "string",
-                    "description": "the email to contact the facility",
+                    "description": "the email to contact the facility"
                 },
                 "contact:fax":{
                     "type": "string",
-                    "description": "the fax number to contact the facility",
+                    "description": "the fax number to contact the facility"
                 },
                 "contact:phone":{
                     "type": "string",
-                    "description": "the phone where to contact the facility",
+                    "description": "the phone where to contact the facility"
                 },
                 "addr:place":{
                     "type": "string",
-                    "description": "the place component of the address",
+                    "description": "the place component of the address"
                 },
                 "ref:ABI":{
                     "type": "string",
-                    "description": "the ABI part of the bank",
+                    "description": "the ABI part of the bank"
                 },
                 "ref:ATM":{
                     "type": "string",
-                    "description": "the ATM part of the bank",
+                    "description": "the ATM part of the bank"
                 },
                 "int_name":{
                     "type": "string",
-                    "description": "internationally recognized name",
+                    "description": "internationally recognized name"
                 },
                 "fixme":{
                     "type": "boolean",
-                    "description": "mark if this facility need an update of the data",
+                    "description": "mark if this facility need an update of the data"
                 },
                 "wikidata":{
                     "type": "string",
-                    "description": "The ID of the Wikidata item about the feature",
+                    "description": "The ID of the Wikidata item about the feature"
                 },
                 "official_name":{
                     "type": "string",
-                    "description": "the official name of the facility",
+                    "description": "the official name of the facility"
                 },
                 "official_name:en":{
                     "type": "string",
-                    "description": "the official name in english of the facility",
+                    "description": "the official name in english of the facility"
                 },
                 "official_name:it":{
                     "type": "string",
-                    "description": "the official name in italian of the facility",
+                    "description": "the official name in italian of the facility"
                 },
                 "man_made":{
                     "type": "string",
-                    "description": "describe the type of man made structure",
+                    "description": "describe the type of man made structure"
                 },
                 "air_conditioning":{
                     "type": "boolean",
-                    "description": "indicate if the facility has air conditioning",
+                    "description": "indicate if the facility has air conditioning"
                 },
                 "alt_name":{
                     "type": "string",
-                    "description": "an alternative name for the facility",
+                    "description": "an alternative name for the facility"
                 },
                 "addr:province":{
                     "type": "string",
-                    "description": "the province component of the address",
+                    "description": "the province component of the address"
                 },
                 "addr:district":{
                     "type": "string",
-                    "description": "the district component of the address",
+                    "description": "the district component of the address"
                 },
                 "addr:state":{
                     "type": "string",
-                    "description": "the state component of the address",
+                    "description": "the state component of the address"
                 },
                 "addr:housename":{
                     "type": "string",
-                    "description": "the housename component of the address",
+                    "description": "the housename component of the address"
                 },
                 "layer":{
                     "type": "integer",
-                    "description": "it is used to describe relationship between two vertical objects",
+                    "description": "it is used to describe relationship between two vertical objects"
                 },
                 "email":{
                     "type": "string",
-                    "description": "the email of the facility",
+                    "description": "the email of the facility"
                 },
                 "access":{
                     "type": "string",
-                    "description": "describe access restrictions",
+                    "description": "describe access restrictions"
                 },
                 "note":{
                     "type": "string",
-                    "description": "note about the facility",
+                    "description": "note about the facility"
                 },
                 "brand:en":{
                     "type": "string",
-                    "description": "the name of the brand in english",
+                    "description": "the name of the brand in english"
                 },
                 "brand:it":{
                     "type": "string",
-                    "description": "the name of the brand in italian",
+                    "description": "the name of the brand in italian"
                 },
                 "name:en":{
                     "type": "string",
-                    "description": "the name of the facility in english",
+                    "description": "the name of the facility in english"
                 },
                 "name:it":{
                     "type": "string",
-                    "description": "the name of the facility if italian",
+                    "description": "the name of the facility if italian"
                 },
                 "loc_name":{
                     "type": "string",
-                    "description": "name used by local to refer to the building",
+                    "description": "name used by local to refer to the building"
                 },
                 "name:de":{
                     "type": "string",
-                    "description": "the name of the facility in german",
+                    "description": "the name of the facility in german"
                 },
                 "name:lad":{
                     "type": "string",
-                    "description": "the name of the facility in ladin",
+                    "description": "the name of the facility in ladin"
                 },
                 "designation":{
                     "type": "string",
-                    "description": "contain the legal classification of the facility",
+                    "description": "contain the legal classification of the facility"
                 },
                 "branch":{
                     "type": "string",
-                    "description": "the name of the branch",
+                    "description": "the name of the branch"
                 },
                 "wheelchair:step_height":{
                     "type": "integer",
-                    "description": "height of the step to access with a wheelchair",
+                    "description": "height of the step to access with a wheelchair"
                 }
             }
         },
@@ -301,12 +301,12 @@
                 "coordinates": {
                     "type": "array",
 			        "description": "array the points which compose the polygon"
-                },
+                }
             }
         },
         "id": {
             "type": "string",
             "description": "type of data"
         } 
-    ]
+    }
 }

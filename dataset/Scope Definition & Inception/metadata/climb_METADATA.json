@@ -1,0 +1,324 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T15:21:03Z",
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "@id": {
+                    "type": "string",
+                    "description": "Used to univocally identifies the object"
+                },
+                "climbing:rock": {
+                    "type": "string",
+                    "description": "Identifies the typology of rock"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "Identifies the name of the climb"
+                },
+                "natural": {
+                    "type": "string",
+                    "description": "Is used to describe wide variety of physical geography, geological and landcover features"
+                },
+                "sport": {
+                    "type": "string",
+                    "description": "Is used to identify one or more sports which can be played"
+                },
+                "type": {
+                    "type": "string",
+                    "description": "Is used to set a relation's type"
+                },
+                "building": {
+                    "type": "string",
+                    "description": "Indicates the presence or abesnce and the type of a bulding."
+                },
+                "leisure": {
+                    "type": "string",
+                    "description": "is for places people go in their spare time."
+                },
+                "addr:city":{
+                    "type":"",
+                    "description":""
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "Indicates the city in the address information"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "Indicates the housenumber in the address information"
+                },
+                "addr:postcode": {
+                    "type": "int",
+                    "description": "Indicates the postcode in the address information"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "Indicates the postcode in the address information"
+                },
+                "landuse": {
+                    "type": "",
+                    "description": ""
+                },
+                "club": {
+                    "type": "",
+                    "description": ""
+                },
+                "email": {
+                    "type": "string",
+                    "description": "Indicates the email ralted to the climb"
+                },
+                "fax": {
+                    "type": "string",
+                    "description": "Indicates the fax ralted to the climb"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "Indicates the openning hours of the climb spot"
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "Indicates the phone ralted to the climb"
+                },
+                "tourism": {
+                    "type": "string",
+                    "description": "Indentidies the specific interest to tourists including places to see, places to stay, things and places providing information and support to tourists. "
+                },
+                "website": {
+                    "type": "string",
+                    "description": "Indicates the website ralted to the climb"
+                },
+                "climbing:bolted": {
+                    "type": "string",
+                    "description": "Provides a first indication how well the routes are secured in terms of anchors"
+                },
+                "climbing:multipitch": {
+                    "type": "string",
+                    "description": "Indicates if there are multi-pitch routes and how many multi-pitch routes there is"
+                },
+                "climbing:orientation": {
+                    "type": "string",
+                    "description": "Identifies orientation of the rock/wall face."
+                },
+                "climbing:quality": {
+                    "type": "string",
+                    "description": "Indentifies the quality of the rock/ice. "
+                },
+                "climbing:sport": {
+                    "type": "string",
+                    "description": "Indicates the practicable sports"
+                },
+                "fee": {
+                    "type": "boolean",
+                    "description": "Indciates the presence or absensce of fee"
+                },
+                "outdoor": {
+                    "type": "boolean",
+                    "description": "Indicate if the climb is outside or not"
+                },
+                "climbing:boulder": {
+                    "type": "boolean",
+                    "description": "Indicates the presence or absence of boulder"
+                },
+                "climbing": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:speed": {
+                    "type": "boolean",
+                    "description": "Indicates if there is the presenc of speed climbing route"
+                },
+                "climbing:toprope": {
+                    "type": "string",
+                    "description": "Indicates the possibility to practice the top rope climping"
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "Indicate the main operator"
+                },
+                "highway": {
+                    "type": "String",
+                    "description": "Indicates the type of road to reah the climb"
+                },
+                "sac_scale": {
+                    "type": "string",
+                    "description": "is used to classify hiking trails, mountain paths and alpine routes in regard to the difficulties to be expected. "
+                },
+                "climbing:grade:french:max": {
+                    "type": "string",
+                    "description": "Indicates the max french grade presence in the climb zone"
+                },
+                "climbing:grade:french:min": {
+                    "type": "string",
+                    "description": "Indicates the min french grade presence in the climb zone"
+                },
+                "climbing:length": {
+                    "type": "string",
+                    "description": "Indicates the length of the route (in metres) "
+                },
+                "climbing:crag": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:grade:french:mean": {
+                    "type": "string",
+                    "description": "Indicates the mean french grade presence in the climb zone"
+                },
+                "height": {
+                    "type": "int",
+                    "description": "Indicates the height of the cimbing"
+                },
+                "note": {
+                    "type": "string",
+                    "description": "Add additional note"
+                },
+                "ref": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:trad": {
+                    "type": "string",
+                    "description": "Indicates if traditional climbing (no fixed anchors, gear has to be placed by yourself) is possible."
+                },
+                "climbing:grade:uiaa:max": {
+                    "type": "string",
+                    "description": "Indicates the max UIAA grade"
+                },
+                "climbing:grade:uiaa:min": {
+                    "type": "string",
+                    "description": "Indicates the min UIAA grade"
+                },
+                "url": {
+                    "type": "String",
+                    "description": "Indicates the website ralted to the climb"
+                },
+                "trailblazed": {
+                    "type": "boolean",
+                    "description": "Indicates if there is the practice of marking paths in outdoor recreational areas with signs or markings that follow each other at certain "
+                },
+                "created_by": {
+                    "type": "",
+                    "description": ""
+                },
+                "description": {
+                    "type": "string",
+                    "description": "Additional description"
+                },
+                "information": {
+                    "type": "string",
+                    "description": "Additional Information"
+                },
+                "map_size": {
+                    "type": "",
+                    "description": ""
+                },
+                "map_type": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:length:max": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:length:min": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:deepwater": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:ice": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:mixed": {
+                    "type": "",
+                    "description": ""
+                },
+                "playground": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:en": {
+                    "type": "",
+                    "description": ""
+                },
+                "alt_name": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "",
+                    "description": ""
+                },
+                "ele": {
+                    "type": "",
+                    "description": ""
+                },
+                "access": {
+                    "type": "",
+                    "description": ""
+                },
+                "indoor": {
+                    "type": "",
+                    "description": ""
+                },
+                "office": {
+                    "type": "",
+                    "description": ""
+                },
+                "ref:vatin": {
+                    "type": "",
+                    "description": ""
+                },
+                "surface": {
+                    "type": "",
+                    "description": ""
+                },
+                "source": {
+                    "type": "",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "",
+                    "description": ""
+                },
+                "noname": {
+                    "type": "",
+                    "description": ""
+                },
+                "climbing:pitches": {
+                    "type": "",
+                    "description": ""
+                }            }
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {			
+                    "type": "string",
+                    "description": "type of geometry"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon"
+                }
+            }
+        },
+        "id": {
+            "type": "string",
+            "description": "type of data"
+        }
+    
+    }
+}  
