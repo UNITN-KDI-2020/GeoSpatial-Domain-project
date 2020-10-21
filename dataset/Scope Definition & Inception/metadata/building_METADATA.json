@@ -1,0 +1,672 @@
+{
+    "fields": {
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "amenity": {
+                    "type": "string",
+                    "description": "For describing useful and important facilities for visitors and residents. Facilities include for example toilets, telephones, banks, pharmacies, prisons and schools."
+                },
+                "building": {
+                    "type": "string",
+                    "description": "The building tag is used to mark a given object as a building"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the location"
+                },
+                "type": {
+                    "type": "string",
+                    "description": "The key type is commonly used to set a relation's type"
+                },
+                "wikidata": {
+                    "type": "string",
+                    "description": "The ID of the Wikidata item about the feature"
+                },
+                "wikipedia": {
+                    "type": "string",
+                    "description": ""
+                },
+                "@id": {
+                    "type": "string",
+                    "description": "identification code"
+                },
+                "historic": {
+                    "type": "string",
+                    "description": "used to identify features that are of historic interest"
+                },
+                "importance": {
+                    "type": "string",
+                    "description": ""
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "city of the location"
+                },
+                "addr:country": {
+                    "type": "string",
+                    "description": "country of the location"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "civic code"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "postcode of the location"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "street address"
+                },
+                "contact:email": {
+                    "type": "string",
+                    "description": "email contact"
+                },
+                "contact:fax": {
+                    "type": "string",
+                    "description": "fax contact"
+                },
+                "contact:phone": {
+                    "type": "string",
+                    "description": "phone number contact"
+                },
+                "contact:website": {
+                    "type": "url",
+                    "description": "website of the location"
+                },
+                "email": {
+                    "type": "string",
+                    "description": "email contact"
+                },
+                "isced:level": {
+                    "type": "string",
+                    "description": ""
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "used to name a company, corporation, person or any other entity who is directly in charge of the current operation of a map object."
+                },
+                "ref:vatin": {
+                    "type": "string",
+                    "description": "VAT code information"
+                },
+                "castle_type": {
+                    "type": "string",
+                    "description": "used to distinguish between the various type of historic castles - stately vs defensive etc"
+                },
+                "building:levels": {
+                    "type": "string",
+                    "description": "used for marking the number of above-ground levels of a building"
+                },
+                "building:use": {
+                    "type": "string",
+                    "description": "describes what kind of function a building=* serves"
+                },
+                "roof:levels": {
+                    "type": "string",
+                    "description": "For stating the number of levels in the roof of a building"
+                },
+                "access": {
+                    "type": "string",
+                    "description": "describe restrictions on the use of highways and other transportation routes (railways, waterways), as well as facilities such as buildings, building entrances, amenities and leisure entities."
+                },
+                "layer": {
+                    "type": "string",
+                    "description": "one of several methods used to describe vertical relationships between crossing or overlapping features"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "day and hours of opening"
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "A telephone number associated with a POI"
+                },
+                "tourism": {
+                    "type": "string",
+                    "description": "used to map places and things of specific interest to tourists"
+                },
+                "website": {
+                    "type": "url",
+                    "description": "official website of the location"
+                },
+                "denomination": {
+                    "type": "string",
+                    "description": "Defines the subspecies (denomination) of a specific religion"
+                },
+                "religion": {
+                    "type": "string",
+                    "description": "Covering an assortment of community facilities including churches and confessional schools"
+                },
+                "alt_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "levels": {
+                    "type": "string",
+                    "description": ""
+                },
+                "long_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "office": {
+                    "type": "string",
+                    "description": ""
+                },
+                "old_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "alt_name_1": {
+                    "type": "string",
+                    "description": ""
+                },
+                "addr:housename": {
+                    "type": "string",
+                    "description": ""
+                },
+                "historic:civilization": {
+                    "type": "string",
+                    "description": ""
+                },
+                "building:material": {
+                    "type": "string",
+                    "description": ""
+                },
+                "height": {
+                    "type": "string",
+                    "description": ""
+                },
+                "min_height": {
+                    "type": "string",
+                    "description": ""
+                },
+                "leisure": {
+                    "type": "string",
+                    "description": ""
+                },
+                "sport": {
+                    "type": "string",
+                    "description": ""
+                },
+                "wheelchair": {
+                    "type": "string",
+                    "description": ""
+                },
+                "created_by": {
+                    "type": "string",
+                    "description": ""
+                },
+                "man_made": {
+                    "type": "string",
+                    "description": ""
+                },
+                "shop": {
+                    "type": "string",
+                    "description": ""
+                },
+                "capacity": {
+                    "type": "string",
+                    "description": ""
+                },
+                "contact:mobile": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fax": {
+                    "type": "string",
+                    "description": ""
+                },
+                "opening_hours:url": {
+                    "type": "string",
+                    "description": ""
+                },
+                "machinery": {
+                    "type": "string",
+                    "description": ""
+                },
+                "product": {
+                    "type": "string",
+                    "description": ""
+                },
+                "short_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "brand": {
+                    "type": "string",
+                    "description": ""
+                },
+                "brand:wikidata": {
+                    "type": "string",
+                    "description": ""
+                },
+                "brand:wikipedia": {
+                    "type": "string",
+                    "description": ""
+                },
+                "building:height": {
+                    "type": "string",
+                    "description": "The key height=* describes the actual height of a feature."
+                },
+                "description": {
+                    "type": "string",
+                    "description": ""
+                },
+                "cuisine": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fuel:diesel": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fuel:octane_95": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fuel:octane_98": {
+                    "type": "string",
+                    "description": ""
+                },
+                "ref:mise": {
+                    "type": "string",
+                    "description": ""
+                },
+                "source:date": {
+                    "type": "string",
+                    "description": ""
+                },
+                "oven": {
+                    "type": "string",
+                    "description": ""
+                },
+                "level": {
+                    "type": "string",
+                    "description": ""
+                },
+                "landuse": {
+                    "type": "string",
+                    "description": ""
+                },
+                "takeaway": {
+                    "type": "string",
+                    "description": "used with the value yes on eateries to indicate that customers can purchase a meal to be consumed elsewhere"
+                },
+                "aerialway": {
+                    "type": "string",
+                    "description": ""
+                },
+                "public_transport": {
+                    "type": "string",
+                    "description": ""
+                },
+                "food": {
+                    "type": "string",
+                    "description": ""
+                },
+                "beverages": {
+                    "type": "string",
+                    "description": ""
+                },
+                "int_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "building:min_level": {
+                    "type": "string",
+                    "description": ""
+                },
+                "atm": {
+                    "type": "string",
+                    "description": ""
+                },
+                "url": {
+                    "type": "string",
+                    "description": ""
+                },
+                "observatory:type": {
+                    "type": "string",
+                    "description": ""
+                },
+                "generator:source": {
+                    "type": "string",
+                    "description": ""
+                },
+                "power": {
+                    "type": "string",
+                    "description": ""
+                },
+                "social_facility": {
+                    "type": "string",
+                    "description": ""
+                },
+                "social_facility:for": {
+                    "type": "string",
+                    "description": ""
+                },
+                "stars": {
+                    "type": "string",
+                    "description": ""
+                },
+                "emergency": {
+                    "type": "string",
+                    "description": ""
+                },
+                "note": {
+                    "type": "string",
+                    "description": ""
+                },
+                "source": {
+                    "type": "string",
+                    "description": ""
+                },
+                "abandoned": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fixme": {
+                    "type": "string",
+                    "description": ""
+                },
+                "tower:type": {
+                    "type": "string",
+                    "description": ""
+                },
+                "ruins": {
+                    "type": "string",
+                    "description": ""
+                },
+                "start_date": {
+                    "type": "string",
+                    "description": ""
+                },
+                "currency:XBT": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:bitcoin": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:bitcoin:operator": {
+                    "type": "string",
+                    "description": ""
+                },
+                "barrier": {
+                    "type": "string",
+                    "description": ""
+                },
+                "cinema:3D": {
+                    "type": "string",
+                    "description": ""
+                },
+                "drive_in": {
+                    "type": "string",
+                    "description": "indicates if an amenity offers a drive-in service"
+                },
+                "screen": {
+                    "type": "string",
+                    "description": ""
+                },
+                "railway": {
+                    "type": "string",
+                    "description": ""
+                },
+                "contact:facebook": {
+                    "type": "string",
+                    "description": ""
+                },
+                "outdoor_seating": {
+                    "type": "string",
+                    "description": ""
+                },
+                "building:colour": {
+                    "type": "string",
+                    "description": ""
+                },
+                "horse": {
+                    "type": "string",
+                    "description": ""
+                },
+                "emergency_1": {
+                    "type": "string",
+                    "description": ""
+                },
+                "contact:name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "disused": {
+                    "type": "string",
+                    "description": ""
+                },
+                "internet_access": {
+                    "type": "string",
+                    "description": "This tag is for indication that a map entity such as a building, a shop, restaurant, etc. offers internet access to the public, either as a paid service or even for free"
+                },
+                "internet_access:fee": {
+                    "type": "string",
+                    "description": "cost for the internet service"
+                },
+                "addr:hamlet": {
+                    "type": "string",
+                    "description": ""
+                },
+                "smoking": {
+                    "type": "string",
+                    "description": ""
+                },
+                "addr:unit": {
+                    "type": "string",
+                    "description": ""
+                },
+                "roof:shape": {
+                    "type": "string",
+                    "description": ""
+                },
+                "loc_name": {
+                    "type": "string",
+                    "description": ""
+                },
+                "toilets:wheelchair": {
+                    "type": "string",
+                    "description": "The location has one or more toilets which is accessible and usable for wheelchair users."
+                },
+                "ele": {
+                    "type": "string",
+                    "description": ""
+                },
+                "locked": {
+                    "type": "string",
+                    "description": ""
+                },
+                "contact:email2": {
+                    "type": "string",
+                    "description": ""
+                },
+                "train": {
+                    "type": "string",
+                    "description": ""
+                },
+                "area": {
+                    "type": "string",
+                    "description": ""
+                },
+                "network": {
+                    "type": "string",
+                    "description": ""
+                },
+                "aeroway": {
+                    "type": "string",
+                    "description": ""
+                },
+                "wikipedia:de": {
+                    "type": "string",
+                    "description": ""
+                },
+                "wikipedia:it": {
+                    "type": "string",
+                    "description": ""
+                },
+                "name:it": {
+                    "type": "string",
+                    "description": ""
+                },
+                "shelter_type": {
+                    "type": "string",
+                    "description": ""
+                },
+                "rooms": {
+                    "type": "string",
+                    "description": ""
+                },
+                "disused:railway": {
+                    "type": "string",
+                    "description": ""
+                },
+                "service": {
+                    "type": "string",
+                    "description": ""
+                },
+                "winter_room": {
+                    "type": "string",
+                    "description": ""
+                },
+                "designation": {
+                    "type": "string",
+                    "description": ""
+                },
+                "name:de": {
+                    "type": "string",
+                    "description": ""
+                },
+                "automated": {
+                    "type": "string",
+                    "description": ""
+                },
+                "self_service": {
+                    "type": "string",
+                    "description": "For places with self service options"
+                },
+                "craft": {
+                    "type": "string",
+                    "description": ""
+                },
+                "disused:tourism": {
+                    "type": "string",
+                    "description": ""
+                },
+                "ref:vat_in": {
+                    "type": "string",
+                    "description": ""
+                },
+                "source:building": {
+                    "type": "string",
+                    "description": ""
+                },
+                "contact:mobile2": {
+                    "type": "string",
+                    "description": ""
+                },
+                "diet:vegan": {
+                    "type": "string",
+                    "description": "Describes if an establishment offers vegan products"
+                },
+                "fee": {
+                    "type": "string",
+                    "description": ""
+                },
+                "name:en": {
+                    "type": "string",
+                    "description": ""
+                },
+                "surveillance": {
+                    "type": "string",
+                    "description": ""
+                },
+                "service:bicycle:repair": {
+                    "type": "string",
+                    "description": "This tag means that someone will repair your bike for you"
+                },
+                "service:bicycle:retail": {
+                    "type": "string",
+                    "description": ""
+                },
+                "fuel:lpg": {
+                    "type": "string",
+                    "description": ""
+                },
+                "community_centre": {
+                    "type": "string",
+                    "description": ""
+                },
+                "parking": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:american_express": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:cash": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:credit_cards": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:debit_cards": {
+                    "type": "string",
+                    "description": ""
+                },
+                "guest_house": {
+                    "type": "string",
+                    "description": ""
+                },
+                "healthcare": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:cryptocurrencies": {
+                    "type": "string",
+                    "description": ""
+                },
+                "payment:electronic_purses": {
+                    "type": "string",
+                    "description": ""
+                }
+            },
+            "geometry": {
+                "type": "map",
+                "description": "geometrical features",
+                "fields": {
+                    "type": {			
+                        "type": "string",
+                        "description": "type of geometry"
+                    },
+                    "coordinates": {
+                        "type": "array",
+                        "description": "array the points which compose the polygon"
+                    }
+                }
+            },
+            "id": {
+                "type": "string",
+                "description": "type of data"
+            } 
+        }
+    }
+}
