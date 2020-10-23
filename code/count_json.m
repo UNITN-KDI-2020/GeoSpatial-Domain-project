@@ -13,7 +13,6 @@ total=0;
 for i=1:size(val.features,1)
     temp=fieldnames(val.features(i).properties);
     for j=1:size(temp,1)
-        temp(j)
         if(i==1 && j==1)
             check(1)=temp(j);
             check_num(1)=1;
