@@ -81,8 +81,8 @@
                     "description": ""
                 },
                 "gauge": {
-                    "type": "",
-                    "description": ""
+                    "type": "string",
+                    "description": "This tag can be used to specify the track width (gauge) of railways."
                 },
                 "maxspeed": {
                     "type": "int",

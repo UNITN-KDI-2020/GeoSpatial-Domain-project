@@ -1,0 +1,30 @@
+{
+	"skislopes.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.piste:type",
+			"properties.piste:difficulty",
+			"geometry"
+		]
+	},
+	"supermarket.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"geometry"
+		]
+	},
+	"trails.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.piste_type",
+			"properties.piste_difficulty",
+			"geometry"
+		]
+	}
+}
