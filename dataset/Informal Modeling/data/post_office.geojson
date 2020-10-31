@@ -1,0 +1,2251 @@
+{
+	"records": [
+		{
+			"name": "SDA Express Courier",
+			"@id": "way/38180965",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.0981568,
+							46.128245
+						],
+						[
+							11.0982741,
+							46.1281473
+						],
+						[
+							11.0983183,
+							46.1281103
+						],
+						[
+							11.0984474,
+							46.1281846
+						],
+						[
+							11.098488,
+							46.1281507
+						],
+						[
+							11.0986237,
+							46.1282289
+						],
+						[
+							11.0986647,
+							46.1281948
+						],
+						[
+							11.098788,
+							46.1282658
+						],
+						[
+							11.0988216,
+							46.1282379
+						],
+						[
+							11.0989755,
+							46.1283266
+						],
+						[
+							11.0990161,
+							46.1282927
+						],
+						[
+							11.0991307,
+							46.1283587
+						],
+						[
+							11.099069,
+							46.1284094
+						],
+						[
+							11.0992552,
+							46.1285184
+						],
+						[
+							11.0990002,
+							46.1287309
+						],
+						[
+							11.0981568,
+							46.128245
+						]
+					]
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "21",
+			"addr:postcode": "38121",
+			"addr:street": "Via alle Roste"
+		},
+		{
+			"@id": "way/39900721",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.2400812,
+							46.0595827
+						],
+						[
+							11.239911,
+							46.0596586
+						],
+						[
+							11.239725,
+							46.0594577
+						],
+						[
+							11.2398951,
+							46.0593819
+						],
+						[
+							11.2400812,
+							46.0595827
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Poste Centrale",
+			"@id": "way/63077230",
+			"opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.0410701,
+							45.8910051
+						],
+						[
+							11.0411272,
+							45.8910759
+						],
+						[
+							11.0411652,
+							45.8911373
+						],
+						[
+							11.0409851,
+							45.891323
+						],
+						[
+							11.0408484,
+							45.8912588
+						],
+						[
+							11.0409413,
+							45.8911629
+						],
+						[
+							11.04092,
+							45.8911204
+						],
+						[
+							11.0407834,
+							45.8911206
+						],
+						[
+							11.040783,
+							45.8910057
+						],
+						[
+							11.0408082,
+							45.8910056
+						],
+						[
+							11.0408133,
+							45.8910056
+						],
+						[
+							11.0410701,
+							45.8910051
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale di Arco",
+			"@id": "way/76581827",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							10.8849518,
+							45.9160112
+						],
+						[
+							10.8852338,
+							45.9159515
+						],
+						[
+							10.8852924,
+							45.9160857
+						],
+						[
+							10.8850104,
+							45.9161453
+						],
+						[
+							10.8849518,
+							45.9160112
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale di Dro",
+			"@id": "way/79881721",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							10.9133994,
+							45.9607139
+						],
+						[
+							10.9135153,
+							45.9606325
+						],
+						[
+							10.9136265,
+							45.960709
+						],
+						[
+							10.9135106,
+							45.9607904
+						],
+						[
+							10.9133994,
+							45.9607139
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/87066334",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							10.7269446,
+							46.0327417
+						],
+						[
+							10.7271211,
+							46.0330114
+						],
+						[
+							10.7269382,
+							46.0330691
+						],
+						[
+							10.7267617,
+							46.0327994
+						],
+						[
+							10.7269446,
+							46.0327417
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Ufficio postale Ala",
+			"@id": "way/88077714",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.0021971,
+							45.7582685
+						],
+						[
+							11.0021593,
+							45.7582774
+						],
+						[
+							11.0021798,
+							45.7583138
+						],
+						[
+							11.0020574,
+							45.7583441
+						],
+						[
+							11.0019399,
+							45.7581151
+						],
+						[
+							11.0020968,
+							45.758077
+						],
+						[
+							11.0021971,
+							45.7582685
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/101158681",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							10.7764295,
+							46.0508847
+						],
+						[
+							10.776425,
+							46.0507618
+						],
+						[
+							10.7765717,
+							46.0507592
+						],
+						[
+							10.7765762,
+							46.0508821
+						],
+						[
+							10.7764295,
+							46.0508847
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "TNT",
+			"@id": "way/114931987",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.1083741,
+							46.1314902
+						],
+						[
+							11.1080366,
+							46.1308929
+						],
+						[
+							11.1080979,
+							46.1308763
+						],
+						[
+							11.1079891,
+							46.1306838
+						],
+						[
+							11.1086358,
+							46.1305083
+						],
+						[
+							11.109082,
+							46.1312982
+						],
+						[
+							11.1083741,
+							46.1314902
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/126273718",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.344108,
+							46.2503081
+						],
+						[
+							11.3442988,
+							46.2504004
+						],
+						[
+							11.3441295,
+							46.2505029
+						],
+						[
+							11.3439632,
+							46.2504074
+						],
+						[
+							11.344108,
+							46.2503081
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/143757458",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.1959135,
+							46.0058048
+						],
+						[
+							11.1959551,
+							46.0059492
+						],
+						[
+							11.1956898,
+							46.0059861
+						],
+						[
+							11.1956483,
+							46.0058417
+						],
+						[
+							11.1959135,
+							46.0058048
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "way/169492578",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.1714407,
+							45.9163288
+						],
+						[
+							11.1714968,
+							45.9164373
+						],
+						[
+							11.1713505,
+							45.9164739
+						],
+						[
+							11.1712945,
+							45.9163653
+						],
+						[
+							11.1714407,
+							45.9163288
+						]
+					]
+				]
+			},
+			"addr:city": "Folgaria",
+			"addr:housenumber": "27 - 25",
+			"addr:postcode": "38064",
+			"addr:street": "Via Monte Cornetto"
+		},
+		{
+			"@id": "way/169780774",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.2612787,
+							45.9931378
+						],
+						[
+							11.2612003,
+							45.9932452
+						],
+						[
+							11.2609909,
+							45.9931715
+						],
+						[
+							11.2610692,
+							45.9930641
+						],
+						[
+							11.2612787,
+							45.9931378
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "way/189995858",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.1365978,
+							46.4405483
+						],
+						[
+							11.1365801,
+							46.4405437
+						],
+						[
+							11.136543,
+							46.4406113
+						],
+						[
+							11.1363329,
+							46.4405566
+						],
+						[
+							11.1363572,
+							46.4405123
+						],
+						[
+							11.1363423,
+							46.4405084
+						],
+						[
+							11.1363964,
+							46.4404098
+						],
+						[
+							11.1364158,
+							46.4404148
+						],
+						[
+							11.1364412,
+							46.4403685
+						],
+						[
+							11.1366645,
+							46.4404266
+						],
+						[
+							11.1365978,
+							46.4405483
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/210472097",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.5998241,
+							46.3139982
+						],
+						[
+							11.5999957,
+							46.313887
+						],
+						[
+							11.6001432,
+							46.3140037
+						],
+						[
+							11.6000467,
+							46.3140741
+						],
+						[
+							11.5999716,
+							46.3141075
+						],
+						[
+							11.5998241,
+							46.3139982
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/217898183",
+			"opening_hours": "We 09:00-12:00 Fr 09:-12:00",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.669064,
+							45.990206
+						],
+						[
+							11.669146,
+							45.9900873
+						],
+						[
+							11.6693691,
+							45.9901652
+						],
+						[
+							11.6693357,
+							45.990217
+						],
+						[
+							11.6692893,
+							45.9902821
+						],
+						[
+							11.6692551,
+							45.9902717
+						],
+						[
+							11.669064,
+							45.990206
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale",
+			"@id": "way/253791977",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.3130721,
+							46.2226634
+						],
+						[
+							11.3132331,
+							46.2225855
+						],
+						[
+							11.313335,
+							46.222681
+						],
+						[
+							11.31317,
+							46.2227571
+						],
+						[
+							11.3130721,
+							46.2226634
+						]
+					]
+				]
+			}
+		},
+		{
+			"@id": "way/430352746",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.6790762,
+							46.1967678
+						],
+						[
+							11.6792843,
+							46.1965904
+						],
+						[
+							11.6793386,
+							46.1966212
+						],
+						[
+							11.6793857,
+							46.1966519
+						],
+						[
+							11.6791741,
+							46.1968244
+						],
+						[
+							11.6790762,
+							46.1967678
+						]
+					]
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/258015066",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1539231,
+					46.0659486
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "4",
+			"addr:postcode": "38123",
+			"addr:street": "Piazza Giannantonio Manci"
+		},
+		{
+			"@id": "node/261086648",
+			"opening_hours": "Mo-Fr 08:00-13:30; Sa 08:00-12:30",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.4361527,
+					46.2817452
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/261710690",
+			"opening_hours": "Mo-Fr 08:20-19:05; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1274664,
+					46.0586817
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "1",
+			"addr:postcode": "38123",
+			"addr:street": "Viale Verona"
+		},
+		{
+			"@id": "node/269388603",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.2448507,
+					46.1302098
+				]
+			}
+		},
+		{
+			"@id": "node/269615853",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0313629,
+					45.8710066
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/281487579",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8002863,
+					46.315839
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/292018684",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1443214,
+					46.075702
+				]
+			},
+			"addr:city": "Trento",
+			"addr:housenumber": "4",
+			"addr:postcode": "38121",
+			"addr:street": "Via alla Veduta"
+		},
+		{
+			"@id": "node/299263410",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8410635,
+					45.9078618
+				]
+			}
+		},
+		{
+			"@id": "node/303850135",
+			"opening_hours": "Mo-Fr 8:00-13:30; Sa 8:00-12:30",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1328804,
+					46.1927845
+				]
+			}
+		},
+		{
+			"@id": "node/305506964",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6725869,
+					46.4201374
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/312160779",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8760518,
+					45.8698918
+				]
+			}
+		},
+		{
+			"@id": "node/317056677",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.3000103,
+					46.011972
+				]
+			}
+		},
+		{
+			"@id": "node/329989826",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7174464,
+					45.8958536
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/335694858",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.7423471,
+					46.4761314
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/365500535",
+			"opening_hours": "Mo-Fr 08:30-13:45; Sa 08:30-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1302582,
+					46.0883575
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "2",
+			"addr:postcode": "38121",
+			"addr:street": "Via Bellavista"
+		},
+		{
+			"name": "Ufficio Postale",
+			"@id": "node/367891682",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.2704899,
+					45.9407487
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/393013244",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.844978,
+					45.8857792
+				]
+			},
+			"addr:city": "Riva del Garda",
+			"addr:country": "IT",
+			"addr:housenumber": "6",
+			"addr:postcode": "38066",
+			"addr:street": "Largo Bensheim"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/414988146",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.6947497,
+					46.3504262
+				]
+			}
+		},
+		{
+			"@id": "node/428818021",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.23178,
+					45.9678203
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/431622345",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1183484,
+					46.0756005
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "53",
+			"addr:postcode": "38122",
+			"addr:street": "Via Giovanni Antonio Scopoli"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/434841559",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1090994,
+					46.0396186
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "5",
+			"addr:postcode": "38123",
+			"addr:street": "Via Berlina"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/441411733",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.131729,
+					46.0389755
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "19",
+			"addr:postcode": "38123",
+			"addr:street": "Via Ancilla Marighetto \"Ora\""
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/441414832",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1452225,
+					46.0475623
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "24",
+			"addr:street": "Via della Villa"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/441836391",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.124929,
+					46.0498263
+				]
+			},
+			"addr:city": "Trento",
+			"addr:housenumber": "31",
+			"addr:postcode": "38123",
+			"addr:street": "Via Alcide Degasperi"
+		},
+		{
+			"@id": "node/520629207",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.221521,
+					46.1748254
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale Tassullo",
+			"@id": "node/536472442",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0499795,
+					46.3360357
+				]
+			},
+			"addr:city": "Tassullo",
+			"addr:country": "IT",
+			"addr:housenumber": "4",
+			"addr:postcode": "38010",
+			"addr:street": "Via dei Brattia"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/558628462",
+			"opening_hours": "Mo-Fr 08:20-19:05; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1227397,
+					46.0717538
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "43",
+			"addr:postcode": "38122",
+			"addr:street": "Via Antonio Gazzoletti"
+		},
+		{
+			"name": "Ufficio Postale Lavis",
+			"@id": "node/560931500",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1120497,
+					46.13822
+				]
+			}
+		},
+		{
+			"name": "San Bernardo",
+			"@id": "node/616524568",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8494093,
+					46.3987392
+				]
+			}
+		},
+		{
+			"@id": "node/695821728",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1205919,
+					46.3943172
+				]
+			}
+		},
+		{
+			"@id": "node/702859072",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8735089,
+					46.0354319
+				]
+			}
+		},
+		{
+			"@id": "node/721098531",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.6930792,
+					46.0007847
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/737129646",
+			"opening_hours": "Mo-Fr 08:00-13:30; Sa 08:00-12:30",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6866641,
+					46.4303512
+				]
+			},
+			"addr:city": "Pozza di Fassa",
+			"addr:country": "IT",
+			"addr:housenumber": "11",
+			"addr:postcode": "38036",
+			"addr:street": "Piaza de Comun"
+		},
+		{
+			"name": "Ufficio Postale di Fiera di Primiero",
+			"@id": "node/739108591",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.8287396,
+					46.1757077
+				]
+			},
+			"addr:housenumber": "1"
+		},
+		{
+			"@id": "node/748785556",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9543297,
+					45.8177949
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/811780223",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1541534,
+					45.8914381
+				]
+			}
+		},
+		{
+			"@id": "node/848796935",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0857989,
+					46.2656018
+				]
+			}
+		},
+		{
+			"@id": "node/885639365",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0931157,
+					46.212695
+				]
+			},
+			"addr:city": "Mezzolombardo",
+			"addr:country": "IT",
+			"addr:housenumber": "3/A",
+			"addr:postcode": "38017",
+			"addr:street": "Via Francesco Filos"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/945390411",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0331985,
+					46.3632348
+				]
+			},
+			"addr:city": "Cles",
+			"addr:country": "IT",
+			"addr:housenumber": "24",
+			"addr:postcode": "38023",
+			"addr:street": "Via Alcide Degasperi"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/948757807",
+			"opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1179937,
+					46.0566851
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "8/7",
+			"addr:postcode": "38122",
+			"addr:street": "Via dei Muredei"
+		},
+		{
+			"@id": "node/1039916881",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0079136,
+					45.8434641
+				]
+			}
+		},
+		{
+			"@id": "node/1098424182",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8400462,
+					46.3212408
+				]
+			}
+		},
+		{
+			"@id": "node/1122693867",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0278902,
+					46.1833858
+				]
+			}
+		},
+		{
+			"@id": "node/1126419916",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0481353,
+					46.2185676
+				]
+			}
+		},
+		{
+			"@id": "node/1239897193",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.3389974,
+					46.2624679
+				]
+			}
+		},
+		{
+			"@id": "node/1256076142",
+			"opening_hours": "Mo-Fr 08:00-13:30; Sa 08:00-12:30",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1698874,
+					46.2488571
+				]
+			},
+			"addr:city": "Rover\u00c3\u00a9 della Luna",
+			"addr:country": "IT",
+			"addr:housenumber": "5",
+			"addr:postcode": "38030",
+			"addr:street": "Via Antonio Rosmini"
+		},
+		{
+			"name": "TNT Post",
+			"@id": "node/1271638618",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1267424,
+					46.0373822
+				]
+			},
+			"addr:housenumber": "13",
+			"addr:street": "Via Ragazzi del '99"
+		},
+		{
+			"@id": "node/1277581304",
+			"opening_hours": "Mo, We, Fr 08:20-13:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0739975,
+					46.3653445
+				]
+			}
+		},
+		{
+			"@id": "node/1283973474",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8422325,
+					46.0043363
+				]
+			}
+		},
+		{
+			"name": "Filiale di Nomi",
+			"@id": "node/1293797372",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0709515,
+					45.9290132
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/1294610643",
+			"opening_hours": "Mo-Fr 08:20-19:05; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1236516,
+					46.0668575
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "20",
+			"addr:postcode": "38122",
+			"addr:street": "Via Calepina"
+		},
+		{
+			"@id": "node/1308870004",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 8:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0974999,
+					46.1516911
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/1331576505",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1280347,
+					46.0060993
+				]
+			},
+			"addr:housenumber": "4",
+			"addr:street": "Via Guido Poli"
+		},
+		{
+			"@id": "node/1357185930",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8535191,
+					46.0516848
+				]
+			},
+			"addr:city": "Stenico",
+			"addr:country": "IT",
+			"addr:housenumber": "2",
+			"addr:postcode": "38070",
+			"addr:street": "Piazza Dante Alighieri"
+		},
+		{
+			"name": "Ufficio Postale",
+			"@id": "node/1358269034",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.8060802,
+					46.1544002
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/1363980767",
+			"opening_hours": "Mo-Sa 08:20-13:35; Su 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0600443,
+					46.0716143
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "6",
+			"addr:postcode": "38123",
+			"addr:street": "Via di Revolta"
+		},
+		{
+			"@id": "node/1363982091",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0635344,
+					46.0868292
+				]
+			}
+		},
+		{
+			"@id": "node/1370061282",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0635233,
+					45.9186424
+				]
+			}
+		},
+		{
+			"@id": "node/1381612315",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0693868,
+					46.1779079
+				]
+			}
+		},
+		{
+			"@id": "node/1449166975",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0660026,
+					46.320254
+				]
+			}
+		},
+		{
+			"@id": "node/1519985258",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8282433,
+					46.2317355
+				]
+			}
+		},
+		{
+			"@id": "node/1584063985",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6685534,
+					46.3958081
+				]
+			}
+		},
+		{
+			"@id": "node/1590167280",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0309982,
+					46.2995134
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale Aldeno",
+			"@id": "node/1739080456",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0913986,
+					45.9775229
+				]
+			},
+			"addr:city": "Aldeno",
+			"addr:postcode": "38068",
+			"addr:street": "Via Roma"
+		},
+		{
+			"name": "Poste",
+			"@id": "node/1764382957",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.4941594,
+					46.0525898
+				]
+			},
+			"addr:city": "Castelnuovo",
+			"addr:country": "IT",
+			"addr:housenumber": "3",
+			"addr:postcode": "38050",
+			"addr:street": "Piazza del Municipio",
+			"addr:province": "TN"
+		},
+		{
+			"@id": "node/1795292011",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.5796114,
+					45.8483361
+				]
+			}
+		},
+		{
+			"@id": "node/1843996778",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7638784,
+					46.1691465
+				]
+			}
+		},
+		{
+			"@id": "node/1851486815",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9499698,
+					45.889573
+				]
+			}
+		},
+		{
+			"name": "Posta",
+			"@id": "node/1906596657",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0480428,
+					46.2746105
+				]
+			}
+		},
+		{
+			"@id": "node/1998371498",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.928846,
+					46.2045231
+				]
+			}
+		},
+		{
+			"@id": "node/2018656056",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.5998977,
+					45.888797
+				]
+			}
+		},
+		{
+			"@id": "node/2049523861",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1206117,
+					46.2153602
+				]
+			}
+		},
+		{
+			"@id": "node/2070850169",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9879751,
+					46.0617671
+				]
+			}
+		},
+		{
+			"@id": "node/2168732865",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0082739,
+					45.8846866
+				]
+			}
+		},
+		{
+			"@id": "node/2188712125",
+			"opening_hours": "Mo-Fr 08:20-13:45; Tu off; Th off",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.7965517,
+					46.1508148
+				]
+			},
+			"addr:housenumber": "107",
+			"addr:postcode": "38050",
+			"addr:street": "Via Nazionale"
+		},
+		{
+			"@id": "node/2202405650",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9536856,
+					46.0475593
+				]
+			}
+		},
+		{
+			"@id": "node/2331890836",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.2415523,
+					46.003976
+				]
+			}
+		},
+		{
+			"@id": "node/2364875151",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0053252,
+					46.165829
+				]
+			},
+			"addr:city": "Andalo",
+			"addr:country": "IT",
+			"addr:housenumber": "7/A",
+			"addr:postcode": "38010",
+			"addr:street": "Via don Faustino Tenaglia"
+		},
+		{
+			"name": "Ufficio postale di Tione di Trento",
+			"@id": "node/2378446080",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.726849,
+					46.0329272
+				]
+			}
+		},
+		{
+			"@id": "node/2405762110",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.983247,
+					46.04534
+				]
+			}
+		},
+		{
+			"@id": "node/2429213752",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8750004,
+					46.3247875
+				]
+			}
+		},
+		{
+			"@id": "node/2503395890",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.2585055,
+					46.1875147
+				]
+			}
+		},
+		{
+			"@id": "node/2516808176",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.983017,
+					46.0239632
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale Cavedine",
+			"@id": "node/2544564244",
+			"opening_hours": "Mo-Sa",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9725962,
+					45.9943696
+				]
+			},
+			"addr:city": "Cavedine",
+			"addr:postcode": "38073",
+			"addr:street": "Via Ospedale"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/2640722269",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0331221,
+					45.914175
+				]
+			}
+		},
+		{
+			"@id": "node/2872856133",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9749615,
+					45.8529443
+				]
+			}
+		},
+		{
+			"@id": "node/2888580718",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1191077,
+					45.7826222
+				]
+			}
+		},
+		{
+			"@id": "node/2963240457",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9660863,
+					46.1428497
+				]
+			},
+			"addr:city": "Molveno",
+			"addr:country": "IT",
+			"addr:housenumber": "1",
+			"addr:postcode": "38018",
+			"addr:street": "Piazza Guglielmo Marconi"
+		},
+		{
+			"name": "Poste Impresa",
+			"@id": "node/3148715143",
+			"opening_hours": "Mo-Fr 09:00-19:00",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1238831,
+					46.0668812
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "20",
+			"addr:postcode": "38122",
+			"addr:street": "Via Calepina"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/3148715145",
+			"opening_hours": "Mo-Fr 09:00-13:00; Th 09:00-16:00",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1120084,
+					46.0667904
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "14",
+			"addr:postcode": "38122",
+			"addr:street": "Lungadige San Nicol\u00c3\u00b2"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/3148715146",
+			"opening_hours": "Mo-Fr 08:20-19:05; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1177962,
+					46.095482
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "5",
+			"addr:postcode": "38121",
+			"addr:street": "Via Giovanni Battista Trener"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/3148715147",
+			"opening_hours": "Mo-Fr 08:20-13:35; Sa 08:20-12:35",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1113458,
+					46.1086818
+				]
+			},
+			"addr:city": "Trento",
+			"addr:country": "IT",
+			"addr:housenumber": "7",
+			"addr:postcode": "38121",
+			"addr:street": "Piazza della Libert\u00c3\u00a0"
+		},
+		{
+			"name": "GLS Corriere Espresso",
+			"@id": "node/3154023112",
+			"opening_hours": "Mo-Fr 08:30-13:00,14:30-18:00;Sa 08:30-12:00",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0965236,
+					46.1238882
+				]
+			},
+			"addr:city": "Trento",
+			"addr:housenumber": "15",
+			"addr:postcode": "38121",
+			"addr:street": "Via Praga"
+		},
+		{
+			"@id": "node/3302135615",
+			"opening_hours": "Mo-Fr 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.7745157,
+					46.4764164
+				]
+			}
+		},
+		{
+			"name": "Poste",
+			"@id": "node/3434313515",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0885822,
+					46.3486974
+				]
+			},
+			"addr:city": "Coredo",
+			"addr:postcode": "38012"
+		},
+		{
+			"name": "Ufficio Postale",
+			"@id": "node/3766951507",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0944245,
+					45.9346872
+				]
+			},
+			"addr:city": "Calliano",
+			"addr:country": "IT",
+			"addr:housenumber": "22",
+			"addr:postcode": "38060",
+			"addr:street": "Via Arminio Valentini"
+		},
+		{
+			"name": "Ufficio Postale Strigno",
+			"@id": "node/3876011270",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.5235447,
+					46.0659123
+				]
+			},
+			"addr:city": "Castel Ivano",
+			"addr:country": "IT",
+			"addr:housenumber": "16",
+			"addr:postcode": "38059",
+			"addr:street": "Piazza 4 Novembre",
+			"addr:province": "TN"
+		},
+		{
+			"name": "Poste Trentine",
+			"@id": "node/3964526456",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1309723,
+					46.0480023
+				]
+			},
+			"addr:city": "Trento",
+			"addr:housenumber": "186",
+			"addr:postcode": "38123",
+			"addr:street": "Viale Verona"
+		},
+		{
+			"@id": "node/4076455344",
+			"opening_hours": "Mo,We,Fr 08:20-13:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1098529,
+					45.9417872
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/4147676283",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6333688,
+					46.0647214
+				]
+			},
+			"addr:city": "Castello Tesino",
+			"addr:postcode": "38053",
+			"addr:street": "Piazza San Giorgio"
+		},
+		{
+			"@id": "node/4202862144",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.5066438,
+					46.0638571
+				]
+			},
+			"addr:city": "Scurelle",
+			"addr:country": "IT",
+			"addr:housenumber": "3",
+			"addr:postcode": "38050",
+			"addr:street": "Piazza Don Clemente Benetti",
+			"addr:province": "TN"
+		},
+		{
+			"@id": "node/4215202573",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.4559396,
+					46.0533279
+				]
+			},
+			"addr:city": "Borgo Valsugana",
+			"addr:country": "IT",
+			"addr:housenumber": "1",
+			"addr:postcode": "38051",
+			"addr:street": "Piazza Alcide De Gasperi",
+			"addr:province": "TN"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/4354549477",
+			"opening_hours": "Tu,Th 08:20-13:45; Sa 08:20-12:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1168126,
+					46.4561098
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/4357712779",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.1076234,
+					46.4309101
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale Cloz",
+			"@id": "node/4415029191",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0872562,
+					46.4192902
+				]
+			},
+			"addr:city": "Cloz",
+			"addr:housenumber": "2",
+			"addr:postcode": "38020",
+			"addr:street": "Via Santo Stefano"
+		},
+		{
+			"name": "Poste Italiane ",
+			"@id": "node/4519459157",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.7327532,
+					46.1551397
+				]
+			}
+		},
+		{
+			"@id": "node/4548205500",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6791869,
+					46.1967421
+				]
+			}
+		},
+		{
+			"@id": "node/4550215591",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.3519744,
+					46.1295871
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/4582441581",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.4622626,
+					46.2915152
+				]
+			}
+		},
+		{
+			"name": "Molina di Ledro",
+			"@id": "node/4939629730",
+			"opening_hours": "Mo,We,Fr 08:20-13:45",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7743236,
+					45.8707513
+				]
+			}
+		},
+		{
+			"@id": "node/5001151167",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.621614,
+					45.9473162
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale Varena",
+			"@id": "node/5352803559",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.455991,
+					46.3034982
+				]
+			}
+		},
+		{
+			"@id": "node/5401488460",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8974717,
+					46.0732042
+				]
+			}
+		},
+		{
+			"name": "Ufficio Postale",
+			"@id": "node/5714514994",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0419397,
+					45.9266801
+				]
+			}
+		},
+		{
+			"@id": "node/5822408788",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.388744,
+					46.0308834
+				]
+			},
+			"addr:city": "Roncegno Terme",
+			"addr:country": "IT",
+			"addr:housenumber": "5",
+			"addr:postcode": "38050",
+			"addr:street": "Via Nazionale",
+			"addr:province": "TN"
+		},
+		{
+			"@id": "node/6387460432",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.5106381,
+					46.289402
+				]
+			}
+		},
+		{
+			"name": "Tenno",
+			"@id": "node/6468759445",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8327877,
+					45.9178183
+				]
+			}
+		},
+		{
+			"@id": "node/6609204560",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6358109,
+					46.0159069
+				]
+			},
+			"addr:city": "Grigno",
+			"addr:country": "IT",
+			"addr:postcode": "38055",
+			"addr:street": "Via Cesare Battisti",
+			"addr:province": "TN"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/6677082671",
+			"opening_hours": "Mo-Fr 09:20-12:20",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.7303716,
+					46.3102509
+				]
+			},
+			"addr:housenumber": "3",
+			"addr:street": "Via Bartolomeo Bezzi"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/6726125807",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9992333,
+					46.0774088
+				]
+			},
+			"addr:housenumber": "43/2",
+			"addr:street": "Via Picarel"
+		},
+		{
+			"name": "Postomt - Poste Italiane",
+			"@id": "node/6873286139",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.3103899,
+					46.1001584
+				]
+			},
+			"addr:city": "Fierozzo - Vlarotz",
+			"addr:housenumber": "8",
+			"addr:postcode": "38050",
+			"addr:street": "Pl\u00c3\u00b3tzer - Maso Plozzeri"
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/6885429432",
+			"opening_hours": "Mo-Fr 08:20-13:45, Sa 08:20-12:45; Su, PH off",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.481043,
+					46.0708592
+				]
+			},
+			"addr:city": "Telve",
+			"addr:housenumber": "11",
+			"addr:postcode": "38050",
+			"addr:street": "Via Paradiso"
+		},
+		{
+			"@id": "node/7644628849",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.0733946,
+					45.8694492
+				]
+			}
+		},
+		{
+			"name": "Poste Italiane",
+			"@id": "node/7663564479",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.6155325,
+					46.0556269
+				]
+			}
+		},
+		{
+			"@id": "node/7782176103",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.8458113,
+					46.4010863
+				]
+			},
+			"addr:city": "Rabbi",
+			"addr:housenumber": "143",
+			"addr:postcode": "38020"
+		}
+	]
+}

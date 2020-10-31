@@ -26,5 +26,254 @@
 			"properties.piste_difficulty",
 			"geometry"
 		]
+	},
+	"roads.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.highway",
+			"geometry"
+		]
+	},
+	"railway.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"geometry"
+		]
+	},
+	"post_office.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.opening_hours",
+			"geometry",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"properties.addr:province"
+		]
+	},
+	"piste_ciclabili.csv": {
+		"iterator": "",
+		"props": [
+			"WKT",
+			"tipo",
+			"fumetto",
+			"tipologia",
+			"tratto isolato ciclabile",
+			"tratto isolato ciclopedonale",
+			"anno"
+		]
+	},
+	"pharmacy.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.opening_hours",
+			"geometry",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street"
+		]
+	},
+	"parking.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.fee",
+			"properties.capacity",
+			"properties.@id",
+			"properties.opening_hours",
+			"geometry",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street"
+		]
+	},
+	"park.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.leisure",
+			"properties.@id",
+			"properties.opening_hours",
+			"geometry",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"properties.playground",
+			"properties.playground:1",
+			"properties.playground:2",
+			"properties.playground:3",
+			"properties.playground:basketswing",
+			"properties.playground:chain_ladder",
+			"properties.playground:slide",
+			"properties.playground:swing",
+			"properties.playground:aerialrotator",
+			"properties.playground:basketball_backboard",
+			"properties.playground:exercise",
+			"properties.playground:horizontal_bar",
+			"properties.playground:seesaw",
+			"properties.playground:tunnel_tube",
+			"properties.playground:climbingframe",
+			"properties.playground:multi_play",
+			"properties.playground:sandpit",
+			"properties.playground:theme",
+			"properties.playground:skate_equipment",
+			"properties.playground:teenshelter",
+			"properties.playground:water"
+		]
+	},
+	"internet_quality_trento.csv": {
+		"iterator": "",
+		"props": [
+			"comune",
+			"frazione",
+			"via",
+			"civico",
+			"barrato",
+			"class_19"
+		]
+	},
+	"climb.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.opening_hours",
+			"geometry",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"properties.climbing:grade_french_max",
+			"properties.climbing;grade_french_min",
+			"properties.climbing:grade_french_mean",
+			"properties.height"
+		]
+	},
+	"civici_web.json": {
+		"iterator": "features",
+		"props": [
+			"properties.civico_num",
+			"properties.desvia",
+			"properties.fumetto",
+			"properties.sobborgo",
+			"geometry"
+		]
+	},
+	"city_center.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.id",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"geometry"
+		]
+	},
+	"busstop.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"geometry"
+		]
+	},
+	"bank.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.atm",
+			"properties.@id",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"geometry"
+		]
+	},
+	"areaski.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.name",
+			"properties.@id",
+			"geometry"
+		]
+	},
+	"schools/elementari.csv": {
+		"iterator": "",
+		"props": [
+			"WKT",
+			"civico_alf",
+			"strada",
+			"destra",
+			"sobborgo",
+			"scuola",
+			"fumetto",
+			"iscritti",
+			"personale",
+			"mail",
+			"telefono",
+			"iscritti_bes"
+		]
+	},
+	"schools/materne.csv": {
+		"iterator": "",
+		"props": [
+			"WKT",
+			"civico_alf",
+			"strada",
+			"destra",
+			"sobborgo",
+			"scuola",
+			"fumetto",
+			"iscritti",
+			"personale",
+			"mail",
+			"telefono",
+			"iscritti_bes"
+		]
+	},
+	"schools/medie.csv": {
+		"iterator": "",
+		"props": [
+			"WKT",
+			"civico_alf",
+			"strada",
+			"destra",
+			"sobborgo",
+			"scuola",
+			"fumetto",
+			"iscritti",
+			"personale",
+			"mail",
+			"telefono",
+			"iscritti_bes"
+		]
+	},
+	"schools/superiori.csv": {
+		"iterator": "",
+		"props": [
+			"name",
+			"address",
+			"school type",
+			"study paths"
+		]
 	}
 }
