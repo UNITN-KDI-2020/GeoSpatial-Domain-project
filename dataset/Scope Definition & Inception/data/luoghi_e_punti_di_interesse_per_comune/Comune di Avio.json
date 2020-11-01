@@ -1,1 +1,62 @@
-{"query":"classes 'luogo'","nextPageQuery":null,"totalCount":1,"searchHits":[{"metadata":{"id":6845,"remoteId":"c2fe4186e177aa7fad16d3c751bd2281","classIdentifier":"luogo","class":"http:\/\/www.comune.avio.tn.it\/api\/opendata\/v2\/classes\/luogo","ownerId":1463,"ownerName":{"ita-IT":"Piccoli Giorgio"},"mainNodeId":5987,"sectionIdentifier":"standard","stateIdentifiers":["ez_lock.not_locked","albotelematico.visibile","moderation.skipped","programma_eventi.public","privacy.public"],"published":"2016-04-01T21:39:34+02:00","modified":"2016-04-01T21:39:34+02:00","languages":["ita-IT"],"name":{"ita-IT":""},"parentNodes":[5973],"link":"http:\/\/www.comune.avio.tn.it\/api\/opendata\/v2\/content\/read\/6845"},"data":{"ita-IT":{"title":null,"abstract":"","descrizione":"<p class=\" text-justify\"><b>Fuori pista: una pedalata nella storia<\/b><\/p><p> <\/p>\n<div class=\"object-right\">\n<div class=\"imageright\"><img src=\"\/var\/avio\/storage\/images\/media\/images\/cimg1312-rid\/77703-1-ita-IT\/CIMG1312-rid_medium.jpg\" alt=\"\" \/>\n<div style=\"width: 200px;\">\n\n<\/div>\n<\/div>\n<\/div><p>Muoversi in libert\u00e0, da soli o in compagnia, su percorsi protetti e lontani dal traffico. Scoprire il territorio in maniera \u201clenta\u201d. Seguire la voce del cuore concedendosi, di quando in quando, momenti di sosta per lasciare libero lo sguardo di accarezzare il paesaggio o fissarsi sui dettagli di un manufatto. Sono sempre di pi\u00f9 gli appassionati delle due ruote che scelgono di conoscere il territorio con un approccio dolce.In una regione attraversata da una fitta rete di piste ciclabili, anche il territorio di Avio offre agli amanti della mobilit\u00e0 alternativa la possibilit\u00e0 di un itinerario straordinario, proprio a partire dal tracciato dell'antica Via Claudia Augusta che univa Ostiglia con Augsburg, passando per Trento e Verona, due citt\u00e0 oggi collegate con una pista ciclabile che corre lungo l'asta del fiume Adige ed \u00e8 servita da un efficiente servizio di treni che nelle numerose piccole stazioni lungo il percorso raccoglie chi pensa di aver gi\u00e0 dato abbastanza.A partire dall'area sosta del bicigrill il cicloamatore potr\u00e0, poi, addentrarsi nelle strade poco trafficate dei diversi borghi del nostro comune, raggiungere il castello, la Casa del Vicario, l'Antica Pieve, per portasi, poi, a Borghetto e a San Leonardo. Infine, attraversando i vigneti del territorio, si potr\u00e0 riprendere la ciclabile.Un anello di pochi chilometri dove storia, natura e paesaggio si incontrano.<\/p>","tipo_luogo":[],"geo":{"latitude":0,"longitude":0,"address":""},"image":null,"comune":[],"tags":[],"fonte":null,"indirizzo":null,"url":null,"email":null,"telefono":null}}}],"facets":[]}
+{
+	"query": "classes 'luogo'",
+	"nextPageQuery": null,
+	"totalCount": 1,
+	"searchHits": [
+		{
+			"metadata": {
+				"id": 6845,
+				"remoteId": "c2fe4186e177aa7fad16d3c751bd2281",
+				"classIdentifier": "luogo",
+				"class": "http:\/\/www.comune.avio.tn.it\/api\/opendata\/v2\/classes\/luogo",
+				"ownerId": 1463,
+				"ownerName": {
+					"ita-IT": "Piccoli Giorgio"
+				},
+				"mainNodeId": 5987,
+				"sectionIdentifier": "standard",
+				"stateIdentifiers": [
+					"ez_lock.not_locked",
+					"albotelematico.visibile",
+					"moderation.skipped",
+					"programma_eventi.public",
+					"privacy.public"
+				],
+				"published": "2016-04-01T21:39:34+02:00",
+				"modified": "2016-04-01T21:39:34+02:00",
+				"languages": [
+					"ita-IT"
+				],
+				"name": {
+					"ita-IT": ""
+				},
+				"parentNodes": [
+					5973
+				],
+				"link": "http:\/\/www.comune.avio.tn.it\/api\/opendata\/v2\/content\/read\/6845"
+			},
+			"data": {
+				"ita-IT": {
+					"title": null,
+					"abstract": "",
+					"descrizione": "<p class=\" text-justify\"><b>Fuori pista: una pedalata nella storia<\/b><\/p><p> <\/p>\n<div class=\"object-right\">\n<div class=\"imageright\"><img src=\"\/var\/avio\/storage\/images\/media\/images\/cimg1312-rid\/77703-1-ita-IT\/CIMG1312-rid_medium.jpg\" alt=\"\" \/>\n<div style=\"width: 200px;\">\n\n<\/div>\n<\/div>\n<\/div><p>Muoversi in libert\u00e0, da soli o in compagnia, su percorsi protetti e lontani dal traffico. Scoprire il territorio in maniera \u201clenta\u201d. Seguire la voce del cuore concedendosi, di quando in quando, momenti di sosta per lasciare libero lo sguardo di accarezzare il paesaggio o fissarsi sui dettagli di un manufatto. Sono sempre di pi\u00f9 gli appassionati delle due ruote che scelgono di conoscere il territorio con un approccio dolce.In una regione attraversata da una fitta rete di piste ciclabili, anche il territorio di Avio offre agli amanti della mobilit\u00e0 alternativa la possibilit\u00e0 di un itinerario straordinario, proprio a partire dal tracciato dell'antica Via Claudia Augusta che univa Ostiglia con Augsburg, passando per Trento e Verona, due citt\u00e0 oggi collegate con una pista ciclabile che corre lungo l'asta del fiume Adige ed \u00e8 servita da un efficiente servizio di treni che nelle numerose piccole stazioni lungo il percorso raccoglie chi pensa di aver gi\u00e0 dato abbastanza.A partire dall'area sosta del bicigrill il cicloamatore potr\u00e0, poi, addentrarsi nelle strade poco trafficate dei diversi borghi del nostro comune, raggiungere il castello, la Casa del Vicario, l'Antica Pieve, per portasi, poi, a Borghetto e a San Leonardo. Infine, attraversando i vigneti del territorio, si potr\u00e0 riprendere la ciclabile.Un anello di pochi chilometri dove storia, natura e paesaggio si incontrano.<\/p>",
+					"tipo_luogo": [],
+					"geo": {
+						"latitude": 0,
+						"longitude": 0,
+						"address": ""
+					},
+					"image": null,
+					"comune": [],
+					"tags": [],
+					"fonte": null,
+					"indirizzo": null,
+					"url": null,
+					"email": null,
+					"telefono": null
+				}
+			}
+		}
+	],
+	"facets": []
+}

@@ -1,0 +1,194 @@
+{
+	"records": [
+		{
+			"id": 1321,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.94333,
+					46.365324
+				]
+			},
+			"name": "Chiesa parrocchiale di San Bartolomeo ",
+			"geo": "Piazza San Bartolomeo, Caldes"
+		},
+		{
+			"id": 1322,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.944381,
+					46.365673
+				]
+			},
+			"name": "Castel Caldes",
+			"geo": "via al castello, caldes"
+		},
+		{
+			"id": 1332,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.94089,
+					46.36932
+				]
+			},
+			"name": "Chiesa di San Vigilio",
+			"geo": "Via Dei Tolameotti 19, caldes"
+		},
+		{
+			"id": 1337,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.984224,
+					46.387805
+				]
+			},
+			"name": "Chiesa dei Santi Pietro e Paolo ",
+			"geo": "strada stale 42, bozzana"
+		},
+		{
+			"id": 1342,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.976589,
+					46.391552
+				]
+			},
+			"name": "Chiesa dell\u2019Annunciazione di Maria ",
+			"geo": "bordiana, caldes"
+		},
+		{
+			"id": 1345,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.971788,
+					46.382191
+				]
+			},
+			"name": "Chiesa della Madonna del Carmine (XVII sec.)",
+			"geo": "tozzaga, caldes"
+		},
+		{
+			"id": 1346,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9605,
+					46.37643
+				]
+			},
+			"name": "Chiesa di S.Tommaso apostolo ",
+			"geo": "via michele comini 18, caldes"
+		},
+		{
+			"id": 1349,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.962446,
+					46.38006
+				]
+			},
+			"name": "Chiesa di S. Giacomo (XVI sec.)",
+			"geo": "san giacomo, caldes"
+		},
+		{
+			"id": 1467,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.938774,
+					46.365537
+				]
+			},
+			"name": "Caldes",
+			"geo": "caldes"
+		},
+		{
+			"id": 1469,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.937469,
+					46.365038
+				]
+			},
+			"name": "Samoclevo",
+			"geo": "samoclevo"
+		},
+		{
+			"id": 1470,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.982556,
+					46.387062
+				]
+			},
+			"name": "Bozzana"
+		},
+		{
+			"id": 1471,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.976677,
+					46.391621
+				]
+			},
+			"name": "Bordiana"
+		},
+		{
+			"id": 1472,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.971788,
+					46.382191
+				]
+			},
+			"name": "Tozzaga",
+			"geo": "Tozzaga"
+		},
+		{
+			"id": 1473,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.960338,
+					46.376622
+				]
+			},
+			"name": "Cassana",
+			"geo": "cassana"
+		},
+		{
+			"id": 1474,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.962446,
+					46.38006
+				]
+			},
+			"name": "San Giacomo",
+			"geo": "san giacomo caldes"
+		},
+		{
+			"id": 1475,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.938774,
+					46.365537
+				]
+			},
+			"name": "Malga Palud\u00e8 di Sotto",
+			"geo": "caldes"
+		}
+	]
+}

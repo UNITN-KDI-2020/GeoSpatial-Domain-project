@@ -1,0 +1,22 @@
+{
+	"records": [
+		{
+			"id": 180364,
+			"name": "Parco Nazionale dello Stelvio",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 180393,
+			"name": " Parco Naturale Adamello Brenta",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		}
+	]
+}
