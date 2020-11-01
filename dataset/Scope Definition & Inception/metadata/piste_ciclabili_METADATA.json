@@ -1,0 +1,58 @@
+{
+    "Identificativo del dataset": "c_l378-1129110",
+    "Altro identificativo": "N/A",
+    "Temi del dataset": "Regioni e città",
+    "Editore del Dataset": {
+        "Nome": "Comune di Trento",
+        "Codice IPA/IVA": "c_l378"
+    },
+    "Data di rilascio":	"09-11-2017",
+    "Data di modifica":	"08-05-2019",
+    "Copertura Geografica":	"Area di competenza dell'unità organizzativa preposta",
+    "URI di GeoNames":	"http://www.geonames.org/6541469",
+    "Lingue del dataset":	"italiano",
+    "Estensione temporale":	"N/A",
+    "Titolare Nome": "Comune di Trento",
+    "Codice IPA/IVA": "c_l378",
+    "Frequenza di aggiornamento": "in continuo aggiornamento",
+    "Versione di": "N/A",
+    "Conforme a Standard": "REST/JSON",
+    "Autore":{
+        "Nome": "Comune di Trento",
+        "IPA/IVA": "c_l378"
+    },
+    "fields":{
+        "WKT": {
+                    "type": "list <int>",
+                    "description": "coordinates of the paths"
+                },
+        "tipo": {
+                    "type": "string",
+                    "description": "name of the typology of path (not useful)"
+                },
+        "fumetto": {
+                    "type": "string",
+                    "description": "name of the path"
+                },
+        "descrizione": {
+                    "type": "string",
+                    "description": "name of the path (equivalent to 'fumetto')"
+                },
+        "tipologia": {
+                    "type": "string",
+                    "description": "path dedicated only to cycle or also pedestrian"
+                },
+        "tratto isolato ciclabile": {
+                    "type": "int",
+                    "description": "meters without path dedicated to cycle"
+                },
+        "tratto isolato ciclopedonale": {
+                    "type": "int",
+                    "description": "meters without path dedicated to cycle or pedestrian"
+                },
+        "anno": {
+                    "type": "int",
+                    "description": "building year of cycle path"
+                }
+            }
+}

@@ -1,0 +1,68 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2020-10-19T09:57:03Z",
+	"fields": {
+		"properties": {
+			"fields": {
+				"@id": {
+					"type": "string",
+					"description": "identification code"
+				},
+				"fee": {
+					"type": "boolean",
+					"description": "The fee tag is for specifying whether a fee is usually charged for a service, or for access."
+				},
+				"capacity": {
+					"type": "int",
+					"description": "max capacity of the parking lot"
+				},
+				"name": {
+					"type": "string",
+					"description": "name of the location"
+				},
+				"addr:city": {
+					"type": "",
+					"description": ""
+				},
+				"addr:housenumber": {
+					"type": "int",
+					"description": "civic code"
+				},
+				"addr:postcode": {
+					"type": "int",
+					"description": "postal code of the location"
+				},
+				"addr:street": {
+					"type": "string",
+					"description": "street address of the location"
+				},
+				"opening_hours": {
+					"type": "string",
+					"description": "day and hours of opening"
+				}
+			},
+			"type": "map",
+			"description": "item of data"
+		},
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon"
+				}
+			}
+		}
+	}
+}
