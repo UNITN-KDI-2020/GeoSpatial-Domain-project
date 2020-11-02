@@ -1,1 +1,40 @@
-{"type": "FeatureCollection", "generator": "overpass-ide", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.", "timestamp": "2020-10-19T19:05:03Z", "fields": {"properties": {"fields": {"@id": {"type": "string", "description": "name that identifies a unique object"}, "name": {"type": "string", "description": "name of data"}}, "type": "map", "description": "item of data"}, "type": {"type": "string", "description": "type of data"}, "geometry": {"type": "map", "description": "geometrical features", "fields": {"type": {"type": "string", "description": "type of geometry"}, "coordinates": {"type": "array", "description": "array the points which compose the polygon"}}}}}
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2020-10-19T19:05:03Z",
+	"fields": {
+		"properties": {
+			"fields": {
+				"@id": {
+					"type": "string",
+					"description": "name that identifies a unique object"
+				},
+				"name": {
+					"type": "string",
+					"description": "name of data"
+				}
+			},
+			"type": "map",
+			"description": "item of data"
+		},
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon"
+				}
+			}
+		}
+	}
+}

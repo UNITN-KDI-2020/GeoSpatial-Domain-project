@@ -216,6 +216,13 @@
 			"geometry"
 		]
 	},
+	"building.geojson": {
+		"iterator": "features",
+		"props": [
+			"properties.@id",
+			"geometry"
+		]
+	},
 	"schools/elementari.csv": {
 		"iterator": "",
 		"props": [
