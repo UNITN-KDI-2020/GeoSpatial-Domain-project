@@ -1,46 +1,59 @@
 {
-	"type": "FeatureCollection",
-	"generator": "overpass-ide",
-	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-	"timestamp": "2020-10-19T09:57:03Z",
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-10-19T09:57:03Z",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
 	"fields": {
 		"properties": {
 			"fields": {
 				"@id": {
 					"type": "string",
-					"description": "identification code"
+					"description": "identification code",
+                    "data_definition": "core"
 				},
 				"fee": {
 					"type": "boolean",
-					"description": "The fee tag is for specifying whether a fee is usually charged for a service, or for access."
+					"description": "The fee tag is for specifying whether a fee is usually charged for a service, or for access.",
+                    "data_definition": "core"
 				},
 				"capacity": {
 					"type": "int",
-					"description": "max capacity of the parking lot"
+					"description": "max capacity of the parking lot",
+                    "data_definition": "core"
 				},
 				"name": {
 					"type": "string",
-					"description": "name of the location"
+					"description": "name of the location",
+                    "data_definition": "core"
 				},
 				"addr:city": {
-					"type": "",
-					"description": ""
+					"type": "string",
+					"description": "name of the city",
+                    "data_definition": "common"
 				},
 				"addr:housenumber": {
 					"type": "int",
-					"description": "civic code"
+					"description": "civic code",
+                    "data_definition": "common"
 				},
 				"addr:postcode": {
 					"type": "int",
-					"description": "postal code of the location"
+					"description": "postal code of the location",
+                    "data_definition": "common"
 				},
 				"addr:street": {
 					"type": "string",
-					"description": "street address of the location"
+					"description": "street address of the location",
+                    "data_definition": "common"
 				},
 				"opening_hours": {
 					"type": "string",
-					"description": "day and hours of opening"
+					"description": "day and hours of opening",
+                    "data_definition": "core"
 				}
 			},
 			"type": "map",
@@ -56,11 +69,13 @@
 			"fields": {
 				"type": {
 					"type": "string",
-					"description": "type of geometry"
+					"description": "type of geometry",
+                    "data_definition": "common"
 				},
 				"coordinates": {
 					"type": "array",
-					"description": "array the points which compose the polygon"
+					"description": "array the points which compose the polygon",
+                    "data_definition": "common"
 				}
 			}
 		}

@@ -1,1 +1,58 @@
-{"type": "FeatureCollection", "generator": "overpass-ide", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.", "timestamp": "2020-10-19T19:07:02Z", "fields": {"properties": {"fields": {"@id": {"type": "string", "description": "identification code"}, "name": {"type": "string", "description": "name of the ski slopes"}, "piste:type": {"type": "string", "description": "type of the skiing available (nordic, downhill)"}, "piste:difficulty": {"type": "string", "description": "difficulty level of the skislope (easy, intermediate, advanced)"}}, "type": "map", "description": "item of data"}, "type": {"type": "string", "description": "type of data"}, "geometry": {"type": "map", "description": "geometrical features", "fields": {"type": {"type": "string", "description": "type of geometry"}, "coordinates": {"type": "array", "description": "array the points which compose the polygon"}}}}}
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-10-19T19:07:02Z",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+    "fields": {
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "@id": {
+                    "type": "string",
+                    "description": "identification code",
+                    "data_definition": "core"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the ski slopes",
+                    "data_definition": "core"
+                },
+                "piste:type": {
+                    "type": "string",
+                    "description": "type of the skiing available (nordic, downhill)",
+                    "data_definition": "core"
+                },
+                "piste:difficulty": {
+                    "type": "string",
+                    "description": "difficulty level of the skislope (easy, intermediate, advanced)",
+                    "data_definition": "core"
+                }
+            },
+        },
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of geometry",
+                    "data_definition": "common"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon",
+                    "data_definition": "common"
+                }
+            }
+        }
+    }
+}

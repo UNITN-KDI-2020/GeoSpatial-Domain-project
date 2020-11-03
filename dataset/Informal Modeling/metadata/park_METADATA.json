@@ -1,1 +1,168 @@
-{"type": "FeatureCollection", "generator": "overpass-ide", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.", "timestamp": "2020-10-19T19:30:02Z", "fields": {"properties": {"fields": {"@id": {"type": "string", "description": "name that identifies a unique object"}, "leisure": {"type": "string", "description": "type of facility inside"}, "name": {"type": "string", "description": "the name of the facility"}, "playground": {"type": "string", "description": "describe the type of playground available"}, "playground:basketswing": {"type": "boolean", "description": "describe if the facility have a basketswing"}, "playground:chain_ladder": {"type": "boolean", "description": "describe if the facility have a chain ladder"}, "playground:slide": {"type": "boolean", "description": "describe if the facility have a slide"}, "playground:swing": {"type": "boolean", "description": "describe if the facility have a swing"}, "opening_hours": {"type": "string", "description": "the opening hours of the park"}, "addr:city": {"type": "string", "description": "the city component of the address"}, "addr:housenumber": {"type": "string", "description": "the house number component of the address"}, "addr:postcode": {"type": "string", "description": "the postal code component of the address"}, "addr:street": {"type": "string", "description": "the street component of the address"}, "playground:aerialrotator": {"type": "boolean", "description": "describe if the facility have an aerialrotator"}, "playground:basketball_backboard": {"type": "boolean", "description": "describe if a zone where play basketball is available"}, "playground:exercise": {"type": "boolean", "description": "describe if an equipment are for the exercise is present"}, "playground:horizontal_bar": {"type": "boolean", "description": "describe if an horizontal bar is present"}, "playground:seesaw": {"type": "boolean", "description": "describe if an seesaw is present"}, "playground:tunnel_tube": {"type": "boolean", "description": "describe if an tunnel tube is present"}, "playground:climbingframe": {"type": "boolean", "description": "describe if a climbing frame is present"}, "playground:multi_play": {"type": "boolean", "description": "describe if a multiple usage surface is available"}, "playground:sandpit": {"type": "boolean", "description": "describe if a sandpit is present"}, "playground:theme": {"type": "string", "description": "describe the theme of the park"}, "playground:skate_equipment": {"type": "boolean", "description": "describe if the park is equipment to play with the skateboard"}, "playground:teenshelter": {"type": "boolean", "description": "describe if a teen shelter is available"}, "playground:water": {"type": "boolean", "description": "describe if a water playground is available"}}, "type": "map", "description": "item of data"}, "type": {"type": "string", "description": "type of data"}, "geometry": {"type": "map", "description": "geometrical features", "fields": {"type": {"type": "string", "description": "type of geometry"}, "coordinates": {"type": "array", "description": "array the points which compose the polygon"}}}}}
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-10-19T19:30:02Z",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+    "fields": {
+        "properties": {
+            "fields": {
+                "@id": {
+                    "type": "string",
+                    "description": "name that identifies a unique object",,
+                    "data_definition": "core"
+                },
+                "leisure": {
+                    "type": "string",
+                    "description": "type of facility inside",
+                    "data_definition": "core"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "the name of the facility",
+                    "data_definition": "core"
+                },
+                "playground": {
+                    "type": "string",
+                    "description": "describe the type of playground available",
+                    "data_definition": "contextual"
+                },
+                "playground:basketswing": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a basketswing",
+                    "data_definition": "contextual"
+                },
+                "playground:chain_ladder": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a chain ladder",
+                    "data_definition": "contextual"
+                },
+                "playground:slide": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a slide",
+                    "data_definition": "contextual"
+                },
+                "playground:swing": {
+                    "type": "boolean",
+                    "description": "describe if the facility have a swing",
+                    "data_definition": "contextual"
+                },
+                "opening_hours": {
+                    "type": "string",
+                    "description": "the opening hours of the park",
+                    "data_definition": "contextual"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "the city component of the address",
+                    "data_definition": "common"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "the house number component of the address",
+                    "data_definition": "common"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "the postal code component of the address",
+                    "data_definition": "common"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "the street component of the address",
+                    "data_definition": "common"
+                },
+                "playground:aerialrotator": {
+                    "type": "boolean",
+                    "description": "describe if the facility have an aerialrotator",
+                    "data_definition": "contextual"
+                },
+                "playground:basketball_backboard": {
+                    "type": "boolean",
+                    "description": "describe if a zone where play basketball is available",
+                    "data_definition": "contextual"
+                },
+                "playground:exercise": {
+                    "type": "boolean",
+                    "description": "describe if an equipment are for the exercise is present",
+                    "data_definition": "contextual"
+                },
+                "playground:horizontal_bar": {
+                    "type": "boolean",
+                    "description": "describe if an horizontal bar is present",
+                    "data_definition": "contextual"
+                },
+                "playground:seesaw": {
+                    "type": "boolean",
+                    "description": "describe if an seesaw is present",
+                    "data_definition": "contextual"
+                },
+                "playground:tunnel_tube": {
+                    "type": "boolean",
+                    "description": "describe if an tunnel tube is present",
+                    "data_definition": "contextual"
+                },
+                "playground:climbingframe": {
+                    "type": "boolean",
+                    "description": "describe if a climbing frame is present",
+                    "data_definition": "contextual"
+                },
+                "playground:multi_play": {
+                    "type": "boolean",
+                    "description": "describe if a multiple usage surface is available",
+                    "data_definition": "contextual"
+                },
+                "playground:sandpit": {
+                    "type": "boolean",
+                    "description": "describe if a sandpit is present",
+                    "data_definition": "contextual"
+                },
+                "playground:theme": {
+                    "type": "string",
+                    "description": "describe the theme of the park",
+                    "data_definition": "contextual"
+                },
+                "playground:skate_equipment": {
+                    "type": "boolean",
+                    "description": "describe if the park is equipment to play with the skateboard",
+                    "data_definition": "contextual"
+                },
+                "playground:teenshelter": {
+                    "type": "boolean",
+                    "description": "describe if a teen shelter is available",
+                    "data_definition": "contextual"
+                },
+                "playground:water": {
+                    "type": "boolean",
+                    "description": "describe if a water playground is available",
+                    "data_definition": "contextual"
+                }
+            },
+            "type": "map",
+            "description": "item of data"
+        },
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of geometry",
+                    "data_definition": "common"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon",
+                    "data_definition": "common"
+                }
+            }
+        }
+    }
+}

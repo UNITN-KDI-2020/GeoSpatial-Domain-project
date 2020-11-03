@@ -1,15 +1,15 @@
 {
-	"Identificativo del dataset": "ade37eb8-13af-4584-a965-6765e26f1870",
-	"Temi del dataset": "Dati provvisori",
-	"Data di rilascio": "28-04-2020",
-	"Data di modifica": "31-03-2016",
-	"Copertura Geografica": "Trento",
+	"Dataset ID": "ade37eb8-13af-4584-a965-6765e26f1870",
+	"Release date": "28-04-2020",
+	"Modification date": "31-03-2016",
+	"Geographical Coverage": "Provincia di Trento",
 	"URI di GeoNames": "http://www.geonames.org/3165243",
-	"Titolare": {
+	"Holder": {
 		"Nome": "Provincia autonoma di Trento",
-		"Codice IPA/IVA": "p_TN"
+		"Code IPA/IVA": "p_TN"
 	},
-	"Frequenza di aggiornamento": "sconosciuto",
+	"Update frequency": "unknown",
+	"Format": "json",
 	"fields": {
 		"WKT":{
 			"type":"string",

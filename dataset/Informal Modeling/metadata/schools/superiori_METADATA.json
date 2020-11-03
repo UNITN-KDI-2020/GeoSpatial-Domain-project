@@ -1,6 +1,9 @@
 {
-	"Data di rilascio": "19-09-2020",
+	"Release date": "19-09-2020",
 	"source": "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+	"Geographical Coverage": "Provincia di Trento",
+	"Update frequency": "unknown",
+	"Format": "json",
 	"fields": {
 		"name": {
 			"type": "string",

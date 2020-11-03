@@ -1,33 +1,23 @@
 {
-	"Identificativo del dataset": "c_l378-1129110",
-	"Altro identificativo": "N/A",
-	"Temi del dataset": "Regioni e citt\u00c3\u00a0",
-	"Editore del Dataset": {
+	"Dataset ID": "c_l378-1129110",
+	"Holder": {
 		"Nome": "Comune di Trento",
-		"Codice IPA/IVA": "c_l378"
+		"Code IPA/IVA": "c_l378"
 	},
-	"Data di rilascio": "09-11-2017",
-	"Data di modifica": "08-05-2019",
-	"Copertura Geografica": "Area di competenza dell'unit\u00c3\u00a0 organizzativa preposta",
-	"URI di GeoNames": "http://www.geonames.org/6541469",
-	"Lingue del dataset": "italiano",
-	"Estensione temporale": "N/A",
-	"Titolare Nome": "Comune di Trento",
-	"Codice IPA/IVA": "c_l378",
-	"Frequenza di aggiornamento": "in continuo aggiornamento",
-	"Versione di": "N/A",
-	"Conforme a Standard": "REST/JSON",
-	"Autore": {
-		"Nome": "Comune di Trento",
-		"IPA/IVA": "c_l378"
-	},
+	"Release date": "09-11-2017",
+	"Modification date": "08-05-2019",
+	"Geographical Coverage": "Comune di Trento",
+	"Source": "https://dati.trentino.it/dataset/piste-ciclabili-open-data",
+	"GeoNames URI": "http://www.geonames.org/6541469",
+	"Dataset language": "italiano",
+	"Temporal extension": "N/A",
+	"Update frequency": "continuous updating",
+	"Format": "json",
 	"fields": {
-		"properties": {
-			"fields": {}
-		},
 		"WKT": {
 			"type": "list <int>",
-			"description": "coordinates of the paths"
+			"description": "coordinates of the paths",
+			"data_definition": "common"
 		},
 		"tipo": {
 			"type": "string",
@@ -35,27 +25,33 @@
 		},
 		"fumetto": {
 			"type": "string",
-			"description": "name of the path"
+			"description": "name of the path",,
+			"data_definition": "common"
 		},
 		"descrizione": {
 			"type": "string",
-			"description": "name of the path (equivalent to 'fumetto')"
+			"description": "name of the path (equivalent to 'fumetto')",
+			"data_definition": "common"
 		},
 		"tipologia": {
 			"type": "string",
-			"description": "path dedicated only to cycle or also pedestrian"
+			"description": "path dedicated only to cycle or also pedestrian",
+			"data_definition": "core"
 		},
 		"tratto isolato ciclabile": {
 			"type": "int",
-			"description": "meters without path dedicated to cycle"
+			"description": "meters without path dedicated to cycle",
+			"data_definition": "core"
 		},
 		"tratto isolato ciclopedonale": {
 			"type": "int",
-			"description": "meters without path dedicated to cycle or pedestrian"
+			"description": "meters without path dedicated to cycle or pedestrian",
+			"data_definition": "core"
 		},
 		"anno": {
 			"type": "int",
-			"description": "building year of cycle path"
+			"description": "building year of cycle path",
+			"data_definition": "core"
 		}
 	}
 }
