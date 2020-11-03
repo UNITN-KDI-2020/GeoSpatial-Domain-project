@@ -22,9 +22,6 @@
 		"IPA/IVA": "c_l378"
 	},
 	"fields": {
-		"properties": {
-			"fields": {}
-		},
 		"WKT": {
 			"type": "list <int>",
 			"description": "coordinates of the paths"
@@ -53,9 +50,5 @@
 			"type": "int",
 			"description": "meters without path dedicated to cycle or pedestrian"
 		},
-		"anno": {
-			"type": "int",
-			"description": "building year of cycle path"
-		}
 	}
 }
