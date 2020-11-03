@@ -25,7 +25,7 @@
 		},
 		"fumetto": {
 			"type": "string",
-			"description": "name of the path",,
+			"description": "name of the path",
 			"data_definition": "common"
 		},
 		"descrizione": {
