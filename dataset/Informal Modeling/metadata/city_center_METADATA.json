@@ -1,1 +1,42 @@
-{"fields": {"properties": {"fields": {"name": {"type": "string", "description": "the name of the area"}}, "type": "map", "description": "item of data"}, "type": {"type": "string", "description": "type of data"}, "geometry": {"type": "map", "description": "geometrical features", "fields": {"type": {"type": "string", "description": "type of geometry"}, "coordinates": {"type": "array", "description": "array the points which compose the polygon"}}}}}
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-10-19T10:54:03Z",
+    "update_frequency": "no update",
+    "format": "json",
+    "fields": {
+        "properties": {
+            "type": "map",
+            "description": "item of data",
+            "fields": {
+                "name": {
+                    "type": "string",
+                    "description": "the name of the area",
+                    "data_definition": "core"
+                }
+            }
+        },
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of geometry",
+                    "data_definition": "common"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon",
+                    "data_definition": "common"
+                }
+            }
+        }
+    }
+}

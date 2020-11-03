@@ -1,1 +1,72 @@
-{"type": "FeatureCollection", "generator": "overpass-ide", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.", "timestamp": "2020-10-19T13:50:02Z", "fields": {"properties": {"fields": {"@id": {"type": "string", "description": "identification code"}, "name": {"type": "string", "description": "name of the facility"}, "atm": {"type": "boolean", "description": "indicate the presence of an atm"}, "addr:housenumber": {"type": "string", "description": "the house number component of the address"}, "addr:street": {"type": "string", "description": "the street component of the address"}, "addr:city": {"type": "string", "description": "the city component of the address"}, "addr:postcode": {"type": "string", "description": "the postcode component of the address"}}, "type": "map", "description": "item of data"}, "type": {"type": "string", "description": "type of data"}, "geometry": {"type": "map", "description": "geometrical features", "fields": {"type": {"type": "string", "description": "type of geometry"}, "coordinates": {"type": "array", "description": "array the points which compose the polygon"}}}}}
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-10-19T13:50:02Z",
+    "update_frequency": "no update",
+    "format": "json",
+    "fields": {
+        "properties": {
+            "type": "map",
+            "description": "item of data",           
+            "fields": {
+                "@id": {
+                    "type": "string",
+                    "description": "identification code",
+                    "data_definition": "common"
+                },
+                "name": {
+                    "type": "string",
+                    "description": "name of the facility",
+                    "data_definition": "core"
+                },
+                "atm": {
+                    "type": "boolean",
+                    "description": "indicate the presence of an atm",
+                    "data_definition": "core"
+                },
+                "addr:housenumber": {
+                    "type": "string",
+                    "description": "the house number component of the address",
+                    "data_definition": "common"
+                },
+                "addr:street": {
+                    "type": "string",
+                    "description": "the street component of the address",
+                    "data_definition": "common"
+                },
+                "addr:city": {
+                    "type": "string",
+                    "description": "the city component of the address",
+                    "data_definition": "common"
+                },
+                "addr:postcode": {
+                    "type": "string",
+                    "description": "the postcode component of the address",
+                    "data_definition": "common"
+                }
+            }
+        },
+        "type": {
+            "type": "string",
+            "description": "type of data"
+        },
+        "geometry": {
+            "type": "map",
+            "description": "geometrical features",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of geometry",
+                    "data_definition": "common"
+                },
+                "coordinates": {
+                    "type": "array",
+                    "description": "array the points which compose the polygon",
+                    "data_definition": "common"
+                }
+            }
+        }
+    }
+}
