@@ -47,6 +47,6 @@
 			"type": "int",
 			"description": "meters without path dedicated to cycle or pedestrian",
 			"data_definition": "core"
-		},
+		}
 	}
 }

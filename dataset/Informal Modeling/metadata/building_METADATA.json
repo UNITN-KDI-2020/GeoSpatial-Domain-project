@@ -1,12 +1,12 @@
 {
 	"type": "FeatureCollection",
-    "generator": "overpass-ide",
-    "source": "www.openstreetmap.org",
-    "copyright": "ODbL",
-    "timestamp": "2020-10-19T13:50:02Z",
+	"generator": "overpass-ide",
+	"source": "www.openstreetmap.org",
+	"copyright": "ODbL",
+	"timestamp": "2020-10-19T13:50:02Z",
 	"update_frequency": "no update",
 	"Geographical Coverage": "Provincia di Trento",
-    "format": "json",
+	"format": "json",
 	"fields": {
 		"properties": {
 			"type": "map",
@@ -15,32 +15,27 @@
 				"@id": {
 					"type": "string",
 					"description": "identification code",
-                    "data_definition": "core"
+					"data_definition": "core"
 				}
 			}
 		},
 		"geometry": {
-				"type": "map",
-				"description": "geometrical features",
-				"fields": {
-					"type": {
-						"type": "string",
-						"description": "type of geometry",
-						"data_definition": "common"
-					},
-					"coordinates": {
-						"type": "array",
-						"description": "array the points which compose the polygon",
-						"data_definition": "common"
-					}
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry",
+					"data_definition": "common"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon",
+					"data_definition": "common"
 				}
-			},
-		"id": {
-				"type": "string",
-				"description": "type of data"
-		}
+			}
 		},
-		"type": {
+		"id": {
 			"type": "string",
 			"description": "type of data"
 		}

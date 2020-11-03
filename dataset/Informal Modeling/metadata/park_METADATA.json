@@ -12,7 +12,7 @@
             "fields": {
                 "@id": {
                     "type": "string",
-                    "description": "name that identifies a unique object",,
+                    "description": "name that identifies a unique object",
                     "data_definition": "core"
                 },
                 "leisure": {

@@ -37,10 +37,21 @@
                 }
             }
         },
-        "coordinates": {
-            "type": "array<double>",
-            "description": "x,y coordinate of the building",
-            "data_definition": "common"
-        }
+        "geometry": {
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry",
+                    "data_definition": "common"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon",
+                    "data_definition": "common"
+				}
+			}
+		}
     }
 }

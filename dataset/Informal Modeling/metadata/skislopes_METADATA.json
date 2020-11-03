@@ -32,7 +32,7 @@
                     "description": "difficulty level of the skislope (easy, intermediate, advanced)",
                     "data_definition": "core"
                 }
-            },
+            }
         },
         "type": {
             "type": "string",
