@@ -1,5 +1,5 @@
 {
-	"Identificativo del dataset": "9368a92a-dbe9-4a43-9fc0-66a5f4695e16",
+	"Identificativo del dataset": "ade37eb8-13af-4584-a965-6765e26f1870",
 	"Temi del dataset": "Dati provvisori",
 	"Data di rilascio": "28-04-2020",
 	"Data di modifica": "31-03-2016",
@@ -11,29 +11,29 @@
 	},
 	"Frequenza di aggiornamento": "sconosciuto",
 	"fields": {
-		"WKT": {
-			"type": "string",
-			"description": "Coordinates in Well-Known Text format",
+		"WKT":{
+			"type":"string",
+			"description":"Coordinates in Well-Known Text format",
 			"data_definition":"Core"
 		},
-		"civico_alf": {
-			"type": "string",
-			"description": "civic number",
+		"civico_alf":{
+			"type":"string",
+			"description":"civic number",
 			"data_definition":"Core"
 		},
-		"destra": {
-			"type": "string",
-			"description": "street adress",
+		"destra":{
+			"type":"string",
+			"description":"street adress",
 			"data_definition":"Core"
 		},
-		"sobborgo": {
-			"type": "string",
-			"description": "suburb of the school",
+		"sobborgo":{
+			"type":"string",
+			"description":"suburb of the school",
 			"data_definition":"Core"
 		},
-		"scuola": {
-			"type": "string",
-			"description": "name of the school",
+		"scuola":{
+			"type":"string",
+			"description":"name of the school",
 			"data_definition":"Core"
 		}
 	}

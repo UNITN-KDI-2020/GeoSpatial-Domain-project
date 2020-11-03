@@ -3,7 +3,6 @@
 		{
 			"WKT": "POINT (662506.087347352877259 5105232.15873471647501)",
 			"civico_alf": "3",
-			"strada": "3390",
 			"destra": "LOC. LA VELA",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA S. VIGILIO - VELA"
@@ -11,7 +10,6 @@
 		{
 			"WKT": "POINT (666021.810828560730442 5101702.842735786922276)",
 			"civico_alf": "7",
-			"strada": "7140",
 			"destra": "P.ZZA MONS. G.P. NICOLINI-VILLAZZANO",
 			"sobborgo": "TRENTO-VILLAZZANO",
 			"scuola": "SCUOLA PRIMARIA G.A. TOMASI - VILLAZZANO"
@@ -19,7 +17,6 @@
 		{
 			"WKT": "POINT (664809.223762689507566 5096914.436085216701031)",
 			"civico_alf": "11",
-			"strada": "7730",
 			"destra": "VIA G. POLI-MATTARELLO",
 			"sobborgo": "TRENTO-MATTARELLO",
 			"scuola": "SCUOLA PRIMARIA MATTARELLO"
@@ -27,7 +24,6 @@
 		{
 			"WKT": "POINT (662960.967634097323753 5098348.811300278641284)",
 			"civico_alf": "6",
-			"strada": "8945",
 			"destra": "VIA AI COMUNI-ROMAGNANO",
 			"sobborgo": "TRENTO-ROMAGNANO",
 			"scuola": "SCUOLA PRIMARIA ROMAGNANO"
@@ -35,7 +31,6 @@
 		{
 			"WKT": "POINT (666618.484517036005855 5103473.310998312197626)",
 			"civico_alf": "6",
-			"strada": "7355",
 			"destra": "VIA DEI RIVI-POVO",
 			"sobborgo": "TRENTO-POVO",
 			"scuola": "SCUOLA PRIMARIA U. MOGGIOLI - POVO"
@@ -43,7 +38,6 @@
 		{
 			"WKT": "POINT (665894.471654383465648 5104303.71066043432802)",
 			"civico_alf": "27",
-			"strada": "6070",
 			"destra": "VIA ALLE CAMPANELLE-COGNOLA",
 			"sobborgo": "TRENTO-COGNOLA",
 			"scuola": "SCUOLA PRIMARIA CASA SERENA - COGNOLA"
@@ -51,7 +45,6 @@
 		{
 			"WKT": "POINT (665468.105992944911122 5104505.710459194146097)",
 			"civico_alf": "169",
-			"strada": "6360",
 			"destra": "VIA S. VITO-COGNOLA",
 			"sobborgo": "TRENTO-COGNOLA",
 			"scuola": "SCUOLA PRIMARIA R. BELENZANI - S. VITO"
@@ -59,7 +52,6 @@
 		{
 			"WKT": "POINT (664721.61621752823703 5102465.106401989236474)",
 			"civico_alf": "2",
-			"strada": "1160",
 			"destra": "VIA A. FOGAZZARO",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA A. NICOLODI - TRENTO"
@@ -67,7 +59,6 @@
 		{
 			"WKT": "POINT (664519.719682412454858 5102032.248098043724895)",
 			"civico_alf": "13",
-			"strada": "1050",
 			"destra": "VIA L. EINAUDI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA CLARINA -TRENTO"
@@ -75,7 +66,6 @@
 		{
 			"WKT": "POINT (664063.127281724009663 5102169.907696958631277)",
 			"civico_alf": "103",
-			"strada": "2880",
 			"destra": "VIA S. PIO X",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA D. SAVIO - TRENTO"
@@ -83,7 +73,6 @@
 		{
 			"WKT": "POINT (665124.202265890082344 5100675.402029541321099)",
 			"civico_alf": "91",
-			"strada": "1870",
 			"destra": "PIAZZALE EUROPA",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA MADONNA BIANCA - TRENTO"
@@ -91,7 +80,6 @@
 		{
 			"WKT": "POINT (663135.036881539737806 5100425.584303881973028)",
 			"civico_alf": "5",
-			"strada": "8780",
 			"destra": "VIA DELLE MASERE-RAVINA",
 			"sobborgo": "TRENTO-RAVINA",
 			"scuola": "SCUOLA PRIMARIA RAVINA"
@@ -99,7 +87,6 @@
 		{
 			"WKT": "POINT (664354.512064762180671 5104267.345354596152902)",
 			"civico_alf": "13",
-			"strada": "3030",
 			"destra": "PIAZZA R. SANZIO",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA R. SANZIO - TRENTO"
@@ -107,7 +94,6 @@
 		{
 			"WKT": "POINT (663958.3172629380133 5104822.388052712194622)",
 			"civico_alf": "3",
-			"strada": "3190",
 			"destra": "VIA A. STOPPANI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA S. BELLESINI - TRENTO"
@@ -115,7 +101,6 @@
 		{
 			"WKT": "POINT (663980.1394871751545 5103492.313239812850952)",
 			"civico_alf": "4",
-			"strada": "390",
 			"destra": "VIA G.B. BORSIERI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA PARITARIA MARIA SS. BAMBINA - TRENTO"
@@ -123,7 +108,6 @@
 		{
 			"WKT": "POINT (664610.580865304451436 5104071.548203449696302)",
 			"civico_alf": "5",
-			"strada": "2690",
 			"destra": "VIA DELLA SALUGA",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA PARITARIA SACRA FAMIGLIA - TRENTO"
@@ -131,7 +115,6 @@
 		{
 			"WKT": "POINT (663916.873674689792097 5106034.984549992717803)",
 			"civico_alf": "22",
-			"strada": "3150",
 			"destra": "VIA DEI SOLTERI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA A. GORFER - SOLTERI"
@@ -139,7 +122,6 @@
 		{
 			"WKT": "POINT (663680.760888494784012 5105365.58948911447078)",
 			"civico_alf": "79",
-			"strada": "1480",
 			"destra": "VIA LAVISOTTO",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA A. SCHMID - CRISTO RE"
@@ -147,7 +129,6 @@
 		{
 			"WKT": "POINT (662176.7094250919763 5103306.397741857916117)",
 			"civico_alf": "1",
-			"strada": "8631",
 			"destra": "VIA DELLA TORESELA-SARDAGNA",
 			"sobborgo": "TRENTO-SARDAGNA",
 			"scuola": "SCUOLA PRIMARIA A. DEGASPERI - SARDAGNA"
@@ -160,7 +141,6 @@
 		{
 			"WKT": "POINT (663424.291359674884006 5110080.39640384260565)",
 			"civico_alf": "40",
-			"strada": "8470",
 			"destra": "VIA DELLE TRE CROCI-MEANO",
 			"sobborgo": "TRENTO-MEANO",
 			"scuola": "SCUOLA PRIMARIA E. DE CARLI - MEANO"
@@ -168,7 +148,6 @@
 		{
 			"WKT": "POINT (664974.318171609891579 5111136.800855848006904)",
 			"civico_alf": "21",
-			"strada": "8492",
 			"destra": "VIA ALLE OSELERE-VIGO MEANO",
 			"sobborgo": "TRENTO-MEANO-VIGO MEANO",
 			"scuola": "SCUOLA PRIMARIA I. CALVINO - VIGO MEANO"
@@ -176,7 +155,6 @@
 		{
 			"WKT": "POINT (659696.689123639138415 5106059.8403693260625)",
 			"civico_alf": "7",
-			"strada": "8122",
 			"destra": "VIA DI COLTURA-CADINE",
 			"sobborgo": "TRENTO-CADINE",
 			"scuola": "SCUOLA PRIMARIA G.A. SLOP VON CADENBERG - CADINE"
@@ -184,7 +162,6 @@
 		{
 			"WKT": "POINT (663159.6933731099125 5107900.195677074603736)",
 			"civico_alf": "42/1",
-			"strada": "5290",
 			"destra": "VIA IV NOVEMBRE-GARDOLO",
 			"sobborgo": "TRENTO-GARDOLO",
 			"scuola": "SCUOLA PRIMARIA F.LLI PIGARELLI - GARDOLO"
@@ -192,7 +169,6 @@
 		{
 			"WKT": "POINT (663098.38852840824984 5108403.401841902174056)",
 			"civico_alf": "5/B",
-			"strada": "5101",
 			"destra": "VIA SANT'ANNA-GARDOLO",
 			"sobborgo": "TRENTO-GARDOLO",
 			"scuola": "SCUOLA PRIMARIA S. ANNA - GARDOLO"
@@ -200,7 +176,6 @@
 		{
 			"WKT": "POINT (663939.482628068770282 5103750.097081593237817)",
 			"civico_alf": "4",
-			"strada": "3710",
 			"destra": "PIAZZA SANTA T. VERZERI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA SACRO CUORE"
@@ -208,7 +183,6 @@
 		{
 			"WKT": "POINT (665482.576136992312968 5100794.556123266927898)",
 			"civico_alf": "86",
-			"strada": "845",
 			"destra": "VIA E. CONCI",
 			"sobborgo": "TRENTO",
 			"scuola": "ASSOCIAZIONE PEDAGOGICA STEINERIANA"
@@ -216,7 +190,6 @@
 		{
 			"WKT": "POINT (664098.88988047989551 5103062.81895399466157)",
 			"civico_alf": "23",
-			"strada": "1060",
 			"destra": "VIA C. ENDRICI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA ARCIVESCOVILE"
@@ -229,7 +202,6 @@
 		{
 			"WKT": "POINT (659327.886008622357622 5104284.125978286378086)",
 			"civico_alf": "1",
-			"strada": "8072",
 			"destra": "VIA CAINELLI",
 			"sobborgo": "TRENTO-SOPRAMONTE",
 			"scuola": "SCUOLA PRIMARIA S. PERTINI - SOPRAMONTE"
@@ -237,7 +209,6 @@
 		{
 			"WKT": "POINT (664789.008303795941174 5106281.963679144158959)",
 			"civico_alf": "1",
-			"strada": "6250",
 			"destra": "PIAZZA G. MENGHIN-MARTIGNANO",
 			"sobborgo": "TRENTO-MARTIGNANO",
 			"scuola": "SCUOLA PRIMARIA R. ZANDONAI - MARTIGNANO"
@@ -245,7 +216,6 @@
 		{
 			"WKT": "POINT (665740.238446907722391 5104636.56679433118552)",
 			"civico_alf": "2/1",
-			"strada": "6310",
 			"destra": "VIA PONTE ALTO-COGNOLA",
 			"sobborgo": "TRENTO-COGNOLA",
 			"scuola": "SCUOLA PRIMARIA E. BERNARDI - COGNOLA"
@@ -253,7 +223,6 @@
 		{
 			"WKT": "POINT (663945.6294465593528 5102419.083171749487519)",
 			"civico_alf": "4",
-			"strada": "3530",
 			"destra": "VIA R. ZANDONAI",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA G.B. DE GASPARI - TRENTO"
@@ -261,7 +230,6 @@
 		{
 			"WKT": "POINT (664387.997261841199361 5103428.430595236830413)",
 			"civico_alf": "8",
-			"strada": "2780",
 			"destra": "VIA SAN GIOVANNI BOSCO ",
 			"sobborgo": "TRENTO",
 			"scuola": "SCUOLA PRIMARIA F. CRISPI - TRENTO "
