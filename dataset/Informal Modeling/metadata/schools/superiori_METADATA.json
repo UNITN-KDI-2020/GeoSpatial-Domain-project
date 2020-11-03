@@ -1,6 +1,9 @@
 {
 	"Data di rilascio": "19-09-2020",
 	"source": "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+	"timestamp" : "2020-10-09",
+	"update_frequency": "not available",
+	"format":"json",
 	"fields": {
 		"name": {
 			"type": "string",

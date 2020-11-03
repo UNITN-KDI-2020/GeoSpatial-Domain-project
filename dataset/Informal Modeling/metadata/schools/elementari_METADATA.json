@@ -5,11 +5,13 @@
 	"Data di modifica": "31-03-2016",
 	"Copertura Geografica": "Trento",
 	"URI di GeoNames": "http://www.geonames.org/3165243",
+	"timestamp" : "2020-10-09",
+	"update_frequency": "not available",
+	"format":"json",
 	"Titolare": {
 		"Nome": "Provincia autonoma di Trento",
 		"Codice IPA/IVA": "p_TN"
 	},
-	"Frequenza di aggiornamento": "sconosciuto",
 	"fields": {
 		"WKT": {
 			"type": "string",
