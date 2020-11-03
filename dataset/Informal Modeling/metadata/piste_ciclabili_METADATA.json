@@ -48,10 +48,5 @@
 			"description": "meters without path dedicated to cycle or pedestrian",
 			"data_definition": "core"
 		},
-		"anno": {
-			"type": "int",
-			"description": "building year of cycle path",
-			"data_definition": "core"
-		}
 	}
 }

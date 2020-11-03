@@ -1,0 +1,52 @@
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+	"timestamp": "2020-10-19T15:03:03Z",
+	"fields": {
+		"properties": {
+			"fields": {
+				"name": {
+					"type": "string",
+					"description": "Identifies the name of the cinema"
+				},
+				"addr:city": {
+					"type": "string",
+					"description": "Identifies in term of cites the position of the cinema"
+				},
+				"addr:housenumber": {
+					"type": "int",
+					"description": "Identifies the hosenumber of the cinema"
+				},
+				"addr:postcode": {
+					"type": "int",
+					"description": "Identifies the postcode of the cites where the cinema is located"
+				},
+				"addr:street": {
+					"type": "string",
+					"description": "Identifies the street name where the cinema is located"
+				}
+			},
+			"type": "map",
+			"description": "item of data"
+		},
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon"
+				}
+			}
+		}
+	}
+}
