@@ -1,1 +1,106 @@
-{"records": [{"WKT": "POINT (665011.61011676536873 5101827.153672161512077)", "civico_alf": "26", "strada": "2080", "destra": "VIALE DEGLI OLMI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO D'ARTE A. VITTORIA - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO  D'ARTE A. VITTORIA - TRENTO"}, {"WKT": "POINT (663007.733371042530052 5111238.711814826354384)", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO A. STAINER - LAVIS", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO A. STAINER - LAVIS"}, {"WKT": "POINT (664967.039245304535143 5096975.440389420837164)", "civico_alf": "1", "strada": "7750", "destra": "VIA DELLA TORRE FRANCA", "sobborgo": "MATTARELLO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO FOGAZZARO - MATTARELLO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO FOGAZZARO - MATTARELLO", "iscritti": "209", "personale": "63", "mail": "ic.aldeno-mattarello@pec.provincia.tn.it\n", "telefono": "0461/945237\n", "iscritti_bes": "6"}, {"WKT": "POINT (666375.636825329158455 5102233.000077526085079)", "civico_alf": "24", "strada": "7502", "destra": "VIA ZNOJMO - POVO", "sobborgo": "TRENTO-POVO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO G.PASCOLI - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO G.PASCOLI - TRENTO", "iscritti": "314", "personale": "48", "mail": "ic.trento1@pec.provincia.tn.it\n", "telefono": "0461/912740\n", "iscritti_bes": "14"}, {"WKT": "POINT (665770.851149123627692 5104583.206609852612019)", "civico_alf": "2/1", "strada": "6310", "destra": "VIA PONTE ALTO-COGNOLA", "sobborgo": "TRENTO-COGNOLA", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ARGENTARIO - COGNOLA", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO ARGENTARIO - COGNOLA", "iscritti": "339", "personale": "58", "mail": "ic.comenius@pec.provincia.tn.it\n", "telefono": "0461/982113\n", "iscritti_bes": "14"}, {"WKT": "POINT (664345.764779625227675 5102808.20204948913306)", "civico_alf": "61", "strada": "3510", "destra": "VIA VITTORIO VENETO", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO F.LLI BRONZETTI E G. SEGANTINI - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO F.LLI BRONZETTI E G. SEGANTINI - TRENTO", "iscritti": "426", "personale": "71", "mail": "ic.trento3@pec.provincia.tn.it\n", "telefono": "0461/934977\n", "iscritti_bes": "29"}, {"WKT": "POINT (664990.477769998484291 5101685.115902595221996)", "civico_alf": "22", "strada": "2080", "destra": "VIALE DEGLI OLMI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO O. WINKLER - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO O. WINKLER - TRENTO", "iscritti": "329", "personale": "60", "mail": "ic.trento4@pec.provincia.tn.it\n", "telefono": "0461/920316\n", "iscritti_bes": "24"}, {"WKT": "POINT (664387.997261841199361 5103428.430595236830413)", "civico_alf": "8", "strada": "2780", "destra": "VIA SAN GIOVANNI BOSCO ", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO F. BONPORTI - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO F. BONPORTI - TRENTO", "iscritti": "120", "personale": "20", "mail": "ic.tn5@pec.provincia.tn.it\n", "telefono": "0461/261673\n"}, {"WKT": "POINT (664101.211530840722844 5103494.439211226068437)", "civico_alf": "2", "strada": "3320", "destra": "VIA AL TORRIONE", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO G. BRESADOLA - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO G. BRESADOLA - TRENTO", "iscritti": "330", "personale": "56", "mail": "ic.tn5@pec.provincia.tn.it\n", "telefono": "0461/263331\n", "iscritti_bes": "8"}, {"WKT": "POINT (663758.944050794932991 5104304.795093532651663)", "civico_alf": "50", "strada": "480", "destra": "C.SO M. BUONARROTI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO A. MANZONI - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO A. MANZONI - TRENTO", "iscritti": "405", "personale": "71", "mail": "ic.trento6@pec.provincia.tn.it\n", "telefono": "0461/236214\n", "iscritti_bes": "17"}, {"WKT": "POINT (663309.554431396536529 5107762.51989266090095)", "civico_alf": "35/1", "strada": "5290", "destra": "VIA IV NOVEMBRE-GARDOLO", "sobborgo": "TRENTO-GARDOLO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO S. PEDROLLI - GARDOLO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO S. PEDROLLI - GARDOLO", "iscritti": "484", "personale": "87", "mail": "ic.trento7@pec.provincia.tn.it\n", "telefono": "0461/990287\n", "iscritti_bes": "35"}, {"WKT": "POINT (663939.814305181149393 5103738.782913875766098)", "civico_alf": "4", "strada": "3710", "destra": "PIAZZA SANTA T. VERZERI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO SACRO CUORE - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO SACRO CUORE - TRENTO", "iscritti": "181", "mail": "istitutocomprensivo@istitutosacrocuore.it", "telefono": "0461/981465", "iscritti_bes": "4"}, {"WKT": "POINT (664530.852155099739321 5103470.030607648193836)", "civico_alf": "22", "strada": "210", "destra": "VIA F. BARBACOVI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ISTITUTO SALESIANO - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO ISTITUTO SALESIANO - TRENTO", "iscritti": "236", "mail": "segreteria@sdbtrento.it", "telefono": "0461/885555", "iscritti_bes": "5"}, {"WKT": "POINT (664098.88988047989551 5103059.189328363165259)", "civico_alf": "23", "strada": "1060", "destra": "VIA C. ENDRICI", "sobborgo": "TRENTO", "scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ARCIVESCOVILE - TRENTO", "fumetto": "SCUOLA SECONDARIA DI PRIMO GRADO ARCIVESCOVILE - TRENTO", "iscritti": "365", "mail": "collegioarcivescovile@arcivescoviletrento.it", "telefono": "0461/1731200", "iscritti_bes": "15"}, {"WKT": "POINT (665482.576136992312968 5100794.556123266927898)", "civico_alf": "86", "strada": "845", "destra": "VIA E. CONCI", "sobborgo": "TRENTO", "scuola": "ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO", "fumetto": "ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO", "iscritti": "69", "mail": "segreteria@scuolasteiner-trento.it", "telefono": "0461/930658", "iscritti_bes": "5"}]}
+{
+	"records": [
+		{
+			"WKT": "POINT (665011.61011676536873 5101827.153672161512077)",
+			"civico_alf": "26",
+			"destra": "VIALE DEGLI OLMI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO D'ARTE A. VITTORIA - TRENTO"
+		},
+		{
+			"WKT": "POINT (663007.733371042530052 5111238.711814826354384)",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO A. STAINER - LAVIS"
+		},
+		{
+			"WKT": "POINT (664967.039245304535143 5096975.440389420837164)",
+			"civico_alf": "1",
+			"destra": "VIA DELLA TORRE FRANCA",
+			"sobborgo": "MATTARELLO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO FOGAZZARO - MATTARELLO"
+		},
+		{
+			"WKT": "POINT (666375.636825329158455 5102233.000077526085079)",
+			"civico_alf": "24",
+			"destra": "VIA ZNOJMO - POVO",
+			"sobborgo": "TRENTO-POVO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO G.PASCOLI - TRENTO"
+		},
+		{
+			"WKT": "POINT (665770.851149123627692 5104583.206609852612019)",
+			"civico_alf": "2/1",
+			"destra": "VIA PONTE ALTO-COGNOLA",
+			"sobborgo": "TRENTO-COGNOLA",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ARGENTARIO - COGNOLA"
+		},
+		{
+			"WKT": "POINT (664345.764779625227675 5102808.20204948913306)",
+			"civico_alf": "61",
+			"destra": "VIA VITTORIO VENETO",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO F.LLI BRONZETTI E G. SEGANTINI - TRENTO"
+		},
+		{
+			"WKT": "POINT (664990.477769998484291 5101685.115902595221996)",
+			"civico_alf": "22",
+			"destra": "VIALE DEGLI OLMI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO O. WINKLER - TRENTO"
+		},
+		{
+			"WKT": "POINT (664387.997261841199361 5103428.430595236830413)",
+			"civico_alf": "8",
+			"destra": "VIA SAN GIOVANNI BOSCO ",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO F. BONPORTI - TRENTO"
+		},
+		{
+			"WKT": "POINT (664101.211530840722844 5103494.439211226068437)",
+			"civico_alf": "2",
+			"destra": "VIA AL TORRIONE",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO G. BRESADOLA - TRENTO"
+		},
+		{
+			"WKT": "POINT (663758.944050794932991 5104304.795093532651663)",
+			"civico_alf": "50",
+			"destra": "C.SO M. BUONARROTI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO A. MANZONI - TRENTO"
+		},
+		{
+			"WKT": "POINT (663309.554431396536529 5107762.51989266090095)",
+			"civico_alf": "35/1",
+			"destra": "VIA IV NOVEMBRE-GARDOLO",
+			"sobborgo": "TRENTO-GARDOLO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO S. PEDROLLI - GARDOLO"
+		},
+		{
+			"WKT": "POINT (663939.814305181149393 5103738.782913875766098)",
+			"civico_alf": "4",
+			"destra": "PIAZZA SANTA T. VERZERI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO SACRO CUORE - TRENTO"
+		},
+		{
+			"WKT": "POINT (664530.852155099739321 5103470.030607648193836)",
+			"civico_alf": "22",
+			"destra": "VIA F. BARBACOVI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ISTITUTO SALESIANO - TRENTO"
+		},
+		{
+			"WKT": "POINT (664098.88988047989551 5103059.189328363165259)",
+			"civico_alf": "23",
+			"destra": "VIA C. ENDRICI",
+			"sobborgo": "TRENTO",
+			"scuola": "SCUOLA SECONDARIA DI PRIMO GRADO ARCIVESCOVILE - TRENTO"
+		},
+		{
+			"WKT": "POINT (665482.576136992312968 5100794.556123266927898)",
+			"civico_alf": "86",
+			"destra": "VIA E. CONCI",
+			"sobborgo": "TRENTO",
+			"scuola": "ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO"
+		}
+	]
+}

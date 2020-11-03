@@ -1,0 +1,40 @@
+{
+	"Identificativo del dataset": "3dd956d1-a376-4e9a-8182-d839de4163dd",
+	"Temi del dataset": "Dati provvisori",
+	"Data di rilascio": "28-04-2020",
+	"Data di modifica": "31-03-2016",
+	"Copertura Geografica": "Trento",
+	"URI di GeoNames": "http://www.geonames.org/3165243",
+	"Titolare": {
+		"Nome": "Provincia autonoma di Trento",
+		"Codice IPA/IVA": "p_TN"
+	},
+	"Frequenza di aggiornamento": "sconosciuto",
+	"fields": {
+		"WKT":{
+			"type":"string",
+			"description":"Coordinates in Well-Known Text format",
+			"data_definition":"Core"
+		},
+		"civico_alf":{
+			"type":"string",
+			"description":"civic number",
+			"data_definition":"Core"
+		},
+		"destra":{
+			"type":"string",
+			"description":"street adress",
+			"data_definition":"Core"
+		},
+		"sobborgo":{
+			"type":"string",
+			"description":"suburb of the school",
+			"data_definition":"Core"
+		},
+		"scuola":{
+			"type":"string",
+			"description":"name of the school",
+			"data_definition":"Core"
+		}
+	}
+}

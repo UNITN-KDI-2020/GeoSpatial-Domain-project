@@ -1,0 +1,26 @@
+{
+	"Data di rilascio": "19-09-2020",
+	"source": "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+	"fields": {
+		"name": {
+			"type": "string",
+			"description": "name of the school",
+			"data_definition":"Core"
+		},
+		"address": {
+			"type": "string",
+			"description": "address of the school",
+			"data_definition":"Core"
+		},
+		"school type": {
+			"type": "string",
+			"description": "type of school (public or private)",
+			"data_definition":"Core"
+		},
+		"study paths": {
+			"type": "string",
+			"description": "the study paths offerted from the school (comma separated)",
+			"data_definition":"Core"
+		}
+	}
+}
