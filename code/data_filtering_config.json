@@ -192,6 +192,7 @@
 			"properties.addr:housenumber",
 			"properties.addr:postcode",
 			"properties.addr:street",
+			"properties.bus_routes",
 			"geometry"
 		]
 	},
