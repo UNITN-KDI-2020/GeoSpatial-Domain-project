@@ -1,5 +1,5 @@
 {
-	"skislopes.geojson": {
+	"skislopes.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -9,7 +9,7 @@
 			"geometry"
 		]
 	},
-	"supermarket.geojson": {
+	"supermarket.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -17,7 +17,7 @@
 			"geometry"
 		]
 	},
-	"trails.geojson": {
+	"trails.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -27,7 +27,7 @@
 			"geometry"
 		]
 	},
-	"roads.geojson": {
+	"roads.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -36,7 +36,7 @@
 			"geometry"
 		]
 	},
-	"railway.geojson": {
+	"railway.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -44,7 +44,7 @@
 			"geometry"
 		]
 	},
-	"post_office.geojson": {
+	"post_office.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -70,7 +70,7 @@
 			"anno"
 		]
 	},
-	"pharmacy.geojson": {
+	"pharmacy.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -83,7 +83,7 @@
 			"properties.addr:street"
 		]
 	},
-	"parking.geojson": {
+	"parking.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -98,7 +98,7 @@
 			"properties.addr:street"
 		]
 	},
-	"park.geojson": {
+	"park.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -145,7 +145,7 @@
 			"class_22"
 		]
 	},
-	"climb.geojson": {
+	"climb.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -172,7 +172,7 @@
 			"geometry"
 		]
 	},
-	"city_center.geojson": {
+	"city_center.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -184,7 +184,7 @@
 			"geometry"
 		]
 	},
-	"cinema.geojson":{
+	"cinema.json":{
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -196,7 +196,7 @@
 			"geometry"
 		]
 	},
-	"busstop.geojson": {
+	"busstop.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -209,7 +209,7 @@
 			"geometry"
 		]
 	},
-	"bank.geojson": {
+	"bank.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -222,7 +222,7 @@
 			"geometry"
 		]
 	},
-	"areaski.geojson": {
+	"areaski.json": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
@@ -230,7 +230,7 @@
 			"geometry"
 		]
 	},
-	"building.geojson": {
+	"building.json": {
 		"iterator": "features",
 		"props": [
 			"properties.@id",
