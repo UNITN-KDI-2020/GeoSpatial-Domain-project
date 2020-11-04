@@ -8,23 +8,28 @@
 
         "comune": {
             "type": "string",
-            "description": "town"
+            "description": "town",
+            "data_definition" : "Common"
         },
         "via": {
             "type": "string",
-            "description": "street address"
+            "description": "street address",
+            "data_definition" : "Common"
         },
         "civico": {
             "type": "int",
-            "description": "civic code"
+            "description": "civic code",
+            "data_definition" : "Common"
         },
         "barrato": {
             "type": "char",
-            "description": "sub-civic code"
+            "description": "sub-civic code",
+            "data_definition" : "Common"
         },
         "class_19": {
             "type": "string",
             "description": "2019 internet coverage",
+            "data_definition" : "Core",
             "values": {
                 "non_coperti": "no coverage",
                 "nero_vhcn_fo": "at least one VHCN network in optic fiber",
@@ -35,6 +40,21 @@
                 "grigio_novhcn_rame": "no VHCN with copper",
                 "grigio_novhcn_fwa": "no VHCN with radio"
             }
-        }
+        },
+        "class_22": {
+			"type": "string",
+            "description": "2022 internet coverage estimation",
+            "data_definition" : "Core",
+			"values": {
+				"non_coperti": "no coverage",
+				"nero_vhcn_fo": "at least one VHCN network in optic fiber",
+				"nero_vhcn_fwa": "no optic fiber, but at least one VHCN network with FWA (radio)",
+				"nero_novhcn": "at least 2 NGA network, but no VHCN",
+				"grigio_vhcn_fo": "only one VHCN with fibre optic",
+				"grigio_vhcn_fwa": "only one VHCN without fibre optic",
+				"grigio_novhcn_rame": "no VHCN with copper",
+				"grigio_novhcn_fwa": "no VHCN with radio"
+			}
+		}
     }
 }

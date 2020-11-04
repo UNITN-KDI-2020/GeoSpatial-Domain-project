@@ -33,27 +33,27 @@
 		"name":{
 			"type": "string",
 			"description": "name of the bike station",
-			"data_definition":"core"
+			"data_definition":"Core"
 		},
 		"address":{
 			"type": "string",
 			"description": "geographical address of the bike station",
-			"data_definition":"core"
+			"data_definition":"Common"
 		},
 		"id":{
 			"type": "string",
 			"description": "identifier",
-			"data_definition":"core"
+			"data_definition":"Core"
 		},
 		"totalSlots":{
 			"type": "int",
 			"description": "total number of slot bikes",
-			"data_definition":"core"
+			"data_definition":"Core"
 		},
 		"position":{
 			"type": "int[2]",
 			"description": "coordinates of the station",
-			"data_definition":"core"
+			"data_definition":"Common"
 		}
 	}
 }

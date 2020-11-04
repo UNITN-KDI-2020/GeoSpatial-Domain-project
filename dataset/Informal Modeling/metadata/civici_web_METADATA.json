@@ -21,19 +21,23 @@
             "fields": {
                 "civico_num": {
                     "type": "string",
-                    "description": "civic number (without slash)"
+                    "description": "civic number (without slash)",
+                    "data_definition": "common"
                 },
                 "desvia": {
                     "type": "string",
-                    "description": "street description"
+                    "description": "street description",
+                    "data_definition": "common"
                 },
                 "fumetto": {
                     "type": "string",
-                    "description": "complete adress"
+                    "description": "complete adress",
+                    "data_definition": "common"
                 },
                 "sobborgo": {
                     "type": "string",
-                    "description": "Cadastral community"
+                    "description": "Cadastral community",
+                    "data_definition": "common"
                 }
             }
         },

@@ -13,7 +13,7 @@
 		"address": {
 			"type": "string",
 			"description": "address of the school",
-			"data_definition":"Core"
+			"data_definition":"Common"
 		},
 		"school type": {
 			"type": "string",

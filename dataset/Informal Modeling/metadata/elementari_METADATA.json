@@ -15,27 +15,27 @@
 		"WKT": {
 			"type": "string",
 			"description": "Coordinates in Well-Known Text format",
-			"data_definition":"Core"
+			"data_definition": "Common"
 		},
 		"civico_alf": {
 			"type": "string",
 			"description": "civic number",
-			"data_definition":"Core"
+			"data_definition": "Common"
 		},
 		"destra": {
 			"type": "string",
-			"description": "street address",
-			"data_definition":"Core"
+			"description": "street adress",
+			"data_definition": "Common"
 		},
 		"sobborgo": {
 			"type": "string",
 			"description": "suburb of the school",
-			"data_definition":"Core"
+			"data_definition": "Common"
 		},
 		"scuola": {
 			"type": "string",
 			"description": "name of the school",
-			"data_definition":"Core"
+			"data_definition": "Core"
 		}
 	}
 }
