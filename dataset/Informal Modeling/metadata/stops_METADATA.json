@@ -18,38 +18,46 @@
 	"License": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
 	"License_Type": "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40",
 	"Format": "txt",
-	"Fields": {
+	"fields": {
 		"stop_id": {
-			"Type": "int",
-			"description": "identification code of the bus stop"
+			"type": "int",
+			"description": "identification code of the bus stop",
+			"data_definition": "Core"
 		},
 		"stop_code": {
-			"Type": "string",
-			"description": ""
+			"type": "string",
+			"description": "",
+			"data_definition": "Core"
 		},
 		"stop_name": {
-			"Type": "string",
-			"description": "name of the bus stop"
+			"type": "string",
+			"description": "name of the bus stop",
+			"data_definition": "Core"
 		},
 		"stop_desc": {
-			"Type": "string",
-			"description": ""
+			"type": "string",
+			"description": "",
+			"data_definition": "Contextual"
 		},
 		"stop_lat": {
-			"Type": "double",
-			"description": "latitude coordinate of the stop"
+			"type": "double",
+			"description": "latitude coordinate of the stop",
+			"data_definition": "Common"
 		},
 		"stop_lon": {
-			"Type": "double",
-			"description": "longitude coordinate of the stop"
+			"type": "double",
+			"description": "longitude coordinate of the stop",
+			"data_definition": "Common"
 		},
 		"zone_id": {
-			"Type": "int",
-			"description": "identification code of the zone"
+			"type": "int",
+			"description": "identification code of the zone",
+			"data_definition": "Contextual"
 		},
 		"wheelchair_boarding": {
-			"Type": "int",
-			"description": "number of wheelchair boarding"
+			"type": "int",
+			"description": "number of wheelchair boarding",
+			"data_definition": "Core"
 		}
 	}
 }

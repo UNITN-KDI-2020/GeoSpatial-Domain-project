@@ -18,26 +18,31 @@
 	"License": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
 	"License_Type": "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40",
 	"Format": "txt",
-	"Fields": {
+	"fields": {
 		"trip_id": {
-			"Type": "int",
-			"description": "identification code of the trip line"
+			"type": "int",
+			"description": "identification code of the trip line",
+			"data_definition": "Contextual"
 		},
 		"arrival_time": {
-			"Type": "string",
-			"description": "arrival time of the bus in that stop"
+			"type": "string",
+			"description": "arrival time of the bus in that stop",
+			"data_definition": "Contextual"
 		},
 		"departure_time": {
-			"Type": "string",
-			"description": "departure time of the bus in that stop"
+			"type": "string",
+			"description": "departure time of the bus in that stop",
+			"data_definition": "Contextual"
 		},
 		"stop_id": {
-			"Type": "int",
-			"description": "identification code of the bus stop"
+			"type": "int",
+			"description": "identification code of the bus stop",
+			"data_definition": "Core"
 		},
 		"stop_sequence": {
-			"Type": "int",
-			"description": ""
+			"type": "int",
+			"description": "",
+			"data_definition": "Core"
 		}
 	}
 }
