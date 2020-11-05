@@ -1,0 +1,55 @@
+{
+	"Dataset Identifier": "p_TN: d3c9f167-3271-4a43-b5c1-e0879aa5ad3f",
+	"Dataset Publisher": {
+		"Name": "Public Transport Service",
+		"IPA/VAT Code": "0OK0PZ"
+	},
+	"Date of modification": "2017-10-24",
+	"Geographic coverage": "Trento",
+	"URI of GeoNames": "https://www.geonames.org/3165241",
+	"Languages of the dataset": "Italian",
+	"Holder": "Autonomous Province of Trento",
+	"Refresh Rate": "Half yearly",
+	"Author": {
+		"Name": "Public Transport Service",
+		"IPA/VAT": "0OK0PZ"
+	},
+	"Url": "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
+	"License": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+	"License_Type": "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40",
+	"Format": "txt",
+	"Fields": {
+		"stop_id": {
+			"Type": "int",
+			"description": "identification code of the bus stop"
+		},
+		"stop_code": {
+			"Type": "string",
+			"description": ""
+		},
+		"stop_name": {
+			"Type": "string",
+			"description": "name of the bus stop"
+		},
+		"stop_desc": {
+			"Type": "string",
+			"description": ""
+		},
+		"stop_lat": {
+			"Type": "double",
+			"description": "latitude coordinate of the stop"
+		},
+		"stop_lon": {
+			"Type": "double",
+			"description": "longitude coordinate of the stop"
+		},
+		"zone_id": {
+			"Type": "int",
+			"description": "identification code of the zone"
+		},
+		"wheelchair_boarding": {
+			"Type": "int",
+			"description": "number of wheelchair boarding"
+		}
+	}
+}

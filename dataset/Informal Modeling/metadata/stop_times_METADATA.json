@@ -1,0 +1,43 @@
+{
+	"Dataset Identifier": "p_TN: d3c9f167-3271-4a43-b5c1-e0879aa5ad3f",
+	"Dataset Publisher": {
+		"Name": "Public Transport Service",
+		"IPA/VAT Code": "0OK0PZ"
+	},
+	"Date of modification": "2017-10-24",
+	"Geographic coverage": "Trento",
+	"URI of GeoNames": "https://www.geonames.org/3165241",
+	"Languages of the dataset": "Italian",
+	"Holder": "Autonomous Province of Trento",
+	"Refresh Rate": "Half yearly",
+	"Author": {
+		"Name": "Public Transport Service",
+		"IPA/VAT": "0OK0PZ"
+	},
+	"Url": "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
+	"License": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+	"License_Type": "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40",
+	"Format": "txt",
+	"Fields": {
+		"trip_id": {
+			"Type": "int",
+			"description": "identification code of the trip line"
+		},
+		"arrival_time": {
+			"Type": "string",
+			"description": "arrival time of the bus in that stop"
+		},
+		"departure_time": {
+			"Type": "string",
+			"description": "departure time of the bus in that stop"
+		},
+		"stop_id": {
+			"Type": "int",
+			"description": "identification code of the bus stop"
+		},
+		"stop_sequence": {
+			"Type": "int",
+			"description": ""
+		}
+	}
+}

@@ -230,6 +230,28 @@
 			"geometry"
 		]
 	},
+	"stops.csv": {
+		"iterator": "",
+		"props": [
+			"stop_id",
+			"stop_code",
+			"stop_name",
+			"stop_lat",
+			"stop_lon",
+			"zone_id",
+			"wheelchair_boarding"
+		]
+	},
+	"stop_times.csv": {
+		"iterator": "",
+		"props": [
+			"trip_id",
+			"arrival_time",
+			"departure_time",
+			"stop_id",
+			"stop_sequence"
+		]
+	},
 	"building.json": {
 		"iterator": "features",
 		"props": [
