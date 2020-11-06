@@ -1,0 +1,32 @@
+{
+	"lastModifiedAt": "2020-10-24",
+	"source": "https://www.skiresort.info/ski-resorts/trentino/",
+    "update_frequency": "unknown",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+    "fields": {
+        "name": {
+            "type": "String",
+            "description": "Name of the ski resort"
+        },        
+        "Total lenght": {
+            "type": "double",
+            "description": "total number of kilimeters available in the resort "
+        },        
+        "km blue slope": {
+            "type": "int",
+            "description": "number of kilometers of blue slopes in the resort"
+        },           
+        "km red slope": {
+            "type": "double",
+            "description": "number of kilometers of blue slopes in the resort"
+        },            
+        "km black slope": {
+            "type": "int",
+            "description": "number of kilometers of blue slopes in the resort"
+        },                         
+        "price": {
+            "type": "double",
+            "description": "Price per person"
+        }            
+    }

@@ -1,0 +1,18 @@
+{
+	"lastModifiedAt": "2020-10-24",
+	"source": "https://www.skiresort.info/ski-resorts/trentino/",
+    "update_frequency": "unknown",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+    "fields": {
+        "name": {
+                "type": "String",
+                "description": "contains the name of the ski resort"
+            },
+        "open/closed": {
+                "type": "String",
+                "description": "has the information if the resort is open or noty"
+            }
+        }
+    }
+]
