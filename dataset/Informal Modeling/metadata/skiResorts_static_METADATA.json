@@ -19,11 +19,11 @@
         },           
         "km red slope": {
             "type": "double",
-            "description": "number of kilometers of blue slopes in the resort"
+            "description": "number of kilometers of red slopes in the resort"
         },            
         "km black slope": {
             "type": "int",
-            "description": "number of kilometers of blue slopes in the resort"
+            "description": "number of kilometers of black slopes in the resort"
         },                         
         "price": {
             "type": "double",
