@@ -24,7 +24,7 @@
 		},
 		"open": {
 			"type": "Boolean",
-			"description": "wehether the trail is currently open"
+			"description": "whether the trail is currently open"
 		},
 		"elevation": {
 			"type": "ElevationProfile",
