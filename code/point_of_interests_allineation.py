@@ -29,6 +29,9 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	for d_i, d in enumerate(data):
 		if "geo" in d:
 			d["address"] = d.pop("geo")
+		if "geometry" in d:
+			d["GeoShape"] = d.pop("geometry")
+			d["GeoShape"]["GeoCoordinate"] = d["GeoShape"].pop("coordinates")
 		if cityname != "":
 			d["city"] = cityname
 		if d["name"] != None and "biblioteca" in d["name"].lower():
@@ -47,7 +50,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			theater = {}
 			theater = d
 			theaters["records"].append(theater)
-		if d["name"] != None and ("chiesa" in d["name"].lower() or "duomo" in d["name"].lower() or "Basilica" in d["name"].lower()):
+		if d["name"] != None and ("chiesa" in d["name"].lower() or "duomo" in d["name"].lower() or "basilica" in d["name"].lower() or "cappella" in d["name"].lower()):
 			church = {}
 			church = d
 			churches["records"].append(church)
@@ -75,4 +78,3 @@ with open(OUT_FOLDER + "ambulatories.json", 'w+') as file:
 	json.dump(ambulatories, file)
 with open(OUT_FOLDER + "eldery_centers.json", 'w+') as file:
 	json.dump(eldery_centers, file)
-	

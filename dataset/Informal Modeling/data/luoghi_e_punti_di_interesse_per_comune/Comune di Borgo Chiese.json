@@ -1,1 +1,274 @@
-{"records": [{"id": 3225, "name": "Anziani", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3238, "name": "Cassa Rurale Adamello - Brenta", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3245, "name": "Brione Capitel da la Crus \u2013 Planezzo", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3246, "name": "Brione \u2013 alla Sega \u2013 Scosur", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3247, "name": "Brione \u2013 Baratel \u2013 Rio Giulis", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3249, "name": "Il Rocolo", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3250, "name": "La calchera", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3251, "name": "Il Carbonaio", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3252, "name": "Il Boscaiolo", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3256, "name": "Le Streghe", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3258, "name": "L'orto della strega", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3259, "name": "Le trincee", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3260, "name": "Il Mulino", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3261, "name": "La fucina", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3265, "name": "Dolcino e Margherita", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3269, "name": "Il convento", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3270, "name": "Lapidi commemorative", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3274, "name": "La Pieve", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3276, "name": "Palazzo Belli", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3277, "name": "Rudere \"il Bersaglio\"", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3119, "name": "Servizio di Guardia Medica", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3123, "name": "Medici di Medicina Generale (medici di base)", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3161, "name": "A.P.S.P. \"Rosa dei Venti\"", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3199, "name": "Consultorio familiare", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3200, "name": "Croce Rossa Italiana", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3202, "name": "Punto prelievi", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3203, "name": "Servizio assistenza sociale", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3207, "name": "Scuola dell'Infanzia di Cimego", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3213, "name": "Ufficio Postale di Cimego ", "geo": {"latitude": 0, "longitude": 0, "address": ""}}, {"id": 3214, "name": "Ufficio Postale di Condino", "geo": {"latitude": 0, "longitude": 0, "address": ""}}]}
+{
+	"records": [
+		{
+			"id": 3225,
+			"name": "Anziani",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3238,
+			"name": "Cassa Rurale Adamello - Brenta",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3245,
+			"name": "Brione Capitel da la Crus \u2013 Planezzo",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3246,
+			"name": "Brione \u2013 alla Sega \u2013 Scosur",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3247,
+			"name": "Brione \u2013 Baratel \u2013 Rio Giulis",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3249,
+			"name": "Il Rocolo",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3250,
+			"name": "La calchera",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3251,
+			"name": "Il Carbonaio",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3252,
+			"name": "Il Boscaiolo",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3256,
+			"name": "Le Streghe",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3258,
+			"name": "L'orto della strega",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3259,
+			"name": "Le trincee",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3260,
+			"name": "Il Mulino",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3261,
+			"name": "La fucina",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3265,
+			"name": "Dolcino e Margherita",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3269,
+			"name": "Il convento",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3270,
+			"name": "Lapidi commemorative",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3274,
+			"name": "La Pieve",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3276,
+			"name": "Palazzo Belli",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3277,
+			"name": "Rudere \"il Bersaglio\"",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3119,
+			"name": "Servizio di Guardia Medica",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3123,
+			"name": "Medici di Medicina Generale (medici di base)",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3161,
+			"name": "A.P.S.P. \"Rosa dei Venti\"",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3199,
+			"name": "Consultorio familiare",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3200,
+			"name": "Croce Rossa Italiana",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3202,
+			"name": "Punto prelievi",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3203,
+			"name": "Servizio assistenza sociale",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3207,
+			"name": "Scuola dell'Infanzia di Cimego",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3213,
+			"name": "Ufficio Postale di Cimego ",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		},
+		{
+			"id": 3214,
+			"name": "Ufficio Postale di Condino",
+			"geo": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			}
+		}
+	]
+}
