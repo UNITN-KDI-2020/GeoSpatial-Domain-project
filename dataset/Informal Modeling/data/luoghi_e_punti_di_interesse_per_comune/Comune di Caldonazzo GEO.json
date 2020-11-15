@@ -1,1 +1,220 @@
-{"records": [{"id": 2019, "geometry": {"type": "Point", "coordinates": [11.263438, 45.992984]}, "name": "Scuola Elementare", "geo": "Via Asilo, 3 Caldonazzo"}, {"id": 2020, "geometry": {"type": "Point", "coordinates": [11.264259, 45.993118]}, "name": "Asilo Infantile", "geo": "Via Asilo - Caldonazzo"}, {"id": 2021, "geometry": {"type": "Point", "coordinates": [11.305146, 46.007233]}, "name": "Asilo Nido", "geo": "Levico Terme, viale Stazione"}, {"id": 2025, "geometry": {"type": "Point", "coordinates": [11.26612, 45.99319]}, "name": "Ambulatorio Comunale", "geo": "Via Brenta, 1 Caldonazzo"}, {"id": 2026, "geometry": {"type": "Point", "coordinates": [11.262162, 45.991744]}, "name": "Scuola Musicale", "geo": "Viale Stazione, 2 - Caldonazzo "}, {"id": 2027, "geometry": {"type": "Point", "coordinates": [11.262162, 45.991744]}, "name": "Centro Anziani", "geo": "Viale Stazione, 2 - Caldonazzo"}, {"id": 2028, "geometry": {"type": "Point", "coordinates": [11.260839, 45.992757]}, "name": "Palazzetto Comunale", "geo": "via Marconi, 9 - Caldonazzo"}, {"id": 2029, "geometry": {"type": "Point", "coordinates": [11.262122, 45.991445]}, "name": "Bocciodromo Comunale", "geo": "Caldonazzo"}, {"id": 2030, "geometry": {"type": "Point", "coordinates": [11.262122, 45.991445]}, "name": "Campi Tennis", "geo": "Caldonazzo"}, {"id": 2031, "geometry": {"type": "Point", "coordinates": [11.262122, 45.991445]}, "name": "Campo da calcio", "geo": "Caldonazzo"}, {"id": 2032, "geometry": {"type": "Point", "coordinates": [11.260909, 45.992916]}, "name": "Vigili del Fuoco Volontari di Caldonazzo", "geo": "via Marconi - Caldonazzo"}, {"id": 2033, "geometry": {"type": "Point", "coordinates": [11.264376, 45.996709]}, "name": "Carabinieri Stazione di Caldonazzo", "geo": "viale Stazione, 42 Caldonazzo"}, {"id": 2034, "geometry": {"type": "Point", "coordinates": [11.26731, 45.998604]}, "name": "Stazione Forestale", "geo": "Levico Terme, via al Lago, 2"}, {"id": 2056, "geometry": {"type": "Point", "coordinates": [11.26622, 45.98991]}, "name": "Spettinati D'Autore", "geo": "Via Fabio Filzi 2 - Caldonazzo"}, {"id": 2066, "geometry": {"type": "Point", "coordinates": [11.244635, 46.014527]}, "name": "Lago di Caldonazzo", "geo": "lago di Caldonazzo"}, {"id": 2067, "geometry": {"type": "Point", "coordinates": [11.259815, 45.995464]}, "name": "Farmacia", "geo": "Loc. Trozo dei Cavai, 8 Caldonazzo"}, {"id": 2022, "geometry": {"type": "Point", "coordinates": [11.23759, 46.061131]}, "name": "Servizio Socio-Assistenziale - Comprensorio Alta Valsugana - Ambiti territoriali e personale di riferimento", "geo": "P.zza Gavazzi, 4 - Pergine Valsugana"}, {"id": 1658, "geometry": {"type": "Point", "coordinates": [11.122789, 46.071621]}, "name": "Difensore civico", "geo": "Via Antonio Gazzoletti, Centro storico Trento, Trento, Territorio Val d&#039;Adige, Trento, Trentino-Alto Adige, 38122, Italia"}]}
+{
+	"records": [
+		{
+			"id": 2019,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.263438,
+					45.992984
+				]
+			},
+			"name": "Scuola Elementare",
+			"geo": "Via Asilo, 3 Caldonazzo"
+		},
+		{
+			"id": 2020,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.264259,
+					45.993118
+				]
+			},
+			"name": "Asilo Infantile",
+			"geo": "Via Asilo - Caldonazzo"
+		},
+		{
+			"id": 2021,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.305146,
+					46.007233
+				]
+			},
+			"name": "Asilo Nido",
+			"geo": "Levico Terme, viale Stazione"
+		},
+		{
+			"id": 2025,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.26612,
+					45.99319
+				]
+			},
+			"name": "Ambulatorio Comunale",
+			"geo": "Via Brenta, 1 Caldonazzo"
+		},
+		{
+			"id": 2026,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.262162,
+					45.991744
+				]
+			},
+			"name": "Scuola Musicale",
+			"geo": "Viale Stazione, 2 - Caldonazzo "
+		},
+		{
+			"id": 2027,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.262162,
+					45.991744
+				]
+			},
+			"name": "Centro Anziani",
+			"geo": "Viale Stazione, 2 - Caldonazzo"
+		},
+		{
+			"id": 2028,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.260839,
+					45.992757
+				]
+			},
+			"name": "Palazzetto Comunale",
+			"geo": "via Marconi, 9 - Caldonazzo"
+		},
+		{
+			"id": 2029,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.262122,
+					45.991445
+				]
+			},
+			"name": "Bocciodromo Comunale",
+			"geo": "Caldonazzo"
+		},
+		{
+			"id": 2030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.262122,
+					45.991445
+				]
+			},
+			"name": "Campi Tennis",
+			"geo": "Caldonazzo"
+		},
+		{
+			"id": 2031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.262122,
+					45.991445
+				]
+			},
+			"name": "Campo da calcio",
+			"geo": "Caldonazzo"
+		},
+		{
+			"id": 2032,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.260909,
+					45.992916
+				]
+			},
+			"name": "Vigili del Fuoco Volontari di Caldonazzo",
+			"geo": "via Marconi - Caldonazzo"
+		},
+		{
+			"id": 2033,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.264376,
+					45.996709
+				]
+			},
+			"name": "Carabinieri Stazione di Caldonazzo",
+			"geo": "viale Stazione, 42 Caldonazzo"
+		},
+		{
+			"id": 2034,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.26731,
+					45.998604
+				]
+			},
+			"name": "Stazione Forestale",
+			"geo": "Levico Terme, via al Lago, 2"
+		},
+		{
+			"id": 2056,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.26622,
+					45.98991
+				]
+			},
+			"name": "Spettinati D'Autore",
+			"geo": "Via Fabio Filzi 2 - Caldonazzo"
+		},
+		{
+			"id": 2066,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.244635,
+					46.014527
+				]
+			},
+			"name": "Lago di Caldonazzo",
+			"geo": "lago di Caldonazzo"
+		},
+		{
+			"id": 2067,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.259815,
+					45.995464
+				]
+			},
+			"name": "Farmacia",
+			"geo": "Loc. Trozo dei Cavai, 8 Caldonazzo"
+		},
+		{
+			"id": 2022,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.23759,
+					46.061131
+				]
+			},
+			"name": "Servizio Socio-Assistenziale - Comprensorio Alta Valsugana - Ambiti territoriali e personale di riferimento",
+			"geo": "P.zza Gavazzi, 4 - Pergine Valsugana"
+		},
+		{
+			"id": 1658,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					11.122789,
+					46.071621
+				]
+			},
+			"name": "Difensore civico",
+			"geo": "Via Antonio Gazzoletti, Centro storico Trento, Trento, Territorio Val d&#039;Adige, Trento, Trentino-Alto Adige, 38122, Italia"
+		}
+	]
+}

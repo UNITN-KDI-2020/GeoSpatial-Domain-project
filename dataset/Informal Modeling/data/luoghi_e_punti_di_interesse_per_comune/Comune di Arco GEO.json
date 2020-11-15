@@ -1,1 +1,268 @@
-{"records": [{"id": 2419, "geometry": {"type": "Point", "coordinates": [10.886066, 45.919204]}, "name": "Il Palazzo dei Panni", "geo": "Piazza III Novembre, 3, Arco TN"}, {"id": 2198, "geometry": {"type": "Point", "coordinates": [10.888497, 45.920055]}, "name": "Piazzale Segantini (giardini centrali)", "geo": "piazzale segantini arco"}, {"id": 2202, "geometry": {"type": "Point", "coordinates": [10.883958, 45.913445]}, "name": "Parco - Via Caduti di Cefalonia", "geo": "arco via caduti di cefalonia"}, {"id": 2203, "geometry": {"type": "Point", "coordinates": [10.862795, 45.901929]}, "name": "Parco - S. Giorgio ", "geo": "Arco, san giorgio"}, {"id": 2205, "geometry": {"type": "Point", "coordinates": [10.9019, 45.912038]}, "name": "Parco - Bolognano Viale Stazione", "geo": "Bolognano viale stazione"}, {"id": 2206, "geometry": {"type": "Point", "coordinates": [10.899161, 45.923621]}, "name": "Parco - Massone", "geo": "via maffei arco"}, {"id": 2208, "geometry": {"type": "Point", "coordinates": [10.865451, 45.919647]}, "name": "Parco - Vigne campo sportivo via Fossa", "geo": "Vigne, via fossa Arco TN"}, {"id": 2209, "geometry": {"type": "Point", "coordinates": [10.868749, 45.932317]}, "name": "Parco - Padaro", "geo": "arco padaro"}, {"id": 2212, "geometry": {"type": "Point", "coordinates": [10.892204, 45.916735]}, "name": "Parco - Caneve", "geo": "arco caneve"}, {"id": 2214, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Da Arco a Romarzollo", "geo": "arco"}, {"id": 2218, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Da S. Martino a Massone", "geo": "arco "}, {"id": 2226, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "La Costa", "geo": "arco"}, {"id": 2228, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Laghel", "geo": "Arco"}, {"id": 2229, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Percorso - vita di Prabi", "geo": "arco"}, {"id": 2232, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Pianura Troiana, Carobbi, B\u00e8, Braila", "geo": "arco"}, {"id": 2234, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Padaro, Mandrea, San Giovanni", "geo": "arco"}, {"id": 2187, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "Giardino della Pace", "geo": "arco giardino della pace"}, {"id": 2395, "geometry": {"type": "Point", "coordinates": [10.885576, 45.917861]}, "name": "La Chiesa Collegiata", "geo": "Arco"}, {"id": 2713, "geometry": {"type": "Point", "coordinates": [10.88404, 45.918479]}, "name": "Mercato bisettimanale", "geo": "viale delle palme Arco TN"}, {"id": 2719, "geometry": {"type": "Point", "coordinates": [10.885316, 45.919204]}, "name": "Mercato bimensile", "geo": "piazza canoniche arco"}, {"id": 2176, "geometry": {"type": "Point", "coordinates": [10.879024, 45.922152]}, "name": "Il Parco Arciducale (o Arboreto)", "geo": "via Lomego Arco"}, {"id": 2725, "geometry": {"type": "Point", "coordinates": [10.88735, 45.91894]}, "name": "Fiera di S. Anna (26 luglio).", "geo": " Piazza S. Anna arco"}]}
+{
+	"records": [
+		{
+			"id": 2419,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.886066,
+					45.919204
+				]
+			},
+			"name": "Il Palazzo dei Panni",
+			"geo": "Piazza III Novembre, 3, Arco TN"
+		},
+		{
+			"id": 2198,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.888497,
+					45.920055
+				]
+			},
+			"name": "Piazzale Segantini (giardini centrali)",
+			"geo": "piazzale segantini arco"
+		},
+		{
+			"id": 2202,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.883958,
+					45.913445
+				]
+			},
+			"name": "Parco - Via Caduti di Cefalonia",
+			"geo": "arco via caduti di cefalonia"
+		},
+		{
+			"id": 2203,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.862795,
+					45.901929
+				]
+			},
+			"name": "Parco - S. Giorgio ",
+			"geo": "Arco, san giorgio"
+		},
+		{
+			"id": 2205,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.9019,
+					45.912038
+				]
+			},
+			"name": "Parco - Bolognano Viale Stazione",
+			"geo": "Bolognano viale stazione"
+		},
+		{
+			"id": 2206,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.899161,
+					45.923621
+				]
+			},
+			"name": "Parco - Massone",
+			"geo": "via maffei arco"
+		},
+		{
+			"id": 2208,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.865451,
+					45.919647
+				]
+			},
+			"name": "Parco - Vigne campo sportivo via Fossa",
+			"geo": "Vigne, via fossa Arco TN"
+		},
+		{
+			"id": 2209,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.868749,
+					45.932317
+				]
+			},
+			"name": "Parco - Padaro",
+			"geo": "arco padaro"
+		},
+		{
+			"id": 2212,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.892204,
+					45.916735
+				]
+			},
+			"name": "Parco - Caneve",
+			"geo": "arco caneve"
+		},
+		{
+			"id": 2214,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Da Arco a Romarzollo",
+			"geo": "arco"
+		},
+		{
+			"id": 2218,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Da S. Martino a Massone",
+			"geo": "arco "
+		},
+		{
+			"id": 2226,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "La Costa",
+			"geo": "arco"
+		},
+		{
+			"id": 2228,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Laghel",
+			"geo": "Arco"
+		},
+		{
+			"id": 2229,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Percorso - vita di Prabi",
+			"geo": "arco"
+		},
+		{
+			"id": 2232,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Pianura Troiana, Carobbi, B\u00e8, Braila",
+			"geo": "arco"
+		},
+		{
+			"id": 2234,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Padaro, Mandrea, San Giovanni",
+			"geo": "arco"
+		},
+		{
+			"id": 2187,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "Giardino della Pace",
+			"geo": "arco giardino della pace"
+		},
+		{
+			"id": 2395,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885576,
+					45.917861
+				]
+			},
+			"name": "La Chiesa Collegiata",
+			"geo": "Arco"
+		},
+		{
+			"id": 2713,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.88404,
+					45.918479
+				]
+			},
+			"name": "Mercato bisettimanale",
+			"geo": "viale delle palme Arco TN"
+		},
+		{
+			"id": 2719,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.885316,
+					45.919204
+				]
+			},
+			"name": "Mercato bimensile",
+			"geo": "piazza canoniche arco"
+		},
+		{
+			"id": 2176,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.879024,
+					45.922152
+				]
+			},
+			"name": "Il Parco Arciducale (o Arboreto)",
+			"geo": "via Lomego Arco"
+		},
+		{
+			"id": 2725,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.88735,
+					45.91894
+				]
+			},
+			"name": "Fiera di S. Anna (26 luglio).",
+			"geo": " Piazza S. Anna arco"
+		}
+	]
+}
