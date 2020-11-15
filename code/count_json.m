@@ -1,7 +1,7 @@
 function [T] = count_json(input_file)
 %COUNT_JSON Summary of this function goes here
 %   Detailed explanation goes here
-fileName = ['dataset\Scope Definition & Inception\data\', input_file, '.geojson']; % filename in JSON extension
+fileName = ['dataset\Informal Modeling\data\', input_file, '.geojson']; % filename in JSON extension
 
 
 fid = fopen(fileName); 
@@ -35,7 +35,7 @@ for i=1:size(outtable,1)
     outtable{i,3}=outtable{i,2}/total*100;
 end
 T = cell2table(outtable,'VariableNames',{'Name' 'Count' 'Percentual'});
-name=['dataset\Scope Definition & Inception\metadata\count_',input_file,'.csv'];
+name=['dataset\Informal Modeling\metadata\count_',input_file,'.csv'];
 writetable(T,name);
 end
 
