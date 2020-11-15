@@ -1,19 +1,70 @@
 [
-{"name": "Carezza Ski ", "open/closed": "Ski resort closed"},
-{"name": "Latemar  ObereggenPampeagoPredazzo ", "open/closed": "Ski resort closed"},
-{"name": "San Martino di Castrozza ", "open/closed": "Ski resort closed",
-{"name": "Madonna di CampiglioPinzoloFolgridaMarilleva ", "open/closed": "Ski resort closed"},
-{"name": "BelvedereCol RodellaCiampacBuffaure  CanazeiCampitelloAlbaPozza di Fassa ", "open/closed": "Ski resort closed"},
-{"name": "Passo San PellegrinoFalcade ", "open/closed": "Ski resort closed", "open km"},
-{"name": "Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale) ", "open/closed"},
-{"name": "Paganella  Andalo ", "open/closed": "Ski resort closed"},
-{"name": "Alpe Lusia  MoenaBellamonte ", "open/closed": "Ski resort closed", "open km"},
-{"name": "FolgariaFiorentini ", "open/closed": "Ski resort closed", "open km"},
-{"name": "Alpe Cermis  Cavalese ", "open/closed": "Ski resort closed", "open km"},
-{"name": "Monte Bondone ", "open/closed": "Ski resort closed"},
-{"name": "Pejo ", "open/closed": "Ski resort closed"},
-{"name": "Lavarone ", "open/closed": "Ski resort closed"},
-{"name": "CatinaccioCiampedie  Vigo di FassaPera di Fassa ", "open/closed": "Ski resort closed"},
-{"name": "Panarotta 2002  Valsugana ", "open/closed": "Ski resort closed"},
-{"name": "Passo Fedaia  Pian dei Fiacconi (Marmolada) ", "open/closed": "Ski resort closed"}
+	{
+		"name": "Carezza Ski ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Latemar  ObereggenPampeagoPredazzo ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "San Martino di Castrozza ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Madonna di CampiglioPinzoloFolgridaMarilleva ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "BelvedereCol RodellaCiampacBuffaure  CanazeiCampitelloAlbaPozza di Fassa ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Passo San PellegrinoFalcade ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale) ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Paganella  Andalo ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Alpe Lusia  MoenaBellamonte ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "FolgariaFiorentini ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Alpe Cermis  Cavalese ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Monte Bondone ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Pejo ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Lavarone ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "CatinaccioCiampedie  Vigo di FassaPera di Fassa ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Panarotta 2002  Valsugana ",
+		"open/closed": "Ski resort closed"
+	},
+	{
+		"name": "Passo Fedaia  Pian dei Fiacconi (Marmolada) ",
+		"open/closed": "Ski resort closed"
+	}
 ]
