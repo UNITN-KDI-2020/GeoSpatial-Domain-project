@@ -1,13 +1,13 @@
 {
-	"Dataset ID": "9368a92a-dbe9-4a43-9fc0-66a5f4695e16",
-	"Release date": "28-04-2020",
-	"Modification date": "31-03-2016",
+	"Dataset ID": "c_l378-1129126",
+	"Release date": "09-11-2017",
+	"Modification date": "08-05-2019",
 	"Geographical Coverage": "Provincia di Trento",
-	"Source": "https://dati.trentino.it/",
-	"GeoNames URI": "http://www.geonames.org/3165243",
+	"Source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-elementari-open-data",
+	"GeoNames URI": "http://www.geonames.org/6541469",
 	"Holder": {
-		"Nome": "Provincia autonoma di Trento",
-		"Code IPA/IVA": "p_TN"
+		"Nome": "Comune di Trento",
+		"Code IPA/IVA": "c_l378"
 	},
 	"Update frequency": "unknown",
 	"Format": "json",

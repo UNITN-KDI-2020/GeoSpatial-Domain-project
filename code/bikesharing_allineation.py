@@ -16,13 +16,13 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	dataset = open(IN_FOLDER + filename, "r")
 
 	print(filename)
-	cityname = filename.replace("-"," ")
+	cityname = filename[:-5]
 
 	data = json.load(dataset)["records"]
 
 	for d_i, d in enumerate(data):
 		if "position" in d:
-			d["GeoCoordinate"] = d.pop("position")
+			d["GeoShape"] = {"type":"Point", "GeoCoordinate": d.pop("position") }
 		if cityname != "":
 			d["city"] = cityname
 		bikesharing_stations["records"].append(d)
