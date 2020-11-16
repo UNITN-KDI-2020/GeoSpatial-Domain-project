@@ -4,12 +4,18 @@ import json
 import csv
 from os import path,listdir
 from sys import argv
+import pyproj as pj
+import warnings
+warnings.filterwarnings("ignore", category=Warning)
 
 IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
 ignore_existing = argv[1] if len(argv) > 1 else True
 
 exceptions = ["SAT_trails.json","skiResorts_currentState.json"]
+
+inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]')
+outProj = pj.Proj(init='epsg:4326')
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	if not ".json" in filename or (ignore_existing and path.exists(OUT_FOLDER + filename)) or filename in exceptions:
@@ -26,6 +32,20 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["Total lenght"] = d["Total lenght"][7:] # "Total: " removing
 			d["Number of lifts"] = d["Number of lifts"][7:] # "Total: " removing
 			d["raiting"] = d["raiting"][:-15] # " stars out of 5" removing
+
+	if "piste_ciclabili.json" in filename:
+		for d_i, d in enumerate(data):
+			d["type"] = d.pop("tipologia")
+			d["path type"] = d.pop("tipo")
+			if "WKT" in d:
+				coordinatesWKT = d["WKT"].replace("LINESTRING (", "").replace(")","").split(",")
+				coordinates = []
+				d.pop("WKT")
+				for coor in coordinatesWKT:
+					coor = coor.split(" ")
+					y,x = pj.transform(inProj,outProj,coor[0],coor[1])
+					coordinates.append([x,y])
+				d["GeoShape"] = {"type":"Line", "GeoCoordinate": coordinates }
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
