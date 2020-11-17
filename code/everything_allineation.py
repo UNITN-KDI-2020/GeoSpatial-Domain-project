@@ -81,7 +81,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 IN_FOLDER = "./dataset/Informal Modeling/metadata/"
 OUT_FOLDER = "./dataset/Formal Modeling/metadata/"
 
-exceptions = ["SAT_trails.json", "skiResorts_currentState.json"]
+exceptions = ["SAT_trails_METADATA.json", "skiResorts_currentState_METADATA.json", "elementari_METADATA.json","medie_METADATA.json","materne_METADATA.json","superiori_METADATA.json","luoghi_e_punti_di_interesse_per_comune_METADATA.json"]
 
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
@@ -96,8 +96,11 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	for i, (k, v) in enumerate(data.items()):
 		if "fields" == k:
-			newMetadata[k] = v["properties"]["fields"]
-			newMetadata["GeoShape"] = {
+			if "properties" in v:
+				newMetadata[k] = v["properties"]["fields"]
+			else:
+				newMetadata[k] = v
+			newMetadata[k]["GeoShape"] = {
 					"type": "GeoShape",
 					"description": "object containing location information",
 					"data_definition": "Common",
@@ -134,6 +137,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				d["address"] = d.pop("desvia")
 			if "sobborgo" in d:
 				d["city"] = d.pop("sobborgo")
+			if "WKT" in d:
+				d.pop("WKT")
 			newMetadata["fields"] = d
 		
 		else:
