@@ -1,0 +1,100 @@
+{
+	"high_school": {
+		"Release date": "19-09-2020",
+		"source": "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+		"Geographical Coverage": "Provincia di Trento",
+		"Update frequency": "unknown",
+		"Format": "json"
+	},
+	"middle_school": {
+		"Dataset ID": "c_l378-1129125",
+		"Release date": "09-11-2017",
+		"Modification date": "	08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"URI di GeoNames": "http://www.geonames.org/6541469",
+		"source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-medie-open-data",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"nursery_school": {
+		"Dataset ID": "c_l378-1129127",
+		"Release date": "09-11-2017",
+		"Modification date": "08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"source": "https://dati.trentino.it/dataset/localizzazione-scuole-dell-infanzia-open-data",
+		"GeoNames URI": "http://www.geonames.org/6541469",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"elementary_school": {
+		"Dataset ID": "c_l378-1129126",
+		"Release date": "09-11-2017",
+		"Modification date": "08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"Source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-elementari-open-data",
+		"GeoNames URI": "http://www.geonames.org/6541469",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"fields":{
+		"GeoShape": {
+			"type": "GeoShape",
+			"description": "object containing location information",
+			"data_definition": "Common",
+			"fields":{
+				"type" : {
+					"type":"string",
+					"description": "type of GeoShape (Line, Polygon, Point)",
+					"data_definition": "Common"
+				},
+				"GeoCoordinates":{
+					"type": "int[2]",
+					"description": "Coordinates of the location in EPSG 4326 projection standard",
+					"data_definition": "Common"
+				}
+			}
+		},
+		"HouseNumber": {
+			"type": "string",
+			"description": "civic number",
+			"data_definition": "Common"
+		},
+		"address": {
+			"type": "string",
+			"description": "street adress",
+			"data_definition": "Common"
+		},
+		"city": {
+			"type": "string",
+			"description": "suburb of the school",
+			"data_definition": "Common"
+		},
+		"name": {
+			"type": "string",
+			"description": "name of the school",
+			"data_definition": "Core"
+		},
+		"SchoolType":{
+			"type": "string",
+			"description": "type of school (nursery, elementary, middle, high)",
+			"data_definition":"Core"
+		},
+		"study paths": {
+			"type": "string",
+			"description": "the study paths offerted from the school (comma separated)",
+			"data_definition":"Core"
+		}
+	}
+}

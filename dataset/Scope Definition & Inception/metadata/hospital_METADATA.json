@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-11-15T17:12:02Z",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+	"fields": {
+		"properties": {
+            "type": "map",
+			"description": "item of data",
+			"fields": {
+				"@id": {
+					"type": "string",
+					"description": "name that identifies a unique object"
+                },
+                "amenity": {
+					"type": "",
+					"description": ""
+                },
+                "building": {
+					"type": "",
+					"description": ""
+                },
+                "name": {
+					"type": "",
+					"description": ""
+                },
+                "type": {
+					"type": "",
+					"description": ""
+                },
+                "addr_city": {
+					"type": "",
+					"description": ""
+                },
+                "addr_housenumber": {
+					"type": "",
+					"description": ""
+                },
+                "addr_postcode": {
+					"type": "",
+					"description": ""
+                },
+                "addr_street": {
+					"type": "",
+					"description": ""
+                },
+                "contact_fax": {
+					"type": "",
+					"description": ""
+                },
+                "contact_phone": {
+					"type": "",
+					"description": ""
+                },
+                "email": {
+					"type": "",
+					"description": ""
+                },
+                "emergency": {
+					"type": "",
+					"description": ""
+                },
+                "operator": {
+					"type": "",
+					"description": ""
+                },
+                "website": {
+					"type": "",
+					"description": ""
+                },
+                "wikidata": {
+					"type": "",
+					"description": ""
+                },
+                "wheelchair": {
+					"type": "",
+					"description": ""
+                },
+                "importance": {
+					"type": "",
+					"description": ""
+                },
+                "healthcare": {
+					"type": "",
+					"description": ""
+                },
+                "source": {
+					"type": "",
+					"description": ""
+                },
+                "addr_country": {
+					"type": "",
+					"description": ""
+                },
+                "description": {
+					"type": "",
+					"description": ""
+                },
+                "phone": {
+					"type": "",
+					"description": ""
+                },
+                "highway": {
+					"type": "",
+					"description": ""
+                },
+                "designation": {
+					"type": "",
+					"description": ""
+                },
+                "addr_province": {
+					"type": "",
+					"description": ""
+                },
+                "addr_state": {
+					"type": "",
+					"description": ""
+                },
+                "indoor": {
+					"type": "",
+					"description": ""
+                },
+                "disabled": {
+					"type": "",
+					"description": ""
+                },
+                "survey_date": {
+					"type": "",
+					"description": ""
+                }                            
+			}
+		},
+		"type": {
+			"type": "string",
+			"description": "type of data"
+		},
+		"geometry": {
+			"type": "map",
+			"description": "geometrical features",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of geometry"
+				},
+				"coordinates": {
+					"type": "array",
+					"description": "array the points which compose the polygon"
+				}
+			}
+		}
+	}
+}

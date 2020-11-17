@@ -21,7 +21,7 @@ y2,x2 = pj.transform(inProj,outProj,x1,y1)
 print(str(x2)+", "+str(y2))
 
 
-
+# Data
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	dataset = open(IN_FOLDER + filename, "r")
@@ -56,7 +56,6 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		d["SchoolType"] = school
 		schools["records"].append(d)
 
-
-
 with open(OUT_FOLDER + "schools.json", 'w+') as file:
 	json.dump(schools, file)
+

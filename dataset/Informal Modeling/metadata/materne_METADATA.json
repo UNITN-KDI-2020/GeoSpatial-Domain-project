@@ -1,15 +1,15 @@
 {
-	"Dataset ID": "3dd956d1-a376-4e9a-8182-d839de4163dd",
-	"Release date": "28-04-2020",
-	"Modification date": "31-03-2016",
+	"Dataset ID": "c_l378-1129127",
+	"Release date": "09-11-2017",
+	"Modification date": "08-05-2019",
 	"Geographical Coverage": "Provincia di Trento",
-	"Source": "https://dati.trentino.it/",
-	"GeoNames URI": "http://www.geonames.org/3165243",
+	"source": "https://dati.trentino.it/dataset/localizzazione-scuole-dell-infanzia-open-data",
+	"GeoNames URI": "http://www.geonames.org/6541469",
 	"Holder": {
-		"Nome": "Provincia autonoma di Trento",
-		"Code IPA/IVA": "p_TN"
+		"Nome": "Comune di Trento",
+		"Code IPA/IVA": "c_l378"
 	},
-	"Update frequency": "unknown",
+	"Update frequency": "continuously updated",
 	"Format": "json",
 	"fields": {
 		"WKT": {

@@ -230,6 +230,18 @@
 			"geometry"
 		]
 	},
+	"hospital.geojson":{
+		"iterator": "features",
+		"props":[
+			"properties.name",
+			"properties.@id",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"geometry"
+		]
+	},
 	"stops.csv": {
 		"iterator": "",
 		"props": [

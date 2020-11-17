@@ -9,7 +9,7 @@
 		"Nome": "Comune di Trento",
 		"Code IPA/IVA": "c_l378"
 	},
-	"Update frequency": "unknown",
+	"Update frequency": "continuously updated",
 	"Format": "json",
 	"fields": {
 		"WKT": {

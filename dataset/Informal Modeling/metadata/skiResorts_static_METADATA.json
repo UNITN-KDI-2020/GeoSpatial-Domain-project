@@ -28,5 +28,6 @@
         "price": {
             "type": "double",
             "description": "Price per person"
-        }            
+        }
     }
+}

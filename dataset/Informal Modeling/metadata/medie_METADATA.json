@@ -1,14 +1,15 @@
 {
-	"Dataset ID": "ade37eb8-13af-4584-a965-6765e26f1870",
-	"Release date": "28-04-2020",
-	"Modification date": "31-03-2016",
+	"Dataset ID": "c_l378-1129125",
+	"Release date": "09-11-2017",
+	"Modification date": "	08-05-2019",
 	"Geographical Coverage": "Provincia di Trento",
-	"URI di GeoNames": "http://www.geonames.org/3165243",
+	"URI di GeoNames": "http://www.geonames.org/6541469",
+	"source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-medie-open-data",
 	"Holder": {
-		"Nome": "Provincia autonoma di Trento",
-		"Code IPA/IVA": "p_TN"
+		"Nome": "Comune di Trento",
+		"Code IPA/IVA": "c_l378"
 	},
-	"Update frequency": "unknown",
+	"Update frequency": "continous updating",
 	"Format": "json",
 	"fields": {
 		"WKT": {
