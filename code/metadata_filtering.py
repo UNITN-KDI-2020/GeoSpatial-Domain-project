@@ -36,7 +36,7 @@ for mapIndex, (k, v) in enumerate(filterMap.items()):
 									for p in propsToKeep:
 										ps = p.split('.')
 										p = ps[len(ps)-1]
-										if f3 == p:
+										if f3 == p or p.replace(":","_") == f3:
 											contained = True
 											break
 									if contained:

@@ -185,9 +185,7 @@
         "emergency": "yes",
         "name": "Ospedale Santa Maria del Carmine",
         "operator": "Azienda Provinciale per i servizi Sanitari",
-        "type": "multipolygon",
-        "website": "https://www.apss.tn.it/",
-        "wikidata": "Q51472110"
+        "type": "multipolygon"
       },
       "geometry": {
         "type": "Polygon",
@@ -1995,8 +1993,7 @@
         "emergency": "yes",
         "healthcare": "hospital",
         "importance": "regional",
-        "name": "Santa Chiara",
-        "wikidata": "Q54554839"
+        "name": "Santa Chiara"
       },
       "geometry": {
         "type": "Polygon",
@@ -2126,8 +2123,7 @@
         "amenity": "hospital",
         "building": "yes",
         "name": "Centro di Protonterapia",
-        "source": "bing",
-        "wikidata": "Q65010366"
+        "source": "bing"
       },
       "geometry": {
         "type": "Polygon",
@@ -2343,8 +2339,7 @@
         "emergency": "no",
         "healthcare": "hospital",
         "name": "Centro di Riabilitazione Villa San Pietro",
-        "phone": "+39 0464 516839",
-        "website": "http://centrosanpietro.it/"
+        "phone": "+39 0464 516839"
       },
       "geometry": {
         "type": "Polygon",
@@ -3171,8 +3166,7 @@
       "properties": {
         "@id": "node/474985898",
         "amenity": "hospital",
-        "name": "Ex Villa Rosa",
-        "wikidata": "Q60380881"
+        "name": "Ex Villa Rosa"
       },
       "geometry": {
         "type": "Point",
@@ -3343,24 +3337,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3637095818",
-        "amenity": "hospital",
-        "designation": "dentista",
-        "emergency": "no",
-        "name": "Studio Odontoiatrico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.0579763,
-          46.0705601
-        ]
-      },
-      "id": "node/3637095818"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5252877027",
         "addr:city": "Arco",
         "amenity": "hospital",
@@ -3466,23 +3442,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/5840514319",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "healthcare": "doctor"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.5854065,
-          46.2593713
-        ]
-      },
-      "id": "node/5840514319"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/6767166244",
         "amenity": "hospital",
         "healthcare": "hospital"
@@ -3495,25 +3454,6 @@
         ]
       },
       "id": "node/6767166244"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7220781784",
-        "amenity": "hospital",
-        "disabled": "designated",
-        "healthcare": "hospital",
-        "name": "Centro Anziani",
-        "survey:date": "2020-02-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.1973526,
-          46.0048311
-        ]
-      },
-      "id": "node/7220781784"
     }
   ]
 }
