@@ -1,22 +1,27 @@
 {
-	"type": "FeatureCollection",
-	"generator": "overpass-ide",
-	"source": "www.openstreetmap.org",
-	"copyright": "ODbL",
-	"timestamp": "2020-10-20T07:44:03Z",
-	"update_frequency": "no update",
-	"Geographical Coverage": "Provincia di Trento",
+	"source": "https://dati.trentino.it/",
 	"format": "json",
+	"relese date": "15-11-2020",
+	"Lingue del dataset": "italiano",
+	"Upload frequency": "unknow",
+	"Conforme a": "Standard: conforme a REST/JSON",
+	"description": "dataset merged from 'luoghi_e_punti_di_interesse_per_comune'",
 	"fields": {
-		"highway": {
+		"id": {
 			"type": "string",
-			"description": "type of road (trunk,primary, secondary, tertiary)",
-			"data_definition": "contextual"
+			"description": "identification code of the location"
 		},
 		"name": {
 			"type": "string",
-			"description": "name of the road",
-			"data_definition": "core"
+			"description": "name of the location"
+		},
+		"address": {
+			"type": "string",
+			"description": "address of the location"
+		},
+		"city": {
+			"type": "string",
+			"description": "city of the location"
 		},
 		"GeoShape": {
 			"type": "GeoShape",
@@ -34,11 +39,6 @@
 					"data_definition": "Common"
 				}
 			}
-		},
-		"id": {
-			"type": "string",
-			"description": "identification code",
-			"data_definition": "core"
 		}
 	}
 }

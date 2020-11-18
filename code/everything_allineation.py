@@ -92,7 +92,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	metadata = open(IN_FOLDER + filename, "r")
 	data = json.load(metadata)
 
-	newMetadata = {"records": []}
+	newMetadata = {}
 
 	for i, (k, v) in enumerate(data.items()):
 		if "fields" == k:

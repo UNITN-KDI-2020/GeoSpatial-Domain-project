@@ -1,1 +1,34 @@
-{"records": [], "type": "FeatureCollection", "generator": "overpass-ide", "source": "www.openstreetmap.org", "copyright": "ODbL", "timestamp": "2020-10-19T10:54:03Z", "update_frequency": "no update", "Geographical Coverage": "Provincia di Trento", "format": "json", "fields": {"name": {"type": "string", "description": "the name of the area", "data_definition": "core"}, "GeoShape": {"type": "GeoShape", "description": "object containing location information", "data_definition": "Common", "fields": {"type": {"type": "string", "description": "type of GeoShape (Line, Polygon, Point)", "data_definition": "Common"}, "GeoCoordinates": {"type": "int[2]", "description": "Coordinates of the location in EPSG 4326 projection standard", "data_definition": "Common"}}}}}
+{
+	"type": "FeatureCollection",
+	"generator": "overpass-ide",
+	"source": "www.openstreetmap.org",
+	"copyright": "ODbL",
+	"timestamp": "2020-10-19T10:54:03Z",
+	"update_frequency": "no update",
+	"Geographical Coverage": "Provincia di Trento",
+	"format": "json",
+	"fields": {
+		"name": {
+			"type": "string",
+			"description": "the name of the area",
+			"data_definition": "core"
+		},
+		"GeoShape": {
+			"type": "GeoShape",
+			"description": "object containing location information",
+			"data_definition": "Common",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of GeoShape (Line, Polygon, Point)",
+					"data_definition": "Common"
+				},
+				"GeoCoordinates": {
+					"type": "int[2]",
+					"description": "Coordinates of the location in EPSG 4326 projection standard",
+					"data_definition": "Common"
+				}
+			}
+		}
+	}
+}

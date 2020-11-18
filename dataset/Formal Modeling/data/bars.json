@@ -1,1 +1,219 @@
-{"records": [{"id": 1717, "name": "Bar \u201cDel Comun\u201d", "address": "Piazza Centrale 4 38020 Cis (Tn)", "GeoShape": {"type": "Point", "GeoCoordinate": [11.00212, 46.39932]}, "city": "Cis"}, {"id": 17862, "name": "Ristorante Bar Hotel Garden", "address": "pieve di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia", "GeoShape": {"type": "Point", "GeoCoordinate": [10.733766, 45.8884]}, "city": "Ledro"}, {"id": 17321, "name": "Ristorante Bar Hotel Lido", "address": "pieve di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia", "GeoShape": {"type": "Point", "GeoCoordinate": [10.735902, 45.885543]}, "city": "Ledro"}, {"id": 16784, "name": "Ristorante Bar Albergo Alba", "address": "locca, Ledro, Trentino-Alto Adige, 38067 , Italia", "GeoShape": {"type": "Point", "GeoCoordinate": [10.725462, 45.899967]}, "city": "Ledro"}, {"id": 16785, "name": "Bar La Chicchera", "address": "tiarno di sopra, Ledro, Trentino-Alto Adige, 38067 , Italia", "GeoShape": {"type": "Point", "GeoCoordinate": [10.671866, 45.889009]}, "city": "Ledro"}, {"id": 16802, "name": "Ristorante/Pizzeria Bar Cima d'Oro", "address": "molina di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia", "GeoShape": {"type": "Point", "GeoCoordinate": [10.766393, 45.874463]}, "city": "Ledro"}, {"id": 1968, "name": "Bar Tavola Calda Catinaccio", "address": {"latitude": 0, "longitude": 0, "address": ""}, "city": "Ruffr\u00e8 Mendola"}, {"id": 1969, "name": "Bar Ristorante La Stua", "address": {"latitude": 0, "longitude": 0, "address": ""}, "city": "Ruffr\u00e8 Mendola"}, {"id": 1970, "name": "Bar Ristorante Europa", "address": {"latitude": 0, "longitude": 0, "address": ""}, "city": "Ruffr\u00e8 Mendola"}, {"id": 1972, "name": "Bar Grill", "address": {"latitude": 0, "longitude": 0, "address": ""}, "city": "Ruffr\u00e8 Mendola"}, {"id": 5289, "name": "Bar Calvi", "address": "Frazione Piazza, 36", "GeoShape": {"type": "Point", "GeoCoordinate": [11.15181, 45.878885]}, "city": "Terragnolo"}, {"id": 5290, "name": "Bar - Ristorante - Tabacchi  Valduga Laura", "address": "frazione Piazza, 58", "GeoShape": {"type": "Point", "GeoCoordinate": [11.151821, 45.879363]}, "city": "Terragnolo"}, {"id": 1278898, "name": "Bar Tre Portoni", "GeoShape": {"type": "Point", "GeoCoordinate": [11.123346, 46.063978]}, "city": "Trento"}, {"id": 1278888, "name": "Bar pasticceria Mazzoleni", "GeoShape": {"type": "Point", "GeoCoordinate": [11.119907, 46.077373]}, "city": "Trento"}, {"id": 1279506, "name": "Bar Veneto", "GeoShape": {"type": "Point", "GeoCoordinate": [11.125733, 46.05972]}, "city": "Trento"}, {"id": 1278886, "name": "Bar Fiorentina", "GeoShape": {"type": "Point", "GeoCoordinate": [11.122472, 46.066751]}, "city": "Trento"}, {"id": 1279505, "name": "Birreria Pedavena", "GeoShape": {"type": "Point", "GeoCoordinate": [11.123413, 46.06477]}, "city": "Trento"}, {"id": 11121, "name": "Bar Loeze", "GeoShape": {"type": "Point", "GeoCoordinate": [11.63492, 46.318723]}}]}
+{
+	"records": [
+		{
+			"id": 1717,
+			"name": "Bar \u201cDel Comun\u201d",
+			"address": "Piazza Centrale 4 38020 Cis (Tn)",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.00212,
+					46.39932
+				]
+			},
+			"city": "Cis"
+		},
+		{
+			"id": 17862,
+			"name": "Ristorante Bar Hotel Garden",
+			"address": "pieve di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					10.733766,
+					45.8884
+				]
+			},
+			"city": "Ledro"
+		},
+		{
+			"id": 17321,
+			"name": "Ristorante Bar Hotel Lido",
+			"address": "pieve di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					10.735902,
+					45.885543
+				]
+			},
+			"city": "Ledro"
+		},
+		{
+			"id": 16784,
+			"name": "Ristorante Bar Albergo Alba",
+			"address": "locca, Ledro, Trentino-Alto Adige, 38067 , Italia",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					10.725462,
+					45.899967
+				]
+			},
+			"city": "Ledro"
+		},
+		{
+			"id": 16785,
+			"name": "Bar La Chicchera",
+			"address": "tiarno di sopra, Ledro, Trentino-Alto Adige, 38067 , Italia",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					10.671866,
+					45.889009
+				]
+			},
+			"city": "Ledro"
+		},
+		{
+			"id": 16802,
+			"name": "Ristorante/Pizzeria Bar Cima d'Oro",
+			"address": "molina di ledro, Ledro, Trentino-Alto Adige, 38067 , Italia",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					10.766393,
+					45.874463
+				]
+			},
+			"city": "Ledro"
+		},
+		{
+			"id": 1968,
+			"name": "Bar Tavola Calda Catinaccio",
+			"address": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			},
+			"city": "Ruffr\u00e8 Mendola"
+		},
+		{
+			"id": 1969,
+			"name": "Bar Ristorante La Stua",
+			"address": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			},
+			"city": "Ruffr\u00e8 Mendola"
+		},
+		{
+			"id": 1970,
+			"name": "Bar Ristorante Europa",
+			"address": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			},
+			"city": "Ruffr\u00e8 Mendola"
+		},
+		{
+			"id": 1972,
+			"name": "Bar Grill",
+			"address": {
+				"latitude": 0,
+				"longitude": 0,
+				"address": ""
+			},
+			"city": "Ruffr\u00e8 Mendola"
+		},
+		{
+			"id": 5289,
+			"name": "Bar Calvi",
+			"address": "Frazione Piazza, 36",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.15181,
+					45.878885
+				]
+			},
+			"city": "Terragnolo"
+		},
+		{
+			"id": 5290,
+			"name": "Bar - Ristorante - Tabacchi  Valduga Laura",
+			"address": "frazione Piazza, 58",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.151821,
+					45.879363
+				]
+			},
+			"city": "Terragnolo"
+		},
+		{
+			"id": 1278898,
+			"name": "Bar Tre Portoni",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.123346,
+					46.063978
+				]
+			},
+			"city": "Trento"
+		},
+		{
+			"id": 1278888,
+			"name": "Bar pasticceria Mazzoleni",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.119907,
+					46.077373
+				]
+			},
+			"city": "Trento"
+		},
+		{
+			"id": 1279506,
+			"name": "Bar Veneto",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.125733,
+					46.05972
+				]
+			},
+			"city": "Trento"
+		},
+		{
+			"id": 1278886,
+			"name": "Bar Fiorentina",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.122472,
+					46.066751
+				]
+			},
+			"city": "Trento"
+		},
+		{
+			"id": 1279505,
+			"name": "Birreria Pedavena",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.123413,
+					46.06477
+				]
+			},
+			"city": "Trento"
+		},
+		{
+			"id": 11121,
+			"name": "Bar Loeze",
+			"GeoShape": {
+				"type": "Point",
+				"GeoCoordinate": [
+					11.63492,
+					46.318723
+				]
+			}
+		}
+	]
+}

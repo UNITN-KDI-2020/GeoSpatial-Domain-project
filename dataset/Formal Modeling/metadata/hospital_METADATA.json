@@ -1,5 +1,4 @@
 {
-	"records": [],
 	"type": "FeatureCollection",
 	"generator": "overpass-ide",
 	"source": "www.openstreetmap.org",
@@ -13,21 +12,21 @@
 			"type": "",
 			"description": ""
 		},
-		"addr_city": {
-			"type": "",
-			"description": ""
+		"addr:city": {
+			"type": "string",
+			"description": "Identifies in term of cites the position of the cinema"
 		},
-		"addr_housenumber": {
-			"type": "",
-			"description": ""
+		"addr:housenumber": {
+			"type": "int",
+			"description": "Identifies the hosenumber of the cinema"
 		},
-		"addr_postcode": {
-			"type": "",
-			"description": ""
+		"addr:postcode": {
+			"type": "int",
+			"description": "Identifies the postcode of the cites where the cinema is located"
 		},
-		"addr_street": {
-			"type": "",
-			"description": ""
+		"addr:street": {
+			"type": "string",
+			"description": "Identifies the street name where the cinema is located"
 		},
 		"GeoShape": {
 			"type": "GeoShape",
