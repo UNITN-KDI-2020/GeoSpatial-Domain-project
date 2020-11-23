@@ -14,19 +14,19 @@
 		},
 		"addr:city": {
 			"type": "string",
-			"description": "Identifies in term of cites the position of the cinema"
+			"description": "Identifies in term of cites the position of the hospital"
 		},
 		"addr:housenumber": {
 			"type": "int",
-			"description": "Identifies the hosenumber of the cinema"
+			"description": "Identifies the hosenumber of the hospital"
 		},
 		"addr:postcode": {
 			"type": "int",
-			"description": "Identifies the postcode of the cites where the cinema is located"
+			"description": "Identifies the postcode of the cites where the hospital is located"
 		},
 		"addr:street": {
 			"type": "string",
-			"description": "Identifies the street name where the cinema is located"
+			"description": "Identifies the street name where the hospital is located"
 		},
 		"GeoShape": {
 			"type": "GeoShape",
