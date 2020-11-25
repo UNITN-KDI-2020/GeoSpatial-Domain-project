@@ -90,7 +90,6 @@
 			"properties.fee",
 			"properties.capacity",
 			"properties.@id",
-			"properties.opening_hours",
 			"geometry",
 			"properties.addr:city",
 			"properties.addr:housenumber",
