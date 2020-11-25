@@ -1,1 +1,69 @@
-{"Dataset ID": "c_l378-1129110", "Holder": {"Nome": "Comune di Trento", "Code IPA/IVA": "c_l378"}, "Release date": "09-11-2017", "Modification date": "08-05-2019", "Geographical Coverage": "Comune di Trento", "Source": "https://dati.trentino.it/dataset/piste-ciclabili-open-data", "GeoNames URI": "http://www.geonames.org/6541469", "Dataset language": "italiano", "Temporal extension": "N/A", "Update frequency": "continuous updating", "Format": "json", "fields": {"tipo": {"type": "string", "description": "name of the typology of path (not useful)"}, "descrizione": {"type": "string", "description": "name of the path (equivalent to 'fumetto')", "data_definition": "common"}, "tipologia": {"type": "string", "description": "path dedicated only to cycle or also pedestrian", "data_definition": "core"}, "tratto isolato ciclabile": {"type": "int", "description": "meters without path dedicated to cycle", "data_definition": "core"}, "tratto isolato ciclopedonale": {"type": "int", "description": "meters without path dedicated to cycle or pedestrian", "data_definition": "core"}, "GeoShape": {"type": "GeoShape", "description": "object containing location information", "data_definition": "Common", "fields": {"type": {"type": "string", "description": "type of GeoShape (Line, Polygon, Point)", "data_definition": "Common"}, "GeoCoordinates": {"type": "int[2]", "description": "Coordinates of the location in EPSG 4326 projection standard", "data_definition": "Common"}}}, "address": {"type": "string", "description": "name of the path", "data_definition": "common"}}}
+{
+	"Dataset ID": "c_l378-1129110",
+	"Holder": {
+		"Nome": "Comune di Trento",
+		"Code IPA/IVA": "c_l378"
+	},
+	"Release date": "09-11-2017",
+	"Modification date": "08-05-2019",
+	"Geographical Coverage": "Comune di Trento",
+	"Source": "https://dati.trentino.it/dataset/piste-ciclabili-open-data",
+	"GeoNames URI": "http://www.geonames.org/6541469",
+	"Dataset language": "italiano",
+	"Temporal extension": "N/A",
+	"Update frequency": "continuous updating",
+	"Format": "json",
+	"fields": {
+		"tipo": {
+			"type": "string",
+			"description": "name of the typology of path (not useful)"
+		},
+		"descrizione": {
+			"type": "string",
+			"description": "name of the path (equivalent to 'fumetto')",
+			"data_definition": "common"
+		},
+		"distance": {
+			"type": "double",
+			"description": "length of the bike path in kilometers",
+			"data_definition": "core"
+		},
+		"tipologia": {
+			"type": "string",
+			"description": "path dedicated only to cycle or also pedestrian",
+			"data_definition": "core"
+		},
+		"tratto isolato ciclabile": {
+			"type": "int",
+			"description": "meters without path dedicated to cycle",
+			"data_definition": "core"
+		},
+		"tratto isolato ciclopedonale": {
+			"type": "int",
+			"description": "meters without path dedicated to cycle or pedestrian",
+			"data_definition": "core"
+		},
+		"GeoShape": {
+			"type": "GeoShape",
+			"description": "object containing location information",
+			"data_definition": "Common",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of GeoShape (Line, Polygon, Point)",
+					"data_definition": "Common"
+				},
+				"GeoCoordinates": {
+					"type": "int[2]",
+					"description": "Coordinates of the location in EPSG 4326 projection standard",
+					"data_definition": "Common"
+				}
+			}
+		},
+		"address": {
+			"type": "string",
+			"description": "name of the path",
+			"data_definition": "common"
+		}
+	}
+}

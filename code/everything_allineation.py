@@ -2,6 +2,8 @@
 
 import json
 import csv
+import numpy as np
+import math
 from os import path, listdir
 from sys import argv
 import pyproj as pj
@@ -10,7 +12,7 @@ warnings.filterwarnings("ignore", category=Warning)
 
 IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
-ignore_existing = argv[1] if len(argv) > 1 else False
+ignore_existing = argv[1] if len(argv) > 1 else True
 
 exceptions = ["SAT_trails.json", "skiResorts_currentState.json"]
 
@@ -18,6 +20,16 @@ inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_E
 outProj = pj.Proj(init='epsg:4326')
 
 # Data
+
+def computeDistance(a,b):
+	R = 6373.0
+	dlat = b[0] - a[0]
+	dlon = b[1] - a[1]
+
+	temp1 = a = math.sin(dlat / 2)**2 + math.cos(a[0]) * math.cos(b[0]) * math.sin(dlon / 2)**2
+	temp2 = 2 * math.atan2(math.sqrt(temp1), math.sqrt(1 - temp1))
+
+	return R * temp2
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	if not ".json" in filename or (ignore_existing and path.exists(OUT_FOLDER + filename)) or filename in exceptions:
@@ -44,10 +56,15 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				    "LINESTRING (", "").replace(")", "").split(",")
 				coordinates = []
 				d.pop("WKT")
-				for coor in coordinatesWKT:
+				length = 0
+				for i, coor in enumerate(coordinatesWKT):
 					coor = coor.split(" ")
 					y, x = pj.transform(inProj, outProj, coor[0], coor[1])
 					coordinates.append([x, y])
+					if i > 0:
+						length = length + computeDistance(precCoord, np.array([x,y]))
+					precCoord = np.array([x,y])
+				d["distance"] = length
 				d["GeoShape"] = {"type": "Line", "GeoCoordinate": coordinates}
 
 	for d_i, d in enumerate(data):
@@ -93,7 +110,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 IN_FOLDER = "./dataset/Informal Modeling/metadata/"
 OUT_FOLDER = "./dataset/Formal Modeling/metadata/"
 
-exceptions = ["SAT_trails_METADATA.json", "skiResorts_currentState_METADATA.json", "elementari_METADATA.json","medie_METADATA.json","materne_METADATA.json","superiori_METADATA.json","luoghi_e_punti_di_interesse_per_comune_METADATA.json"]
+exceptions = ["skiResorts_static_METADATA.json","healthcare_METADATA.json","SAT_trails_METADATA.json", "skiResorts_currentState_METADATA.json", "elementari_METADATA.json","medie_METADATA.json","materne_METADATA.json","superiori_METADATA.json","luoghi_e_punti_di_interesse_per_comune_METADATA.json"]
 
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
