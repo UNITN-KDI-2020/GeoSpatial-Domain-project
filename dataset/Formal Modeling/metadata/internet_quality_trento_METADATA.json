@@ -1,1 +1,76 @@
-{"source": "www.infratelitalia.it", "timestamp": "2020-09-09", "update_frequency": "no update", "Geographical Coverage": "Provincia di Trento", "format": "json", "fields": {"class_19": {"type": "string", "description": "2019 internet coverage", "data_definition": "Core", "values": {"non_coperti": "no coverage", "nero_vhcn_fo": "at least one VHCN network in optic fiber", "nero_vhcn_fwa": "no optic fiber, but at least one VHCN network with FWA (radio)", "nero_novhcn": "at least 2 NGA network, but no VHCN", "grigio_vhcn_fo": "only one VHCN with fibre optic", "grigio_vhcn_fwa": "only one VHCN without fibre optic", "grigio_novhcn_rame": "no VHCN with copper", "grigio_novhcn_fwa": "no VHCN with radio"}}, "class_22": {"type": "string", "description": "2022 internet coverage estimation", "data_definition": "Core", "values": {"non_coperti": "no coverage", "nero_vhcn_fo": "at least one VHCN network in optic fiber", "nero_vhcn_fwa": "no optic fiber, but at least one VHCN network with FWA (radio)", "nero_novhcn": "at least 2 NGA network, but no VHCN", "grigio_vhcn_fo": "only one VHCN with fibre optic", "grigio_vhcn_fwa": "only one VHCN without fibre optic", "grigio_novhcn_rame": "no VHCN with copper", "grigio_novhcn_fwa": "no VHCN with radio"}}, "GeoShape": {"type": "GeoShape", "description": "object containing location information", "data_definition": "Common", "fields": {"type": {"type": "string", "description": "type of GeoShape (Line, Polygon, Point)", "data_definition": "Common"}, "GeoCoordinates": {"type": "int[2]", "description": "Coordinates of the location in EPSG 4326 projection standard", "data_definition": "Common"}}}, "address": {"type": "string", "description": "street address", "data_definition": "Common"}, "city": {"type": "string", "description": "town", "data_definition": "Common"}, "HouseNumber": {"type": "int", "description": "civic code", "data_definition": "Common"}, "BarNumber": {"type": "char", "description": "sub-civic code", "data_definition": "Common"}}}
+{
+    "source": "www.infratelitalia.it",
+    "timestamp": "2020-09-09",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "format": "json",
+    "fields": {
+        "current": {
+            "type": "string",
+            "description": "2019 internet coverage",
+            "data_definition": "Core",
+            "values": {
+                "non_coperti": "no coverage",
+                "nero_vhcn_fo": "at least one VHCN network in optic fiber",
+                "nero_vhcn_fwa": "no optic fiber, but at least one VHCN network with FWA (radio)",
+                "nero_novhcn": "at least 2 NGA network, but no VHCN",
+                "grigio_vhcn_fo": "only one VHCN with fibre optic",
+                "grigio_vhcn_fwa": "only one VHCN without fibre optic",
+                "grigio_novhcn_rame": "no VHCN with copper",
+                "grigio_novhcn_fwa": "no VHCN with radio"
+            }
+        },
+        "prediction2022": {
+            "type": "string",
+            "description": "2022 internet coverage estimation",
+            "data_definition": "Core",
+            "values": {
+                "non_coperti": "no coverage",
+                "nero_vhcn_fo": "at least one VHCN network in optic fiber",
+                "nero_vhcn_fwa": "no optic fiber, but at least one VHCN network with FWA (radio)",
+                "nero_novhcn": "at least 2 NGA network, but no VHCN",
+                "grigio_vhcn_fo": "only one VHCN with fibre optic",
+                "grigio_vhcn_fwa": "only one VHCN without fibre optic",
+                "grigio_novhcn_rame": "no VHCN with copper",
+                "grigio_novhcn_fwa": "no VHCN with radio"
+            }
+        },
+        "GeoShape": {
+            "type": "GeoShape",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of GeoShape (Line, Polygon, Point)",
+                    "data_definition": "Common"
+                },
+                "GeoCoordinates": {
+                    "type": "int[2]",
+                    "description": "Coordinates of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        },
+        "address": {
+            "type": "string",
+            "description": "street address",
+            "data_definition": "Common"
+        },
+        "city": {
+            "type": "string",
+            "description": "town",
+            "data_definition": "Common"
+        },
+        "HouseNumber": {
+            "type": "int",
+            "description": "civic code",
+            "data_definition": "Common"
+        },
+        "BarNumber": {
+            "type": "char",
+            "description": "sub-civic code",
+            "data_definition": "Common"
+        }
+    }
+}
