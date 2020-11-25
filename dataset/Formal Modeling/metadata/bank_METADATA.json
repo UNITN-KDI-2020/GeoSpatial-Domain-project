@@ -13,30 +13,10 @@
 			"description": "name of the facility",
 			"data_definition": "core"
 		},
-		"atm": {
+		"hasAtm": {
 			"type": "boolean",
 			"description": "indicate the presence of an atm",
 			"data_definition": "core"
-		},
-		"addr:housenumber": {
-			"type": "string",
-			"description": "the house number component of the address",
-			"data_definition": "common"
-		},
-		"addr:street": {
-			"type": "string",
-			"description": "the street component of the address",
-			"data_definition": "common"
-		},
-		"addr:city": {
-			"type": "string",
-			"description": "the city component of the address",
-			"data_definition": "common"
-		},
-		"addr:postcode": {
-			"type": "string",
-			"description": "the postcode component of the address",
-			"data_definition": "common"
 		},
 		"GeoShape": {
 			"type": "GeoShape",
@@ -58,6 +38,26 @@
 		"id": {
 			"type": "string",
 			"description": "identification code",
+			"data_definition": "common"
+		},
+		"city": {
+			"type": "string",
+			"description": "the city component of the address",
+			"data_definition": "common"
+		},
+		"housenumber": {
+			"type": "string",
+			"description": "the house number component of the address",
+			"data_definition": "common"
+		},
+		"postal_code": {
+			"type": "string",
+			"description": "the postcode component of the address",
+			"data_definition": "common"
+		},
+		"address": {
+			"type": "string",
+			"description": "the street component of the address",
 			"data_definition": "common"
 		}
 	}

@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore", category=Warning)
 
 IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
-ignore_existing = argv[1] if len(argv) > 1 else True
+ignore_existing = argv[1] if len(argv) > 1 else False
 
 exceptions = ["SAT_trails.json", "skiResorts_currentState.json"]
 
@@ -71,6 +71,18 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["address"] = d.pop("desvia")
 		if "sobborgo" in d:
 			d["city"] = d.pop("sobborgo")
+		if "addr:city" in d:
+			d["city"] = d.pop("addr:city")
+		if "addr:housenumber" in d:
+			d["housenumber"] = d.pop("addr:housenumber")
+		if "addr:postcode" in d:
+			d["postal_code"] = d.pop("addr:postcode")
+		if "addr:street" in d:
+			d["address"] = d.pop("addr:street")
+		if "addr:province" in d:
+			d["province"] = d.pop("addr:province")
+		if "atm" in d:
+			d["hasAtm"] = d.pop("atm")
 		newDataset["records"].append(d)
 
 	with open(OUT_FOLDER + filename, 'w+') as file:
@@ -139,6 +151,18 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				d["city"] = d.pop("sobborgo")
 			if "WKT" in d:
 				d.pop("WKT")
+			if "addr:city" in d:
+				d["city"] = d.pop("addr:city")
+			if "addr:housenumber" in d:
+				d["housenumber"] = d.pop("addr:housenumber")
+			if "addr:postcode" in d:
+				d["postal_code"] = d.pop("addr:postcode")
+			if "addr:street" in d:
+				d["address"] = d.pop("addr:street")
+			if "addr:province" in d:
+				d["province"] = d.pop("addr:province")
+			if "atm" in d:
+				d["hasAtm"] = d.pop("atm")
 			newMetadata["fields"] = d
 		
 		else:
