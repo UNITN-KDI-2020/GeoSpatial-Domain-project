@@ -23,7 +23,7 @@
 			"description": "name of the path (equivalent to 'fumetto')",
 			"data_definition": "common"
 		},
-		"distance": {
+		"totalLength": {
 			"type": "double",
 			"description": "length of the bike path in kilometers",
 			"data_definition": "core"

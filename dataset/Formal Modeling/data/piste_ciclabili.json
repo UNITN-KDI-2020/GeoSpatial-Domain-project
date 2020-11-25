@@ -3,7 +3,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 59.25435229176646,
+			"totalLength": 59.25435229176646,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -122,7 +122,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 1.6257997633616375,
+			"totalLength": 1.6257997633616375,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -145,7 +145,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 1.543901514516827,
+			"totalLength": 1.543901514516827,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -168,7 +168,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista verde",
-			"distance": 30.05428566959522,
+			"totalLength": 30.05428566959522,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -276,7 +276,7 @@
 			"tratto isolato ciclabile": "240",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 12.184300599380919,
+			"totalLength": 12.184300599380919,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -367,7 +367,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 7.214094607083055,
+			"totalLength": 7.214094607083055,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -398,7 +398,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 28.463781208988888,
+			"totalLength": 28.463781208988888,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -477,7 +477,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.9207955323272654,
+			"totalLength": 3.9207955323272654,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -496,7 +496,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - LAVIS",
-			"distance": 67.6952647572343,
+			"totalLength": 67.6952647572343,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -596,7 +596,7 @@
 			"tratto isolato ciclopedonale": "135",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 5.689013741605316,
+			"totalLength": 5.689013741605316,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -623,7 +623,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista magenta",
-			"distance": 99.31696819904593,
+			"totalLength": 99.31696819904593,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -802,7 +802,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista verde",
-			"distance": 23.149244540019552,
+			"totalLength": 23.149244540019552,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -893,7 +893,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista verde",
-			"distance": 19.317967846786217,
+			"totalLength": 19.317967846786217,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -920,7 +920,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista viola",
-			"distance": 97.6115311341898,
+			"totalLength": 97.6115311341898,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1123,7 +1123,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista viola",
-			"distance": 27.344389229314086,
+			"totalLength": 27.344389229314086,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1206,7 +1206,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.899621195666891,
+			"totalLength": 3.899621195666891,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1226,7 +1226,7 @@
 			"tratto isolato ciclabile": "105",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 4.226479996302403,
+			"totalLength": 4.226479996302403,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1253,7 +1253,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 8.870871175135063,
+			"totalLength": 8.870871175135063,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1273,7 +1273,7 @@
 			"tratto isolato ciclopedonale": "630",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 36.2958518848112,
+			"totalLength": 36.2958518848112,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1329,7 +1329,7 @@
 			"tratto isolato ciclopedonale": "400",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 25.14340607728128,
+			"totalLength": 25.14340607728128,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1377,7 +1377,7 @@
 			"tratto isolato ciclabile": "145",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 7.159868455119552,
+			"totalLength": 7.159868455119552,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1440,7 +1440,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 23.420503004721763,
+			"totalLength": 23.420503004721763,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1503,7 +1503,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 11.591380750900333,
+			"totalLength": 11.591380750900333,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1523,7 +1523,7 @@
 			"tratto isolato ciclabile": "120",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.876628051489203,
+			"totalLength": 6.876628051489203,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1590,7 +1590,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista viola",
-			"distance": 1.2940982253707927,
+			"totalLength": 1.2940982253707927,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1610,7 +1610,7 @@
 			"tratto isolato ciclabile": "200",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 10.223576833677399,
+			"totalLength": 10.223576833677399,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1658,7 +1658,7 @@
 			"tratto isolato ciclabile": "120",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 5.346112346897787,
+			"totalLength": 5.346112346897787,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1694,7 +1694,7 @@
 			"tratto isolato ciclopedonale": "120",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 5.9837064680748755,
+			"totalLength": 5.9837064680748755,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1737,7 +1737,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 9.957562715644196,
+			"totalLength": 9.957562715644196,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1756,7 +1756,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista rossa",
-			"distance": 1.4254163677769467,
+			"totalLength": 1.4254163677769467,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1776,7 +1776,7 @@
 			"tratto isolato ciclopedonale": "400",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 18.12912877597632,
+			"totalLength": 18.12912877597632,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1832,7 +1832,7 @@
 			"tratto isolato ciclopedonale": "150",
 			"type": "Ciclopedonale",
 			"path type": "Pista color mattone",
-			"distance": 7.740723414217304,
+			"totalLength": 7.740723414217304,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1872,7 +1872,7 @@
 			"tratto isolato ciclabile": "180",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 9.473400264338526,
+			"totalLength": 9.473400264338526,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -1967,7 +1967,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista magenta",
-			"distance": 16.09317651507714,
+			"totalLength": 16.09317651507714,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2010,7 +2010,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 15.005559492881936,
+			"totalLength": 15.005559492881936,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2085,7 +2085,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 34.473410725958715,
+			"totalLength": 34.473410725958715,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2164,7 +2164,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 6.076243420585073,
+			"totalLength": 6.076243420585073,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2196,7 +2196,7 @@
 			"tratto isolato ciclopedonale": "120",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 5.623462386089241,
+			"totalLength": 5.623462386089241,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2240,7 +2240,7 @@
 			"tratto isolato ciclopedonale": "380",
 			"type": "Ciclopedonale",
 			"path type": "Pista color mattone",
-			"distance": 22.171964847893463,
+			"totalLength": 22.171964847893463,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2299,7 +2299,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.399211627438622,
+			"totalLength": 6.399211627438622,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2338,7 +2338,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista gialla",
-			"distance": 11.135048342560824,
+			"totalLength": 11.135048342560824,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2357,7 +2357,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista magenta",
-			"distance": 21.55944672971199,
+			"totalLength": 21.55944672971199,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2404,7 +2404,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 14.779400613531186,
+			"totalLength": 14.779400613531186,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2451,7 +2451,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 9.42292699859075,
+			"totalLength": 9.42292699859075,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2494,7 +2494,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 2.653524633809382,
+			"totalLength": 2.653524633809382,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2521,7 +2521,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista rossa",
-			"distance": 41.31392029320146,
+			"totalLength": 41.31392029320146,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2572,7 +2572,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 0.7831891868949518,
+			"totalLength": 0.7831891868949518,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2595,7 +2595,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 120.77681840282136,
+			"totalLength": 120.77681840282136,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2886,7 +2886,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 22.50271953246441,
+			"totalLength": 22.50271953246441,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -2977,7 +2977,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 0.5331483672863957,
+			"totalLength": 0.5331483672863957,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3000,7 +3000,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.4709493351703795,
+			"totalLength": 4.4709493351703795,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3019,7 +3019,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 22.006543400117028,
+			"totalLength": 22.006543400117028,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3054,7 +3054,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 5.678010012148821,
+			"totalLength": 5.678010012148821,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3157,7 +3157,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista verde",
-			"distance": 7.664861594212967,
+			"totalLength": 7.664861594212967,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3196,7 +3196,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista arancio",
-			"distance": 39.765508714343234,
+			"totalLength": 39.765508714343234,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3259,7 +3259,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 11.60018752538253,
+			"totalLength": 11.60018752538253,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3346,7 +3346,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 24.857710545076554,
+			"totalLength": 24.857710545076554,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3366,7 +3366,7 @@
 			"tratto isolato ciclopedonale": "120",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.843304387380719,
+			"totalLength": 4.843304387380719,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3385,7 +3385,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 25.26492033233733,
+			"totalLength": 25.26492033233733,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3476,7 +3476,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 9.269653077370466,
+			"totalLength": 9.269653077370466,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3528,7 +3528,7 @@
 			"tratto isolato ciclabile": "10",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 0.49053313877662663,
+			"totalLength": 0.49053313877662663,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3560,7 +3560,7 @@
 			"tratto isolato ciclabile": "15",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 0.5826556959697142,
+			"totalLength": 0.5826556959697142,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3591,7 +3591,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista rossa",
-			"distance": 98.93607097543227,
+			"totalLength": 98.93607097543227,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -3990,7 +3990,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 360.9793786311851,
+			"totalLength": 360.9793786311851,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4241,7 +4241,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 8.254370841506901,
+			"totalLength": 8.254370841506901,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4276,7 +4276,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.888059725692493,
+			"totalLength": 6.888059725692493,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4351,7 +4351,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 14.11092931492292,
+			"totalLength": 14.11092931492292,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4410,7 +4410,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista magenta",
-			"distance": 44.113668835551394,
+			"totalLength": 44.113668835551394,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4517,7 +4517,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 5.373885032276319,
+			"totalLength": 5.373885032276319,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4556,7 +4556,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 4.337977697886314,
+			"totalLength": 4.337977697886314,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4607,7 +4607,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 53.68067509558383,
+			"totalLength": 53.68067509558383,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4906,7 +4906,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.946966377131284,
+			"totalLength": 4.946966377131284,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4925,7 +4925,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.883859543945821,
+			"totalLength": 3.883859543945821,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4953,7 +4953,7 @@
 			"tratto isolato ciclabile": "300",
 			"type": "Ciclabile",
 			"path type": "Pista color mattone",
-			"distance": 15.164700686116626,
+			"totalLength": 15.164700686116626,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -4993,7 +4993,7 @@
 			"tratto isolato ciclabile": "420",
 			"type": "Ciclabile",
 			"path type": "Pista magenta",
-			"distance": 23.13893276466643,
+			"totalLength": 23.13893276466643,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5084,7 +5084,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 94.36905741121274,
+			"totalLength": 94.36905741121274,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5195,7 +5195,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 20.186385459669513,
+			"totalLength": 20.186385459669513,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5262,7 +5262,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 15.443155889226704,
+			"totalLength": 15.443155889226704,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5333,7 +5333,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista gialla",
-			"distance": 37.50257887263004,
+			"totalLength": 37.50257887263004,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5404,7 +5404,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 8.351795312681574,
+			"totalLength": 8.351795312681574,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5439,7 +5439,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista gialla",
-			"distance": 0.7198670143507278,
+			"totalLength": 0.7198670143507278,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5458,7 +5458,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 4.506081223421336,
+			"totalLength": 4.506081223421336,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5477,7 +5477,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 16.91262300556397,
+			"totalLength": 16.91262300556397,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5496,7 +5496,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 1.7493737310963386,
+			"totalLength": 1.7493737310963386,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5515,7 +5515,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.334509745900848,
+			"totalLength": 6.334509745900848,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5534,7 +5534,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 8.693852292503403,
+			"totalLength": 8.693852292503403,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5581,7 +5581,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 5.557428177554565,
+			"totalLength": 5.557428177554565,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5620,7 +5620,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 13.87183800433988,
+			"totalLength": 13.87183800433988,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5659,7 +5659,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista verde",
-			"distance": 7.687053081263886,
+			"totalLength": 7.687053081263886,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5695,7 +5695,7 @@
 			"tratto isolato ciclabile": "170",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 9.662360759003931,
+			"totalLength": 9.662360759003931,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5731,7 +5731,7 @@
 			"tratto isolato ciclabile": "120",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.740807793356655,
+			"totalLength": 6.740807793356655,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5770,7 +5770,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 11.615793351013027,
+			"totalLength": 11.615793351013027,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5789,7 +5789,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 4.350659354444922,
+			"totalLength": 4.350659354444922,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5816,7 +5816,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.750957253097412,
+			"totalLength": 3.750957253097412,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5836,7 +5836,7 @@
 			"tratto isolato ciclabile": "70",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 3.824451757123211,
+			"totalLength": 3.824451757123211,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5868,7 +5868,7 @@
 			"tratto isolato ciclabile": "70",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 2.787351664511381,
+			"totalLength": 2.787351664511381,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5887,7 +5887,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 9.37455684210466,
+			"totalLength": 9.37455684210466,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -5910,7 +5910,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista rossa",
-			"distance": 76.74536221842276,
+			"totalLength": 76.74536221842276,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6042,7 +6042,7 @@
 			"tratto isolato ciclopedonale": "120",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 6.755433337106341,
+			"totalLength": 6.755433337106341,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6065,7 +6065,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 11.518671269626777,
+			"totalLength": 11.518671269626777,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6096,7 +6096,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 0.5762837062768783,
+			"totalLength": 0.5762837062768783,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6115,7 +6115,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 40.02299708824896,
+			"totalLength": 40.02299708824896,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6398,7 +6398,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 32.32144086378042,
+			"totalLength": 32.32144086378042,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6473,7 +6473,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista verde",
-			"distance": 4.458398948393652,
+			"totalLength": 4.458398948393652,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6520,7 +6520,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 46.577656255221555,
+			"totalLength": 46.577656255221555,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6603,7 +6603,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista verde",
-			"distance": 3.2675990951793086,
+			"totalLength": 3.2675990951793086,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6626,7 +6626,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista arancio",
-			"distance": 33.14233014164151,
+			"totalLength": 33.14233014164151,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6758,7 +6758,7 @@
 			"tratto isolato ciclopedonale": "70",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 2.840815123779713,
+			"totalLength": 2.840815123779713,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -6777,7 +6777,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 239.2988961935321,
+			"totalLength": 239.2988961935321,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7160,7 +7160,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - PAT",
-			"distance": 434.8671682233933,
+			"totalLength": 434.8671682233933,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7468,7 +7468,7 @@
 			"tratto isolato ciclopedonale": "110",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 5.005507418757163,
+			"totalLength": 5.005507418757163,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7531,7 +7531,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.970487277518359,
+			"totalLength": 6.970487277518359,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7570,7 +7570,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.873073039300488,
+			"totalLength": 4.873073039300488,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7609,7 +7609,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 11.784173285957145,
+			"totalLength": 11.784173285957145,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7632,7 +7632,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 6.252392089706633,
+			"totalLength": 6.252392089706633,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7668,7 +7668,7 @@
 			"tratto isolato ciclopedonale": "100",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.496019541024531,
+			"totalLength": 4.496019541024531,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7704,7 +7704,7 @@
 			"tratto isolato ciclopedonale": "40",
 			"type": "Ciclopedonale",
 			"path type": "Pista color mattone",
-			"distance": 2.544117835104099,
+			"totalLength": 2.544117835104099,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7724,7 +7724,7 @@
 			"tratto isolato ciclopedonale": "80",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.1357256170565337,
+			"totalLength": 3.1357256170565337,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7743,7 +7743,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 9.40975109051584,
+			"totalLength": 9.40975109051584,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7774,7 +7774,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.818399341372075,
+			"totalLength": 4.818399341372075,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7797,7 +7797,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 43.5156085531686,
+			"totalLength": 43.5156085531686,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7876,7 +7876,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 17.441730684201424,
+			"totalLength": 17.441730684201424,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7899,7 +7899,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 4.210656386842232,
+			"totalLength": 4.210656386842232,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -7918,7 +7918,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 19.64192718911155,
+			"totalLength": 19.64192718911155,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8018,7 +8018,7 @@
 			"tratto isolato ciclopedonale": "265",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 13.578509087904674,
+			"totalLength": 13.578509087904674,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8090,7 +8090,7 @@
 			"tratto isolato ciclopedonale": "244",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 8.406186834147393,
+			"totalLength": 8.406186834147393,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8110,7 +8110,7 @@
 			"tratto isolato ciclopedonale": "187",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 9.097470522840785,
+			"totalLength": 9.097470522840785,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8133,7 +8133,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 12.401819926328342,
+			"totalLength": 12.401819926328342,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8168,7 +8168,7 @@
 		{
 			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
 			"path type": "Pista blu - Comune TN",
-			"distance": 202.12727210312835,
+			"totalLength": 202.12727210312835,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8616,7 +8616,7 @@
 			"tratto isolato ciclabile": "300",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 15.253205540824244,
+			"totalLength": 15.253205540824244,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8660,7 +8660,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 19.2894673454955,
+			"totalLength": 19.2894673454955,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8715,7 +8715,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 21.152584472824184,
+			"totalLength": 21.152584472824184,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8850,7 +8850,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 15.44699387390159,
+			"totalLength": 15.44699387390159,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8921,7 +8921,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 10.655152982708977,
+			"totalLength": 10.655152982708977,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -8940,7 +8940,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista verde",
-			"distance": 46.274122755431435,
+			"totalLength": 46.274122755431435,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9091,7 +9091,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 2.3629944074440923,
+			"totalLength": 2.3629944074440923,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9114,7 +9114,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 2.7506821280444522,
+			"totalLength": 2.7506821280444522,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9133,7 +9133,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 8.266068420214234,
+			"totalLength": 8.266068420214234,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9156,7 +9156,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 1.0807351186832062,
+			"totalLength": 1.0807351186832062,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9175,7 +9175,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 1.6769011020645341,
+			"totalLength": 1.6769011020645341,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9198,7 +9198,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 15.845976056655335,
+			"totalLength": 15.845976056655335,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9217,7 +9217,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 11.618025123599226,
+			"totalLength": 11.618025123599226,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9237,7 +9237,7 @@
 			"tratto isolato ciclopedonale": "130",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 8.506100040087132,
+			"totalLength": 8.506100040087132,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9256,7 +9256,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 1.6465500199402814,
+			"totalLength": 1.6465500199402814,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9275,7 +9275,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 7.434979424237081,
+			"totalLength": 7.434979424237081,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9294,7 +9294,7 @@
 		{
 			"type": "Corsia ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 1.4973812892552794,
+			"totalLength": 1.4973812892552794,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9313,7 +9313,7 @@
 		{
 			"type": "Corsia ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 17.966505641521234,
+			"totalLength": 17.966505641521234,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9340,7 +9340,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 11.178267475635526,
+			"totalLength": 11.178267475635526,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9367,7 +9367,7 @@
 		{
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 2.4013339704747754,
+			"totalLength": 2.4013339704747754,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9391,7 +9391,7 @@
 			"tratto isolato ciclabile": "60",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 3.0436983623612357,
+			"totalLength": 3.0436983623612357,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9419,7 +9419,7 @@
 			"tratto isolato ciclabile": "140",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 6.336081550014859,
+			"totalLength": 6.336081550014859,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9475,7 +9475,7 @@
 			"tratto isolato ciclopedonale": "30",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 1.6298254352741222,
+			"totalLength": 1.6298254352741222,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9511,7 +9511,7 @@
 			"tratto isolato ciclabile": "87",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 4.220671830977302,
+			"totalLength": 4.220671830977302,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9555,7 +9555,7 @@
 			"tratto isolato ciclopedonale": "30",
 			"type": "Ciclopedonale",
 			"path type": "Pista di raccordo",
-			"distance": 1.2441184649730515,
+			"totalLength": 1.2441184649730515,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9575,7 +9575,7 @@
 			"tratto isolato ciclabile": "12",
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 0.5646966925559849,
+			"totalLength": 0.5646966925559849,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9599,7 +9599,7 @@
 			"tratto isolato ciclopedonale": "300",
 			"type": "Ciclopedonale",
 			"path type": "Pista color mattone",
-			"distance": 11.127450624854932,
+			"totalLength": 11.127450624854932,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [
@@ -9646,7 +9646,7 @@
 		{
 			"type": "Ciclabile",
 			"path type": "Pista di raccordo",
-			"distance": 3.3957970181369936,
+			"totalLength": 3.3957970181369936,
 			"GeoShape": {
 				"type": "Line",
 				"GeoCoordinate": [

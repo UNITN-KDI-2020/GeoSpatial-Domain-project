@@ -64,7 +64,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					if i > 0:
 						length = length + computeDistance(precCoord, np.array([x,y]))
 					precCoord = np.array([x,y])
-				d["distance"] = length
+				d["totalLength"] = length
 				d["GeoShape"] = {"type": "Line", "GeoCoordinate": coordinates}
 
 	for d_i, d in enumerate(data):
