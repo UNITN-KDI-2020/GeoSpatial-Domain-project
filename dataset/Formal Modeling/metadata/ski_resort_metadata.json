@@ -1,0 +1,190 @@
+{
+	"creationTime": "",
+	"lastModifiedTime": "",
+	"sourceUrl": "",
+	"copyright": "",
+
+	"fields": {
+		"name": {
+			"type": "String",
+			"description": ""
+		},
+		"open": {
+			"type": "Boolean",
+			"description": ""
+		},
+		"slopeInfo": {
+			"type": "Slope",
+			"description": "",
+			"fields": {
+				"blueSlopeLength": {
+					"type": "int",
+					"description": ""
+				},
+				"blueSlopeAvailable": {
+					"type": "int",
+					"description": ""
+				},
+				"redSlopeLength": {
+					"type": "int",
+					"description": ""
+				},
+				"redSlopeAvailable": {
+					"type": "int",
+					"description": ""
+				},
+				"blackSlopeLength": {
+					"type": "int",
+					"description": ""
+				},
+				"blackSlopeAvailable": {
+					"type": "int",
+					"description": ""
+				}
+			}
+		},
+		"adultPrice": {
+			"type": "Double",
+			"description": ""
+		},
+		"youngPrice": {
+			"type": "Double",
+			"description": ""
+		},
+		"kidPrice": {
+			"type": "Double",
+			"description": ""
+		},
+		"resortInfo": {
+			"type": "PlaceInformation",
+			"description": "",
+			"fields": {
+				"description": {
+					"type": "String",
+					"description": ""
+				},
+				"address": {
+					"type": "Address",
+					"description": "",
+					"fields": {
+						"city": {
+							"type": "String",
+							"description": ""
+						},
+						"cap": {
+							"type": "String",
+							"description": ""
+						},
+						"province": {
+							"type": "String",
+							"description": ""
+						},
+						"country": {
+							"type": "String",
+							"description": ""
+						},
+						"streetName": {
+							"type": "String",
+							"description": ""
+						},
+						"civicNumber": {
+							"type": "String",
+							"description": ""
+						}
+					}
+				}
+				"openingHours": {
+					"type": "OpeningTime",
+					"description": "",
+					"fields": {
+						"days": {
+							"type": "array",
+							"description": "",
+							"fields": {
+								"day": {
+									"type": "String",
+									"description": ""
+								},
+								"openingHours": {
+									"type": "array",
+									"description": "",
+									"fields": {
+										"startTime": {
+											"type": "Time",
+											"description": ""
+										},
+										"endTime": {
+											"type": "Time",
+											"description": ""
+										}
+									}
+								}
+							}
+						},
+						"additionalInformation": {
+							"type": "String",
+							"description": ""
+						}
+					}
+				},
+				"openingMonths": {
+					"type": "array",
+					"description": "",
+					"fields": {
+						"month": {
+							"type": "String",
+							"description": ""
+						},
+						"open": {
+							"type": "Boolean",
+							"description": ""
+						}
+					}
+				},
+				"location": {
+					"type": "Geopoint",
+					"description": "",
+					"fields": {
+						"latitude": {
+							"type": "Double",
+							"description": "latitude of the point"
+						},
+						"longitude": {
+							"type": "Double",
+							"description": "longitude of the point"
+						}
+					}
+				},
+				"altitude": {
+					"type": "Double",
+					"description": ""
+				},
+				"stars": {
+					"type": "int",
+					"description": ""
+				}
+		},,
+		"metadata": {
+			"type": "MetaData",
+			"description": "metadata",
+			"fields": {
+				"created": {
+					"type": "Timestamp",
+					"description": "timestamp for the creation of the dataset"
+				},
+				"lastModified": {
+					"type": "Timestamp",
+					"description": "timestamp for the last edit of the dataset"
+				},
+				"source": {
+					"type": "String",
+					"description": "source for the dataset"
+				},
+				"resource": {
+					"type": "String",
+					"description": ""
+				}
+			}
+		}
+	}
+}
