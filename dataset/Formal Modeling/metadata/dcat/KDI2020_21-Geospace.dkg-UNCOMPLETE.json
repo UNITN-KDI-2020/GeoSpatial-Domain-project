@@ -1,0 +1,9 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"SKG" = "KDI2020_21-Geospace.lkg",
+"LKG" = "KDI2020_21-Geospace.dkg",
+"Project" = "KDI2020_21-Geospace.kdi",
+"NumberEntities"={
+    "e1"=N1;
+    "e2"=N2;
+    }
