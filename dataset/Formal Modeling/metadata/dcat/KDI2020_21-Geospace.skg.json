@@ -145,6 +145,19 @@
         "DataProperties":{
         }
     },
+    "InternetAvailabilityType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="black_novhcn",
+            "d2"="black_vhcn_fo",
+            "d3"="black_vhcn_fwa",
+            "d4"="grey_novhcn_copper",
+            "d5"="grey_novhcn_radio",
+            "d6"="grey_vhcn_fo",
+            "d7"="grey_vhcn_fwa",
+            "d8"="no_coverage"
+        }
+    },
     "Library":{
         "ObjectProperties":{
         },
@@ -228,6 +241,26 @@
         "DataProperties":{
         }
     },
+    "PlaygroundFacilityType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="aerialrotor",
+            "d2"="basketball_backboard",
+            "d3"="basketswing",
+            "d4"="chain_ladder",
+            "d5"="climbingframe",
+            "d6"="exercise_equipment",
+            "d7"="horizontal_bar",
+            "d8"="multi_plaything",
+            "d9"="sandpit",
+            "d10"="seesaw",
+            "d11"="skate_equipment",
+            "d12"="slide",
+            "d13"="swing",
+            "d14"="teenshelter",
+            "d15"="tunnel_tube"
+        }
+    },
     "Polygon":{
         "ObjectProperties":{
         },
@@ -262,12 +295,30 @@
         "DataProperties":{
         }
     },
+    "RoadType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="highway",
+            "d2"="primary_road",
+            "d3"="secondary_road",
+            "d4"="tertiary_road"
+        }
+    },
     "School":{
         "ObjectProperties":{
             "o1"="has_schoolType"
         },
         "DataProperties":{
             "d1"="courseOfStudy"
+        }
+    },
+    "SchoolType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="nursery",
+            "d2"="elementary",
+            "d3"="middle",
+            "d4"="high"
         }
     },
     "Ski Area":{
@@ -281,9 +332,9 @@
         },
         "DataProperties":{
             "d1"="adultPrice",
-            "d1"="youngPrice",
-            "d1"="kidPrice",
-            "d1"="open"
+            "d2"="youngPrice",
+            "d3"="kidPrice",
+            "d4"="open"
         }
     },
     "Ski Slope":{
@@ -294,12 +345,27 @@
         "DataProperties":{
         }
     },
+    "SlopeType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="downhill",
+            "d2"="nordic"
+        }
+    },    
     "Slope Statistics":{
         "ObjectProperties":{
         },
         "DataProperties":{
             "d1"="slopeLength",
             "d2"="slopeLengthAvailable"
+        }
+    },
+    "SlopeDifficultyType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="easy_slope",
+            "d2"="intermediate_slope",
+            "d3"="advanced_slope"
         }
     },
     "Sport Facility":{
@@ -351,6 +417,14 @@
             "d8"="openingMonths"
         }
     },
+    "TrailPathDifficultyType":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="easy_trail",
+            "d2"="moderate_trail",
+            "d3"="difficult_trail"
+        }
+    },
     "Trail Ground":{
         "ObjectProperties":{
             "o1"="is_trailGroundOf"
@@ -366,5 +440,15 @@
         },
         "DataProperties":{
         }
-    }
+    },
+    "TrailStatisticsLevel":{
+        "ObjectProperties":{},
+        "DataProperties":{
+            "d1"="One",
+            "d2"="Two",
+            "d3"="Three",
+            "d4"="Four",
+            "d5"="Five"
+        }
+}
 }
