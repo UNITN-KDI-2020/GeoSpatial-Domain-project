@@ -81,9 +81,10 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 							mediaX += edificio[0]
 							mediaY += edificio[1]
 							count += 1
-					d["GeoCoordinate"] = [mediaX/count,mediaY/count]
+					
+					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "Point":
-					d["GeoCoordinate"] = d["GeoCoordinate"]["coordinates"]
+					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
 			
 
 		if "@id" in d:

@@ -30,7 +30,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		if "geo" in d:
 			d["address"] = d.pop("geo")
 		if "geometry" in d:
-			d["GeoCoordinate"] = d["geometry"].pop("coordinates")
+			geometry = d.pop("geometry")
+			d["GeoCoordinate"] = {"longitude" : geometry["coordinates"][0], "latitude" : geometry["coordinates"][1]}
 		if cityname != "":
 			d["city"] = cityname
 		if d["name"] != None and "biblioteca" in d["name"].lower():
