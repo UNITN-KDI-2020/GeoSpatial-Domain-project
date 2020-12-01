@@ -12,9 +12,9 @@ warnings.filterwarnings("ignore", category=Warning)
 
 IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
-ignore_existing = argv[1] if len(argv) > 1 else True
+ignore_existing = argv[1] if len(argv) > 1 else False
 
-exceptions = ["SAT_trails.json", "skiResorts_currentState.json"]
+exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "areaski.json", "railway.json", "skislopes.json", "piste_ciclabili.json", "trails.json", "roads.json"]
 
 inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]')
 outProj = pj.Proj(init='epsg:4326')
@@ -69,11 +69,25 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
-			d["GeoShape"] = d.pop("geometry")
-			if "coordinates" in d["GeoShape"]:
-				d["GeoShape"]["GeoCoordinate"] = d["GeoShape"].pop("coordinates")
+			d["GeoCoordinate"] = d.pop("geometry")
+			if "coordinates" in d["GeoCoordinate"]:
+				if d["GeoCoordinate"]["type"] == "Polygon":
+					coordinates = d["GeoCoordinate"]["coordinates"]
+					mediaX = 0
+					mediaY = 0
+					count = 0
+					for edifici in coordinates:
+						for edificio in edifici:
+							mediaX += edificio[0]
+							mediaY += edificio[1]
+							count += 1
+					d["GeoCoordinate"] = [mediaX/count,mediaY/count]
+				elif d["GeoCoordinate"]["type"] == "Point":
+					d["GeoCoordinate"] = d["GeoCoordinate"]["coordinates"]
+			
+
 		if "@id" in d:
-			d["id"] = d.pop("@id")
+			d.pop("@id")
 		if "via" in d:
 			d["address"] = d.pop("via")
 		if "comune" in d:

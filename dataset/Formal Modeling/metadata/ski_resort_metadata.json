@@ -3,7 +3,6 @@
 	"lastModifiedTime": "",
 	"sourceUrl": "",
 	"copyright": "",
-
 	"fields": {
 		"name": {
 			"type": "String",
@@ -92,7 +91,7 @@
 							"description": ""
 						}
 					}
-				}
+				},
 				"openingHours": {
 					"type": "OpeningTime",
 					"description": "",
@@ -163,26 +162,27 @@
 					"type": "int",
 					"description": ""
 				}
-		},,
-		"metadata": {
-			"type": "MetaData",
-			"description": "metadata",
-			"fields": {
-				"created": {
-					"type": "Timestamp",
-					"description": "timestamp for the creation of the dataset"
-				},
-				"lastModified": {
-					"type": "Timestamp",
-					"description": "timestamp for the last edit of the dataset"
-				},
-				"source": {
-					"type": "String",
-					"description": "source for the dataset"
-				},
-				"resource": {
-					"type": "String",
-					"description": ""
+			},
+			"metadata": {
+				"type": "MetaData",
+				"description": "metadata",
+				"fields": {
+					"created": {
+						"type": "Timestamp",
+						"description": "timestamp for the creation of the dataset"
+					},
+					"lastModified": {
+						"type": "Timestamp",
+						"description": "timestamp for the last edit of the dataset"
+					},
+					"source": {
+						"type": "String",
+						"description": "source for the dataset"
+					},
+					"resource": {
+						"type": "String",
+						"description": ""
+					}
 				}
 			}
 		}
