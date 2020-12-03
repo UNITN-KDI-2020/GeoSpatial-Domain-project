@@ -64,6 +64,6 @@
         "kidPrice": {
             "type": "string",
             "description": "price for kid"
-        },
+        }
     }
 }

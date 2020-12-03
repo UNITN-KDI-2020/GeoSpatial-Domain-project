@@ -14,12 +14,22 @@ IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
 ignore_existing = argv[1] if len(argv) > 1 else True
 
-exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "areaski.json", "railway.json", "skislopes.json", "piste_ciclabili.json", "trails.json", "roads.json"]
+exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "railway.json", "skislopes.json", "piste_ciclabili.json", "trails.json", "roads.json"]
 
 inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]')
 outProj = pj.Proj(init='epsg:4326')
 
 # Data
+
+def get_mean(m):
+	x = 0
+	y = 0
+	i = 0
+	for c in m:
+		x += c[0]
+		y += c[1]
+		i += 1
+	return [x/i,y/i]
 
 def computeDistance(a,b):
 	R = 6373.0
@@ -46,6 +56,21 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["Total lenght"] = d["Total lenght"][7:]  # "Total: " removing
 			d["Number of lifts"] = d["Number of lifts"][7:]  # "Total: " removing
 			d["raiting"] = d["raiting"][:-15]  # " stars out of 5" removing
+
+	if "areaski.json" in filename:
+		for d_i, d in enumerate(data):
+			area2 = []
+			mean = []
+			for area in d["GeoShape"]["GeoCoordinate"]:
+				shape = np.array(area).shape
+				area2 = area
+				if len(shape) != 2:
+					area2 = area[0]
+					for i in range(1,len(area)):
+						area2.extend(area[i])
+				mean.append(get_mean(area2))
+			d["GeoCoordinate"] = get_mean(mean)			
+		
 
 	if "piste_ciclabili.json" in filename:
 		for d_i, d in enumerate(data):
@@ -89,6 +114,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 		if "@id" in d:
 			d.pop("@id")
+		if "id" in d:
+			d.pop("id")
 		if "via" in d:
 			d["address"] = d.pop("via")
 		if "comune" in d:
@@ -166,7 +193,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					}
 			d = newMetadata["fields"] 
 			if "@id" in d:
-				d["id"] = d.pop("@id")
+				d.pop("@id")
 			if "via" in d:
 				d["address"] = d.pop("via")
 			if "comune" in d:

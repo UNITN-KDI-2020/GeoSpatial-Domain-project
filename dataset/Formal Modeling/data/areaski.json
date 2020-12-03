@@ -515,7 +515,6 @@
 					]
 				]
 			},
-			"id": "relation/6989110",
 			"elevation": " ",
 			"totalLenght": "13.8 km",
 			"blueSlopeLenght": "6.4 km",
@@ -538,7 +537,11 @@
 			],
 			"kidPrice": [],
 			"raiting": "2.9",
-			"Description": []
+			"Description": [],
+			"GeoCoordinate": [
+				11.71862321863167,
+				46.45077903572863
+			]
 		},
 		{
 			"name": "Alpe Cimbra",
@@ -1071,7 +1074,6 @@
 					]
 				]
 			},
-			"id": "relation/7736385",
 			"elevation": " ",
 			"totalLenght": "74 km",
 			"blueSlopeLenght": "36.4 km",
@@ -1098,6 +1100,10 @@
 			"raiting": "4.0",
 			"Description": [
 				"Folgaria/Fiorentini is a great Ski resort for a holiday in Trentino. There are wide forests of firs, alpine terraces, extended panoramas and gentle and steep snow-clad slopes. The 'Skitour dei Forti' offers slopes of all difficulty levels - beginners as well as experienced skiers will find what"
+			],
+			"GeoCoordinate": [
+				11.252868129288988,
+				45.924077366467884
 			]
 		},
 		{
@@ -1323,7 +1329,6 @@
 					]
 				]
 			},
-			"id": "relation/7752047",
 			"elevation": " ",
 			"totalLenght": "15 km",
 			"blueSlopeLenght": "5 km",
@@ -1346,10 +1351,14 @@
 			],
 			"kidPrice": [],
 			"raiting": "2.7",
-			"Description": []
+			"Description": [],
+			"GeoCoordinate": [
+				11.789320772807017,
+				46.27998811419457
+			]
 		},
 		{
-			"name": "Sella Ronda", TOGLIERE
+			"name": "Sella Ronda",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
@@ -2509,7 +2518,10 @@
 					]
 				]
 			},
-			"id": "relation/10727394"
+			"GeoCoordinate": [
+				11.82676747326389,
+				46.53872527083328
+			]
 		},
 		{
 			"name": "Campiglio Dolomiti di Brenta",
@@ -2906,7 +2918,6 @@
 					]
 				]
 			},
-			"id": "relation/10727495",
 			"elevation": " ",
 			"totalLenght": "150 km",
 			"blueSlopeLenght": "50 km",
@@ -2933,6 +2944,10 @@
 			"raiting": "4.5",
 			"Description": [
 				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			],
+			"GeoCoordinate": [
+				10.81323957801932,
+				46.22038584003624
 			]
 		},
 		{
@@ -4598,7 +4613,10 @@
 					]
 				]
 			},
-			"id": "relation/10728343"
+			"GeoCoordinate": [
+				10.928171572927843,
+				46.139075203162186
+			]
 		},
 		{
 			"name": "Arabba",
@@ -4857,7 +4875,10 @@
 					]
 				]
 			},
-			"id": "relation/10732925"
+			"GeoCoordinate": [
+				11.86026530645161,
+				46.491266230645145
+			]
 		},
 		{
 			"name": "Val Gardena",
@@ -5196,7 +5217,10 @@
 					]
 				]
 			},
-			"id": "relation/10732928"
+			"GeoCoordinate": [
+				11.747286302439022,
+				46.563381150000005
+			]
 		},
 		{
 			"GeoShape": {
@@ -5342,7 +5366,10 @@
 					]
 				]
 			},
-			"id": "way/179150279"
+			"GeoCoordinate": [
+				11.797583802941174,
+				46.263914208823536
+			]
 		},
 		{
 			"name": "Carezza",
@@ -5641,7 +5668,6 @@
 					]
 				]
 			},
-			"id": "way/334817747",
 			"elevation": " ",
 			"totalLenght": "40 km",
 			"blueSlopeLenght": "19 km",
@@ -5668,7 +5694,11 @@
 			"raiting": "4.0",
 			"Description": [
 				"The Carezza Ski ski resort at the foot of the Rosengarten is one of the sunniest resorts in South Tyrol (an average of 8 hours of sun per day in the winter) All slopes, toboggan runs, cross-country trails and winter hiking paths lead to the same place - which is ideal for winter days with the whole"
-			]			
+			],
+			"GeoCoordinate": [
+				11.584613743055558,
+				46.42803524027779
+			]
 		},
 		{
 			"name": "Brentonico",
@@ -5779,7 +5809,6 @@
 					]
 				]
 			},
-			"id": "way/336062441",
 			"elevation": " ",
 			"totalLenght": "22 km",
 			"blueSlopeLenght": "6.8 km",
@@ -5797,8 +5826,11 @@
 				"\u00e2\u201a\u00ac 27,-"
 			],
 			"raiting": "2.9",
-			"Description": []			
-
+			"Description": [],
+			"GeoCoordinate": [
+				10.929679291999998,
+				45.7805017
+			]
 		},
 		{
 			"name": "Pr\u00c3\u00a0 Alpesina",
@@ -5885,7 +5917,6 @@
 					]
 				]
 			},
-			"id": "way/336220681",
 			"elevation": " ",
 			"totalLenght": "10 km",
 			"blueSlopeLenght": "2 km",
@@ -5901,7 +5932,11 @@
 			"youngPrice": [],
 			"kidPrice": [],
 			"raiting": "2.6",
-			"Description": []			
+			"Description": [],
+			"GeoCoordinate": [
+				10.87228077368421,
+				45.761808389473686
+			]
 		},
 		{
 			"name": "Madonna di Campiglio",
@@ -6048,7 +6083,6 @@
 					]
 				]
 			},
-			"id": "way/540714397",
 			"elevation": " ",
 			"totalLenght": "150 km",
 			"blueSlopeLenght": "50 km",
@@ -6075,6 +6109,10 @@
 			"raiting": "4.5",
 			"Description": [
 				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			],
+			"GeoCoordinate": [
+				10.83717954411765,
+				46.23617272058824
 			]
 		},
 		{
@@ -6250,7 +6288,6 @@
 					]
 				]
 			},
-			"id": "way/540714398",
 			"elevation": " ",
 			"totalLenght": "150 km",
 			"blueSlopeLenght": "50 km",
@@ -6277,6 +6314,10 @@
 			"raiting": "4.5",
 			"Description": [
 				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			],
+			"GeoCoordinate": [
+				10.833154721951221,
+				46.29518162439024
 			]
 		},
 		{
@@ -6592,7 +6633,6 @@
 					]
 				]
 			},
-			"id": "way/542223677",
 			"elevation": " ",
 			"totalLenght": "49 km",
 			"blueSlopeLenght": "9.3 km",
@@ -6617,7 +6657,11 @@
 			"raiting": "4.3",
 			"Description": [
 				"The Latemar ski resort is the place for active ski enthusiasts. The grooming of the ski runs is superb as demonstrated by the 'Best Grooming' awards received by the ski resort. The winter sports region connects the villages of Obereggen, Pampeago and Predazzo and stretches from South Tyrol to"
-			]			
+			],
+			"GeoCoordinate": [
+				11.547854327631581,
+				46.353180656578935
+			]
 		},
 		{
 			"name": "San Pellegrino",
@@ -6784,7 +6828,6 @@
 					]
 				]
 			},
-			"id": "way/542227211",
 			"elevation": " ",
 			"totalLenght": "67.5 km",
 			"blueSlopeLenght": "20.5 km",
@@ -6809,7 +6852,11 @@
 			"raiting": "4.2",
 			"Description": [
 				"The ski resort of San Pellegrino is a real paradise in the heart of the Dolomites. Modern lifts, beautiful and carefully groomed ski slopes, fantastic landscapes and a wide selection of accommodation make the ski resort a perfect destination. The winter sports resort links Passo San Pellegrino to"
-			]			
+			],
+			"GeoCoordinate": [
+				11.814631364102565,
+				46.36054435897435
+			]
 		},
 		{
 			"name": "Alpe Lusia",
@@ -6952,7 +6999,6 @@
 					]
 				]
 			},
-			"id": "way/542227215",
 			"elevation": " ",
 			"totalLenght": "27.5 km",
 			"blueSlopeLenght": "12.9 km",
@@ -6977,7 +7023,11 @@
 			"raiting": "4.0",
 			"Description": [
 				"From Moena in the Fassa Valley, the ski resort extends over Alpe Lusia towards Bellamonte, which is part of the Val di Fiemme. The majority of the ski runs are above the treeline. Modern chairlifts and gondola lifts link up the winter sports resort in the Dolomites World Heritage Site. Out on the"
-			]			
+			],
+			"GeoCoordinate": [
+				11.692147951515148,
+				46.34344276363636
+			]
 		},
 		{
 			"name": "Alpe Cermis",
@@ -7060,7 +7110,6 @@
 					]
 				]
 			},
-			"id": "way/542238137",
 			"elevation": " ",
 			"totalLenght": "24 km",
 			"blueSlopeLenght": "10 km",
@@ -7085,6 +7134,10 @@
 			"raiting": "3.8",
 			"Description": [
 				"The Alpe Cermis ski resort is accessed comfortably using the cable car lift in Cavalese. The winter sports resort above Cavalese features one of the longest ski slopes in the Dolomiti Superski region. The Olimpia slope is 7.5 km long and leads from the Paion mountain station (2250 m) down to the"
+			],
+			"GeoCoordinate": [
+				11.48466941111111,
+				46.26250169444444
 			]
 		},
 		{
@@ -7184,7 +7237,6 @@
 					]
 				]
 			},
-			"id": "way/643910266",
 			"elevation": " ",
 			"totalLenght": "5.5 km",
 			"blueSlopeLenght": "0 km",
@@ -7207,10 +7259,14 @@
 			],
 			"kidPrice": [],
 			"raiting": "2.2",
-			"Description": []
+			"Description": [],
+			"GeoCoordinate": [
+				11.892346145454546,
+				46.443241459090906
+			]
 		},
 		{
-			"name": "Vigo di Fassa - Catinaccio",
+			"name": "Ski resort CatinaccioCiampedie  Vigo di FassaPera di Fassa",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
@@ -7262,8 +7318,6 @@
 					]
 				]
 			},
-			"id": "way/659981411",
-			"name": "Ski resort CatinaccioCiampedie  Vigo di FassaPera di Fassa",
 			"elevation": " ",
 			"totalLenght": "13.8 km",
 			"blueSlopeLenght": "6.4 km",
@@ -7286,7 +7340,11 @@
 			],
 			"kidPrice": [],
 			"raiting": "2.9",
-			"Description": []
+			"Description": [],
+			"GeoCoordinate": [
+				11.66881471818182,
+				46.4309828090909
+			]
 		},
 		{
 			"name": "San Martino di Castrozza",
@@ -7397,7 +7455,6 @@
 					]
 				]
 			},
-			"id": "way/660110072",
 			"elevation": " ",
 			"totalLenght": "60 km",
 			"blueSlopeLenght": "16 km",
@@ -7422,7 +7479,11 @@
 			"raiting": "4.0",
 			"Description": [
 				"The ski resort of San Martino di Castrozza lies in a beautiful Dolomite landscape. The amazing views of the Pale di San Martino (Pala group) and the traditional hospitality make a winter holiday in the ski resort of San Martino di Castrozza something special. The well-prepared slopes, most of which"
-			]			
+			],
+			"GeoCoordinate": [
+				11.790121948000001,
+				46.26095652800001
+			]
 		},
 		{
 			"GeoShape": {
@@ -7504,10 +7565,13 @@
 					]
 				]
 			},
-			"id": "way/670402553"
+			"GeoCoordinate": [
+				11.2900678,
+				46.154542916666664
+			]
 		},
 		{
-			"name": "Passo Tonale",
+			"name": "Ski resort Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale)",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
@@ -7835,8 +7899,6 @@
 					]
 				]
 			},
-			"id": "way/542235880",
-			"name": "Ski resort Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale)",
 			"elevation": " ",
 			"totalLenght": "100 km",
 			"blueSlopeLenght": "24 km",
@@ -7863,7 +7925,11 @@
 			"raiting": "4.2",
 			"Description": [
 				"Between the Trentino and Lombardy regions, slopes and lifts connect the villages of Tem\u00c3\u00b9 and Ponte di Legno in the Valcamonica via Passo Tonale with the Presena Glacier to the ski resort of Pontedilegno-Tonale. This was previously called Adamello Ski. The peaks of Cima Presena (3,069 m), Cima"
-			]			
+			],
+			"GeoCoordinate": [
+				10.550797175000003,
+				46.25558676875001
+			]
 		},
 		{
 			"name": "Pejo",
@@ -7958,7 +8024,6 @@
 					]
 				]
 			},
-			"id": "way/542233865",
 			"elevation": " ",
 			"totalLenght": "20 km",
 			"blueSlopeLenght": "5 km",
@@ -7985,6 +8050,10 @@
 			"raiting": "3.7",
 			"Description": [
 				"The ski resort of Pejo links up to the slopes on the Monte Vioz in the Stilfser Joch National Park. Lifts transport winter sports enthusiasts up to an altitude of 3,000 metres. The selection of slopes covers all levels of difficulty. In the Val di Pejo, a tranquil side valley of the Val di Sole in"
+			],
+			"GeoCoordinate": [
+				10.653918557142857,
+				46.37316549999999
 			]
 		},
 		{
@@ -8088,7 +8157,6 @@
 					]
 				]
 			},
-			"id": "way/540714830",
 			"elevation": " ",
 			"totalLenght": "150 km",
 			"blueSlopeLenght": "50 km",
@@ -8115,10 +8183,14 @@
 			"raiting": "4.5",
 			"Description": [
 				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			],
+			"GeoCoordinate": [
+				10.791288278260868,
+				46.17216382173915
 			]
 		},
 		{
-			"name": "Folgaria",
+			"name": "Ski resort FolgariaFiorentini",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
@@ -8562,8 +8634,6 @@
 					]
 				]
 			},
-			"id": "way/336229660",
-			"name": "Ski resort FolgariaFiorentini",
 			"elevation": " ",
 			"totalLenght": "74 km",
 			"blueSlopeLenght": "36.4 km",
@@ -8590,7 +8660,11 @@
 			"raiting": "4.0",
 			"Description": [
 				"Folgaria/Fiorentini is a great Ski resort for a holiday in Trentino. There are wide forests of firs, alpine terraces, extended panoramas and gentle and steep snow-clad slopes. The 'Skitour dei Forti' offers slopes of all difficulty levels - beginners as well as experienced skiers will find what"
-			]			
+			],
+			"GeoCoordinate": [
+				11.211086993577977,
+				45.89386042293575
+			]
 		},
 		{
 			"name": "Monte Bondone",
@@ -8689,7 +8763,6 @@
 					]
 				]
 			},
-			"id": "way/336234488",
 			"elevation": " ",
 			"totalLenght": "18.8 km",
 			"blueSlopeLenght": "4.8 km",
@@ -8714,7 +8787,11 @@
 				"\u00e2\u201a\u00ac 19.50"
 			],
 			"raiting": "3.8",
-			"Description": []
+			"Description": [],
+			"GeoCoordinate": [
+				11.057081522727273,
+				46.03857657727272
+			]
 		},
 		{
 			"name": "Paganella",
@@ -8961,7 +9038,6 @@
 					]
 				]
 			},
-			"id": "way/336236243",
 			"elevation": " ",
 			"totalLenght": "40 km",
 			"blueSlopeLenght": "11 km",
@@ -8988,10 +9064,14 @@
 			"raiting": "4.1",
 			"Description": [
 				"It is possible to enter the ski area on the Paganella directly from Andalo and Fai della Paganella. Lifts provide access to slopes of all difficulty levels. Some of the slopes for skiing and snowboarding are above the treeline and others are below. Different children's areas and beginners\u00e2\u20ac\u2122 areas"
+			],
+			"GeoCoordinate": [
+				11.03141176949153,
+				46.15632905932202
 			]
 		},
 		{
-			"name": "Ski Center Lavarone",
+			"name": "Ski resort Lavarone",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
@@ -9079,8 +9159,6 @@
 					]
 				]
 			},
-			"id": "way/540707095",
-			"name": "Ski resort Lavarone",
 			"elevation": " ",
 			"totalLenght": "30.4 km",
 			"blueSlopeLenght": "22.4 km",
@@ -9107,28 +9185,33 @@
 			"raiting": "3.4",
 			"Description": [
 				"The clearly laid out quiet ski resort of Lavarone is particularly suited to families and children. The slopes are ideally prepared for skiing and extend between Bertoldi and the Passo Vezzana. Artificial snow can be produced throughout the entire winter sports resort. Alpine fir forests and glades,"
-			]			
+			],
+			"GeoCoordinate": [
+				11.294649265,
+				45.95429431000001
+			]
 		},
 		{
 			"name": "Val di Fassa",
 			"GeoShape": {
 				"type": "LineString",
-				"GeoCoordinate": [[
+				"GeoCoordinate": [
 					[
-						11.74184,
-						46.5064842
-					],
-					[
-						11.7512674,
-						46.5060172
-					],
-					[
-						11.7602018,
-						46.5070934
+						[
+							11.74184,
+							46.5064842
+						],
+						[
+							11.7512674,
+							46.5060172
+						],
+						[
+							11.7602018,
+							46.5070934
+						]
 					]
-				]]
+				]
 			},
-			"id": "way/774959365",
 			"elevation": " ",
 			"totalLenght": "55.2 km",
 			"blueSlopeLenght": "7.3 km",
@@ -9153,7 +9236,11 @@
 			"raiting": "4.2",
 			"Description": [
 				"The ski resort areas of Belvedere/Col Rodella and Ciampac/Buffaure have been connected with the Funifor Alba-Col dei Rossi since the 2015/2016 season. The result is that the villages of Canazei, Campitello di Fassa, Pozza di Fassa and Alba di Canazei are all connected now. The largest winter sports"
-			]			
+			],
+			"GeoCoordinate": [
+				11.751103066666667,
+				46.506531599999995
+			]
 		}
 	]
 }

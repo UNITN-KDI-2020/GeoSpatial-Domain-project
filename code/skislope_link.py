@@ -35,7 +35,6 @@ def find_skiarea(slopeCoords, point, slope, skiarea):
 				nearest = name
 				areaNearest = area2
 				valNearest = np.linalg.norm(mean-np.array(point))
-				# print(name + "\t" + str(valNearest))
 	found = False
 	if len(slopeCoords) > 2:
 		p1 = Polygon(slopeCoords)
@@ -68,14 +67,13 @@ for slope in skislopes:
 		slope.pop("id")
 	if len(slopeCoords.shape) != 2:
 		slopeCoords = np.array(slopeCoords[0])
-	# 	print(slopeCoords)
 	if slope["GeoShape"]["type"] != "Point":
 		mean = get_mean(slopeCoords)
 		if slope["GeoShape"]["type"] == "LineString":
 			slope["GeoShape"]["type"] = "Line"
 		if find_skiarea(slopeCoords, Point(mean), slope, skiarea):
 			count += 1
-		print(slope["name"] if "name" in slope else "---")
+		# print(slope["name"] if "name" in slope else "---")
 	else:
 		slope["GeoCoordinate"] = slope["GeoShape"]["GeoCoordinate"]
 		slope.pop("GeoShape")

@@ -1349,7 +1349,7 @@
 			"Description": []
 		},
 		{
-			"name": "Sella Ronda", TOGLIERE
+			"name": "Sella Ronda",
 			"GeoShape": {
 				"type": "Polygon",
 				"GeoCoordinate": [
