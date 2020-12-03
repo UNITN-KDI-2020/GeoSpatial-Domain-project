@@ -517,11 +517,11 @@
 			},
 			"id": "relation/6989110",
 			"elevation": " ",
-			"Total lenght": "13.8 km",
-			"Km blue Slope": "6.4 km",
-			"km red slopes": "6.2 km",
-			"km black slopes": "1.2 km",
-			"Number of lifts": "6",
+			"totalLenght": "13.8 km",
+			"blueSlopeLenght": "6.4 km",
+			"redSlopeLenght": "6.2 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "6",
 			"openingDate": " 2020-12-03 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -530,13 +530,13 @@
 				" early December - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 54,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 38,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "2.9",
 			"Description": []
 		},
@@ -1073,11 +1073,11 @@
 			},
 			"id": "relation/7736385",
 			"elevation": " ",
-			"Total lenght": "74 km",
-			"Km blue Slope": "36.4 km",
-			"km red slopes": "32 km",
-			"km black slopes": "5.6 km",
-			"Number of lifts": "22",
+			"totalLenght": "74 km",
+			"blueSlopeLenght": "36.4 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "5.6 km",
+			"numberLifts": "22",
 			"openingDate": " 2020-12-05 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:45 "
@@ -1086,13 +1086,13 @@
 				" early December - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 44,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 31,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 22,-"
 			],
 			"raiting": "4.0",
@@ -1325,11 +1325,11 @@
 			},
 			"id": "relation/7752047",
 			"elevation": " ",
-			"Total lenght": "15 km",
-			"Km blue Slope": "5 km",
-			"km red slopes": "7 km",
-			"km black slopes": "3 km",
-			"Number of lifts": "5",
+			"totalLenght": "15 km",
+			"blueSlopeLenght": "5 km",
+			"redSlopeLenght": "7 km",
+			"blackSlopeLenght": "3 km",
+			"numberLifts": "5",
 			"openingDate": [],
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -1338,13 +1338,13 @@
 				" early December - late April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 49,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 35,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "2.7",
 			"Description": []
 		},
@@ -2908,11 +2908,11 @@
 			},
 			"id": "relation/10727495",
 			"elevation": " ",
-			"Total lenght": "150 km",
-			"Km blue Slope": "50 km",
-			"km red slopes": "67 km",
-			"km black slopes": "33 km",
-			"Number of lifts": "58",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
 			"openingDate": " 2020-11-25 - 2021-04-18 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -2921,13 +2921,13 @@
 				" late November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 58,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 41,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 29,-"
 			],
 			"raiting": "4.5",
@@ -5643,11 +5643,11 @@
 			},
 			"id": "way/334817747",
 			"elevation": " ",
-			"Total lenght": "40 km",
-			"Km blue Slope": "19 km",
-			"km red slopes": "16.2 km",
-			"km black slopes": "4.8 km",
-			"Number of lifts": "12",
+			"totalLenght": "40 km",
+			"blueSlopeLenght": "19 km",
+			"redSlopeLenght": "16.2 km",
+			"blackSlopeLenght": "4.8 km",
+			"numberLifts": "12",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -5656,13 +5656,13 @@
 				" late November - late March",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 49.50 "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 36,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 21,-"
 			],
 			"raiting": "4.0",
@@ -5781,19 +5781,19 @@
 			},
 			"id": "way/336062441",
 			"elevation": " ",
-			"Total lenght": "22 km",
-			"Km blue Slope": "6.8 km",
-			"km red slopes": "10.8 km",
-			"km black slopes": "4.4 km",
-			"Number of lifts": "5",
+			"totalLenght": "22 km",
+			"blueSlopeLenght": "6.8 km",
+			"redSlopeLenght": "10.8 km",
+			"blackSlopeLenght": "4.4 km",
+			"numberLifts": "5",
 			"openingDate": [],
 			"openingTime": [],
 			"General Season": [],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 36,- "
 			],
-			"Price young": [],
-			"Price kids": [
+			"youngPrice": [],
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 27,-"
 			],
 			"raiting": "2.9",
@@ -5887,19 +5887,19 @@
 			},
 			"id": "way/336220681",
 			"elevation": " ",
-			"Total lenght": "10 km",
-			"Km blue Slope": "2 km",
-			"km red slopes": "6 km",
-			"km black slopes": "2 km",
-			"Number of lifts": "6",
+			"totalLenght": "10 km",
+			"blueSlopeLenght": "2 km",
+			"redSlopeLenght": "6 km",
+			"blackSlopeLenght": "2 km",
+			"numberLifts": "6",
 			"openingDate": [],
 			"openingTime": [
 				"09:00 - 16:30 "
 			],
 			"General Season": [],
-			"Price Adults": [],
-			"Price young": [],
-			"Price kids": [],
+			"adultPrice": [],
+			"youngPrice": [],
+			"kidPrice": [],
 			"raiting": "2.6",
 			"Description": []			
 		},
@@ -6050,11 +6050,11 @@
 			},
 			"id": "way/540714397",
 			"elevation": " ",
-			"Total lenght": "150 km",
-			"Km blue Slope": "50 km",
-			"km red slopes": "67 km",
-			"km black slopes": "33 km",
-			"Number of lifts": "58",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
 			"openingDate": " 2020-11-25 - 2021-04-18 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -6063,13 +6063,13 @@
 				" late November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 58,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 41,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 29,-"
 			],
 			"raiting": "4.5",
@@ -6252,11 +6252,11 @@
 			},
 			"id": "way/540714398",
 			"elevation": " ",
-			"Total lenght": "150 km",
-			"Km blue Slope": "50 km",
-			"km red slopes": "67 km",
-			"km black slopes": "33 km",
-			"Number of lifts": "58",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
 			"openingDate": " 2020-11-25 - 2021-04-18 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -6265,13 +6265,13 @@
 				" late November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 58,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 41,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 29,-"
 			],
 			"raiting": "4.5",
@@ -6594,11 +6594,11 @@
 			},
 			"id": "way/542223677",
 			"elevation": " ",
-			"Total lenght": "49 km",
-			"Km blue Slope": "9.3 km",
-			"km red slopes": "32.8 km",
-			"km black slopes": "6.9 km",
-			"Number of lifts": "18",
+			"totalLenght": "49 km",
+			"blueSlopeLenght": "9.3 km",
+			"redSlopeLenght": "32.8 km",
+			"blackSlopeLenght": "6.9 km",
+			"numberLifts": "18",
 			"openingDate": " 2020-11-27 - 2021-04-11 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -6607,13 +6607,13 @@
 				" late November - late April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 51,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 36,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "4.3",
 			"Description": [
 				"The Latemar ski resort is the place for active ski enthusiasts. The grooming of the ski runs is superb as demonstrated by the 'Best Grooming' awards received by the ski resort. The winter sports region connects the villages of Obereggen, Pampeago and Predazzo and stretches from South Tyrol to"
@@ -6786,11 +6786,11 @@
 			},
 			"id": "way/542227211",
 			"elevation": " ",
-			"Total lenght": "67.5 km",
-			"Km blue Slope": "20.5 km",
-			"km red slopes": "38.5 km",
-			"km black slopes": "8.5 km",
-			"Number of lifts": "15",
+			"totalLenght": "67.5 km",
+			"blueSlopeLenght": "20.5 km",
+			"redSlopeLenght": "38.5 km",
+			"blackSlopeLenght": "8.5 km",
+			"numberLifts": "15",
 			"openingDate": " 2020-11-28 - 2021-04-11 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -6799,13 +6799,13 @@
 				" late November - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 51,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 36,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "4.2",
 			"Description": [
 				"The ski resort of San Pellegrino is a real paradise in the heart of the Dolomites. Modern lifts, beautiful and carefully groomed ski slopes, fantastic landscapes and a wide selection of accommodation make the ski resort a perfect destination. The winter sports resort links Passo San Pellegrino to"
@@ -6954,11 +6954,11 @@
 			},
 			"id": "way/542227215",
 			"elevation": " ",
-			"Total lenght": "27.5 km",
-			"Km blue Slope": "12.9 km",
-			"km red slopes": "10.6 km",
-			"km black slopes": "4 km",
-			"Number of lifts": "8",
+			"totalLenght": "27.5 km",
+			"blueSlopeLenght": "12.9 km",
+			"redSlopeLenght": "10.6 km",
+			"blackSlopeLenght": "4 km",
+			"numberLifts": "8",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -6967,13 +6967,13 @@
 				" early December - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 51,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 36,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "4.0",
 			"Description": [
 				"From Moena in the Fassa Valley, the ski resort extends over Alpe Lusia towards Bellamonte, which is part of the Val di Fiemme. The majority of the ski runs are above the treeline. Modern chairlifts and gondola lifts link up the winter sports resort in the Dolomites World Heritage Site. Out on the"
@@ -7062,11 +7062,11 @@
 			},
 			"id": "way/542238137",
 			"elevation": " ",
-			"Total lenght": "24 km",
-			"Km blue Slope": "10 km",
-			"km red slopes": "9 km",
-			"km black slopes": "5 km",
-			"Number of lifts": "7",
+			"totalLenght": "24 km",
+			"blueSlopeLenght": "10 km",
+			"redSlopeLenght": "9 km",
+			"blackSlopeLenght": "5 km",
+			"numberLifts": "7",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"08:15 - 16:30 "
@@ -7075,11 +7075,11 @@
 				" late November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 51,- "
 			],
-			"Price young": [],
-			"Price kids": [
+			"youngPrice": [],
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 36,-"
 			],
 			"raiting": "3.8",
@@ -7186,11 +7186,11 @@
 			},
 			"id": "way/643910266",
 			"elevation": " ",
-			"Total lenght": "5.5 km",
-			"Km blue Slope": "0 km",
-			"km red slopes": "5.5 km",
-			"km black slopes": "0 km",
-			"Number of lifts": "1",
+			"totalLenght": "5.5 km",
+			"blueSlopeLenght": "0 km",
+			"redSlopeLenght": "5.5 km",
+			"blackSlopeLenght": "0 km",
+			"numberLifts": "1",
 			"openingDate": [],
 			"openingTime": [
 				"08:30 - 16:00 "
@@ -7199,13 +7199,13 @@
 				" late March - early May",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 54,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 38,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "2.2",
 			"Description": []
 		},
@@ -7265,11 +7265,11 @@
 			"id": "way/659981411",
 			"name": "Ski resort CatinaccioCiampedie  Vigo di FassaPera di Fassa",
 			"elevation": " ",
-			"Total lenght": "13.8 km",
-			"Km blue Slope": "6.4 km",
-			"km red slopes": "6.2 km",
-			"km black slopes": "1.2 km",
-			"Number of lifts": "6",
+			"totalLenght": "13.8 km",
+			"blueSlopeLenght": "6.4 km",
+			"redSlopeLenght": "6.2 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "6",
 			"openingDate": " 2020-12-03 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -7278,13 +7278,13 @@
 				" early December - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 54,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 38,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "2.9",
 			"Description": []
 		},
@@ -7399,11 +7399,11 @@
 			},
 			"id": "way/660110072",
 			"elevation": " ",
-			"Total lenght": "60 km",
-			"Km blue Slope": "16 km",
-			"km red slopes": "32 km",
-			"km black slopes": "12 km",
-			"Number of lifts": "21",
+			"totalLenght": "60 km",
+			"blueSlopeLenght": "16 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "12 km",
+			"numberLifts": "21",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"09:00 - 16:00 "
@@ -7412,11 +7412,11 @@
 				" mid November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 49,- "
 			],
-			"Price young": [],
-			"Price kids": [
+			"youngPrice": [],
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 35,-"
 			],
 			"raiting": "4.0",
@@ -7838,11 +7838,11 @@
 			"id": "way/542235880",
 			"name": "Ski resort Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale)",
 			"elevation": " ",
-			"Total lenght": "100 km",
-			"Km blue Slope": "24 km",
-			"km red slopes": "61 km",
-			"km black slopes": "15 km",
-			"Number of lifts": "28",
+			"totalLenght": "100 km",
+			"blueSlopeLenght": "24 km",
+			"redSlopeLenght": "61 km",
+			"blackSlopeLenght": "15 km",
+			"numberLifts": "28",
 			"openingDate": " 2020-11-25 - 2021-05-02 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -7851,13 +7851,13 @@
 				" mid November - early May",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 45,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 34,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 24,-"
 			],
 			"raiting": "4.2",
@@ -7960,11 +7960,11 @@
 			},
 			"id": "way/542233865",
 			"elevation": " ",
-			"Total lenght": "20 km",
-			"Km blue Slope": "5 km",
-			"km red slopes": "12.8 km",
-			"km black slopes": "2.2 km",
-			"Number of lifts": "7",
+			"totalLenght": "20 km",
+			"blueSlopeLenght": "5 km",
+			"redSlopeLenght": "12.8 km",
+			"blackSlopeLenght": "2.2 km",
+			"numberLifts": "7",
 			"openingDate": " 2020-12-04 - 2021-04-11 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -7973,13 +7973,13 @@
 				" early December - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 38,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 27,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 19,-"
 			],
 			"raiting": "3.7",
@@ -8090,11 +8090,11 @@
 			},
 			"id": "way/540714830",
 			"elevation": " ",
-			"Total lenght": "150 km",
-			"Km blue Slope": "50 km",
-			"km red slopes": "67 km",
-			"km black slopes": "33 km",
-			"Number of lifts": "58",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
 			"openingDate": " 2020-11-25 - 2021-04-18 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -8103,13 +8103,13 @@
 				" late November - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 58,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 41,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 29,-"
 			],
 			"raiting": "4.5",
@@ -8565,11 +8565,11 @@
 			"id": "way/336229660",
 			"name": "Ski resort FolgariaFiorentini",
 			"elevation": " ",
-			"Total lenght": "74 km",
-			"Km blue Slope": "36.4 km",
-			"km red slopes": "32 km",
-			"km black slopes": "5.6 km",
-			"Number of lifts": "22",
+			"totalLenght": "74 km",
+			"blueSlopeLenght": "36.4 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "5.6 km",
+			"numberLifts": "22",
 			"openingDate": " 2020-12-05 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:45 "
@@ -8578,13 +8578,13 @@
 				" early December - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 44,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 31,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 22,-"
 			],
 			"raiting": "4.0",
@@ -8691,11 +8691,11 @@
 			},
 			"id": "way/336234488",
 			"elevation": " ",
-			"Total lenght": "18.8 km",
-			"Km blue Slope": "4.8 km",
-			"km red slopes": "14 km",
-			"km black slopes": "0 km",
-			"Number of lifts": "4",
+			"totalLenght": "18.8 km",
+			"blueSlopeLenght": "4.8 km",
+			"redSlopeLenght": "14 km",
+			"blackSlopeLenght": "0 km",
+			"numberLifts": "4",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"08:45 - 16:45 "
@@ -8704,13 +8704,13 @@
 				" mid December - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 39,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 27.50"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 19.50"
 			],
 			"raiting": "3.8",
@@ -8963,11 +8963,11 @@
 			},
 			"id": "way/336236243",
 			"elevation": " ",
-			"Total lenght": "40 km",
-			"Km blue Slope": "11 km",
-			"km red slopes": "27.8 km",
-			"km black slopes": "1.2 km",
-			"Number of lifts": "14",
+			"totalLenght": "40 km",
+			"blueSlopeLenght": "11 km",
+			"redSlopeLenght": "27.8 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "14",
 			"openingDate": [],
 			"openingTime": [
 				"08:30 - 16:00 "
@@ -8976,13 +8976,13 @@
 				" late November - early April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 47,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 33,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 24,-"
 			],
 			"raiting": "4.1",
@@ -9082,11 +9082,11 @@
 			"id": "way/540707095",
 			"name": "Ski resort Lavarone",
 			"elevation": " ",
-			"Total lenght": "30.4 km",
-			"Km blue Slope": "22.4 km",
-			"km red slopes": "6 km",
-			"km black slopes": "2 km",
-			"Number of lifts": "8",
+			"totalLenght": "30.4 km",
+			"blueSlopeLenght": "22.4 km",
+			"redSlopeLenght": "6 km",
+			"blackSlopeLenght": "2 km",
+			"numberLifts": "8",
 			"openingDate": " 2020-12-05 - 2021-03-21 ",
 			"openingTime": [
 				"09:00 - 16:30 "
@@ -9095,13 +9095,13 @@
 				" early December - mid March",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 37,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 27,-"
 			],
-			"Price kids": [
+			"kidPrice": [
 				"\u00e2\u201a\u00ac 19,-"
 			],
 			"raiting": "3.4",
@@ -9130,11 +9130,11 @@
 			},
 			"id": "way/774959365",
 			"elevation": " ",
-			"Total lenght": "55.2 km",
-			"Km blue Slope": "7.3 km",
-			"km red slopes": "40.7 km",
-			"km black slopes": "7.2 km",
-			"Number of lifts": "36",
+			"totalLenght": "55.2 km",
+			"blueSlopeLenght": "7.3 km",
+			"redSlopeLenght": "40.7 km",
+			"blackSlopeLenght": "7.2 km",
+			"numberLifts": "36",
 			"openingDate": " 2020-11-28 - 2021-04-05 ",
 			"openingTime": [
 				"08:30 - 16:30 "
@@ -9143,13 +9143,13 @@
 				" early December - mid April",
 				" "
 			],
-			"Price Adults": [
+			"adultPrice": [
 				"\u00e2\u201a\u00ac 54,- "
 			],
-			"Price young": [
+			"youngPrice": [
 				"\u00e2\u201a\u00ac 38,-"
 			],
-			"Price kids": [],
+			"kidPrice": [],
 			"raiting": "4.2",
 			"Description": [
 				"The ski resort areas of Belvedere/Col Rodella and Ciampac/Buffaure have been connected with the Funifor Alba-Col dei Rossi since the 2015/2016 season. The result is that the villages of Canazei, Campitello di Fassa, Pozza di Fassa and Alba di Canazei are all connected now. The largest winter sports"

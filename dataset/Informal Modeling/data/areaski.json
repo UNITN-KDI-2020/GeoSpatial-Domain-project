@@ -2,10 +2,9 @@
 	"records": [
 		{
 			"name": "Val di Fassa",
-			"@id": "relation/6989110",
-			"geometry": {
+			"GeoShape": {
 				"type": "MultiPolygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							[
@@ -515,14 +514,37 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/6989110",
+			"elevation": " ",
+			"totalLenght": "13.8 km",
+			"blueSlopeLenght": "6.4 km",
+			"redSlopeLenght": "6.2 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "6",
+			"openingDate": " 2020-12-03 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 54,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 38,-"
+			],
+			"kidPrice": [],
+			"raiting": "2.9",
+			"Description": []
 		},
 		{
 			"name": "Alpe Cimbra",
-			"@id": "relation/7736385",
-			"geometry": {
+			"GeoShape": {
 				"type": "MultiPolygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							[
@@ -1048,14 +1070,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/7736385",
+			"elevation": " ",
+			"totalLenght": "74 km",
+			"blueSlopeLenght": "36.4 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "5.6 km",
+			"numberLifts": "22",
+			"openingDate": " 2020-12-05 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:45 "
+			],
+			"General Season": [
+				" early December - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 44,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 31,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 22,-"
+			],
+			"raiting": "4.0",
+			"Description": [
+				"Folgaria/Fiorentini is a great Ski resort for a holiday in Trentino. There are wide forests of firs, alpine terraces, extended panoramas and gentle and steep snow-clad slopes. The 'Skitour dei Forti' offers slopes of all difficulty levels - beginners as well as experienced skiers will find what"
+			]
 		},
 		{
 			"name": "San Martino di Castrozza-Passo Rolle",
-			"@id": "relation/7752047",
-			"geometry": {
+			"GeoShape": {
 				"type": "MultiPolygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							[
@@ -1273,14 +1322,37 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/7752047",
+			"elevation": " ",
+			"totalLenght": "15 km",
+			"blueSlopeLenght": "5 km",
+			"redSlopeLenght": "7 km",
+			"blackSlopeLenght": "3 km",
+			"numberLifts": "5",
+			"openingDate": [],
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - late April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 49,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 35,-"
+			],
+			"kidPrice": [],
+			"raiting": "2.7",
+			"Description": []
 		},
 		{
-			"name": "Sella Ronda",
-			"@id": "relation/10727394",
-			"geometry": {
+			"name": "Sella Ronda", TOGLIERE
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.8082576,
@@ -2436,14 +2508,14 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/10727394"
 		},
 		{
 			"name": "Campiglio Dolomiti di Brenta",
-			"@id": "relation/10727495",
-			"geometry": {
+			"GeoShape": {
 				"type": "MultiPolygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							[
@@ -2833,14 +2905,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/10727495",
+			"elevation": " ",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
+			"openingDate": " 2020-11-25 - 2021-04-18 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 58,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 41,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 29,-"
+			],
+			"raiting": "4.5",
+			"Description": [
+				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			]
 		},
 		{
 			"name": "Ski Areas Val di Sole",
-			"@id": "relation/10728343",
-			"geometry": {
+			"GeoShape": {
 				"type": "MultiPolygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							[
@@ -4498,14 +4597,14 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/10728343"
 		},
 		{
 			"name": "Arabba",
-			"@id": "relation/10732925",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.8715029,
@@ -4757,14 +4856,14 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/10732925"
 		},
 		{
 			"name": "Val Gardena",
-			"@id": "relation/10732928",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.8109451,
@@ -5096,13 +5195,13 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "relation/10732928"
 		},
 		{
-			"@id": "way/179150279",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.7984013,
@@ -5242,14 +5341,14 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/179150279"
 		},
 		{
 			"name": "Carezza",
-			"@id": "way/334817747",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.545995,
@@ -5541,14 +5640,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/334817747",
+			"elevation": " ",
+			"totalLenght": "40 km",
+			"blueSlopeLenght": "19 km",
+			"redSlopeLenght": "16.2 km",
+			"blackSlopeLenght": "4.8 km",
+			"numberLifts": "12",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - late March",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 49.50 "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 36,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 21,-"
+			],
+			"raiting": "4.0",
+			"Description": [
+				"The Carezza Ski ski resort at the foot of the Rosengarten is one of the sunniest resorts in South Tyrol (an average of 8 hours of sun per day in the winter) All slopes, toboggan runs, cross-country trails and winter hiking paths lead to the same place - which is ideal for winter days with the whole"
+			]			
 		},
 		{
 			"name": "Brentonico",
-			"@id": "way/336062441",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.9225116,
@@ -5652,14 +5778,33 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/336062441",
+			"elevation": " ",
+			"totalLenght": "22 km",
+			"blueSlopeLenght": "6.8 km",
+			"redSlopeLenght": "10.8 km",
+			"blackSlopeLenght": "4.4 km",
+			"numberLifts": "5",
+			"openingDate": [],
+			"openingTime": [],
+			"General Season": [],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 36,- "
+			],
+			"youngPrice": [],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 27,-"
+			],
+			"raiting": "2.9",
+			"Description": []			
+
 		},
 		{
 			"name": "Pr\u00c3\u00a0 Alpesina",
-			"@id": "way/336220681",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.8785915,
@@ -5739,14 +5884,30 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/336220681",
+			"elevation": " ",
+			"totalLenght": "10 km",
+			"blueSlopeLenght": "2 km",
+			"redSlopeLenght": "6 km",
+			"blackSlopeLenght": "2 km",
+			"numberLifts": "6",
+			"openingDate": [],
+			"openingTime": [
+				"09:00 - 16:30 "
+			],
+			"General Season": [],
+			"adultPrice": [],
+			"youngPrice": [],
+			"kidPrice": [],
+			"raiting": "2.6",
+			"Description": []			
 		},
 		{
 			"name": "Madonna di Campiglio",
-			"@id": "way/540714397",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.8323907,
@@ -5886,14 +6047,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/540714397",
+			"elevation": " ",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
+			"openingDate": " 2020-11-25 - 2021-04-18 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 58,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 41,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 29,-"
+			],
+			"raiting": "4.5",
+			"Description": [
+				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			]
 		},
 		{
 			"name": "Folgarida-Marilleva",
-			"@id": "way/540714398",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.8286571,
@@ -6061,14 +6249,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/540714398",
+			"elevation": " ",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
+			"openingDate": " 2020-11-25 - 2021-04-18 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 58,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 41,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 29,-"
+			],
+			"raiting": "4.5",
+			"Description": [
+				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			]
 		},
 		{
 			"name": "Obereggen-Pampeago-Predazzo",
-			"@id": "way/542223677",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.5237999,
@@ -6376,14 +6591,39 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542223677",
+			"elevation": " ",
+			"totalLenght": "49 km",
+			"blueSlopeLenght": "9.3 km",
+			"redSlopeLenght": "32.8 km",
+			"blackSlopeLenght": "6.9 km",
+			"numberLifts": "18",
+			"openingDate": " 2020-11-27 - 2021-04-11 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - late April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 51,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 36,-"
+			],
+			"kidPrice": [],
+			"raiting": "4.3",
+			"Description": [
+				"The Latemar ski resort is the place for active ski enthusiasts. The grooming of the ski runs is superb as demonstrated by the 'Best Grooming' awards received by the ski resort. The winter sports region connects the villages of Obereggen, Pampeago and Predazzo and stretches from South Tyrol to"
+			]			
 		},
 		{
 			"name": "San Pellegrino",
-			"@id": "way/542227211",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.7795324,
@@ -6543,14 +6783,39 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542227211",
+			"elevation": " ",
+			"totalLenght": "67.5 km",
+			"blueSlopeLenght": "20.5 km",
+			"redSlopeLenght": "38.5 km",
+			"blackSlopeLenght": "8.5 km",
+			"numberLifts": "15",
+			"openingDate": " 2020-11-28 - 2021-04-11 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 51,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 36,-"
+			],
+			"kidPrice": [],
+			"raiting": "4.2",
+			"Description": [
+				"The ski resort of San Pellegrino is a real paradise in the heart of the Dolomites. Modern lifts, beautiful and carefully groomed ski slopes, fantastic landscapes and a wide selection of accommodation make the ski resort a perfect destination. The winter sports resort links Passo San Pellegrino to"
+			]			
 		},
 		{
 			"name": "Alpe Lusia",
-			"@id": "way/542227215",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.6853761,
@@ -6686,14 +6951,39 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542227215",
+			"elevation": " ",
+			"totalLenght": "27.5 km",
+			"blueSlopeLenght": "12.9 km",
+			"redSlopeLenght": "10.6 km",
+			"blackSlopeLenght": "4 km",
+			"numberLifts": "8",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 51,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 36,-"
+			],
+			"kidPrice": [],
+			"raiting": "4.0",
+			"Description": [
+				"From Moena in the Fassa Valley, the ski resort extends over Alpe Lusia towards Bellamonte, which is part of the Val di Fiemme. The majority of the ski runs are above the treeline. Modern chairlifts and gondola lifts link up the winter sports resort in the Dolomites World Heritage Site. Out on the"
+			]			
 		},
 		{
 			"name": "Alpe Cermis",
-			"@id": "way/542238137",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.4631176,
@@ -6769,14 +7059,39 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542238137",
+			"elevation": " ",
+			"totalLenght": "24 km",
+			"blueSlopeLenght": "10 km",
+			"redSlopeLenght": "9 km",
+			"blackSlopeLenght": "5 km",
+			"numberLifts": "7",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"08:15 - 16:30 "
+			],
+			"General Season": [
+				" late November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 51,- "
+			],
+			"youngPrice": [],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 36,-"
+			],
+			"raiting": "3.8",
+			"Description": [
+				"The Alpe Cermis ski resort is accessed comfortably using the cable car lift in Cavalese. The winter sports resort above Cavalese features one of the longest ski slopes in the Dolomiti Superski region. The Olimpia slope is 7.5 km long and leads from the Paion mountain station (2250 m) down to the"
+			]
 		},
 		{
 			"name": "Marmolada",
-			"@id": "way/643910266",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.905358,
@@ -6868,14 +7183,37 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/643910266",
+			"elevation": " ",
+			"totalLenght": "5.5 km",
+			"blueSlopeLenght": "0 km",
+			"redSlopeLenght": "5.5 km",
+			"blackSlopeLenght": "0 km",
+			"numberLifts": "1",
+			"openingDate": [],
+			"openingTime": [
+				"08:30 - 16:00 "
+			],
+			"General Season": [
+				" late March - early May",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 54,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 38,-"
+			],
+			"kidPrice": [],
+			"raiting": "2.2",
+			"Description": []
 		},
 		{
 			"name": "Vigo di Fassa - Catinaccio",
-			"@id": "way/659981411",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.671333,
@@ -6923,14 +7261,38 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/659981411",
+			"name": "Ski resort CatinaccioCiampedie  Vigo di FassaPera di Fassa",
+			"elevation": " ",
+			"totalLenght": "13.8 km",
+			"blueSlopeLenght": "6.4 km",
+			"redSlopeLenght": "6.2 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "6",
+			"openingDate": " 2020-12-03 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 54,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 38,-"
+			],
+			"kidPrice": [],
+			"raiting": "2.9",
+			"Description": []
 		},
 		{
 			"name": "San Martino di Castrozza",
-			"@id": "way/660110072",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.75679,
@@ -7034,13 +7396,38 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/660110072",
+			"elevation": " ",
+			"totalLenght": "60 km",
+			"blueSlopeLenght": "16 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "12 km",
+			"numberLifts": "21",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"09:00 - 16:00 "
+			],
+			"General Season": [
+				" mid November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 49,- "
+			],
+			"youngPrice": [],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 35,-"
+			],
+			"raiting": "4.0",
+			"Description": [
+				"The ski resort of San Martino di Castrozza lies in a beautiful Dolomite landscape. The amazing views of the Pale di San Martino (Pala group) and the traditional hospitality make a winter holiday in the ski resort of San Martino di Castrozza something special. The well-prepared slopes, most of which"
+			]			
 		},
 		{
-			"@id": "way/670402553",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.2888155,
@@ -7116,14 +7503,14 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/670402553"
 		},
 		{
 			"name": "Passo Tonale",
-			"@id": "way/542235880",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.5918502,
@@ -7447,14 +7834,42 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542235880",
+			"name": "Ski resort Ponte di LegnoTonalePresena GlacierTem (Pontedilegno-Tonale)",
+			"elevation": " ",
+			"totalLenght": "100 km",
+			"blueSlopeLenght": "24 km",
+			"redSlopeLenght": "61 km",
+			"blackSlopeLenght": "15 km",
+			"numberLifts": "28",
+			"openingDate": " 2020-11-25 - 2021-05-02 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" mid November - early May",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 45,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 34,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 24,-"
+			],
+			"raiting": "4.2",
+			"Description": [
+				"Between the Trentino and Lombardy regions, slopes and lifts connect the villages of Tem\u00c3\u00b9 and Ponte di Legno in the Valcamonica via Passo Tonale with the Presena Glacier to the ski resort of Pontedilegno-Tonale. This was previously called Adamello Ski. The peaks of Cima Presena (3,069 m), Cima"
+			]			
 		},
 		{
 			"name": "Pejo",
-			"@id": "way/542233865",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.6297874,
@@ -7542,14 +7957,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/542233865",
+			"elevation": " ",
+			"totalLenght": "20 km",
+			"blueSlopeLenght": "5 km",
+			"redSlopeLenght": "12.8 km",
+			"blackSlopeLenght": "2.2 km",
+			"numberLifts": "7",
+			"openingDate": " 2020-12-04 - 2021-04-11 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 38,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 27,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 19,-"
+			],
+			"raiting": "3.7",
+			"Description": [
+				"The ski resort of Pejo links up to the slopes on the Monte Vioz in the Stilfser Joch National Park. Lifts transport winter sports enthusiasts up to an altitude of 3,000 metres. The selection of slopes covers all levels of difficulty. In the Val di Pejo, a tranquil side valley of the Val di Sole in"
+			]
 		},
 		{
 			"name": "Pinzolo",
-			"@id": "way/540714830",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							10.7652711,
@@ -7645,14 +8087,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/540714830",
+			"elevation": " ",
+			"totalLenght": "150 km",
+			"blueSlopeLenght": "50 km",
+			"redSlopeLenght": "67 km",
+			"blackSlopeLenght": "33 km",
+			"numberLifts": "58",
+			"openingDate": " 2020-11-25 - 2021-04-18 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" late November - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 58,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 41,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 29,-"
+			],
+			"raiting": "4.5",
+			"Description": [
+				"The ski resort extends from the Val Rendena and Pinzolo through the traditional winter sports resort of Madonna di Campiglio to Folg\u00c3\u00a0rida and Marilleva in the Val di Sole. It offers runs at all levels of difficulty for skiing and snowboarding. Almost all of the slopes in the ski resort are"
+			]
 		},
 		{
 			"name": "Folgaria",
-			"@id": "way/336229660",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.1865872,
@@ -8092,14 +8561,42 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/336229660",
+			"name": "Ski resort FolgariaFiorentini",
+			"elevation": " ",
+			"totalLenght": "74 km",
+			"blueSlopeLenght": "36.4 km",
+			"redSlopeLenght": "32 km",
+			"blackSlopeLenght": "5.6 km",
+			"numberLifts": "22",
+			"openingDate": " 2020-12-05 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:45 "
+			],
+			"General Season": [
+				" early December - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 44,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 31,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 22,-"
+			],
+			"raiting": "4.0",
+			"Description": [
+				"Folgaria/Fiorentini is a great Ski resort for a holiday in Trentino. There are wide forests of firs, alpine terraces, extended panoramas and gentle and steep snow-clad slopes. The 'Skitour dei Forti' offers slopes of all difficulty levels - beginners as well as experienced skiers will find what"
+			]			
 		},
 		{
 			"name": "Monte Bondone",
-			"@id": "way/336234488",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.0578866,
@@ -8191,14 +8688,39 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/336234488",
+			"elevation": " ",
+			"totalLenght": "18.8 km",
+			"blueSlopeLenght": "4.8 km",
+			"redSlopeLenght": "14 km",
+			"blackSlopeLenght": "0 km",
+			"numberLifts": "4",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"08:45 - 16:45 "
+			],
+			"General Season": [
+				" mid December - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 39,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 27.50"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 19.50"
+			],
+			"raiting": "3.8",
+			"Description": []
 		},
 		{
 			"name": "Paganella",
-			"@id": "way/336236243",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.0103623,
@@ -8438,14 +8960,41 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/336236243",
+			"elevation": " ",
+			"totalLenght": "40 km",
+			"blueSlopeLenght": "11 km",
+			"redSlopeLenght": "27.8 km",
+			"blackSlopeLenght": "1.2 km",
+			"numberLifts": "14",
+			"openingDate": [],
+			"openingTime": [
+				"08:30 - 16:00 "
+			],
+			"General Season": [
+				" late November - early April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 47,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 33,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 24,-"
+			],
+			"raiting": "4.1",
+			"Description": [
+				"It is possible to enter the ski area on the Paganella directly from Andalo and Fai della Paganella. Lifts provide access to slopes of all difficulty levels. Some of the slopes for skiing and snowboarding are above the treeline and others are below. Different children's areas and beginners\u00e2\u20ac\u2122 areas"
+			]
 		},
 		{
 			"name": "Ski Center Lavarone",
-			"@id": "way/540707095",
-			"geometry": {
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						[
 							11.2751484,
@@ -8529,14 +9078,42 @@
 						]
 					]
 				]
-			}
+			},
+			"id": "way/540707095",
+			"name": "Ski resort Lavarone",
+			"elevation": " ",
+			"totalLenght": "30.4 km",
+			"blueSlopeLenght": "22.4 km",
+			"redSlopeLenght": "6 km",
+			"blackSlopeLenght": "2 km",
+			"numberLifts": "8",
+			"openingDate": " 2020-12-05 - 2021-03-21 ",
+			"openingTime": [
+				"09:00 - 16:30 "
+			],
+			"General Season": [
+				" early December - mid March",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 37,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 27,-"
+			],
+			"kidPrice": [
+				"\u00e2\u201a\u00ac 19,-"
+			],
+			"raiting": "3.4",
+			"Description": [
+				"The clearly laid out quiet ski resort of Lavarone is particularly suited to families and children. The slopes are ideally prepared for skiing and extend between Bertoldi and the Passo Vezzana. Artificial snow can be produced throughout the entire winter sports resort. Alpine fir forests and glades,"
+			]			
 		},
 		{
 			"name": "Val di Fassa",
-			"@id": "way/774959365",
-			"geometry": {
+			"GeoShape": {
 				"type": "LineString",
-				"coordinates": [
+				"GeoCoordinate": [[
 					[
 						11.74184,
 						46.5064842
@@ -8549,8 +9126,34 @@
 						11.7602018,
 						46.5070934
 					]
-				]
-			}
+				]]
+			},
+			"id": "way/774959365",
+			"elevation": " ",
+			"totalLenght": "55.2 km",
+			"blueSlopeLenght": "7.3 km",
+			"redSlopeLenght": "40.7 km",
+			"blackSlopeLenght": "7.2 km",
+			"numberLifts": "36",
+			"openingDate": " 2020-11-28 - 2021-04-05 ",
+			"openingTime": [
+				"08:30 - 16:30 "
+			],
+			"General Season": [
+				" early December - mid April",
+				" "
+			],
+			"adultPrice": [
+				"\u00e2\u201a\u00ac 54,- "
+			],
+			"youngPrice": [
+				"\u00e2\u201a\u00ac 38,-"
+			],
+			"kidPrice": [],
+			"raiting": "4.2",
+			"Description": [
+				"The ski resort areas of Belvedere/Col Rodella and Ciampac/Buffaure have been connected with the Funifor Alba-Col dei Rossi since the 2015/2016 season. The result is that the villages of Canazei, Campitello di Fassa, Pozza di Fassa and Alba di Canazei are all connected now. The largest winter sports"
+			]			
 		}
 	]
 }
