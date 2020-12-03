@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore", category=Warning)
 
 IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
-ignore_existing = argv[1] if len(argv) > 1 else False
+ignore_existing = argv[1] if len(argv) > 1 else True
 
 exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "areaski.json", "railway.json", "skislopes.json", "piste_ciclabili.json", "trails.json", "roads.json"]
 

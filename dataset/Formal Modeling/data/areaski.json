@@ -8535,7 +8535,7 @@
 			"name": "Val di Fassa",
 			"GeoShape": {
 				"type": "LineString",
-				"GeoCoordinate": [
+				"GeoCoordinate": [[
 					[
 						11.74184,
 						46.5064842
@@ -8548,7 +8548,7 @@
 						11.7602018,
 						46.5070934
 					]
-				]
+				]]
 			},
 			"id": "way/774959365"
 		}
