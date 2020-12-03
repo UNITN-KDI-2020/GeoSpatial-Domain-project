@@ -47,9 +47,6 @@ def find_skiarea(slopeCoords, point, slope, skiarea):
 		found = p1.intersects(p2)
 	if nearest != None and nearest != "-" and found:
 		slope["skiarea"] = nearest
-		slope.pop("id")
-		if slope["GeoShape"]["type"] == "LineString":
-			slope["GeoShape"]["type"] = "Line"
 		newDataset["records"].append(slope)
 		return True
 	newDataset["records"].append(slope)
@@ -66,12 +63,16 @@ found = False
 count = 0
 
 for slope in skislopes:
-	slopeCoords = np.array(slope["GeoShape"]["GeoCoordinate"], dtype=object)	
+	slopeCoords = np.array(slope["GeoShape"]["GeoCoordinate"], dtype=object)
+	if "id" in slope:
+		slope.pop("id")
 	if len(slopeCoords.shape) != 2:
 		slopeCoords = np.array(slopeCoords[0])
 	# 	print(slopeCoords)
 	if slope["GeoShape"]["type"] != "Point":
 		mean = get_mean(slopeCoords)
+		if slope["GeoShape"]["type"] == "LineString":
+			slope["GeoShape"]["type"] = "Line"
 		if find_skiarea(slopeCoords, Point(mean), slope, skiarea):
 			count += 1
 		print(slope["name"] if "name" in slope else "---")

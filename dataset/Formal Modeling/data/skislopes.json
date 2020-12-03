@@ -4,7 +4,7 @@
 			"name": "Campo Scuola Stadio",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5207622,
@@ -271,14 +271,13 @@
 						46.2808276
 					]
 				]
-			},
-			"id": "relation/1524591"
+			}
 		},
 		{
 			"name": "Lago",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5207622,
@@ -1025,14 +1024,13 @@
 						46.2808276
 					]
 				]
-			},
-			"id": "relation/1524592"
+			}
 		},
 		{
 			"name": "Mondiali 2003",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5207622,
@@ -2111,14 +2109,13 @@
 						46.2808276
 					]
 				]
-			},
-			"id": "relation/1524593"
+			}
 		},
 		{
 			"name": "Campiol",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.489963,
@@ -2441,14 +2438,13 @@
 						46.3570023
 					]
 				]
-			},
-			"id": "relation/1525271"
+			}
 		},
 		{
 			"name": "Malga Ora",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4909063,
@@ -3487,8 +3483,7 @@
 						46.3549666
 					]
 				]
-			},
-			"id": "relation/1525272"
+			}
 		},
 		{
 			"name": "Malga Costa",
@@ -4557,14 +4552,13 @@
 						]
 					]
 				]
-			},
-			"id": "relation/1529491"
+			}
 		},
 		{
 			"name": "Torbiera",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.489963,
@@ -5155,8 +5149,7 @@
 						46.3570023
 					]
 				]
-			},
-			"id": "relation/1529492"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
@@ -20000,15 +19993,14 @@
 						]
 					]
 				]
-			},
-			"id": "relation/2757444"
+			}
 		},
 		{
 			"name": "Alochet",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7603932,
@@ -20275,8 +20267,7 @@
 						46.3757369
 					]
 				]
-			},
-			"id": "relation/3425706"
+			}
 		},
 		{
 			"name": "Campo d'Orso",
@@ -22770,7 +22761,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7573739,
@@ -23517,8 +23508,7 @@
 						46.3747672
 					]
 				]
-			},
-			"id": "relation/3425708"
+			}
 		},
 		{
 			"name": "Malga Melegna A",
@@ -27301,7 +27291,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6333064,
@@ -29744,8 +29734,7 @@
 						45.9543172
 					]
 				]
-			},
-			"id": "relation/3427317"
+			}
 		},
 		{
 			"name": "Falco",
@@ -33529,15 +33518,14 @@
 						]
 					]
 				]
-			},
-			"id": "relation/3427318"
+			}
 		},
 		{
 			"name": "Variante",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6059078,
@@ -34288,8 +34276,7 @@
 						45.9801358
 					]
 				]
-			},
-			"id": "relation/3427320"
+			}
 		},
 		{
 			"name": "Cercenari",
@@ -35675,7 +35662,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0448187,
@@ -36806,15 +36793,14 @@
 						46.0205229
 					]
 				]
-			},
-			"id": "relation/3471570"
+			}
 		},
 		{
 			"name": "Val del Merlo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0448187,
@@ -38121,8 +38107,7 @@
 						46.0205229
 					]
 				]
-			},
-			"id": "relation/3471571"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -38165,7 +38150,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0165617,
@@ -38368,15 +38353,14 @@
 						45.706855
 					]
 				]
-			},
-			"id": "relation/3918054"
+			}
 		},
 		{
 			"name": "Translessinia",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0127915,
@@ -39555,15 +39539,14 @@
 						45.706297
 					]
 				]
-			},
-			"id": "relation/3918057"
+			}
 		},
 		{
 			"name": "Variante Cordoni",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.046634,
@@ -39890,8 +39873,7 @@
 						45.7120893
 					]
 				]
-			},
-			"id": "relation/3918059"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -40084,8 +40066,7 @@
 						]
 					]
 				]
-			},
-			"id": "relation/4668560"
+			}
 		},
 		{
 			"name": "Camporos\u00c3\u00a0",
@@ -42853,8 +42834,7 @@
 						]
 					]
 				]
-			},
-			"id": "relation/6522424"
+			}
 		},
 		{
 			"name": "Vezzena",
@@ -44900,7 +44880,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3917007,
@@ -47207,8 +47187,7 @@
 						45.9487917
 					]
 				]
-			},
-			"id": "relation/6522437"
+			}
 		},
 		{
 			"name": "Marcesina",
@@ -51394,8 +51373,7 @@
 						]
 					]
 				]
-			},
-			"id": "relation/6523668"
+			}
 		},
 		{
 			"name": "Tasso",
@@ -52901,8 +52879,7 @@
 						]
 					]
 				]
-			},
-			"id": "relation/6524281"
+			}
 		},
 		{
 			"name": "Plaut",
@@ -55099,8 +55076,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/331858946"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -55427,8 +55403,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/332290589"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -55511,8 +55486,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/332290590"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -55651,8 +55625,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/332290592"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -55995,8 +55968,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/332290594"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -56095,8 +56067,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/334063489"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -56167,8 +56138,7 @@
 						]
 					]
 				]
-			},
-			"id": "way/334063491"
+			}
 		},
 		{
 			"name": "Diego",
@@ -57658,7 +57628,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5226405,
@@ -57669,15 +57639,14 @@
 						46.2812524
 					]
 				]
-			},
-			"id": "way/28979602"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5232724,
@@ -57692,15 +57661,14 @@
 						46.2805178
 					]
 				]
-			},
-			"id": "way/29114280"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4902627,
@@ -57715,15 +57683,14 @@
 						46.3579171
 					]
 				]
-			},
-			"id": "way/29230227"
+			}
 		},
 		{
 			"name": "Pista Malga Ora",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.489963,
@@ -57774,15 +57741,14 @@
 						46.3560301
 					]
 				]
-			},
-			"id": "way/29348723"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5135935,
@@ -57821,8 +57787,7 @@
 						46.2812011
 					]
 				]
-			},
-			"id": "way/29351911"
+			}
 		},
 		{
 			"name": "(50) Pradalago Facile",
@@ -57991,7 +57956,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7241217,
@@ -58074,14 +58039,13 @@
 						46.4317437
 					]
 				]
-			},
-			"id": "way/29503599"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7240535,
@@ -58104,14 +58068,13 @@
 						46.4310332
 					]
 				]
-			},
-			"id": "way/29503600"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7227894,
@@ -58370,14 +58333,13 @@
 						46.4199193
 					]
 				]
-			},
-			"id": "way/29503601"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7230338,
@@ -58400,15 +58362,14 @@
 						46.4300618
 					]
 				]
-			},
-			"id": "way/29503602"
+			}
 		},
 		{
 			"name": "Martinelli",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7448758,
@@ -58447,8 +58408,7 @@
 						46.5057649
 					]
 				]
-			},
-			"id": "way/30005097"
+			}
 		},
 		{
 			"name": "Tomba",
@@ -59051,7 +59011,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2078338,
@@ -59078,8 +59038,7 @@
 						46.3927814
 					]
 				]
-			},
-			"id": "way/34167339"
+			}
 		},
 		{
 			"name": "(16) Mastellina",
@@ -61566,7 +61525,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7449874,
@@ -61613,14 +61572,13 @@
 						46.5039337
 					]
 				]
-			},
-			"id": "way/49068272"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7577895,
@@ -61639,8 +61597,7 @@
 						46.5015906
 					]
 				]
-			},
-			"id": "way/49068273"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -63691,7 +63648,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7517136,
@@ -63806,15 +63763,14 @@
 						46.5004567
 					]
 				]
-			},
-			"id": "way/52007658"
+			}
 		},
 		{
 			"name": "3Tre",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7561117,
@@ -63877,8 +63833,7 @@
 						46.4985595
 					]
 				]
-			},
-			"id": "way/52007893"
+			}
 		},
 		{
 			"name": "31 Residenza",
@@ -64138,7 +64093,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7494034,
@@ -64157,15 +64112,14 @@
 						46.4999894
 					]
 				]
-			},
-			"id": "way/52037873"
+			}
 		},
 		{
 			"name": "Gabia",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7475297,
@@ -64224,14 +64178,13 @@
 						46.5011664
 					]
 				]
-			},
-			"id": "way/52038151"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7471975,
@@ -64258,8 +64211,7 @@
 						46.5036045
 					]
 				]
-			},
-			"id": "way/52038355"
+			}
 		},
 		{
 			"name": "3 Tre - Agonistica",
@@ -65874,7 +65826,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7980783,
@@ -65913,8 +65865,7 @@
 						46.2550595
 					]
 				]
-			},
-			"id": "way/58178123"
+			}
 		},
 		{
 			"name": "Colbricon",
@@ -67029,7 +66980,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8103599,
@@ -67084,14 +67035,13 @@
 						46.2641261
 					]
 				]
-			},
-			"id": "way/60638438"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8215107,
@@ -67146,14 +67096,13 @@
 						46.267281
 					]
 				]
-			},
-			"id": "way/60638443"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8203265,
@@ -67212,8 +67161,7 @@
 						46.2661054
 					]
 				]
-			},
-			"id": "way/60638448"
+			}
 		},
 		{
 			"name": "Valbonetta",
@@ -70759,7 +70707,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6544202,
@@ -70842,15 +70790,14 @@
 						46.1147294
 					]
 				]
-			},
-			"id": "way/92289725"
+			}
 		},
 		{
 			"name": "Piloni",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6566624,
@@ -70877,15 +70824,14 @@
 						46.1148157
 					]
 				]
-			},
-			"id": "way/92289727"
+			}
 		},
 		{
 			"name": "Monte Rosso",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6535868,
@@ -70924,15 +70870,14 @@
 						46.1033184
 					]
 				]
-			},
-			"id": "way/92291181"
+			}
 		},
 		{
 			"name": "Paradiso",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.655996,
@@ -71115,15 +71060,14 @@
 						46.0990634
 					]
 				]
-			},
-			"id": "way/92291183"
+			}
 		},
 		{
 			"name": "7 - Paradiso (variante)",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.657829,
@@ -71158,15 +71102,14 @@
 						46.1033184
 					]
 				]
-			},
-			"id": "way/92291185"
+			}
 		},
 		{
 			"name": "Lares\u00c3\u00a8",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.655996,
@@ -71265,15 +71208,14 @@
 						46.0990634
 					]
 				]
-			},
-			"id": "way/92291186"
+			}
 		},
 		{
 			"name": "Prisco",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6551947,
@@ -71316,15 +71258,14 @@
 						46.1031591
 					]
 				]
-			},
-			"id": "way/92291187"
+			}
 		},
 		{
 			"name": "Matusa",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6606949,
@@ -71439,8 +71380,7 @@
 						46.1147294
 					]
 				]
-			},
-			"id": "way/92291188"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -73437,7 +73377,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3200063,
@@ -74472,14 +74412,13 @@
 						45.9386644
 					]
 				]
-			},
-			"id": "way/100603011"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3262972,
@@ -74502,14 +74441,13 @@
 						45.9330102
 					]
 				]
-			},
-			"id": "way/100603029"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						10.7315036,
@@ -74520,8 +74458,7 @@
 						46.0270533
 					]
 				]
-			},
-			"id": "way/101320850"
+			}
 		},
 		{
 			"name": "Sass del Mul Fedaia",
@@ -75208,7 +75145,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5146328,
@@ -75231,15 +75168,14 @@
 						46.2800729
 					]
 				]
-			},
-			"id": "way/107023127"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.489963,
@@ -75262,8 +75198,7 @@
 						46.3575143
 					]
 				]
-			},
-			"id": "way/107041377"
+			}
 		},
 		{
 			"name": "(30) Ometto 2",
@@ -76239,7 +76174,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4908271,
@@ -76282,8 +76217,7 @@
 						46.3570023
 					]
 				]
-			},
-			"id": "way/107062349"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -76911,7 +76845,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6609992,
@@ -76934,8 +76868,7 @@
 						46.1157114
 					]
 				]
-			},
-			"id": "way/144988417"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -78209,7 +78142,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7523802,
@@ -78264,8 +78197,7 @@
 						46.5021167
 					]
 				]
-			},
-			"id": "way/151422778"
+			}
 		},
 		{
 			"name": "53 Hubertus",
@@ -79267,7 +79199,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7069366,
@@ -79354,14 +79286,13 @@
 						46.4278375
 					]
 				]
-			},
-			"id": "way/168921392"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7074024,
@@ -79372,8 +79303,7 @@
 						46.4201014
 					]
 				]
-			},
-			"id": "way/168921404"
+			}
 		},
 		{
 			"name": "Rivetta",
@@ -85783,7 +85713,7 @@
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5827673,
@@ -85958,13 +85888,12 @@
 						45.9837876
 					]
 				]
-			},
-			"id": "way/205619743"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5852086,
@@ -86127,13 +86056,12 @@
 						45.9717855
 					]
 				]
-			},
-			"id": "way/205619745"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5809702,
@@ -86216,14 +86144,13 @@
 						45.9889405
 					]
 				]
-			},
-			"id": "way/206117204"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2086841,
@@ -86418,14 +86345,13 @@
 						46.4038991
 					]
 				]
-			},
-			"id": "way/206375991"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2075,
@@ -86448,8 +86374,7 @@
 						46.4035582
 					]
 				]
-			},
-			"id": "way/206375992"
+			}
 		},
 		{
 			"name": "(32) Cad\u00c3\u00ac Carosello",
@@ -87459,7 +87384,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7523011,
@@ -87482,8 +87407,7 @@
 						46.501695
 					]
 				]
-			},
-			"id": "way/208293533"
+			}
 		},
 		{
 			"name": "Pordoi",
@@ -87528,7 +87452,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7522036,
@@ -87571,8 +87495,7 @@
 						46.5007101
 					]
 				]
-			},
-			"id": "way/208719720"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -90837,7 +90760,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3298886,
@@ -90920,15 +90843,14 @@
 						46.0569085
 					]
 				]
-			},
-			"id": "way/245372221"
+			}
 		},
 		{
 			"name": "Rigolor",
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3301048,
@@ -90987,14 +90909,13 @@
 						46.0586826
 					]
 				]
-			},
-			"id": "way/245372222"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3300181,
@@ -91013,15 +90934,14 @@
 						46.0539605
 					]
 				]
-			},
-			"id": "way/245372223"
+			}
 		},
 		{
 			"name": "Collegamento Storta - Rigolor",
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3242259,
@@ -91036,14 +90956,13 @@
 						46.0554926
 					]
 				]
-			},
-			"id": "way/245372224"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.323499,
@@ -91086,14 +91005,13 @@
 						46.054332
 					]
 				]
-			},
-			"id": "way/245372225"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3298886,
@@ -91124,14 +91042,13 @@
 						46.0495992
 					]
 				]
-			},
-			"id": "way/245372226"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3190594,
@@ -91174,14 +91091,13 @@
 						46.0569002
 					]
 				]
-			},
-			"id": "way/245372227"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3191185,
@@ -91196,14 +91112,13 @@
 						46.0503849
 					]
 				]
-			},
-			"id": "way/245372228"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3189039,
@@ -91242,14 +91157,13 @@
 						46.0569063
 					]
 				]
-			},
-			"id": "way/245372229"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3162603,
@@ -91264,8 +91178,7 @@
 						46.0528643
 					]
 				]
-			},
-			"id": "way/245372230"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -91626,7 +91539,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						10.9551923,
@@ -91697,8 +91610,7 @@
 						46.1524001
 					]
 				]
-			},
-			"id": "way/245476757"
+			}
 		},
 		{
 			"name": "Brenta",
@@ -91985,7 +91897,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7542072,
@@ -92012,14 +91924,13 @@
 						46.3723108
 					]
 				]
-			},
-			"id": "way/255801241"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.767711,
@@ -92062,14 +91973,13 @@
 						46.3767544
 					]
 				]
-			},
-			"id": "way/255801244"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7717968,
@@ -92112,14 +92022,13 @@
 						46.3763356
 					]
 				]
-			},
-			"id": "way/255801245"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7573974,
@@ -92186,14 +92095,13 @@
 						46.3753304
 					]
 				]
-			},
-			"id": "way/255801246"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7688571,
@@ -92216,14 +92124,13 @@
 						46.3761374
 					]
 				]
-			},
-			"id": "way/255801253"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7685384,
@@ -92262,14 +92169,13 @@
 						46.37714
 					]
 				]
-			},
-			"id": "way/255801255"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2217299,
@@ -92300,8 +92206,7 @@
 						45.8627716
 					]
 				]
-			},
-			"id": "way/255804938"
+			}
 		},
 		{
 			"name": "Skiweg Costa D'Agra",
@@ -92681,7 +92586,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.039857,
@@ -92704,14 +92609,13 @@
 						46.0157208
 					]
 				]
-			},
-			"id": "way/258638350"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0389399,
@@ -92742,14 +92646,13 @@
 						46.0152828
 					]
 				]
-			},
-			"id": "way/258638355"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0384923,
@@ -92828,14 +92731,13 @@
 						46.027744
 					]
 				]
-			},
-			"id": "way/258638710"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0466435,
@@ -92974,14 +92876,13 @@
 						46.010894
 					]
 				]
-			},
-			"id": "way/258638711"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0392921,
@@ -93004,8 +92905,7 @@
 						46.0296584
 					]
 				]
-			},
-			"id": "way/258638712"
+			}
 		},
 		{
 			"name": "(64) Lame",
@@ -93250,7 +93150,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7234789,
@@ -93265,8 +93165,7 @@
 						46.4293479
 					]
 				]
-			},
-			"id": "way/261902467"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -93512,7 +93411,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7485505,
@@ -93535,8 +93434,7 @@
 						46.5025336
 					]
 				]
-			},
-			"id": "way/262081606"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -93568,7 +93466,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7448758,
@@ -93603,8 +93501,7 @@
 						46.5043877
 					]
 				]
-			},
-			"id": "way/262773705"
+			}
 		},
 		{
 			"name": "Del Bosco - Lupo Bianco",
@@ -95733,7 +95630,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6962561,
@@ -95800,8 +95697,7 @@
 						46.4289845
 					]
 				]
-			},
-			"id": "way/328528000"
+			}
 		},
 		{
 			"name": "(65) Vagliana",
@@ -96832,7 +96728,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7195735,
@@ -96895,15 +96791,14 @@
 						46.4246418
 					]
 				]
-			},
-			"id": "way/331371637"
+			}
 		},
 		{
 			"name": "Vulcano",
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.713762,
@@ -96914,15 +96809,14 @@
 						46.4246793
 					]
 				]
-			},
-			"id": "way/331371638"
+			}
 		},
 		{
 			"name": "Vulcano",
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7131502,
@@ -97037,8 +96931,7 @@
 						46.4271763
 					]
 				]
-			},
-			"id": "way/331371639"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -97256,7 +97149,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.749693,
@@ -97283,8 +97176,7 @@
 						46.5029871
 					]
 				]
-			},
-			"id": "way/332290597"
+			}
 		},
 		{
 			"name": "Ciampedie - Pian Pecei",
@@ -98406,7 +98298,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						10.5289319,
@@ -98465,15 +98357,14 @@
 						45.872534
 					]
 				]
-			},
-			"id": "way/397703835"
+			}
 		},
 		{
 			"name": "Biancaneve",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						10.6943074,
@@ -98512,8 +98403,7 @@
 						46.3567843
 					]
 				]
-			},
-			"id": "way/399234130"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -99091,7 +98981,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7471975,
@@ -99122,8 +99012,7 @@
 						46.5042373
 					]
 				]
-			},
-			"id": "way/444739750"
+			}
 		},
 		{
 			"name": "Rododendo",
@@ -100257,7 +100146,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7514978,
@@ -100280,14 +100169,13 @@
 						46.4968866
 					]
 				]
-			},
-			"id": "way/475335391"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7515427,
@@ -100298,8 +100186,7 @@
 						46.4968866
 					]
 				]
-			},
-			"id": "way/475335392"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -100446,7 +100333,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4872166,
@@ -100457,15 +100344,14 @@
 						46.3510782
 					]
 				]
-			},
-			"id": "way/501403035"
+			}
 		},
 		{
 			"name": "Strada forestale Le Val",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4867307,
@@ -100488,8 +100374,7 @@
 						46.3511541
 					]
 				]
-			},
-			"id": "way/501403036"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -101820,7 +101705,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4886144,
@@ -101871,8 +101756,7 @@
 						46.3547421
 					]
 				]
-			},
-			"id": "way/598918843"
+			}
 		},
 		{
 			"name": "Val della Mite",
@@ -101964,7 +101848,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8103599,
@@ -102051,15 +101935,14 @@
 						46.2638061
 					]
 				]
-			},
-			"id": "way/645631213"
+			}
 		},
 		{
 			"name": "Col Verde",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8215107,
@@ -102218,8 +102101,7 @@
 						46.2665897
 					]
 				]
-			},
-			"id": "way/645631216"
+			}
 		},
 		{
 			"name": "Mediolanum",
@@ -105360,7 +105242,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4795627,
@@ -105511,14 +105393,13 @@
 						46.3546043
 					]
 				]
-			},
-			"id": "way/666205641"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4838189,
@@ -105681,14 +105562,13 @@
 						46.3498537
 					]
 				]
-			},
-			"id": "way/666205642"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4908079,
@@ -105711,14 +105591,13 @@
 						46.3549666
 					]
 				]
-			},
-			"id": "way/666247021"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4886144,
@@ -105729,14 +105608,13 @@
 						46.3540407
 					]
 				]
-			},
-			"id": "way/666247023"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4858922,
@@ -105755,14 +105633,13 @@
 						46.3526938
 					]
 				]
-			},
-			"id": "way/666247024"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.486029,
@@ -105809,14 +105686,13 @@
 						46.3540407
 					]
 				]
-			},
-			"id": "way/666247025"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4859311,
@@ -105827,14 +105703,13 @@
 						46.3524198
 					]
 				]
-			},
-			"id": "way/666247027"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4859673,
@@ -105849,14 +105724,13 @@
 						46.3522495
 					]
 				]
-			},
-			"id": "way/666247028"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4867307,
@@ -105891,14 +105765,13 @@
 						46.3521125
 					]
 				]
-			},
-			"id": "way/666247029"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4872646,
@@ -105913,14 +105786,13 @@
 						46.3508251
 					]
 				]
-			},
-			"id": "way/666247030"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4876575,
@@ -105939,14 +105811,13 @@
 						46.3505157
 					]
 				]
-			},
-			"id": "way/666247031"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4892879,
@@ -106065,14 +105936,13 @@
 						46.3508251
 					]
 				]
-			},
-			"id": "way/666247032"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4674652,
@@ -106395,14 +106265,13 @@
 						46.3477551
 					]
 				]
-			},
-			"id": "way/666247934"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4717502,
@@ -106493,14 +106362,13 @@
 						46.342093
 					]
 				]
-			},
-			"id": "way/666410677"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4717502,
@@ -106575,8 +106443,7 @@
 						46.3419711
 					]
 				]
-			},
-			"id": "way/666410781"
+			}
 		},
 		{
 			"name": "Fraine",
@@ -106868,7 +106735,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7479709,
@@ -106887,13 +106754,12 @@
 						46.4994618
 					]
 				]
-			},
-			"id": "way/674493145"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4803678,
@@ -107072,13 +106938,12 @@
 						46.3518175
 					]
 				]
-			},
-			"id": "way/675291336"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4784129,
@@ -107105,14 +106970,13 @@
 						46.346908
 					]
 				]
-			},
-			"id": "way/675291340"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.1484033,
@@ -107147,14 +107011,13 @@
 						46.3251758
 					]
 				]
-			},
-			"id": "way/683486440"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.1492998,
@@ -107209,14 +107072,13 @@
 						46.3260856
 					]
 				]
-			},
-			"id": "way/683486443"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.1492998,
@@ -107247,14 +107109,13 @@
 						46.3260856
 					]
 				]
-			},
-			"id": "way/683486446"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.1818638,
@@ -107293,15 +107154,14 @@
 						46.420895
 					]
 				]
-			},
-			"id": "way/683486448"
+			}
 		},
 		{
 			"name": "5 - Strafaiole",
 			"piste:type": "downhill",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6552822,
@@ -107328,15 +107188,14 @@
 						46.1073682
 					]
 				]
-			},
-			"id": "way/685059292"
+			}
 		},
 		{
 			"name": "Malga",
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6632683,
@@ -107367,15 +107226,14 @@
 						46.1051837
 					]
 				]
-			},
-			"id": "way/685059293"
+			}
 		},
 		{
 			"name": "Valfontane",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6606949,
@@ -107406,14 +107264,13 @@
 						46.1051837
 					]
 				]
-			},
-			"id": "way/685059294"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3305322,
@@ -107432,14 +107289,13 @@
 						45.9357091
 					]
 				]
-			},
-			"id": "way/694041339"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3313729,
@@ -107626,14 +107482,13 @@
 						45.9363222
 					]
 				]
-			},
-			"id": "way/694041340"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3304418,
@@ -108216,14 +108071,13 @@
 						45.9360474
 					]
 				]
-			},
-			"id": "way/694041342"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.3324859,
@@ -108270,14 +108124,13 @@
 						45.9374647
 					]
 				]
-			},
-			"id": "way/694041343"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8601544,
@@ -108536,14 +108389,13 @@
 						46.4587695
 					]
 				]
-			},
-			"id": "way/696532202"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.8631807,
@@ -108554,8 +108406,7 @@
 						46.4586394
 					]
 				]
-			},
-			"id": "way/696532203"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -110021,7 +109872,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7448758,
@@ -110088,8 +109939,7 @@
 						46.5021144
 					]
 				]
-			},
-			"id": "way/837250287"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -110182,7 +110032,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6955141,
@@ -110229,8 +110079,7 @@
 						46.4279817
 					]
 				]
-			},
-			"id": "way/839380272"
+			}
 		},
 		{
 			"name": "Th\u00c3\u00b6ni",
@@ -110448,7 +110297,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2178148,
@@ -110523,14 +110372,13 @@
 						45.868799
 					]
 				]
-			},
-			"id": "way/73881428"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2177441,
@@ -110557,8 +110405,7 @@
 						45.8710181
 					]
 				]
-			},
-			"id": "way/255804952"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -110618,7 +110465,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2177441,
@@ -110665,14 +110512,13 @@
 						45.8698684
 					]
 				]
-			},
-			"id": "way/255804939"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2225216,
@@ -110739,14 +110585,13 @@
 						45.8746738
 					]
 				]
-			},
-			"id": "way/255804941"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2304203,
@@ -110921,14 +110766,13 @@
 						45.8746738
 					]
 				]
-			},
-			"id": "way/255804947"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2175507,
@@ -110947,8 +110791,7 @@
 						45.8716474
 					]
 				]
-			},
-			"id": "way/255804950"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -111020,7 +110863,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2168481,
@@ -111071,8 +110914,7 @@
 						45.8672158
 					]
 				]
-			},
-			"id": "way/525704411"
+			}
 		},
 		{
 			"piste:type": "downhill",
@@ -111632,7 +111474,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2217299,
@@ -111847,14 +111689,13 @@
 						45.8627716
 					]
 				]
-			},
-			"id": "way/50822412"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.230586,
@@ -112585,14 +112426,13 @@
 						45.8674413
 					]
 				]
-			},
-			"id": "way/255804942"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2221816,
@@ -112763,14 +112603,13 @@
 						45.8701736
 					]
 				]
-			},
-			"id": "way/255804946"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2231291,
@@ -113169,14 +113008,13 @@
 						45.865949
 					]
 				]
-			},
-			"id": "way/255804949"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2225673,
@@ -113223,14 +113061,13 @@
 						45.8631676
 					]
 				]
-			},
-			"id": "way/525704407"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2225281,
@@ -113285,14 +113122,13 @@
 						45.8619314
 					]
 				]
-			},
-			"id": "way/255804937"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2221816,
@@ -113307,14 +113143,13 @@
 						45.8701736
 					]
 				]
-			},
-			"id": "way/255804945"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.2223088,
@@ -113337,14 +113172,13 @@
 						45.8657571
 					]
 				]
-			},
-			"id": "way/525704408"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.230586,
@@ -113371,14 +113205,13 @@
 						45.8674413
 					]
 				]
-			},
-			"id": "way/255804948"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.034942,
@@ -114105,14 +113938,13 @@
 						46.013746
 					]
 				]
-			},
-			"id": "way/258638341"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0357322,
@@ -114135,14 +113967,13 @@
 						46.0138429
 					]
 				]
-			},
-			"id": "way/258638331"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0382023,
@@ -114317,14 +114148,13 @@
 						46.0149115
 					]
 				]
-			},
-			"id": "way/258638349"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0484799,
@@ -114355,14 +114185,13 @@
 						46.0071208
 					]
 				]
-			},
-			"id": "way/77385362"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0451028,
@@ -114529,14 +114358,13 @@
 						46.0140948
 					]
 				]
-			},
-			"id": "way/258638345"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0484799,
@@ -114571,14 +114399,13 @@
 						46.0093748
 					]
 				]
-			},
-			"id": "way/258638335"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0509345,
@@ -114621,14 +114448,13 @@
 						46.010701
 					]
 				]
-			},
-			"id": "way/76779039"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0498093,
@@ -114643,14 +114469,13 @@
 						46.0081436
 					]
 				]
-			},
-			"id": "way/258638327"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0508544,
@@ -114681,14 +114506,13 @@
 						46.0071208
 					]
 				]
-			},
-			"id": "way/258638334"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0509345,
@@ -114763,14 +114587,13 @@
 						46.0081436
 					]
 				]
-			},
-			"id": "way/258638340"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0498093,
@@ -114889,14 +114712,13 @@
 						46.0061514
 					]
 				]
-			},
-			"id": "way/258638343"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0382023,
@@ -114907,14 +114729,13 @@
 						46.0156935
 					]
 				]
-			},
-			"id": "way/27883504"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0376685,
@@ -114957,14 +114778,13 @@
 						46.0156935
 					]
 				]
-			},
-			"id": "way/34960155"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0388314,
@@ -114975,14 +114795,13 @@
 						46.013746
 					]
 				]
-			},
-			"id": "way/35945935"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0388261,
@@ -114993,14 +114812,13 @@
 						46.0137852
 					]
 				]
-			},
-			"id": "way/35945937"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0388139,
@@ -115011,14 +114829,13 @@
 						46.0138575
 					]
 				]
-			},
-			"id": "way/258638322"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.04278,
@@ -115061,14 +114878,13 @@
 						46.0151441
 					]
 				]
-			},
-			"id": "way/258638337"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0388139,
@@ -115139,14 +114955,13 @@
 						46.0151441
 					]
 				]
-			},
-			"id": "way/258638339"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.04278,
@@ -115189,14 +115004,13 @@
 						46.0168009
 					]
 				]
-			},
-			"id": "way/258638336"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0448187,
@@ -115295,14 +115109,13 @@
 						46.0168009
 					]
 				]
-			},
-			"id": "way/258638342"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0415684,
@@ -115421,14 +115234,13 @@
 						46.0127412
 					]
 				]
-			},
-			"id": "way/258638344"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0382023,
@@ -115591,14 +115403,13 @@
 						46.0205229
 					]
 				]
-			},
-			"id": "way/258638347"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0463387,
@@ -115809,14 +115620,13 @@
 						46.0154351
 					]
 				]
-			},
-			"id": "way/258638351"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0390235,
@@ -116023,14 +115833,13 @@
 						46.0212361
 					]
 				]
-			},
-			"id": "way/258638352"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0419902,
@@ -116305,14 +116114,13 @@
 						46.0259212
 					]
 				]
-			},
-			"id": "way/258638354"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0504756,
@@ -116343,14 +116151,13 @@
 						46.0127412
 					]
 				]
-			},
-			"id": "way/258638333"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0391888,
@@ -116361,14 +116168,13 @@
 						46.0252135
 					]
 				]
-			},
-			"id": "way/36396158"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0391888,
@@ -116391,8 +116197,7 @@
 						46.0258965
 					]
 				]
-			},
-			"id": "way/60097640"
+			}
 		},
 		{
 			"piste:type": "nordic",
@@ -116854,7 +116659,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0418958,
@@ -117121,14 +116926,13 @@
 						46.0258965
 					]
 				]
-			},
-			"id": "way/258638353"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0433321,
@@ -117155,14 +116959,13 @@
 						46.0272357
 					]
 				]
-			},
-			"id": "way/258638358"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.0418958,
@@ -117181,14 +116984,13 @@
 						46.0322354
 					]
 				]
-			},
-			"id": "way/258638357"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5910694,
@@ -117247,14 +117049,13 @@
 						45.9798788
 					]
 				]
-			},
-			"id": "way/65179544"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5822055,
@@ -117393,14 +117194,13 @@
 						45.9802202
 					]
 				]
-			},
-			"id": "way/205619737"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5852086,
@@ -117423,14 +117223,13 @@
 						45.9797223
 					]
 				]
-			},
-			"id": "way/205619741"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6059078,
@@ -117677,14 +117476,13 @@
 						45.983433
 					]
 				]
-			},
-			"id": "way/228458420"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5996373,
@@ -117715,14 +117513,13 @@
 						45.9688258
 					]
 				]
-			},
-			"id": "way/427272970"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6076977,
@@ -118037,14 +117834,13 @@
 						45.975904
 					]
 				]
-			},
-			"id": "way/427272988"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6333064,
@@ -118595,14 +118391,13 @@
 						45.975904
 					]
 				]
-			},
-			"id": "way/161866192"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5923786,
@@ -118849,13 +118644,12 @@
 						45.9717855
 					]
 				]
-			},
-			"id": "way/255886417"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6019816,
@@ -119106,14 +118900,13 @@
 						45.9802202
 					]
 				]
-			},
-			"id": "way/255886418"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5923786,
@@ -119144,14 +118937,13 @@
 						45.9802449
 					]
 				]
-			},
-			"id": "way/122250314"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5911703,
@@ -119162,14 +118954,13 @@
 						45.9803171
 					]
 				]
-			},
-			"id": "way/255886401"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.591874,
@@ -119188,14 +118979,13 @@
 						45.9801358
 					]
 				]
-			},
-			"id": "way/255886408"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6057461,
@@ -119374,13 +119164,12 @@
 						45.9920373
 					]
 				]
-			},
-			"id": "way/205662543"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.6078684,
@@ -119463,15 +119252,14 @@
 						45.9892978
 					]
 				]
-			},
-			"id": "way/620796432"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4231686,
@@ -119754,15 +119542,14 @@
 						46.2798906
 					]
 				]
-			},
-			"id": "way/28876106"
+			}
 		},
 		{
 			"name": "Pista Ciclabile Val di Fiemme e Fassa",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5045226,
@@ -119953,15 +119740,14 @@
 						46.2831752
 					]
 				]
-			},
-			"id": "way/29906679"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4522082,
@@ -120036,8 +119822,7 @@
 						46.2786517
 					]
 				]
-			},
-			"id": "way/28876107"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
@@ -120379,7 +120164,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4807285,
@@ -120390,15 +120175,14 @@
 						46.2831752
 					]
 				]
-			},
-			"id": "way/24154764"
+			}
 		},
 		{
 			"name": "Pista Ciclabile Val di Fiemme e Fassa",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4801561,
@@ -120421,15 +120205,14 @@
 						46.2831318
 					]
 				]
-			},
-			"id": "way/29906775"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5045226,
@@ -120620,15 +120403,14 @@
 						46.2819605
 					]
 				]
-			},
-			"id": "way/29143789"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo - Campo Scuola",
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5222683,
@@ -120651,15 +120433,14 @@
 						46.28069
 					]
 				]
-			},
-			"id": "way/28979600"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5151749,
@@ -120698,15 +120479,14 @@
 						46.2813034
 					]
 				]
-			},
-			"id": "way/29130295"
+			}
 		},
 		{
 			"name": "Salita Valena Zorzi",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5211258,
@@ -120741,15 +120521,14 @@
 						46.2800382
 					]
 				]
-			},
-			"id": "way/29348541"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5146328,
@@ -120912,15 +120691,14 @@
 						46.2812011
 					]
 				]
-			},
-			"id": "way/29348543"
+			}
 		},
 		{
 			"name": "Salita Gatto",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5151749,
@@ -120951,15 +120729,14 @@
 						46.2804786
 					]
 				]
-			},
-			"id": "way/29351915"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5252715,
@@ -121138,15 +120915,14 @@
 						46.2812327
 					]
 				]
-			},
-			"id": "way/29355125"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5131634,
@@ -121181,15 +120957,14 @@
 						46.2816065
 					]
 				]
-			},
-			"id": "way/29905904"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo - Campo Scuola",
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5207622,
@@ -121208,14 +120983,13 @@
 						46.2820181
 					]
 				]
-			},
-			"id": "way/107023133"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.513111,
@@ -121226,15 +121000,14 @@
 						46.2813034
 					]
 				]
-			},
-			"id": "way/29904221"
+			}
 		},
 		{
 			"name": "Salita Chiesa",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5158083,
@@ -121281,15 +121054,14 @@
 						46.2807539
 					]
 				]
-			},
-			"id": "way/29114281"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5167759,
@@ -121348,15 +121120,14 @@
 						46.280743
 					]
 				]
-			},
-			"id": "way/29351930"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5174345,
@@ -121415,15 +121186,14 @@
 						46.280743
 					]
 				]
-			},
-			"id": "way/29351942"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5173824,
@@ -121434,15 +121204,14 @@
 						46.2818933
 					]
 				]
-			},
-			"id": "way/29351944"
+			}
 		},
 		{
 			"name": "Pista Ciclabile Val di Fiemme e Fassa",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5152934,
@@ -121453,15 +121222,14 @@
 						46.2815825
 					]
 				]
-			},
-			"id": "way/29904370"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo - Campo Scuola",
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5211258,
@@ -121488,15 +121256,14 @@
 						46.2808276
 					]
 				]
-			},
-			"id": "way/107023128"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5205175,
@@ -121507,15 +121274,14 @@
 						46.2808276
 					]
 				]
-			},
-			"id": "way/107415940"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5260605,
@@ -121674,15 +121440,14 @@
 						46.2814878
 					]
 				]
-			},
-			"id": "way/29143146"
+			}
 		},
 		{
 			"name": "Discesa Paracara",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5257162,
@@ -121733,15 +121498,14 @@
 						46.2796769
 					]
 				]
-			},
-			"id": "way/29355124"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "advanced",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5260818,
@@ -121856,15 +121620,14 @@
 						46.278227
 					]
 				]
-			},
-			"id": "way/29905460"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5246141,
@@ -121939,15 +121702,14 @@
 						46.2827991
 					]
 				]
-			},
-			"id": "way/29130914"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5260818,
@@ -121966,15 +121728,14 @@
 						46.2796769
 					]
 				]
-			},
-			"id": "way/29348542"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5214586,
@@ -122029,15 +121790,14 @@
 						46.2805178
 					]
 				]
-			},
-			"id": "way/29355122"
+			}
 		},
 		{
 			"name": "Batistona",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5226405,
@@ -122096,15 +121856,14 @@
 						46.281707
 					]
 				]
-			},
-			"id": "way/29355123"
+			}
 		},
 		{
 			"name": "Discesa Paracara",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.525715,
@@ -122119,15 +121878,14 @@
 						46.2797488
 					]
 				]
-			},
-			"id": "way/29905595"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5222902,
@@ -122218,15 +121976,14 @@
 						46.279856
 					]
 				]
-			},
-			"id": "way/107023129"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo - Campo Scuola",
 			"piste:type": "nordic",
 			"piste:difficulty": "novice",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5231166,
@@ -122273,15 +122030,14 @@
 						46.2814558
 					]
 				]
-			},
-			"id": "way/107023130"
+			}
 		},
 		{
 			"name": "Pista Stadio del Fondo",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.52303,
@@ -122316,15 +122072,14 @@
 						46.2798316
 					]
 				]
-			},
-			"id": "way/107023131"
+			}
 		},
 		{
 			"name": "Salita Valena Zorzi",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5214586,
@@ -122367,15 +122122,14 @@
 						46.2798316
 					]
 				]
-			},
-			"id": "way/107023132"
+			}
 		},
 		{
 			"name": "Batistona",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5232724,
@@ -122422,15 +122176,14 @@
 						46.2812524
 					]
 				]
-			},
-			"id": "way/107023134"
+			}
 		},
 		{
 			"name": "Pista Ciclabile Val di Fiemme e Fassa",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5250924,
@@ -122445,15 +122198,14 @@
 						46.282461
 					]
 				]
-			},
-			"id": "way/107415936"
+			}
 		},
 		{
 			"name": "Batistona",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5246141,
@@ -122540,14 +122292,13 @@
 						46.2806601
 					]
 				]
-			},
-			"id": "way/107415937"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4667681,
@@ -122774,14 +122525,13 @@
 						46.3522371
 					]
 				]
-			},
-			"id": "way/107057811"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4658758,
@@ -122848,14 +122598,13 @@
 						46.3513493
 					]
 				]
-			},
-			"id": "way/29232315"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4814979,
@@ -123370,15 +123119,14 @@
 						46.3536776
 					]
 				]
-			},
-			"id": "way/29232347"
+			}
 		},
 		{
 			"name": "Pista Malga Ora",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4865495,
@@ -123453,15 +123201,14 @@
 						46.3576574
 					]
 				]
-			},
-			"id": "way/29232319"
+			}
 		},
 		{
 			"name": "Torbiera",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4814117,
@@ -123552,14 +123299,13 @@
 						46.36091
 					]
 				]
-			},
-			"id": "way/107050242"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4839227,
@@ -123626,14 +123372,13 @@
 						46.3538791
 					]
 				]
-			},
-			"id": "way/107057830"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4909063,
@@ -123676,15 +123421,14 @@
 						46.3560301
 					]
 				]
-			},
-			"id": "way/29901362"
+			}
 		},
 		{
 			"name": "Torbiera",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4966222,
@@ -123915,15 +123659,14 @@
 						46.3639241
 					]
 				]
-			},
-			"id": "way/29232320"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.489963,
@@ -123946,15 +123689,14 @@
 						46.3556222
 					]
 				]
-			},
-			"id": "way/107041407"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4921567,
@@ -124085,14 +123827,13 @@
 						46.3593778
 					]
 				]
-			},
-			"id": "way/107050266"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4878106,
@@ -124135,15 +123876,14 @@
 						46.3549666
 					]
 				]
-			},
-			"id": "way/107057857"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4966222,
@@ -124230,14 +123970,13 @@
 						46.3600874
 					]
 				]
-			},
-			"id": "way/107062351"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4900796,
@@ -124288,15 +124027,14 @@
 						46.3575623
 					]
 				]
-			},
-			"id": "way/107062353"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4927127,
@@ -124315,15 +124053,14 @@
 						46.3575143
 					]
 				]
-			},
-			"id": "way/107062356"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4854184,
@@ -124382,15 +124119,14 @@
 						46.3570023
 					]
 				]
-			},
-			"id": "way/107412366"
+			}
 		},
 		{
 			"name": "Torbiera",
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4858513,
@@ -124421,15 +124157,14 @@
 						46.3600874
 					]
 				]
-			},
-			"id": "way/107050323"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4902627,
@@ -124440,15 +124175,14 @@
 						46.3576364
 					]
 				]
-			},
-			"id": "way/29230226"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4901854,
@@ -124459,15 +124193,14 @@
 						46.3575957
 					]
 				]
-			},
-			"id": "way/107041389"
+			}
 		},
 		{
 			"name": "Pista Campiol",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.4903807,
@@ -124498,15 +124231,14 @@
 						46.3569539
 					]
 				]
-			},
-			"id": "way/107050255"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5652606,
@@ -124693,15 +124425,14 @@
 						46.3018144
 					]
 				]
-			},
-			"id": "way/29213783"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5447097,
@@ -124764,15 +124495,14 @@
 						46.2803938
 					]
 				]
-			},
-			"id": "way/231543341"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5444904,
@@ -124783,15 +124513,14 @@
 						46.2823277
 					]
 				]
-			},
-			"id": "way/231543342"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.5424688,
@@ -124838,15 +124567,14 @@
 						46.2823145
 					]
 				]
-			},
-			"id": "way/368694365"
+			}
 		},
 		{
 			"name": "Pista Marcialonga",
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.542095,
@@ -124857,15 +124585,14 @@
 						46.2814946
 					]
 				]
-			},
-			"id": "way/368694366"
+			}
 		},
 		{
 			"name": "Rodella 3 / Tre",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.743926,
@@ -124904,14 +124631,13 @@
 						46.5052336
 					]
 				]
-			},
-			"id": "way/30005092"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7571953,
@@ -124922,14 +124648,13 @@
 						46.375396
 					]
 				]
-			},
-			"id": "way/255801249"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7542032,
@@ -125148,8 +124873,7 @@
 						46.3743463
 					]
 				]
-			},
-			"id": "way/254872997"
+			}
 		},
 		{
 			"piste:type": "nordic",
@@ -126117,7 +125841,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7542032,
@@ -126132,14 +125856,13 @@
 						46.3720319
 					]
 				]
-			},
-			"id": "way/254871964"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7547239,
@@ -126150,14 +125873,13 @@
 						46.3723702
 					]
 				]
-			},
-			"id": "way/255801240"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7536741,
@@ -126184,14 +125906,13 @@
 						46.3729669
 					]
 				]
-			},
-			"id": "way/255801242"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7561878,
@@ -126246,14 +125967,13 @@
 						46.3729669
 					]
 				]
-			},
-			"id": "way/255801247"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7536741,
@@ -126420,14 +126140,13 @@
 						46.3723702
 					]
 				]
-			},
-			"id": "way/255801252"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7563021,
@@ -126438,14 +126157,13 @@
 						46.3746857
 					]
 				]
-			},
-			"id": "way/622109537"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7571245,
@@ -126464,14 +126182,13 @@
 						46.3746888
 					]
 				]
-			},
-			"id": "way/622109538"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7571953,
@@ -127138,14 +126855,13 @@
 						46.3755158
 					]
 				]
-			},
-			"id": "way/255801248"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7602326,
@@ -127352,14 +127068,13 @@
 						46.3767593
 					]
 				]
-			},
-			"id": "way/255801254"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7657114,
@@ -127418,14 +127133,13 @@
 						46.3757369
 					]
 				]
-			},
-			"id": "way/622109542"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7612052,
@@ -127500,14 +127214,13 @@
 						46.3746542
 					]
 				]
-			},
-			"id": "way/255801250"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7573739,
@@ -127522,14 +127235,13 @@
 						46.3754095
 					]
 				]
-			},
-			"id": "way/622109539"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7573962,
@@ -127540,14 +127252,13 @@
 						46.3747672
 					]
 				]
-			},
-			"id": "way/622109540"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7603932,
@@ -127558,14 +127269,13 @@
 						46.3757035
 					]
 				]
-			},
-			"id": "way/622109541"
+			}
 		},
 		{
 			"piste:type": "nordic",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7658443,
@@ -127576,8 +127286,7 @@
 						46.3766512
 					]
 				]
-			},
-			"id": "way/622109543"
+			}
 		},
 		{
 			"piste:type": "nordic",
@@ -127985,7 +127694,7 @@
 			"piste:type": "nordic",
 			"piste:difficulty": "expert",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.794713,
@@ -128036,15 +127745,14 @@
 						46.3767357
 					]
 				]
-			},
-			"id": "way/705065279"
+			}
 		},
 		{
 			"name": "Rodella 3 / Tre",
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7460507,
@@ -128271,8 +127979,7 @@
 						46.4913817
 					]
 				]
-			},
-			"id": "way/32211809"
+			}
 		},
 		{
 			"GeoShape": {
@@ -129886,7 +129593,7 @@
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7471975,
@@ -129901,14 +129608,13 @@
 						46.5057649
 					]
 				]
-			},
-			"id": "way/51980340"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7523988,
@@ -129927,14 +129633,13 @@
 						46.5025336
 					]
 				]
-			},
-			"id": "way/49068271"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "easy",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7523802,
@@ -129957,14 +129662,13 @@
 						46.5039337
 					]
 				]
-			},
-			"id": "way/49068397"
+			}
 		},
 		{
 			"piste:type": "downhill",
 			"piste:difficulty": "intermediate",
 			"GeoShape": {
-				"type": "LineString",
+				"type": "Line",
 				"GeoCoordinate": [
 					[
 						11.7532901,
@@ -129983,8 +129687,7 @@
 						46.5042373
 					]
 				]
-			},
-			"id": "way/135176805"
+			}
 		},
 		{
 			"piste:type": "downhill",
