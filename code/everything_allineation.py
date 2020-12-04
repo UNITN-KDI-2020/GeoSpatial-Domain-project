@@ -69,7 +69,21 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					for i in range(1,len(area)):
 						area2.extend(area[i])
 				mean.append(get_mean(area2))
-			d["GeoCoordinate"] = get_mean(mean)			
+			d["GeoCoordinate"] = get_mean(mean)
+			if "rating" in d:
+				d.pop("rating")
+			if "raiting" in d:
+				d.pop("raiting")
+			if "openingTime" in d:
+				d.pop("openingTime")
+			if "openingDate" in d:
+				d.pop("openingDate")
+			if "openingDate" in d:
+				d.pop("openingDate")
+			if "Description" in d:
+				d.pop("Description")
+			if "General Season" in d:
+				d.pop("General Season")
 		
 
 	if "piste_ciclabili.json" in filename:

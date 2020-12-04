@@ -25,10 +25,6 @@
                 }
             }
         },
-        "id": {
-            "type": "string",
-            "description": "name that identifies a unique object"
-        },
         "elevation": {
             "type": "string",
             "description": "altitude of the skiarea"
@@ -64,6 +60,10 @@
         "kidPrice": {
             "type": "string",
             "description": "price for kid"
+        },
+        "totalLength": {
+            "type": "string",
+            "description": "length of all the ski slopes"
         }
     }
 }
