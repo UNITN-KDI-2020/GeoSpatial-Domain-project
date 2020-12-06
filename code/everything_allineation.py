@@ -105,6 +105,13 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					precCoord = np.array([x,y])
 				d["totalLength"] = length
 				d["GeoShape"] = {"type": "Line", "GeoCoordinate": coordinates}
+	
+	if "outdooractive_trails.json" in filename:
+		for d_i, d in enumerate(data):
+			if "route" in d:
+				d["Path"] = d.pop("route")
+				d["Path"]["GeoCoordinate"] = d["Path"].pop("geoPoints")
+				d["Path"].pop("description")
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
@@ -124,7 +131,6 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "Point":
 					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
-			
 
 		if "@id" in d:
 			d.pop("@id")
