@@ -1,5 +1,6 @@
 # script to allineate point of interests
 
+import ujson
 import json
 import csv
 import numpy as np
@@ -47,7 +48,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	print(filename)
 	dataset = open(IN_FOLDER + filename, "r")
-	data = json.load(dataset)["records"]
+	data = json.load(dataset)
 
 	newDataset = {"records": []}
 
@@ -111,7 +112,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "route" in d:
 				d["Path"] = d.pop("route")
 				d["Path"]["GeoCoordinate"] = d["Path"].pop("geoPoints")
-				d["Path"].pop("description")
+				if "description" in d:
+					d["Path"].pop("description")
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
@@ -165,7 +167,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		newDataset["records"].append(d)
 
 	with open(OUT_FOLDER + filename, 'w+') as file:
-		json.dump(newDataset, file)
+		ujson.dump(newDataset, file)
 
 # Metadata
 
