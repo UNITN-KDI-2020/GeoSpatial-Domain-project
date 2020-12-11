@@ -42,7 +42,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			coordinates = d["WKT"].replace("POINT (", "").replace(")","").split(" ")
 			d.pop("WKT")
 			y,x = pj.transform(inProj,outProj,coordinates[0],coordinates[1])
-			d["GeoShape"] = {"type":"Point", "GeoCoordinate": [x,y] }
+			d["GeoShape"] = {"type":"Point", "GeoCoordinate": { "longitude" : y, "latitude" : x } }
 		if "civico_alf" in d:
 			d["HouseNumber"] = d.pop("civico_alf")
 		if "destra" in d:

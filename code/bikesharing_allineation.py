@@ -22,9 +22,12 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	for d_i, d in enumerate(data):
 		if "position" in d:
-			d["GeoShape"] = {"type":"Point", "GeoCoordinate": d.pop("position") }
+			d["GeoShape"] = {"type":"Point", "GeoCoordinate": { "longitude" : d["position"][0], "latitude" : d["position"][1] } }
+			d.pop("position")
 		if cityname != "":
 			d["city"] = cityname
+		if "id" in d:
+			d.pop("id")
 		bikesharing_stations["records"].append(d)
 
 

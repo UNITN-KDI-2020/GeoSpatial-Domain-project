@@ -15,7 +15,7 @@ IN_FOLDER = "./dataset/Informal Modeling/data/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
 ignore_existing = argv[1] if len(argv) > 1 else True
 
-exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "railway.json", "skislopes.json", "piste_ciclabili.json", "trails.json", "roads.json"]
+exceptions = ["SAT_trails.json", "skiResorts_currentState.json", "trails.json"]
 
 inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]')
 outProj = pj.Proj(init='epsg:4326')
@@ -48,7 +48,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	print(filename)
 	dataset = open(IN_FOLDER + filename, "r")
-	data = json.load(dataset)
+	data = json.load(dataset)["records"]
 
 	newDataset = {"records": []}
 
@@ -62,7 +62,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		for d_i, d in enumerate(data):
 			area2 = []
 			mean = []
-			for area in d["GeoShape"]["GeoCoordinate"]:
+			for a_i, area in enumerate(d["GeoShape"]["GeoCoordinate"]):
 				shape = np.array(area).shape
 				area2 = area
 				if len(shape) != 2:
@@ -70,7 +70,14 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					for i in range(1,len(area)):
 						area2.extend(area[i])
 				mean.append(get_mean(area2))
-			d["GeoCoordinate"] = get_mean(mean)
+				if len(shape) != 2:
+					for c_i, coordinate in enumerate(area[0]):
+						d["GeoShape"]["GeoCoordinate"][a_i][0][c_i] = { "longitude" : coordinate[0], "latitude" : coordinate[1] }
+				else:
+					for c_i, coordinate in enumerate(area):
+						d["GeoShape"]["GeoCoordinate"][a_i][c_i] = { "longitude" : coordinate[0], "latitude" : coordinate[1] }
+			mean = get_mean(mean)
+			d["GeoCoordinate"] = { "longitude" : mean[0], "latitude" : mean[1] }
 			if "rating" in d:
 				d.pop("rating")
 			if "raiting" in d:
@@ -100,7 +107,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				for i, coor in enumerate(coordinatesWKT):
 					coor = coor.split(" ")
 					y, x = pj.transform(inProj, outProj, coor[0], coor[1])
-					coordinates.append([x, y])
+					coordinates.append({ "longitude" : y, "latitude" : x })
 					if i > 0:
 						length = length + computeDistance(precCoord, np.array([x,y]))
 					precCoord = np.array([x,y])
@@ -121,18 +128,31 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "coordinates" in d["GeoCoordinate"]:
 				if d["GeoCoordinate"]["type"] == "Polygon":
 					coordinates = d["GeoCoordinate"]["coordinates"]
-					mediaX = 0
-					mediaY = 0
-					count = 0
-					for edifici in coordinates:
-						for edificio in edifici:
-							mediaX += edificio[0]
-							mediaY += edificio[1]
-							count += 1
+					# mediaX = 0
+					# mediaY = 0
+					# count = 0
+					for edifici_i, edifici in enumerate(coordinates):
+						for edificio_i, edificio in enumerate(edifici):
+							d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
+					# 		mediaX += edificio[0]
+					# 		mediaY += edificio[1]
+					# 		count += 1
 					
-					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
+					# d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
+				elif d["GeoCoordinate"]["type"] == "LineString" or d["GeoCoordinate"]["type"] == "Line":
+					coordinates = d["GeoCoordinate"]["coordinates"]
+					# mediaX = 0
+					# mediaY = 0
+					# count = 0
+					for p_i, point in enumerate(coordinates):
+						d["GeoCoordinate"]["coordinates"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
+					# 	mediaX += point[0]
+					# 	mediaY += point[1]
+					# 	count += 1
+				# 	d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "Point":
 					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
+
 
 		if "@id" in d:
 			d.pop("@id")
