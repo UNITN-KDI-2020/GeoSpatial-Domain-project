@@ -1,0 +1,19 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-11.in",
+"DatasetDescription"="short textual description",
+"ColumnNames"={
+    "name"="name"
+    "latitude"
+    "longitude"
+    "address"
+    "city"
+    "HouseNumber"
+    "BarNumber"
+    "current"
+    "prediction2022"
+},
+"SourceDatasetURL"="www.infratelitalia.it",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
