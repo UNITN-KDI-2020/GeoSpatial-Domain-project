@@ -1,0 +1,19 @@
+  
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-2.in",
+"DatasetDescription"="banks",
+"ColumnNames"={
+    "name"="name",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "city"="City",
+    "housenumber"="HouseNumber",
+    "postal_code"="Postal Code",
+    "address"="StreetName",
+    "hasAtm"="Atm"
+},
+"SourceDatasetURL"="www.openstreetmap.org",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"="8"
