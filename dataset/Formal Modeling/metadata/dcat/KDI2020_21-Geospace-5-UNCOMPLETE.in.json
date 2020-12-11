@@ -1,0 +1,15 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-5.in",
+"DatasetDescription"="churches in the area of Trentino",
+"ColumnNames"={
+    "name"="name",
+    "address"="StreetName",
+    "city"="City",
+    "latitude"="latitude",
+    "longitude""longitude"
+},
+"SourceDatasetURL"="https://dati.trentino.it/",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
