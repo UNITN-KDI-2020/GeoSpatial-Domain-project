@@ -1,0 +1,17 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-10.in",
+"DatasetDescription"="hospitals",
+"ColumnNames"={
+    "name"="name",
+    "addr_city"
+    "addr_househumber"
+    "addr_postcode"
+    "addr_street"
+    "latitude"
+    "longitude"
+},
+"SourceDatasetURL"="www.openstreetmap.org",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
