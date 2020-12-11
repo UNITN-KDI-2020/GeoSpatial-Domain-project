@@ -1,0 +1,27 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-13.in",
+"DatasetDescription"="short textual description",
+"ColumnNames"={
+    "sat_Id"="SKGname",
+    "trainType"
+    "name"
+    "distance"
+    "open"
+    "elevation"={
+      "lowestPoint"
+      "highestPoint"
+      "ascent"
+      "descent"
+      "chartUrl"
+    }
+    "estimatedTime"=
+      }
+    "seconds"
+    
+    
+},
+"SourceDatasetURL"="",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
