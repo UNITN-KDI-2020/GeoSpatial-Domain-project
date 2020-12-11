@@ -1,13 +1,16 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-n.in",
+"DatasetName"="KDI2020_21-Geospace-8.in",
 "DatasetDescription"="short textual description",
 "ColumnNames"={
     "name"="name",
     "opening_hours"
     "height"="height",
     "latitude"="latitude",
-    "longitude"="longitude"
+    "longitude"="longitude",
+    "housenumber"="HouseNumber",
+    "postal_code"="Postal Code",
+    "address"="StreetName"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
