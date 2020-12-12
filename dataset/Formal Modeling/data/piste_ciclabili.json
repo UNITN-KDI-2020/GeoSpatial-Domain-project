@@ -1,8 +1,7 @@
 {
 	"records": [
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via del Brennero",
 			"totalLength": 59.25435229176646,
 			"GeoShape": {
 				"type": "Line",
@@ -117,11 +116,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale Via Vittorio Veneto (tra via Ortigara e via Asilo Pedrotti)",
 			"totalLength": 1.6257997633616375,
 			"GeoShape": {
 				"type": "Line",
@@ -140,11 +138,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale Via Vittorio Veneto (tra via Ortigara e via Asilo Pedrotti)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile Via Vittorio Veneto tra civici 138-130",
 			"totalLength": 1.543901514516827,
 			"GeoShape": {
 				"type": "Line",
@@ -163,11 +160,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile Via Vittorio Veneto tra civici 138-130"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista verde",
+			"name": "Pista ciclabile - corso 3 Novembre",
 			"totalLength": 30.05428566959522,
 			"GeoShape": {
 				"type": "Line",
@@ -270,12 +266,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - corso 3 Novembre"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "240",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile lottizzazione Canova: tratto su via Soprasasso tra via Paludi e via Giarette",
 			"totalLength": 12.184300599380919,
 			"GeoShape": {
 				"type": "Line",
@@ -362,11 +357,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile lottizzazione Canova: tratto su via Soprasasso tra via Paludi e via Giarette"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via C. Vannetti",
 			"totalLength": 7.214094607083055,
 			"GeoShape": {
 				"type": "Line",
@@ -393,11 +387,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via C. Vannetti"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via R. Guardini",
 			"totalLength": 28.463781208988888,
 			"GeoShape": {
 				"type": "Line",
@@ -472,11 +465,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via R. Guardini"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via V. Veneto (ex caserme duca d'Aosta)",
 			"totalLength": 3.9207955323272654,
 			"GeoShape": {
 				"type": "Line",
@@ -491,11 +483,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via V. Veneto (ex caserme duca d'Aosta)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - LAVIS",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 67.6952647572343,
 			"GeoShape": {
 				"type": "Line",
@@ -590,12 +581,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "135",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Adamello",
 			"totalLength": 5.689013741605316,
 			"GeoShape": {
 				"type": "Line",
@@ -618,11 +608,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Adamello"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista magenta",
+			"name": "Percorso ciclopedonale - via Innsbruck",
 			"totalLength": 99.31696819904593,
 			"GeoShape": {
 				"type": "Line",
@@ -797,11 +786,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Innsbruck"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista verde",
+			"name": "Percorso ciclopedonale - viale Verona (dall'intersezione via Einaudi a via Fogazzaro)",
 			"totalLength": 23.149244540019552,
 			"GeoShape": {
 				"type": "Line",
@@ -888,11 +876,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - viale Verona (dall'intersezione via Einaudi a via Fogazzaro)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista verde",
+			"name": "Pista ciclabile - viale Verona",
 			"totalLength": 19.317967846786217,
 			"GeoShape": {
 				"type": "Line",
@@ -915,11 +902,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - viale Verona"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista viola",
+			"name": "Pista ciclabile - via Fersina",
 			"totalLength": 97.6115311341898,
 			"GeoShape": {
 				"type": "Line",
@@ -1118,11 +1104,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Fersina"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista viola",
+			"name": "Percorso ciclopedonale - lungo Fersina",
 			"totalLength": 27.344389229314086,
 			"GeoShape": {
 				"type": "Line",
@@ -1201,11 +1186,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Fersina"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via V. Veneto (ex caserme duca d'Aosta)",
 			"totalLength": 3.899621195666891,
 			"GeoShape": {
 				"type": "Line",
@@ -1220,12 +1204,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via V. Veneto (ex caserme duca d'Aosta)"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "105",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via A. Gramsci",
 			"totalLength": 4.226479996302403,
 			"GeoShape": {
 				"type": "Line",
@@ -1248,11 +1231,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via A. Gramsci"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - sottopasso via G. Verdi",
 			"totalLength": 8.870871175135063,
 			"GeoShape": {
 				"type": "Line",
@@ -1267,12 +1249,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - sottopasso via G. Verdi"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "630",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Santi Pietro e Paolo",
 			"totalLength": 36.2958518848112,
 			"GeoShape": {
 				"type": "Line",
@@ -1323,12 +1304,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Santi Pietro e Paolo"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "400",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - localit\u00ef\u00bf\u00bd Grezzi",
 			"totalLength": 25.14340607728128,
 			"GeoShape": {
 				"type": "Line",
@@ -1371,12 +1351,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - localit\u00ef\u00bf\u00bd Grezzi"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "145",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile rotatoria via Detassis",
 			"totalLength": 7.159868455119552,
 			"GeoShape": {
 				"type": "Line",
@@ -1435,11 +1414,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile rotatoria via Detassis"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via San Pio X",
 			"totalLength": 23.420503004721763,
 			"GeoShape": {
 				"type": "Line",
@@ -1498,11 +1476,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via San Pio X"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 11.591380750900333,
 			"GeoShape": {
 				"type": "Line",
@@ -1517,12 +1494,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "120",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via di Madonna Bianca",
 			"totalLength": 6.876628051489203,
 			"GeoShape": {
 				"type": "Line",
@@ -1585,11 +1561,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via di Madonna Bianca"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista viola",
+			"name": "Percorso ciclopedonale - passerella sul Fersina",
 			"totalLength": 1.2940982253707927,
 			"GeoShape": {
 				"type": "Line",
@@ -1604,12 +1579,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - passerella sul Fersina"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "200",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - sottopasso ferrovia Brennero",
 			"totalLength": 10.223576833677399,
 			"GeoShape": {
 				"type": "Line",
@@ -1652,12 +1626,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - sottopasso ferrovia Brennero"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "120",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via Grazioli (tra via Brigata Acqui e via Paradisi)",
 			"totalLength": 5.346112346897787,
 			"GeoShape": {
 				"type": "Line",
@@ -1688,12 +1661,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Grazioli (tra via Brigata Acqui e via Paradisi)"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "120",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via C. Menguzzato Veglia",
 			"totalLength": 5.9837064680748755,
 			"GeoShape": {
 				"type": "Line",
@@ -1732,11 +1704,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via C. Menguzzato Veglia"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via G.D. Romagnosi",
 			"totalLength": 9.957562715644196,
 			"GeoShape": {
 				"type": "Line",
@@ -1751,11 +1722,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via G.D. Romagnosi"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista rossa",
+			"name": "Percorso ciclopedonale - passerella sull'Adigetto",
 			"totalLength": 1.4254163677769467,
 			"GeoShape": {
 				"type": "Line",
@@ -1770,12 +1740,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - passerella sull'Adigetto"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "400",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via al bosco della citt\u00ef\u00bf\u00bd",
 			"totalLength": 18.12912877597632,
 			"GeoShape": {
 				"type": "Line",
@@ -1826,12 +1795,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via al bosco della citt\u00ef\u00bf\u00bd"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "150",
-			"type": "Ciclopedonale",
-			"path type": "Pista color mattone",
+			"name": "Percorso ciclopedonale - villa de Mersi",
 			"totalLength": 7.740723414217304,
 			"GeoShape": {
 				"type": "Line",
@@ -1866,12 +1834,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - villa de Mersi"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "180",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via di Madonna Bianca",
 			"totalLength": 9.473400264338526,
 			"GeoShape": {
 				"type": "Line",
@@ -1962,11 +1929,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via di Madonna Bianca"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista magenta",
+			"name": "Percorso ciclopedonale tra loc. Roncafort e via Innsbruck",
 			"totalLength": 16.09317651507714,
 			"GeoShape": {
 				"type": "Line",
@@ -2005,11 +1971,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra loc. Roncafort e via Innsbruck"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via V. Alfieri",
 			"totalLength": 15.005559492881936,
 			"GeoShape": {
 				"type": "Line",
@@ -2080,11 +2045,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via V. Alfieri"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via A. Pranzelores",
 			"totalLength": 34.473410725958715,
 			"GeoShape": {
 				"type": "Line",
@@ -2159,11 +2123,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via A. Pranzelores"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via G. Gilli",
 			"totalLength": 6.076243420585073,
 			"GeoShape": {
 				"type": "Line",
@@ -2190,12 +2153,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via G. Gilli"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "120",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - Piazza Vicenza",
 			"totalLength": 5.623462386089241,
 			"GeoShape": {
 				"type": "Line",
@@ -2234,12 +2196,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - Piazza Vicenza"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "380",
-			"type": "Ciclopedonale",
-			"path type": "Pista color mattone",
+			"name": "Percorso ciclopedonale - via dei Tessadri via delle Tabarelle",
 			"totalLength": 22.171964847893463,
 			"GeoShape": {
 				"type": "Line",
@@ -2294,11 +2255,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via dei Tessadri via delle Tabarelle"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via San Pio X",
 			"totalLength": 6.399211627438622,
 			"GeoShape": {
 				"type": "Line",
@@ -2333,11 +2293,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via San Pio X"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista gialla",
+			"name": "Pista ciclabile - via P.A. Mattioli",
 			"totalLength": 11.135048342560824,
 			"GeoShape": {
 				"type": "Line",
@@ -2352,11 +2311,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via P.A. Mattioli"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista magenta",
+			"name": "Pista ciclabile - corso degli Alpini",
 			"totalLength": 21.55944672971199,
 			"GeoShape": {
 				"type": "Line",
@@ -2399,11 +2357,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - corso degli Alpini"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via C. Vannetti",
 			"totalLength": 14.779400613531186,
 			"GeoShape": {
 				"type": "Line",
@@ -2446,11 +2403,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via C. Vannetti"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - giardino di piazza Centa",
 			"totalLength": 9.42292699859075,
 			"GeoShape": {
 				"type": "Line",
@@ -2489,11 +2445,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - giardino di piazza Centa"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via del Brennero",
 			"totalLength": 2.653524633809382,
 			"GeoShape": {
 				"type": "Line",
@@ -2516,11 +2471,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista rossa",
+			"name": "Percorso ciclopedonale - via R. da Sanseverino (Monte Baldo - tangenziale)",
 			"totalLength": 41.31392029320146,
 			"GeoShape": {
 				"type": "Line",
@@ -2567,11 +2521,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via R. da Sanseverino (Monte Baldo - tangenziale)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via V. Veneto",
 			"totalLength": 0.7831891868949518,
 			"GeoShape": {
 				"type": "Line",
@@ -2590,11 +2543,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via V. Veneto"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale tra San Lazzaro e svincolo Meano",
 			"totalLength": 120.77681840282136,
 			"GeoShape": {
 				"type": "Line",
@@ -2881,11 +2833,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra San Lazzaro e svincolo Meano"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via V. Veneto",
 			"totalLength": 22.50271953246441,
 			"GeoShape": {
 				"type": "Line",
@@ -2972,11 +2923,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via V. Veneto"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via San Pio X",
 			"totalLength": 0.5331483672863957,
 			"GeoShape": {
 				"type": "Line",
@@ -2995,11 +2945,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via San Pio X"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - Via Solteri",
 			"totalLength": 4.4709493351703795,
 			"GeoShape": {
 				"type": "Line",
@@ -3014,11 +2963,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - Via Solteri"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via Sant'Anna",
 			"totalLength": 22.006543400117028,
 			"GeoShape": {
 				"type": "Line",
@@ -3049,11 +2997,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Sant'Anna"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Sottopasso ciclopedonale in viale Verona all'altezza della piscina di via Fogazzaro",
 			"totalLength": 5.678010012148821,
 			"GeoShape": {
 				"type": "Line",
@@ -3152,11 +3099,10 @@
 					}
 				]
 			},
-			"address": "Sottopasso ciclopedonale in viale Verona all'altezza della piscina di via Fogazzaro"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista verde",
+			"name": "Percorso ciclabile - viale Verona (dalla rotatoria viale degli Olmi all'intersezione viale dei Tigli)",
 			"totalLength": 7.664861594212967,
 			"GeoShape": {
 				"type": "Line",
@@ -3191,11 +3137,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclabile - viale Verona (dalla rotatoria viale degli Olmi all'intersezione viale dei Tigli)"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista arancio",
+			"name": "Pista ciclabile - via 4 Novembre fino via Talvera",
 			"totalLength": 39.765508714343234,
 			"GeoShape": {
 				"type": "Line",
@@ -3254,11 +3199,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via 4 Novembre fino via Talvera"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale di collegamaneto tra via Marsala e via Palermo",
 			"totalLength": 11.60018752538253,
 			"GeoShape": {
 				"type": "Line",
@@ -3341,11 +3285,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale di collegamaneto tra via Marsala e via Palermo"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - corso Buonarroti (tratto a nord civ.48)",
 			"totalLength": 24.857710545076554,
 			"GeoShape": {
 				"type": "Line",
@@ -3360,12 +3303,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - corso Buonarroti (tratto a nord civ.48)"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "120",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale parco Albere",
 			"totalLength": 4.843304387380719,
 			"GeoShape": {
 				"type": "Line",
@@ -3380,11 +3322,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale parco Albere"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale tra via Innsbruck e la ciclabile lungo l'Adige",
 			"totalLength": 25.26492033233733,
 			"GeoShape": {
 				"type": "Line",
@@ -3471,11 +3412,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra via Innsbruck e la ciclabile lungo l'Adige"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via San Pio X",
 			"totalLength": 9.269653077370466,
 			"GeoShape": {
 				"type": "Line",
@@ -3522,12 +3462,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via San Pio X"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "10",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - collegamento via Venezia - port'Aquila",
 			"totalLength": 0.49053313877662663,
 			"GeoShape": {
 				"type": "Line",
@@ -3554,12 +3493,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - collegamento via Venezia - port'Aquila"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "15",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - collegamento via Venezia - port'Aquila",
 			"totalLength": 0.5826556959697142,
 			"GeoShape": {
 				"type": "Line",
@@ -3586,11 +3524,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - collegamento via Venezia - port'Aquila"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista rossa",
+			"name": "Pista ciclopedonale - via A. Degasperi",
 			"totalLength": 98.93607097543227,
 			"GeoShape": {
 				"type": "Line",
@@ -3985,11 +3922,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale - via A. Degasperi"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 360.9793786311851,
 			"GeoShape": {
 				"type": "Line",
@@ -4236,11 +4172,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile da via S.Pio X a via cauriol",
 			"totalLength": 8.254370841506901,
 			"GeoShape": {
 				"type": "Line",
@@ -4271,11 +4206,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile da via S.Pio X a via cauriol"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile via Muredei-via San Pio X",
 			"totalLength": 6.888059725692493,
 			"GeoShape": {
 				"type": "Line",
@@ -4346,11 +4280,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile via Muredei-via San Pio X"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige - tratto nord sul raccordo al casello sud A22",
 			"totalLength": 14.11092931492292,
 			"GeoShape": {
 				"type": "Line",
@@ -4405,11 +4338,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige - tratto nord sul raccordo al casello sud A22"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista magenta",
+			"name": "Pista ciclabile - via E. Maccani",
 			"totalLength": 44.113668835551394,
 			"GeoShape": {
 				"type": "Line",
@@ -4512,11 +4444,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via E. Maccani"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - corso 3 Novembre",
 			"totalLength": 5.373885032276319,
 			"GeoShape": {
 				"type": "Line",
@@ -4551,11 +4482,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - corso 3 Novembre"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - rotatoria via Vittorio Veneto",
 			"totalLength": 4.337977697886314,
 			"GeoShape": {
 				"type": "Line",
@@ -4602,11 +4532,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - rotatoria via Vittorio Veneto"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - parco di Melta",
 			"totalLength": 53.68067509558383,
 			"GeoShape": {
 				"type": "Line",
@@ -4901,11 +4830,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - parco di Melta"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in piazza di Centa da via Segantini a via Vannetti",
 			"totalLength": 4.946966377131284,
 			"GeoShape": {
 				"type": "Line",
@@ -4920,11 +4848,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in piazza di Centa da via Segantini a via Vannetti"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via F.lli Fontana da incrocio via Segantini a sottopasso ferroviario",
 			"totalLength": 3.883859543945821,
 			"GeoShape": {
 				"type": "Line",
@@ -4947,12 +4874,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via F.lli Fontana da incrocio via Segantini a sottopasso ferroviario"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "300",
-			"type": "Ciclabile",
-			"path type": "Pista color mattone",
+			"name": "Pista ciclabile - via Valnigra",
 			"totalLength": 15.164700686116626,
 			"GeoShape": {
 				"type": "Line",
@@ -4987,12 +4913,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Valnigra"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "420",
-			"type": "Ciclabile",
-			"path type": "Pista magenta",
+			"name": "Pista ciclabile sul sovrapasso alla ferrovia tra loc. Roncafort e Gardolo",
 			"totalLength": 23.13893276466643,
 			"GeoShape": {
 				"type": "Line",
@@ -5079,11 +5004,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile sul sovrapasso alla ferrovia tra loc. Roncafort e Gardolo"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile argine dx fiume Adige da area ex Michelin al ponte di Ravina",
 			"totalLength": 94.36905741121274,
 			"GeoShape": {
 				"type": "Line",
@@ -5190,11 +5114,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile argine dx fiume Adige da area ex Michelin al ponte di Ravina"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via E. Fermi",
 			"totalLength": 20.186385459669513,
 			"GeoShape": {
 				"type": "Line",
@@ -5257,11 +5180,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via E. Fermi"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige - tratto sud sul raccordo al casello sud A22",
 			"totalLength": 15.443155889226704,
 			"GeoShape": {
 				"type": "Line",
@@ -5328,11 +5250,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige - tratto sud sul raccordo al casello sud A22"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista gialla",
+			"name": "Pista ciclabile - via Mons. C. Endrici",
 			"totalLength": 37.50257887263004,
 			"GeoShape": {
 				"type": "Line",
@@ -5399,11 +5320,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Mons. C. Endrici"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via del Brennero",
 			"totalLength": 8.351795312681574,
 			"GeoShape": {
 				"type": "Line",
@@ -5434,11 +5354,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista gialla",
+			"name": "Pista ciclabile - via P.A. Mattioli",
 			"totalLength": 0.7198670143507278,
 			"GeoShape": {
 				"type": "Line",
@@ -5453,11 +5372,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via P.A. Mattioli"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via del Brennero",
 			"totalLength": 4.506081223421336,
 			"GeoShape": {
 				"type": "Line",
@@ -5472,11 +5390,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via 25 Aprile",
 			"totalLength": 16.91262300556397,
 			"GeoShape": {
 				"type": "Line",
@@ -5491,11 +5408,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via 25 Aprile"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - sottopasso via del Brennero",
 			"totalLength": 1.7493737310963386,
 			"GeoShape": {
 				"type": "Line",
@@ -5510,11 +5426,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - sottopasso via del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via B. Malfatti",
 			"totalLength": 6.334509745900848,
 			"GeoShape": {
 				"type": "Line",
@@ -5529,11 +5444,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via B. Malfatti"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale presso bicigrill Trento sud",
 			"totalLength": 8.693852292503403,
 			"GeoShape": {
 				"type": "Line",
@@ -5576,11 +5490,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale presso bicigrill Trento sud"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - parco di Melta",
 			"totalLength": 5.557428177554565,
 			"GeoShape": {
 				"type": "Line",
@@ -5615,11 +5528,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - parco di Melta"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via G. Pedrotti",
 			"totalLength": 13.87183800433988,
 			"GeoShape": {
 				"type": "Line",
@@ -5654,11 +5566,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via G. Pedrotti"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista verde",
+			"name": "Percorso ciclabile - viale Verona (dal civ.156 viale Verona all'intersezione via Einaudi)",
 			"totalLength": 7.687053081263886,
 			"GeoShape": {
 				"type": "Line",
@@ -5689,12 +5600,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclabile - viale Verona (dal civ.156 viale Verona all'intersezione via Einaudi)"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "170",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato ovest",
 			"totalLength": 9.662360759003931,
 			"GeoShape": {
 				"type": "Line",
@@ -5725,12 +5635,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato ovest"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "120",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato est",
 			"totalLength": 6.740807793356655,
 			"GeoShape": {
 				"type": "Line",
@@ -5765,11 +5674,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato est"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale presso aeroporto",
 			"totalLength": 11.615793351013027,
 			"GeoShape": {
 				"type": "Line",
@@ -5784,11 +5692,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale presso aeroporto"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile c\/o uffici comunali in via Maccani",
 			"totalLength": 4.350659354444922,
 			"GeoShape": {
 				"type": "Line",
@@ -5811,11 +5718,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile c\/o uffici comunali in via Maccani"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Lampi",
 			"totalLength": 3.750957253097412,
 			"GeoShape": {
 				"type": "Line",
@@ -5830,12 +5736,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Lampi"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "70",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile lato ovest rotatoria Bren Center",
 			"totalLength": 3.824451757123211,
 			"GeoShape": {
 				"type": "Line",
@@ -5862,12 +5767,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile lato ovest rotatoria Bren Center"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclabile": "70",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile via S. Giovanni Bosco (tratto antistante scuole Crispi)",
 			"totalLength": 2.787351664511381,
 			"GeoShape": {
 				"type": "Line",
@@ -5882,11 +5786,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile via S. Giovanni Bosco (tratto antistante scuole Crispi)"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Percorso pedonale e ciclabile in via Salterio",
 			"totalLength": 9.37455684210466,
 			"GeoShape": {
 				"type": "Line",
@@ -5905,11 +5808,10 @@
 					}
 				]
 			},
-			"address": "Percorso pedonale e ciclabile in via Salterio"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista rossa",
+			"name": "Percorso ciclopedonale - via R. da Sanseverino",
 			"totalLength": 76.74536221842276,
 			"GeoShape": {
 				"type": "Line",
@@ -6036,12 +5938,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via R. da Sanseverino"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "120",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Paradisi",
 			"totalLength": 6.755433337106341,
 			"GeoShape": {
 				"type": "Line",
@@ -6060,11 +5961,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Paradisi"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile da ponte di Ravina fino a via di Costa S. Nicol\u00ef\u00bf\u00bd",
 			"totalLength": 11.518671269626777,
 			"GeoShape": {
 				"type": "Line",
@@ -6091,11 +5991,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile da ponte di Ravina fino a via di Costa S. Nicol\u00ef\u00bf\u00bd"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale via S.Pio X n. 26",
 			"totalLength": 0.5762837062768783,
 			"GeoShape": {
 				"type": "Line",
@@ -6110,11 +6009,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale via S.Pio X n. 26"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclopedonale dall'ex svincolo per Meano alla rotatoria Bermax",
 			"totalLength": 40.02299708824896,
 			"GeoShape": {
 				"type": "Line",
@@ -6393,11 +6291,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale dall'ex svincolo per Meano alla rotatoria Bermax"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale tra l'incrocio con via Caduti di Nassirya (cavalcavia ferrovia) e l'incrocio con via Maestri del lavoro",
 			"totalLength": 32.32144086378042,
 			"GeoShape": {
 				"type": "Line",
@@ -6468,11 +6365,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra l'incrocio con via Caduti di Nassirya (cavalcavia ferrovia) e l'incrocio con via Maestri del lavoro"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista verde",
+			"name": "Percorso ciclopedonale - viale Verona (dal civ.176 di viale Verona alla rotatoria viale degli Olmi)",
 			"totalLength": 4.458398948393652,
 			"GeoShape": {
 				"type": "Line",
@@ -6515,11 +6411,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - viale Verona (dal civ.176 di viale Verona alla rotatoria viale degli Olmi)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale via Dos Trento - via Druso - via F.lli Fontana (fino sottopasso FFSS)",
 			"totalLength": 46.577656255221555,
 			"GeoShape": {
 				"type": "Line",
@@ -6598,11 +6493,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale via Dos Trento - via Druso - via F.lli Fontana (fino sottopasso FFSS)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista verde",
+			"name": "Percorso ciclopedonale - viale Verona (dall'intersezione viale dei Tigli al civ.156 di viale Verona)",
 			"totalLength": 3.2675990951793086,
 			"GeoShape": {
 				"type": "Line",
@@ -6621,11 +6515,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - viale Verona (dall'intersezione viale dei Tigli al civ.156 di viale Verona)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista arancio",
+			"name": "Pista ciclopedonale - Trento nord-Gardolo - competenza PAT",
 			"totalLength": 33.14233014164151,
 			"GeoShape": {
 				"type": "Line",
@@ -6752,12 +6645,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale - Trento nord-Gardolo - competenza PAT"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "70",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Taramelli",
 			"totalLength": 2.840815123779713,
 			"GeoShape": {
 				"type": "Line",
@@ -6772,11 +6664,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Taramelli"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 239.2988961935321,
 			"GeoShape": {
 				"type": "Line",
@@ -7155,11 +7046,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - PAT",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 434.8671682233933,
 			"GeoShape": {
 				"type": "Line",
@@ -7462,12 +7352,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "110",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclopedonale lato nord rotatoria Piedicastello",
 			"totalLength": 5.005507418757163,
 			"GeoShape": {
 				"type": "Line",
@@ -7526,11 +7415,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale lato nord rotatoria Piedicastello"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile lungo il lato sud delle arcate della ferrovia Tn-Ve all'interno del Giardino Alexander Langer",
 			"totalLength": 6.970487277518359,
 			"GeoShape": {
 				"type": "Line",
@@ -7565,11 +7453,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile lungo il lato sud delle arcate della ferrovia Tn-Ve all'interno del Giardino Alexander Langer"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via delle Palazzine nel tratto compreso tra la linea ferroviaria Trento-Mal\u00ef\u00bf\u00bd e la rotatoria Bermax",
 			"totalLength": 4.873073039300488,
 			"GeoShape": {
 				"type": "Line",
@@ -7604,11 +7491,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via delle Palazzine nel tratto compreso tra la linea ferroviaria Trento-Mal\u00ef\u00bf\u00bd e la rotatoria Bermax"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile  via Fersina - ferrovia del Brennero",
 			"totalLength": 11.784173285957145,
 			"GeoShape": {
 				"type": "Line",
@@ -7627,11 +7513,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile  via Fersina - ferrovia del Brennero"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via V. Veneto",
 			"totalLength": 6.252392089706633,
 			"GeoShape": {
 				"type": "Line",
@@ -7662,12 +7547,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via V. Veneto"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "100",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale all'interno dell'area verde in via San Bartolameo tra i civ. 4\/a \u00ef\u00bf\u00bd 4\/2",
 			"totalLength": 4.496019541024531,
 			"GeoShape": {
 				"type": "Line",
@@ -7698,12 +7582,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale all'interno dell'area verde in via San Bartolameo tra i civ. 4\/a \u00ef\u00bf\u00bd 4\/2"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "40",
-			"type": "Ciclopedonale",
-			"path type": "Pista color mattone",
+			"name": "Percorso ciclopedonale - via Valnigra",
 			"totalLength": 2.544117835104099,
 			"GeoShape": {
 				"type": "Line",
@@ -7718,12 +7601,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Valnigra"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "80",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Grazioli (tra via Paradisi e Largo Porta Nuova)",
 			"totalLength": 3.1357256170565337,
 			"GeoShape": {
 				"type": "Line",
@@ -7738,11 +7620,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Grazioli (tra via Paradisi e Largo Porta Nuova)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso cilopedonale lungo via Ragazzi del '99: tratto fino al Marinaio",
 			"totalLength": 9.40975109051584,
 			"GeoShape": {
 				"type": "Line",
@@ -7769,11 +7650,10 @@
 					}
 				]
 			},
-			"address": "Percorso cilopedonale lungo via Ragazzi del '99: tratto fino al Marinaio"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via 4 Novembre tratto tra via Talvera e la piscina comunale",
 			"totalLength": 4.818399341372075,
 			"GeoShape": {
 				"type": "Line",
@@ -7792,11 +7672,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via 4 Novembre tratto tra via Talvera e la piscina comunale"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale lungo fossa Malvasia",
 			"totalLength": 43.5156085531686,
 			"GeoShape": {
 				"type": "Line",
@@ -7871,11 +7750,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale lungo fossa Malvasia"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclopedonale - via Prato",
 			"totalLength": 17.441730684201424,
 			"GeoShape": {
 				"type": "Line",
@@ -7894,11 +7772,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale - via Prato"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale tra via Inama e civ. 22 di via Verdi",
 			"totalLength": 4.210656386842232,
 			"GeoShape": {
 				"type": "Line",
@@ -7913,11 +7790,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra via Inama e civ. 22 di via Verdi"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - Via Fogazzaro, Gocciadoro e Cosina Sartori",
 			"totalLength": 19.64192718911155,
 			"GeoShape": {
 				"type": "Line",
@@ -8012,12 +7888,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - Via Fogazzaro, Gocciadoro e Cosina Sartori"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "265",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale tra via Gramsci e il parco del Sal\u00ef\u00bf\u00bd",
 			"totalLength": 13.578509087904674,
 			"GeoShape": {
 				"type": "Line",
@@ -8084,12 +7959,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale tra via Gramsci e il parco del Sal\u00ef\u00bf\u00bd"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "244",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Barbacovi da Largo Pigarelli a via Brigata Acqui (lato nord)",
 			"totalLength": 8.406186834147393,
 			"GeoShape": {
 				"type": "Line",
@@ -8104,12 +7978,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Barbacovi da Largo Pigarelli a via Brigata Acqui (lato nord)"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclopedonale": "187",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Pilati \/ via Brigata Acqui",
 			"totalLength": 9.097470522840785,
 			"GeoShape": {
 				"type": "Line",
@@ -8128,11 +8001,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Pilati \/ via Brigata Acqui"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclopedonale - via Piave (da corso III Novembre a via dei Mille)",
 			"totalLength": 12.401819926328342,
 			"GeoShape": {
 				"type": "Line",
@@ -8163,11 +8035,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclopedonale - via Piave (da corso III Novembre a via dei Mille)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale PAT (Itinerario Eurovelo-Bicitalia)",
-			"path type": "Pista blu - Comune TN",
+			"name": "Percorso ciclopedonale - lungo Adige",
 			"totalLength": 202.12727210312835,
 			"GeoShape": {
 				"type": "Line",
@@ -8610,12 +8481,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - lungo Adige"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "300",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale Localit\u00ef\u00bf\u00bd di Centa (tratto tra Localit\u00ef\u00bf\u00bd i Laghetti e civ.5 di Localit\u00ef\u00bf\u00bd di Centa)",
 			"totalLength": 15.253205540824244,
 			"GeoShape": {
 				"type": "Line",
@@ -8650,16 +8520,14 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale Localit\u00ef\u00bf\u00bd di Centa (tratto tra Localit\u00ef\u00bf\u00bd i Laghetti e civ.5 di Localit\u00ef\u00bf\u00bd di Centa)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista viola",
-			"address": "Pista ciclabile - parco del Fersina"
+			"name": "Pista ciclabile - parco del Fersina",
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclabile da inizio parco lungo argine destro torrente Fersina fino al ponte dei Cavalleggeri",
 			"totalLength": 19.2894673454955,
 			"GeoShape": {
 				"type": "Line",
@@ -8710,11 +8578,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclabile da inizio parco lungo argine destro torrente Fersina fino al ponte dei Cavalleggeri"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile - via Santi Cosma e Damiano",
 			"totalLength": 21.152584472824184,
 			"GeoShape": {
 				"type": "Line",
@@ -8845,11 +8712,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile - via Santi Cosma e Damiano"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclabile lato sud strada di collegamento tra corso del Lavoro e scienza e via Giusti",
 			"totalLength": 15.44699387390159,
 			"GeoShape": {
 				"type": "Line",
@@ -8916,11 +8782,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclabile lato sud strada di collegamento tra corso del Lavoro e scienza e via Giusti"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - corso Buonarroti (tratto tra civ.46-72)",
 			"totalLength": 10.655152982708977,
 			"GeoShape": {
 				"type": "Line",
@@ -8935,11 +8800,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - corso Buonarroti (tratto tra civ.46-72)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista verde",
+			"name": "Percorso ciclabile - viale Verona (da rotatoria via Degasperi al civ.176 di viale Verona)",
 			"totalLength": 46.274122755431435,
 			"GeoShape": {
 				"type": "Line",
@@ -9086,11 +8950,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclabile - viale Verona (da rotatoria via Degasperi al civ.176 di viale Verona)"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in p.zza Fiera nel tratto compreso tra Largo Pigarelli e il civ.1",
 			"totalLength": 2.3629944074440923,
 			"GeoShape": {
 				"type": "Line",
@@ -9109,11 +8972,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in p.zza Fiera nel tratto compreso tra Largo Pigarelli e il civ.1"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Brigata Acqui nel tratto compreso tra via Barbacovi e via S. Bernardino (lato est)",
 			"totalLength": 2.7506821280444522,
 			"GeoShape": {
 				"type": "Line",
@@ -9128,11 +8990,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Brigata Acqui nel tratto compreso tra via Barbacovi e via S. Bernardino (lato est)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Piave, dall'intersezionecon via S. Bernardino all'intersezione con via Abba",
 			"totalLength": 8.266068420214234,
 			"GeoShape": {
 				"type": "Line",
@@ -9151,11 +9012,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Piave, dall'intersezionecon via S. Bernardino all'intersezione con via Abba"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via dei Mille, dall'intersezione con via Abba al num. Civ. 1 (lato est)",
 			"totalLength": 1.0807351186832062,
 			"GeoShape": {
 				"type": "Line",
@@ -9170,11 +9030,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via dei Mille, dall'intersezione con via Abba al num. Civ. 1 (lato est)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via dei Mille, dall'intersezione con via Piave al num. Civ.10 (lato ovest)",
 			"totalLength": 1.6769011020645341,
 			"GeoShape": {
 				"type": "Line",
@@ -9193,11 +9052,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via dei Mille, dall'intersezione con via Piave al num. Civ.10 (lato ovest)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile monodirezionale O-E su Viale Rovereto, dal ponte dei Cavalleggeri al ponte dei Mille",
 			"totalLength": 15.845976056655335,
 			"GeoShape": {
 				"type": "Line",
@@ -9212,11 +9070,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile monodirezionale O-E su Viale Rovereto, dal ponte dei Cavalleggeri al ponte dei Mille"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile monodirezionale O-E su Viale Rovereto, dal ponte dei Mille al ponte Borzaga",
 			"totalLength": 11.618025123599226,
 			"GeoShape": {
 				"type": "Line",
@@ -9231,12 +9088,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile monodirezionale O-E su Viale Rovereto, dal ponte dei Mille al ponte Borzaga"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "130",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale San Bartolomeo \u00ef\u00bf\u00bd Madonna Bianca \u00ef\u00bf\u00bd tratto RSA \u00ef\u00bf\u00bd stazione",
 			"totalLength": 8.506100040087132,
 			"GeoShape": {
 				"type": "Line",
@@ -9251,11 +9107,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale San Bartolomeo \u00ef\u00bf\u00bd Madonna Bianca \u00ef\u00bf\u00bd tratto RSA \u00ef\u00bf\u00bd stazione"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile monodirezionale (ovest-est) in piazza Vicenza, tratto prospiciente i civici 6 e 11",
 			"totalLength": 1.6465500199402814,
 			"GeoShape": {
 				"type": "Line",
@@ -9270,11 +9125,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile monodirezionale (ovest-est) in piazza Vicenza, tratto prospiciente i civici 6 e 11"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile in via Barbacovi (lato nord) da intersezione via Brigata Acqui al civ.7 di via Barbacovi",
 			"totalLength": 7.434979424237081,
 			"GeoShape": {
 				"type": "Line",
@@ -9289,11 +9143,10 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile in via Barbacovi (lato nord) da intersezione via Brigata Acqui al civ.7 di via Barbacovi"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Corsia ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Corsia ciclabile monodirezionale (sud-nord) su via Gerola, tratto dal civico 8 all'intersezione con via Giraldi (lato est)",
 			"totalLength": 1.4973812892552794,
 			"GeoShape": {
 				"type": "Line",
@@ -9308,11 +9161,10 @@
 					}
 				]
 			},
-			"address": "Corsia ciclabile monodirezionale (sud-nord) su via Gerola, tratto dal civico 8 all'intersezione con via Giraldi (lato est)"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Corsia ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Corsia ciclabile monodirezionale (sud-nord) su via Pasubio, tratto dall'intersezione con via Giraldi a piazza Vicenza (lato est)",
 			"totalLength": 17.966505641521234,
 			"GeoShape": {
 				"type": "Line",
@@ -9335,11 +9187,10 @@
 					}
 				]
 			},
-			"address": "Corsia ciclabile monodirezionale (sud-nord) su via Pasubio, tratto dall'intersezione con via Giraldi a piazza Vicenza (lato est)"
+			"reservedForBike": 0
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Lorenzoni (lato est)",
 			"totalLength": 11.178267475635526,
 			"GeoShape": {
 				"type": "Line",
@@ -9362,11 +9213,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Lorenzoni (lato est)"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Matteotti (lato nord) nel tratto compreso tra via Lorenzoni e via Buccella",
 			"totalLength": 2.4013339704747754,
 			"GeoShape": {
 				"type": "Line",
@@ -9385,12 +9235,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Matteotti (lato nord) nel tratto compreso tra via Lorenzoni e via Buccella"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "60",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale - via Giusti incrocio via Madruzzo",
 			"totalLength": 3.0436983623612357,
 			"GeoShape": {
 				"type": "Line",
@@ -9413,12 +9262,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Giusti incrocio via Madruzzo"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "140",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile in via Unterveger (lato nord), dall'intersezione con via Brunner all'intersezione con via Brennero",
 			"totalLength": 6.336081550014859,
 			"GeoShape": {
 				"type": "Line",
@@ -9469,12 +9317,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile in via Unterveger (lato nord), dall'intersezione con via Brunner all'intersezione con via Brennero"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "30",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Percorso ciclopedonale in via Brennero (lato ovest) nel tratto prospiciente i numeri 145-147",
 			"totalLength": 1.6298254352741222,
 			"GeoShape": {
 				"type": "Line",
@@ -9505,12 +9352,11 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale in via Brennero (lato ovest) nel tratto prospiciente i numeri 145-147"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "87",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 4.220671830977302,
 			"GeoShape": {
 				"type": "Line",
@@ -9549,12 +9395,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile nel nuovo parco a Roncafort"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "30",
-			"type": "Ciclopedonale",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 1.2441184649730515,
 			"GeoShape": {
 				"type": "Line",
@@ -9569,12 +9414,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile nel nuovo parco a Roncafort"
+			"reservedForBike": 1
 		},
 		{
 			"tratto isolato ciclabile": "12",
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 0.5646966925559849,
 			"GeoShape": {
 				"type": "Line",
@@ -9593,12 +9437,11 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile nel nuovo parco a Roncafort"
+			"reservedForBike": 0
 		},
 		{
 			"tratto isolato ciclopedonale": "300",
-			"type": "Ciclopedonale",
-			"path type": "Pista color mattone",
+			"name": "Percorso ciclopedonale - via Conci via Tambosi",
 			"totalLength": 11.127450624854932,
 			"GeoShape": {
 				"type": "Line",
@@ -9641,11 +9484,10 @@
 					}
 				]
 			},
-			"address": "Percorso ciclopedonale - via Conci via Tambosi"
+			"reservedForBike": 1
 		},
 		{
-			"type": "Ciclabile",
-			"path type": "Pista di raccordo",
+			"name": "Pista ciclabile in via Sanseverino (lato est) nel tratto prossimo all'intersezione con via Verdi",
 			"totalLength": 3.3957970181369936,
 			"GeoShape": {
 				"type": "Line",
@@ -9660,7 +9502,7 @@
 					}
 				]
 			},
-			"address": "Pista ciclabile in via Sanseverino (lato est) nel tratto prossimo all'intersezione con via Verdi"
+			"reservedForBike": 0
 		}
 	]
 }

@@ -11,12 +11,20 @@ def get_mean(m):
 	y = 0
 	i = 0
 	for c in m:
-		x += c[0]
-		y += c[1]
+		# print(c)
+		x += c["longitude"]
+		y += c["latitude"]
 		i += 1
 	return np.array([x/i,y/i])
 
+def toArray(m):
+	out = []
+	for i in m:
+		out.append([i["longitude"],i["latitude"]])
+	return np.array(out)
+
 def find_skiarea(slopeCoords, point, slope, skiarea):
+	slopeCoords = toArray(slopeCoords)
 	nearest = None
 	areaNearest = []
 	valNearest = 1000000000
@@ -25,15 +33,16 @@ def find_skiarea(slopeCoords, point, slope, skiarea):
 		for area in areas["GeoShape"]["GeoCoordinate"]:
 			name = (areas["name"] if "name" in areas else "-")
 			shape = np.array(area).shape
+			# print(str(shape) + "\t"+ name)
 			area2 = area
-			if len(shape) != 2:
+			if len(shape) != 1:
 				area2 = area[0]
 				for i in range(1,len(area)):
 					area2.extend(area[i])
 			mean = get_mean(area2)
 			if valNearest > np.linalg.norm(mean-np.array(point)):
 				nearest = name
-				areaNearest = area2
+				areaNearest = toArray(area2)
 				valNearest = np.linalg.norm(mean-np.array(point))
 	found = False
 	if len(slopeCoords) > 2:
@@ -62,21 +71,14 @@ found = False
 count = 0
 
 for slope in skislopes:
-	slopeCoords = np.array(slope["GeoShape"]["GeoCoordinate"], dtype=object)
-	if "id" in slope:
-		slope.pop("id")
-	if len(slopeCoords.shape) != 2:
-		slopeCoords = np.array(slopeCoords[0])
-	if slope["GeoShape"]["type"] != "Point":
+	if "GeoShape" in slope:
+		slopeCoords = np.array(slope["GeoShape"]["GeoCoordinate"], dtype=object)
+		if len(slopeCoords[0]) > 2:
+			slopeCoords = slopeCoords[0]
 		mean = get_mean(slopeCoords)
-		if slope["GeoShape"]["type"] == "LineString":
-			slope["GeoShape"]["type"] = "Line"
+		
 		if find_skiarea(slopeCoords, Point(mean), slope, skiarea):
 			count += 1
-		# print(slope["name"] if "name" in slope else "---")
-	else:
-		slope["GeoCoordinate"] = slope["GeoShape"]["GeoCoordinate"]
-		slope.pop("GeoShape")
 print("\nNumber of intersections: " + str(count))
 
 

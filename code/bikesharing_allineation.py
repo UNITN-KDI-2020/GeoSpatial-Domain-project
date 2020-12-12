@@ -30,7 +30,5 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d.pop("id")
 		bikesharing_stations["records"].append(d)
 
-
-
 with open(OUT_FOLDER + "bikesharing_stations.json", 'w+') as file:
 	json.dump(bikesharing_stations, file)

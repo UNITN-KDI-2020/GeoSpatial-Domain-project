@@ -1,5 +1,9 @@
 # script to allineate point of interests
 
+from shapely.geometry.polygon import Polygon
+from functools import partial
+import pyproj
+import shapely.ops as ops
 import ujson
 import json
 import csv
@@ -52,11 +56,52 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	newDataset = {"records": []}
 
+	if "supermarket.json" in filename:
+		for d_i, d in enumerate(data):
+			if "geometry" in d and "Polygon" == d["geometry"]["type"]:
+				poly = np.array(d["geometry"]["coordinates"])
+				buildingPoly = Polygon(poly if len(poly.shape) == 2 else poly[0])
+				geom_area = ops.transform(
+					partial(
+						pyproj.transform,
+						pyproj.Proj(init='EPSG:4326'),
+						pyproj.Proj(
+							proj='aea',
+							lat_1=buildingPoly.bounds[1],
+							lat_2=buildingPoly.bounds[3])),
+					buildingPoly)
+				d["area"] = geom_area.area
+
 	if "skiresort.json" in filename:
 		for d_i, d in enumerate(data):
 			d["Total lenght"] = d["Total lenght"][7:]  # "Total: " removing
 			d["Number of lifts"] = d["Number of lifts"][7:]  # "Total: " removing
 			d["raiting"] = d["raiting"][:-15]  # " stars out of 5" removing
+
+	if "skislopes.json" in filename:
+		for d_i, d in enumerate(data):
+			d["GeoShape"] = d.pop("geometry")
+			if "coordinates" in d["GeoShape"]:
+				d["GeoShape"]["GeoCoordinate"] = d["GeoShape"].pop("coordinates")
+				if d["GeoShape"]["type"] == "Polygon" or d["GeoShape"]["type"] == "MultiLineString":
+					d["GeoShape"]["type"] = "Polygon"
+					coordinates = d["GeoShape"]["GeoCoordinate"]
+					for edifici_i, edifici in enumerate(coordinates):
+						for edificio_i, edificio in enumerate(edifici):
+							d["GeoShape"]["GeoCoordinate"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
+				elif d["GeoShape"]["type"] == "LineString" or d["GeoShape"]["type"] == "Line":
+					d["GeoShape"]["type"] = "Path"
+					coordinates = d["GeoShape"]["GeoCoordinate"]
+					for p_i, point in enumerate(coordinates):
+						d["GeoShape"]["GeoCoordinate"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
+				elif d["GeoShape"]["type"] == "Point":
+					coordinates = d["GeoShape"]["GeoCoordinate"]
+					d.pop("GeoShape")
+					d["GeoCoordinate"] = {"longitude" : coordinates[0], "latitude" : coordinates[1]}
+			if "piste:type" in d:
+				d["SlopeType"] = d.pop("piste:type")
+			if "piste:difficulty" in d:
+				d["SlopeDifficultyType"] = d.pop("piste:difficulty")
 
 	if "areaski.json" in filename:
 		for d_i, d in enumerate(data):
@@ -96,8 +141,9 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	if "piste_ciclabili.json" in filename:
 		for d_i, d in enumerate(data):
-			d["type"] = d.pop("tipologia")
-			d["path type"] = d.pop("tipo")
+			d.pop("tipo")
+			if "fumetto" in d:
+				d["name"] = d.pop("fumetto")
 			if "WKT" in d:
 				coordinatesWKT = d["WKT"].replace(
 				    "LINESTRING (", "").replace(")", "").split(",")
@@ -113,6 +159,9 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					precCoord = np.array([x,y])
 				d["totalLength"] = length
 				d["GeoShape"] = {"type": "Line", "GeoCoordinate": coordinates}
+			if "tipologia" in d:
+				tipo = d.pop("tipologia")
+				d["reservedForBike"] = 1 if "Ciclopedonale" in tipo else 0
 	
 	if "outdooractive_trails.json" in filename:
 		for d_i, d in enumerate(data):
@@ -126,30 +175,30 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		if "geometry" in d:
 			d["GeoCoordinate"] = d.pop("geometry")
 			if "coordinates" in d["GeoCoordinate"]:
-				if d["GeoCoordinate"]["type"] == "Polygon":
+				if d["GeoCoordinate"]["type"] == "Polygon" or d["GeoCoordinate"]["type"] == "MultiLineString":
 					coordinates = d["GeoCoordinate"]["coordinates"]
-					# mediaX = 0
-					# mediaY = 0
-					# count = 0
+					mediaX = 0
+					mediaY = 0
+					count = 0
 					for edifici_i, edifici in enumerate(coordinates):
 						for edificio_i, edificio in enumerate(edifici):
 							d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
-					# 		mediaX += edificio[0]
-					# 		mediaY += edificio[1]
-					# 		count += 1
+							mediaX += edificio[0]
+							mediaY += edificio[1]
+							count += 1
 					
 					# d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "LineString" or d["GeoCoordinate"]["type"] == "Line":
 					coordinates = d["GeoCoordinate"]["coordinates"]
-					# mediaX = 0
-					# mediaY = 0
-					# count = 0
+					mediaX = 0
+					mediaY = 0
+					count = 0
 					for p_i, point in enumerate(coordinates):
 						d["GeoCoordinate"]["coordinates"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
-					# 	mediaX += point[0]
-					# 	mediaY += point[1]
-					# 	count += 1
-				# 	d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
+						mediaX += point[0]
+						mediaY += point[1]
+						count += 1
+					# d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "Point":
 					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
 
