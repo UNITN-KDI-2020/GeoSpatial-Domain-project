@@ -1,0 +1,16 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-27.in",
+"DatasetDescription"="theaters in Trentino",
+"ColumnNames"={
+    "name"="name",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "address"="StreetName",
+    "city"="City"
+},
+"SourceDatasetURL"="www.openstreetmap.org",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
+

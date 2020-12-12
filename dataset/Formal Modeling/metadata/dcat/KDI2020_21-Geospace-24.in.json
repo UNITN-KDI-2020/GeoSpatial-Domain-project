@@ -1,11 +1,16 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-n.in",
-"DatasetDescription"="short textual description",
+"DatasetName"="KDI2020_21-Geospace-24.in",
+"DatasetDescription"="stop times of Trentino Trasporti bus",
 "ColumnNames"={
-    "inputName"="SKGname"
+    "trip_id"="ServiceID",
+    "arrival_time"="arrivalTime",
+    "departure_time"="departureTime",
+    "stop_id"="stopID",
+    "stop_sequence"="stopSequence",
+    "GeoShape"="GeoShape"
 },
-"SourceDatasetURL"="",
+"SourceDatasetURL"= "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
 "NumberItems"=""

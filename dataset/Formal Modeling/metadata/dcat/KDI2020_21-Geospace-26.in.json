@@ -1,0 +1,15 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-26.in",
+"DatasetDescription"="supermarket in Trentino",
+"ColumnNames"={
+    "name"="SKGname",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    ""="area"
+},
+"SourceDatasetURL"="www.openstreetmap.org",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
+
