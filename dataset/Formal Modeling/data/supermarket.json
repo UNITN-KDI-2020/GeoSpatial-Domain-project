@@ -1,1 +1,3069 @@
-{"records": [{"name": "Buonissimo", "GeoCoordinate": {"longitude": 11.033803249999998, "latitude": 45.87814674999999}}, {"name": "Discount", "GeoCoordinate": {"longitude": 10.923942380000002, "latitude": 46.358222180000006}}, {"name": "Supermercato Poli", "GeoCoordinate": {"longitude": 11.10754184, "latitude": 46.14126284}}, {"name": "Poli Regina", "GeoCoordinate": {"longitude": 11.1261839, "latitude": 46.04710611249999}}, {"name": "Prix", "GeoCoordinate": {"longitude": 11.23568054, "latitude": 46.04814664}}, {"name": "Orvea", "GeoCoordinate": {"longitude": 11.1015869625, "latitude": 46.2090887625}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 10.86472934, "latitude": 45.904367859999994}}, {"name": "LiDL", "GeoCoordinate": {"longitude": 11.029905836363637, "latitude": 45.87321795454545}}, {"GeoCoordinate": {"longitude": 11.700948771428571, "latitude": 46.45791734285715}}, {"name": "Alimentari DETOMAS", "GeoCoordinate": {"longitude": 11.71579522, "latitude": 46.4647464}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.7721941, "latitude": 46.47678083333334}}, {"GeoCoordinate": {"longitude": 11.7838304, "latitude": 46.4606125}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.680998799999998, "latitude": 46.42286998}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.823758527272728, "latitude": 46.17075468181818}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.06850888, "latitude": 45.884605300000004}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.073359857142858, "latitude": 45.868081628571424}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.848144, "latitude": 45.8970584}}, {"name": "MD", "GeoCoordinate": {"longitude": 10.849186857142858, "latitude": 45.8952983}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.041603775, "latitude": 45.8880911125}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.042117679999999, "latitude": 45.88456092}}, {"name": "SISA", "GeoCoordinate": {"longitude": 11.0335218, "latitude": 45.88260913333334}}, {"name": "Poli/Regina", "GeoCoordinate": {"longitude": 11.033478200000001, "latitude": 45.88575607777778}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.8761598125, "latitude": 45.871305737499995}}, {"name": "Aldi", "GeoCoordinate": {"longitude": 11.0154469875, "latitude": 45.868434612499996}}, {"name": "Lidl", "GeoCoordinate": {"longitude": 11.119018846153844, "latitude": 46.08419879230769}}, {"name": "C+C", "GeoCoordinate": {"longitude": 11.117765414285714, "latitude": 46.08940722142858}}, {"name": "Penny", "GeoCoordinate": {"longitude": 10.86556888, "latitude": 45.907090000000004}}, {"name": "MD Discount", "GeoCoordinate": {"longitude": 11.292833474999998, "latitude": 46.00672075}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.982155285714285, "latitude": 45.85360947142858}}, {"name": "Amort", "GeoCoordinate": {"longitude": 11.094861344444446, "latitude": 46.21738194444444}}, {"name": "Poli", "GeoCoordinate": {"longitude": 10.967430300000002, "latitude": 45.85328771666667}}, {"name": "Prix Quality", "GeoCoordinate": {"longitude": 11.11231124, "latitude": 46.0915583}}, {"name": "Supermercato Orvea", "GeoCoordinate": {"longitude": 10.885374160000001, "latitude": 45.916652539999994}}, {"name": "Cooperativa", "GeoCoordinate": {"longitude": 10.790678759999999, "latitude": 45.86580786}}, {"name": "Margherita Conad", "GeoCoordinate": {"longitude": 11.123914755555555, "latitude": 46.053261355555556}}, {"name": "Tovazzi Eurospesa", "GeoCoordinate": {"longitude": 11.118663742857143, "latitude": 46.07006891428573}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.916574579999999, "latitude": 45.96237552}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.823333614285714, "latitude": 45.93089862857142}}, {"name": "Famiglia Cooperativa Pranzo", "GeoCoordinate": {"longitude": 10.81812502857143, "latitude": 45.92305581428572}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.04544022, "latitude": 45.9277022}}, {"name": "Orvea", "GeoCoordinate": {"longitude": 10.9527341, "latitude": 46.0464224}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.94213124, "latitude": 46.063639779999995}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.9809547, "latitude": 45.979613640000004}}, {"GeoCoordinate": {"longitude": 10.72658722, "latitude": 45.91257444}}, {"GeoCoordinate": {"longitude": 10.671566657142858, "latitude": 45.88904581428572}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.68736386, "latitude": 45.893517540000005}}, {"name": "CC Amort", "GeoCoordinate": {"longitude": 11.236791855555555, "latitude": 46.05558927777778}}, {"name": "Targher", "GeoCoordinate": {"longitude": 11.1721103, "latitude": 45.915472944444446}}, {"name": "Supermercato Poli", "GeoCoordinate": {"longitude": 10.871834799999998, "latitude": 46.0340562}}, {"name": "Famiglia cooperativa", "GeoCoordinate": {"longitude": 10.794489723076923, "latitude": 46.05837191538462}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.778050259999999, "latitude": 46.05303104000001}}, {"name": "Formaggi Trentini", "GeoCoordinate": {"longitude": 10.724555380000002, "latitude": 46.03288562}}, {"name": "Conad", "GeoCoordinate": {"longitude": 10.765856320000001, "latitude": 46.1625994}}, {"GeoCoordinate": {"longitude": 10.757828700000001, "latitude": 46.16631142000001}}, {"name": "EuroSpar", "GeoCoordinate": {"longitude": 11.127855075, "latitude": 46.0562897375}}, {"GeoCoordinate": {"longitude": 10.838265560000002, "latitude": 46.244459539999994}}, {"name": "Famiglia cooperativa", "GeoCoordinate": {"longitude": 10.751070371428572, "latitude": 46.05775577142857}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.213212299999999, "latitude": 45.92495569999999}}, {"GeoCoordinate": {"longitude": 11.11668762, "latitude": 45.7652571}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 10.9088233, "latitude": 46.34832082}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.218596944444444, "latitude": 45.994413377777775}}, {"name": "Conad - Special Market", "GeoCoordinate": {"longitude": 10.82640854, "latitude": 46.23179358}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.121802366666666, "latitude": 46.21577865555557}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.093179619999999, "latitude": 46.28914268}}, {"name": "Mini Poli", "GeoCoordinate": {"longitude": 11.111375246666665, "latitude": 46.10763310000001}}, {"name": "Cooperativa", "GeoCoordinate": {"longitude": 11.266098899999998, "latitude": 46.0142304}}, {"name": "Lidl", "GeoCoordinate": {"longitude": 10.868062062500002, "latitude": 45.876790587500004}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.131829645454543, "latitude": 46.0893121}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.86514594, "latitude": 45.919008899999994}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.24958388, "latitude": 45.94173821999999}}, {"name": "Cooperativa Darzo", "GeoCoordinate": {"longitude": 10.549480905000001, "latitude": 45.84182192}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.206958680000001, "latitude": 46.116128599999996}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.75721592, "latitude": 46.309206419999995}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.258630257142858, "latitude": 45.99445127142857}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.69067375, "latitude": 46.297109400000004}}, {"GeoCoordinate": {"longitude": 11.354187159999999, "latitude": 46.23499224}}, {"name": "Sait - Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.170555433333332, "latitude": 46.248971555555556}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.66892079, "latitude": 45.990703960000005}}, {"name": "Supermercati Trentini Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.872793714285717, "latitude": 46.32730597142857}}, {"GeoCoordinate": {"longitude": 10.87040265, "latitude": 46.329202224999996}}, {"GeoCoordinate": {"longitude": 10.8711003, "latitude": 45.917164879999994}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 10.865033528571429, "latitude": 46.32761157142857}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.327097236363638, "latitude": 46.21659008181818}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1188521, "latitude": 45.78283748}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.11862682, "latitude": 46.30697268}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.879768344444448, "latitude": 46.031018}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.634483079999999, "latitude": 46.0619799}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 11.490357460000002, "latitude": 46.29258696}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.660468933333334, "latitude": 46.376934255555554}}, {"name": "Famiglia Cooperativa di Caoria", "GeoCoordinate": {"longitude": 11.67929878, "latitude": 46.19743416}}, {"name": "Famiglia Cooperativa di Zortea", "GeoCoordinate": {"longitude": 11.748522900000001, "latitude": 46.16258458}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.107025957142856, "latitude": 46.431379}}, {"name": "Famiglia Cooperativa di Prade", "GeoCoordinate": {"longitude": 11.740672416666667, "latitude": 46.157489533333326}}, {"name": "Famiglia Cooperativa Canal San Bovo", "GeoCoordinate": {"longitude": 11.73228534, "latitude": 46.1552561}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.232646418181817, "latitude": 45.96892321818182}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.09468414, "latitude": 46.362469659999995}}, {"name": "LIDL", "GeoCoordinate": {"longitude": 11.0945245, "latitude": 46.210486759999995}}, {"name": "Iperpoli", "GeoCoordinate": {"longitude": 10.911373585714287, "latitude": 46.34840379999999}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 10.91070138, "latitude": 46.3480767}}, {"name": "La Bottega di Zambiasi", "GeoCoordinate": {"longitude": 11.13578685, "latitude": 46.44001985}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.119022585714287, "latitude": 46.393794185714285}}, {"name": "Conad", "GeoCoordinate": {"longitude": 10.912976812499998, "latitude": 45.95968386250001}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.0402147, "latitude": 45.891083574999996}}, {"name": "INTERSPAR", "GeoCoordinate": {"longitude": 11.014867762162162, "latitude": 45.869483427027035}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.561946257142855, "latitude": 46.28668727142858}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.116049033333333, "latitude": 46.45530399999999}}, {"name": "COOP Trentino", "GeoCoordinate": {"longitude": 11.11181058, "latitude": 46.04076568000001}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.10619282, "latitude": 46.10490712000001}}, {"name": "MD", "GeoCoordinate": {"longitude": 11.031111927272727, "latitude": 45.87424942727272}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 11.006944563636363, "latitude": 45.75803746363637}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 11.041139715384615, "latitude": 45.907781561538464}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1396505, "latitude": 46.0706912}}, {"GeoCoordinate": {"longitude": 11.5115513, "latitude": 46.2898165}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.4160248, "latitude": 46.2730677}}, {"name": "Alimentari Cavada", "GeoCoordinate": {"longitude": 11.4194903, "latitude": 46.2737428}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.4346627, "latitude": 46.2815749}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.215569, "latitude": 46.0854316}}, {"GeoCoordinate": {"longitude": 11.2188721, "latitude": 46.1436183}}, {"name": "COOP", "GeoCoordinate": {"longitude": 11.6512289, "latitude": 46.3691185}}, {"GeoCoordinate": {"longitude": 11.1056042, "latitude": 46.0169011}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2439692, "latitude": 46.1321475}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.2491243, "latitude": 46.1343174}}, {"GeoCoordinate": {"longitude": 11.2469627, "latitude": 46.1316692}}, {"name": "Coop Famiglia", "GeoCoordinate": {"longitude": 10.9103205, "latitude": 46.3508636}}, {"name": "DeSpar", "GeoCoordinate": {"longitude": 10.8026501, "latitude": 46.3159101}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.7957428, "latitude": 46.3165834}}, {"name": "Famiglia Cooperativa di Povo", "GeoCoordinate": {"longitude": 11.1544666, "latitude": 46.0662059}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1419313, "latitude": 46.0768325}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 11.2388017, "latitude": 46.0611105}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.1329721, "latitude": 46.0893811}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8412336, "latitude": 45.9078222}}, {"name": "Cooperativa di Strembo", "GeoCoordinate": {"longitude": 10.7516126, "latitude": 46.1206938}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1612811, "latitude": 46.1925747}}, {"name": "Cantina Frantoio", "GeoCoordinate": {"longitude": 10.8527754, "latitude": 45.8974302}}, {"name": "Vivo", "GeoCoordinate": {"longitude": 11.1313911, "latitude": 46.19526}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1325889, "latitude": 46.1933171}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.6020321, "latitude": 46.3135246}}, {"name": "Supermercato Poli", "GeoCoordinate": {"longitude": 11.5932141, "latitude": 46.3036354}}, {"name": "Lidl", "GeoCoordinate": {"longitude": 10.8520823, "latitude": 45.8965602}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.6007515, "latitude": 46.3128694}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.598513, "latitude": 46.3141926}}, {"name": "SAIT", "GeoCoordinate": {"longitude": 10.9799342, "latitude": 45.8452313}}, {"name": "Supermercati Poli", "GeoCoordinate": {"longitude": 11.0025475, "latitude": 45.7593408}}, {"name": "Minimarket", "GeoCoordinate": {"longitude": 10.9024978, "latitude": 45.9499618}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.3023386, "latitude": 46.0089476}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2377096, "latitude": 46.0610492}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.9133812, "latitude": 46.360811}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8454558, "latitude": 46.4012625}}, {"name": "Centro commerciale", "GeoCoordinate": {"longitude": 10.810411, "latitude": 46.3049112}}, {"name": "Supermercati Trentino Coop", "GeoCoordinate": {"longitude": 10.8728766, "latitude": 46.3273098}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.3363207, "latitude": 46.0048689}}, {"name": "Supermercati Poli", "GeoCoordinate": {"longitude": 10.8706446, "latitude": 45.9101496}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 11.2324842, "latitude": 46.063642}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.6930817, "latitude": 46.3519597}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 11.1454301, "latitude": 46.047901}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.8733134, "latitude": 46.0357147}}, {"name": "Central Market", "GeoCoordinate": {"longitude": 10.9665101, "latitude": 46.1427735}}, {"name": "Supermercato Poli di Largo medaglie d'oro", "GeoCoordinate": {"longitude": 11.1326139, "latitude": 46.0579964}}, {"name": "Coop Superstore", "GeoCoordinate": {"longitude": 11.1296069, "latitude": 46.0445635}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1330849, "latitude": 46.040605}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.1314183, "latitude": 46.0643926}}, {"name": "Fam Coop pinzolo Fil Mavignola", "GeoCoordinate": {"longitude": 10.7879622, "latitude": 46.1906982}}, {"GeoCoordinate": {"longitude": 11.0958779, "latitude": 45.7948557}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2817727, "latitude": 46.0912311}}, {"name": "COOP", "GeoCoordinate": {"longitude": 10.8536661, "latitude": 45.8832053}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.243034, "latitude": 46.0058114}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2203292, "latitude": 46.1754026}}, {"GeoCoordinate": {"longitude": 11.2224578, "latitude": 46.1740118}}, {"GeoCoordinate": {"longitude": 11.2256122, "latitude": 46.1780451}}, {"GeoCoordinate": {"longitude": 11.1876903, "latitude": 46.1605689}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.1091253, "latitude": 46.1389392}}, {"name": "Famiglia Cooperativa (Coop)", "GeoCoordinate": {"longitude": 10.5512194, "latitude": 45.8055178}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1120562, "latitude": 46.1384202}}, {"name": "CONAD City", "GeoCoordinate": {"longitude": 11.1139086, "latitude": 46.1387907}}, {"name": "EuroSPIN", "GeoCoordinate": {"longitude": 11.1206354, "latitude": 46.0545335}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.1198111, "latitude": 46.09449}}, {"name": "Famiglia Cooperativa di Besagno", "GeoCoordinate": {"longitude": 10.9690495, "latitude": 45.8377514}}, {"name": "Regina Poli", "GeoCoordinate": {"longitude": 11.2984452, "latitude": 46.010694}}, {"name": "Supermercato PAM", "GeoCoordinate": {"longitude": 11.1162507, "latitude": 46.0946011}}, {"name": "Dpi\u00c3\u00b9", "GeoCoordinate": {"longitude": 11.6986997, "latitude": 46.425625}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.998879, "latitude": 46.0773733}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.8758395, "latitude": 45.8704499}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.2295905, "latitude": 46.0283728}}, {"name": "Sisa", "GeoCoordinate": {"longitude": 11.0334572, "latitude": 45.8751486}}, {"name": "Famiglia Cooperativa Monte Baldo", "GeoCoordinate": {"longitude": 10.9541624, "latitude": 45.8171998}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.6930368, "latitude": 46.0006466}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0942412, "latitude": 45.9331346}}, {"GeoCoordinate": {"longitude": 11.8007958, "latitude": 46.152351}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.8060964, "latitude": 46.1540765}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.7967828, "latitude": 46.1507853}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0645985, "latitude": 46.087869}}, {"name": "Cooperativa di Preore", "GeoCoordinate": {"longitude": 10.7609979, "latitude": 46.0464181}}, {"name": "Supermercati Trentini", "GeoCoordinate": {"longitude": 11.0424154, "latitude": 45.8903377}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.4445674, "latitude": 46.2871317}}, {"name": "Supermercato Coop", "GeoCoordinate": {"longitude": 11.4443474, "latitude": 46.2873613}}, {"name": "Cooperativa di Villalagarina", "GeoCoordinate": {"longitude": 11.0329215, "latitude": 45.914963}}, {"name": "Famiglia Cooperativa Primanaunia", "GeoCoordinate": {"longitude": 11.0867079, "latitude": 46.26475}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1290668, "latitude": 46.0668155}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.1411854, "latitude": 46.4201824}}, {"name": "Alimentari Romedio", "GeoCoordinate": {"longitude": 11.1771572, "latitude": 46.4146772}}, {"GeoCoordinate": {"longitude": 11.3025112, "latitude": 46.1078754}}, {"name": "Margehrita Conad", "GeoCoordinate": {"longitude": 11.6683745, "latitude": 46.3957165}}, {"name": "Supermercato Coop", "GeoCoordinate": {"longitude": 10.9025319, "latitude": 45.9125572}}, {"name": "Supermarket Coop", "GeoCoordinate": {"longitude": 10.8858984, "latitude": 45.9169626}}, {"name": "Supermercati Trentini - SAIT", "GeoCoordinate": {"longitude": 10.7253504, "latitude": 46.031276}}, {"name": "Alimentari Rosani - Despar", "GeoCoordinate": {"longitude": 11.0366766, "latitude": 46.3635627}}, {"name": "Minela", "GeoCoordinate": {"longitude": 11.0369267, "latitude": 46.3613668}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.0290811, "latitude": 46.3571446}}, {"name": "Supermarcati Trentini", "GeoCoordinate": {"longitude": 11.4622085, "latitude": 46.0561202}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.168605, "latitude": 46.2505196}}, {"name": "COOP Viale Trento", "GeoCoordinate": {"longitude": 11.0421453, "latitude": 45.9006113}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.1322939, "latitude": 46.0143623}}, {"GeoCoordinate": {"longitude": 11.1811582, "latitude": 46.0902243}}, {"name": "L'Origine", "GeoCoordinate": {"longitude": 11.1263983, "latitude": 46.0614485}}, {"GeoCoordinate": {"longitude": 10.8094523, "latitude": 46.3035073}}, {"name": "Discount", "GeoCoordinate": {"longitude": 10.9099973, "latitude": 46.3508732}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.8398699, "latitude": 46.321625}}, {"name": "supermarket", "GeoCoordinate": {"longitude": 11.0339252, "latitude": 46.2582906}}, {"name": "Famiglia Cooperativa Perginese", "GeoCoordinate": {"longitude": 11.3514815, "latitude": 46.1291728}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.5534689, "latitude": 46.2836882}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.4547445, "latitude": 46.2893957}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.2239498, "latitude": 46.0681133}}, {"name": "Erboristeria La Sorgente", "GeoCoordinate": {"longitude": 11.4438661, "latitude": 46.2876207}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 10.733283, "latitude": 46.0351577}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.059741, "latitude": 46.0716693}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1948239, "latitude": 46.1443003}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.7344712, "latitude": 46.1504143}}, {"name": "Famiglia cooperativa", "GeoCoordinate": {"longitude": 11.2342036, "latitude": 46.1601462}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.1017849, "latitude": 46.0820991}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.9432407, "latitude": 46.3654566}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.841909, "latitude": 46.0041405}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.8424079, "latitude": 46.0049975}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0713887, "latitude": 45.9288614}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0962387, "latitude": 46.151461}}, {"name": "Crai Minimarket", "GeoCoordinate": {"longitude": 11.8000981, "latitude": 46.2617201}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.0593789, "latitude": 46.0708749}}, {"name": "Despar GiElle", "GeoCoordinate": {"longitude": 11.069156, "latitude": 45.9170548}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0634477, "latitude": 45.9166045}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.0352319, "latitude": 45.9154496}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.0346406, "latitude": 45.9154361}}, {"name": "Alimentari Dal Marcante", "GeoCoordinate": {"longitude": 11.0048515, "latitude": 46.1662322}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 11.002146, "latitude": 46.1636906}}, {"name": "Conad", "GeoCoordinate": {"longitude": 10.6172991, "latitude": 45.9115868}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 10.6170278, "latitude": 45.9114781}}, {"GeoCoordinate": {"longitude": 10.8837384, "latitude": 45.9205511}}, {"name": "Supermercati Poli", "GeoCoordinate": {"longitude": 10.8450002, "latitude": 45.8869913}}, {"name": "Supemercato Lombardi", "GeoCoordinate": {"longitude": 10.5365937, "latitude": 45.8296676}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.6511094, "latitude": 46.3696151}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8321408, "latitude": 45.9197525}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.058367, "latitude": 46.3468277}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.8294687, "latitude": 46.1766597}}, {"name": "Iperpoli", "GeoCoordinate": {"longitude": 11.4729434, "latitude": 46.0555848}}, {"name": "Iper Soap", "GeoCoordinate": {"longitude": 11.1184553, "latitude": 46.2145473}}, {"name": "Conad - Nicolodi", "GeoCoordinate": {"longitude": 11.1234678, "latitude": 46.0704005}}, {"name": "Eurospar", "GeoCoordinate": {"longitude": 11.122769, "latitude": 46.0697626}}, {"name": "Famiglia cooperativa", "GeoCoordinate": {"longitude": 11.0090438, "latitude": 45.8853304}}, {"name": "Schlecker", "GeoCoordinate": {"longitude": 11.1025244, "latitude": 46.2089761}}, {"name": "Eurodespar", "GeoCoordinate": {"longitude": 11.128351, "latitude": 46.0563672}}, {"name": "Coop Mattarello", "GeoCoordinate": {"longitude": 11.1276501, "latitude": 46.0071075}}, {"name": "COOP Trentino", "GeoCoordinate": {"longitude": 11.1200879, "latitude": 46.0771375}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0780283, "latitude": 46.2755032}}, {"name": "Muntenia Market / din Rom\u00c3\u00a2nia", "GeoCoordinate": {"longitude": 11.1258582, "latitude": 46.0710267}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2372463, "latitude": 45.9789791}}, {"name": "Mio Negozio di Hu Ling", "GeoCoordinate": {"longitude": 11.1179594, "latitude": 46.0915541}}, {"name": "Coop Trentino", "GeoCoordinate": {"longitude": 11.1217447, "latitude": 46.087}}, {"name": "NaturaS\u00c3\u00ac", "GeoCoordinate": {"longitude": 11.1227357, "latitude": 46.0794525}}, {"name": "Margherita Conad", "GeoCoordinate": {"longitude": 11.168022, "latitude": 45.916959}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1713655, "latitude": 45.9157899}}, {"name": "Famiglia Coperativa", "GeoCoordinate": {"longitude": 11.0000168, "latitude": 45.9026802}}, {"name": "Mini Market", "GeoCoordinate": {"longitude": 11.0575321, "latitude": 46.0394038}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.6888013, "latitude": 46.296443}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.9500341, "latitude": 45.8896925}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1170564, "latitude": 46.1227454}}, {"name": "Conad Market Moser", "GeoCoordinate": {"longitude": 11.1173266, "latitude": 46.1283108}}, {"name": "DeSpar", "GeoCoordinate": {"longitude": 10.6937125, "latitude": 46.3516329}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2064209, "latitude": 46.069498}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.0506417, "latitude": 46.2738746}}, {"GeoCoordinate": {"longitude": 11.9286048, "latitude": 46.2043746}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.5991476, "latitude": 45.8885022}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.7261453, "latitude": 46.0417669}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1066124, "latitude": 46.15333}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1254414, "latitude": 46.1723034}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0453047, "latitude": 46.0818541}}, {"name": "Mela Ortofrutta", "GeoCoordinate": {"longitude": 11.199141, "latitude": 46.005183}}, {"name": "Margherita CONAD", "GeoCoordinate": {"longitude": 11.1991954, "latitude": 46.0050272}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.8401539, "latitude": 46.1818149}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0062266, "latitude": 45.9236542}}, {"name": "coop Familia Coprativa", "GeoCoordinate": {"longitude": 11.7402982, "latitude": 46.4762472}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 10.8613759, "latitude": 45.9103326}}, {"name": "Euro Spin", "GeoCoordinate": {"longitude": 11.127309, "latitude": 46.0480568}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.1399981, "latitude": 46.4139861}}, {"GeoCoordinate": {"longitude": 11.0027082, "latitude": 46.3995348}}, {"name": "Famiglia Cooperativa Valle di Ledro Societ\u00c3\u00a0 Cooperativa", "GeoCoordinate": {"longitude": 10.743694, "latitude": 45.8704118}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.1252248, "latitude": 46.0746828}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 10.975616, "latitude": 45.995064}}, {"name": "Margherita Conad", "GeoCoordinate": {"longitude": 10.98337, "latitude": 46.044792}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.988257, "latitude": 46.062212}}, {"name": "Tuod\u00c3\u00ac", "GeoCoordinate": {"longitude": 10.5700353, "latitude": 45.8546222}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8884222, "latitude": 46.3364953}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.7624055, "latitude": 46.1690075}}, {"name": "Agrimarket \"La dispensa\"", "GeoCoordinate": {"longitude": 10.7309159, "latitude": 46.3096509}}, {"GeoCoordinate": {"longitude": 10.5979582, "latitude": 45.8864058}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0849878, "latitude": 46.4167573}}, {"name": "spar", "GeoCoordinate": {"longitude": 11.0611356, "latitude": 46.3919901}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1526251, "latitude": 46.1572698}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.1216631, "latitude": 46.0560983}}, {"GeoCoordinate": {"longitude": 10.9970527, "latitude": 45.7541524}}, {"name": "Famiglia Coop", "GeoCoordinate": {"longitude": 10.9719596, "latitude": 45.9934545}}, {"name": "Famiglia Cooperativa Coop", "GeoCoordinate": {"longitude": 10.6381656, "latitude": 45.9385466}}, {"GeoCoordinate": {"longitude": 10.9541652, "latitude": 45.816802}}, {"name": "A&O", "GeoCoordinate": {"longitude": 11.6351456, "latitude": 46.0172162}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.2476583, "latitude": 46.1272515}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.7551901, "latitude": 46.3111506}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.0448754, "latitude": 46.0980196}}, {"GeoCoordinate": {"longitude": 11.2758472, "latitude": 46.0788963}}, {"name": "Margherita Conad", "GeoCoordinate": {"longitude": 10.8908442, "latitude": 45.8777433}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 10.973793, "latitude": 45.8485567}}, {"GeoCoordinate": {"longitude": 11.1188856, "latitude": 45.7827967}}, {"name": "Cooperativa Trentina", "GeoCoordinate": {"longitude": 10.7018741, "latitude": 46.3438379}}, {"GeoCoordinate": {"longitude": 10.9585376, "latitude": 46.1381929}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.9587669, "latitude": 46.1399158}}, {"name": "Fratelli Ravanelli", "GeoCoordinate": {"longitude": 11.2461899, "latitude": 46.1337583}}, {"name": "Prix", "GeoCoordinate": {"longitude": 11.104805, "latitude": 46.1401497}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.0894082, "latitude": 46.2132593}}, {"name": "GlutenFree World", "GeoCoordinate": {"longitude": 11.1080407, "latitude": 46.1117843}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.1149177, "latitude": 46.0832568}}, {"name": "ENI Shop", "GeoCoordinate": {"longitude": 11.1308081, "latitude": 46.0443261}}, {"name": "Cooperativa Brenta Paganella", "GeoCoordinate": {"longitude": 10.8664863, "latitude": 46.0238837}}, {"name": "Minimarket Salizzoni", "GeoCoordinate": {"longitude": 10.8202816, "latitude": 46.0169997}}, {"name": "Famiglia Cooperativa Perginese", "GeoCoordinate": {"longitude": 11.2297149, "latitude": 46.0419897}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1117786, "latitude": 46.1084201}}, {"name": "IperPoli", "GeoCoordinate": {"longitude": 11.1187131, "latitude": 46.0887029}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0954961, "latitude": 46.3217465}}, {"name": "Eder", "GeoCoordinate": {"longitude": 11.4609449, "latitude": 46.2912348}}, {"name": "Conad Margherita", "GeoCoordinate": {"longitude": 11.0008901, "latitude": 45.7560226}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.0690079, "latitude": 46.3171045}}, {"name": "Famiglia cooperativa Storo", "GeoCoordinate": {"longitude": 10.5792221, "latitude": 45.8492276}}, {"name": "Poli", "GeoCoordinate": {"longitude": 10.5670138, "latitude": 45.8542094}}, {"GeoCoordinate": {"longitude": 10.9829707, "latitude": 46.0229389}}, {"name": "Trentino Glutine", "GeoCoordinate": {"longitude": 10.5403473, "latitude": 45.8316303}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0199373, "latitude": 46.0981954}}, {"name": "C&C Amort", "GeoCoordinate": {"longitude": 10.7372149, "latitude": 46.1005802}}, {"name": "Conad Spesa Facile", "GeoCoordinate": {"longitude": 10.7360274, "latitude": 46.1007012}}, {"GeoCoordinate": {"longitude": 10.9535239, "latitude": 45.7414364}}, {"GeoCoordinate": {"longitude": 10.6732461, "latitude": 46.3632637}}, {"GeoCoordinate": {"longitude": 10.6733433, "latitude": 46.3633292}}, {"GeoCoordinate": {"longitude": 10.6736266, "latitude": 46.3636572}}, {"name": "Famiglia Coperativa", "GeoCoordinate": {"longitude": 10.7529389, "latitude": 45.8822109}}, {"name": "MD", "GeoCoordinate": {"longitude": 11.1143171, "latitude": 46.0923408}}, {"name": "F.C. Vattaro e Altipiani", "GeoCoordinate": {"longitude": 11.2483696, "latitude": 45.9300452}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1342727, "latitude": 46.132069}}, {"GeoCoordinate": {"longitude": 11.0342516, "latitude": 46.2865766}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.036663, "latitude": 45.898352}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.4720051, "latitude": 46.0557071}}, {"name": "COOP", "GeoCoordinate": {"longitude": 11.109904, "latitude": 45.9415967}}, {"name": "Supermercati Trentini", "GeoCoordinate": {"longitude": 11.4105994, "latitude": 46.0529324}}, {"name": "Centro Spesa Corona", "GeoCoordinate": {"longitude": 11.7200931, "latitude": 46.1526424}}, {"name": "Vanoiofficinalis", "GeoCoordinate": {"longitude": 11.7173219, "latitude": 46.1419587}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0304576, "latitude": 46.2997196}}, {"name": "Famigli Cooperativa", "GeoCoordinate": {"longitude": 11.0473094, "latitude": 46.3148069}}, {"GeoCoordinate": {"longitude": 11.79964, "latitude": 46.2621931}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8263188, "latitude": 46.2305265}}, {"name": "D-Pi\u00c3\u00b9", "GeoCoordinate": {"longitude": 11.0322839, "latitude": 45.877563}}, {"name": "MD", "GeoCoordinate": {"longitude": 11.8036748, "latitude": 46.1487361}}, {"name": "MiniMarket inbesta", "GeoCoordinate": {"longitude": 10.7677066, "latitude": 45.8756552}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.7290815, "latitude": 45.9062149}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.4624812, "latitude": 46.2912674}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.0903551, "latitude": 45.9765982}}, {"name": "Conad City", "GeoCoordinate": {"longitude": 11.232842, "latitude": 46.0657607}}, {"name": "Famiglia Cooperativa Valle di Ledro Societ\u00c3\u00a0 Cooperativa", "GeoCoordinate": {"longitude": 10.7319527, "latitude": 45.8858664}}, {"name": "Famiglia Cooperativa di Caoria", "GeoCoordinate": {"longitude": 11.6793638, "latitude": 46.1974428}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.1004588, "latitude": 46.2072565}}, {"name": "Conad", "GeoCoordinate": {"longitude": 10.9725453, "latitude": 45.851426}}, {"name": "Verde e Blu", "GeoCoordinate": {"longitude": 10.764584, "latitude": 46.1584842}}, {"name": "Belvedere", "GeoCoordinate": {"longitude": 10.8672925, "latitude": 46.2971049}}, {"name": "Despar", "GeoCoordinate": {"longitude": 10.5880757, "latitude": 46.260591}}, {"name": "Dpi\u00c3\u00b9", "GeoCoordinate": {"longitude": 10.8756491, "latitude": 45.9135814}}, {"GeoCoordinate": {"longitude": 10.6213139, "latitude": 45.947287}}, {"GeoCoordinate": {"longitude": 10.9447602, "latitude": 45.9704141}}, {"name": "Coop Trentino", "GeoCoordinate": {"longitude": 11.0002815, "latitude": 46.1666057}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 10.7155775, "latitude": 45.8953946}}, {"name": "Alimentari Turini", "GeoCoordinate": {"longitude": 10.7193348, "latitude": 45.8961178}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.7253378, "latitude": 45.8994215}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.7173405, "latitude": 45.8964802}}, {"name": "Naturarco", "GeoCoordinate": {"longitude": 10.876222, "latitude": 45.9134849}}, {"name": "Famiglia Cooperativa Varena", "GeoCoordinate": {"longitude": 11.4563692, "latitude": 46.303627}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1838948, "latitude": 46.1070102}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.87035, "latitude": 46.0330378}}, {"name": "Frutta e Verdura Parsi", "GeoCoordinate": {"longitude": 10.8677578, "latitude": 46.037082}}, {"GeoCoordinate": {"longitude": 10.837214, "latitude": 46.0247351}}, {"name": "Aldi", "GeoCoordinate": {"longitude": 11.1174423, "latitude": 46.0858835}}, {"name": "Aldi", "GeoCoordinate": {"longitude": 11.4736026, "latitude": 46.0544658}}, {"name": "specialita alimentari frizzeria", "GeoCoordinate": {"longitude": 10.8397347, "latitude": 45.8887125}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.0755944, "latitude": 46.3658536}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.3187468, "latitude": 46.0149922}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.1364044, "latitude": 46.4373624}}, {"GeoCoordinate": {"longitude": 11.0319155, "latitude": 45.8668109}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.9755219, "latitude": 45.8201315}}, {"name": "Amort", "GeoCoordinate": {"longitude": 11.2720413, "latitude": 45.9945081}}, {"name": "MD", "GeoCoordinate": {"longitude": 11.1298485, "latitude": 46.0363492}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0692701, "latitude": 46.3733792}}, {"name": "LIDL", "GeoCoordinate": {"longitude": 11.1989656, "latitude": 46.0826322}}, {"name": "Orvea", "GeoCoordinate": {"longitude": 11.1992861, "latitude": 46.0828973}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.1128309, "latitude": 45.9410858}}, {"name": "Conad", "GeoCoordinate": {"longitude": 11.0707997, "latitude": 46.1804541}}, {"name": "Coop", "GeoCoordinate": {"longitude": 10.8410093, "latitude": 45.8877421}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.1996174, "latitude": 46.0041848}}, {"name": "EuroSpin", "GeoCoordinate": {"longitude": 11.1413467, "latitude": 46.425811}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0457256, "latitude": 46.3414191}}, {"name": "Margherita", "GeoCoordinate": {"longitude": 11.021426, "latitude": 45.9017313}}, {"name": "Lidl", "GeoCoordinate": {"longitude": 11.0469782, "latitude": 46.352119}}, {"name": "Eurospin", "GeoCoordinate": {"longitude": 11.0350873, "latitude": 46.3675013}}, {"name": "Famiglia Cooperativa Grigno", "GeoCoordinate": {"longitude": 11.634526, "latitude": 46.0168653}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 11.0304961, "latitude": 46.2366095}}, {"name": "Famiglia Cooperativa Cimone", "GeoCoordinate": {"longitude": 11.0683226, "latitude": 45.978059}}, {"name": "Regina", "GeoCoordinate": {"longitude": 10.7370214, "latitude": 46.1002401}}, {"name": "Alimentari, souvenir, frutta e verdura", "GeoCoordinate": {"longitude": 11.3248098, "latitude": 45.9232584}}, {"name": "Famiglia Cooperativa", "GeoCoordinate": {"longitude": 10.8184601, "latitude": 46.410533}}, {"name": "Famiglia cooperativa", "GeoCoordinate": {"longitude": 11.2477465, "latitude": 46.0319044}}, {"name": "Latte Trento", "GeoCoordinate": {"longitude": 11.2213836, "latitude": 46.0698108}}, {"name": "Naturas\u00c3\u00ad supermercato bio", "GeoCoordinate": {"longitude": 11.2215048, "latitude": 46.0697002}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.1407515, "latitude": 46.1582267}}, {"name": "Coop", "GeoCoordinate": {"longitude": 11.0334745, "latitude": 46.3661298}}, {"name": "Despar", "GeoCoordinate": {"longitude": 11.0334897, "latitude": 46.3673759}}, {"name": "Aldi", "GeoCoordinate": {"longitude": 11.0376696, "latitude": 46.3571422}}, {"name": "Poli", "GeoCoordinate": {"longitude": 11.0454223, "latitude": 46.3522905}}, {"name": "Eliseo - Senza Glutine", "GeoCoordinate": {"longitude": 11.0293098, "latitude": 46.3566683}}, {"name": "Euro Spin", "GeoCoordinate": {"longitude": 10.93876, "latitude": 45.7303394}}]}
+{
+	"records": [
+		{
+			"name": "Buonissimo",
+			"area": 223.8809848933105,
+			"GeoCoordinate": {
+				"longitude": 11.033803249999998,
+				"latitude": 45.87814674999999
+			}
+		},
+		{
+			"name": "Discount",
+			"area": 1552.8618544058738,
+			"GeoCoordinate": {
+				"longitude": 10.923942380000002,
+				"latitude": 46.358222180000006
+			}
+		},
+		{
+			"name": "Supermercato Poli",
+			"area": 798.4423307256238,
+			"GeoCoordinate": {
+				"longitude": 11.10754184,
+				"latitude": 46.14126284
+			}
+		},
+		{
+			"name": "Poli Regina",
+			"area": 1180.1041217235936,
+			"GeoCoordinate": {
+				"longitude": 11.1261839,
+				"latitude": 46.04710611249999
+			}
+		},
+		{
+			"name": "Prix",
+			"area": 653.8505803060727,
+			"GeoCoordinate": {
+				"longitude": 11.23568054,
+				"latitude": 46.04814664
+			}
+		},
+		{
+			"name": "Orvea",
+			"area": 2802.0982651145073,
+			"GeoCoordinate": {
+				"longitude": 11.1015869625,
+				"latitude": 46.2090887625
+			}
+		},
+		{
+			"name": "Eurospar",
+			"area": 2412.095517409603,
+			"GeoCoordinate": {
+				"longitude": 10.86472934,
+				"latitude": 45.904367859999994
+			}
+		},
+		{
+			"name": "LiDL",
+			"area": 1366.9210096015506,
+			"GeoCoordinate": {
+				"longitude": 11.029905836363637,
+				"latitude": 45.87321795454545
+			}
+		},
+		{
+			"area": 472.6964738009633,
+			"GeoCoordinate": {
+				"longitude": 11.700948771428571,
+				"latitude": 46.45791734285715
+			}
+		},
+		{
+			"name": "Alimentari DETOMAS",
+			"area": 253.44691648940133,
+			"GeoCoordinate": {
+				"longitude": 11.71579522,
+				"latitude": 46.4647464
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 287.6285705905537,
+			"GeoCoordinate": {
+				"longitude": 11.7721941,
+				"latitude": 46.47678083333334
+			}
+		},
+		{
+			"area": 154.4269281156254,
+			"GeoCoordinate": {
+				"longitude": 11.7838304,
+				"latitude": 46.4606125
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 1484.2321510560628,
+			"GeoCoordinate": {
+				"longitude": 11.680998799999998,
+				"latitude": 46.42286998
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 2054.307650739979,
+			"GeoCoordinate": {
+				"longitude": 11.823758527272728,
+				"latitude": 46.17075468181818
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 352.44458235960815,
+			"GeoCoordinate": {
+				"longitude": 11.06850888,
+				"latitude": 45.884605300000004
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 303.45686839289255,
+			"GeoCoordinate": {
+				"longitude": 11.073359857142858,
+				"latitude": 45.868081628571424
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 1263.4344542820108,
+			"GeoCoordinate": {
+				"longitude": 10.848144,
+				"latitude": 45.8970584
+			}
+		},
+		{
+			"name": "MD",
+			"area": 1372.2227361857676,
+			"GeoCoordinate": {
+				"longitude": 10.849186857142858,
+				"latitude": 45.8952983
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 632.0570852583764,
+			"GeoCoordinate": {
+				"longitude": 11.041603775,
+				"latitude": 45.8880911125
+			}
+		},
+		{
+			"name": "Eurospin",
+			"area": 670.4947864734467,
+			"GeoCoordinate": {
+				"longitude": 11.042117679999999,
+				"latitude": 45.88456092
+			}
+		},
+		{
+			"name": "SISA",
+			"area": 2002.683071648904,
+			"GeoCoordinate": {
+				"longitude": 11.0335218,
+				"latitude": 45.88260913333334
+			}
+		},
+		{
+			"name": "Poli\/Regina",
+			"area": 2168.534041851345,
+			"GeoCoordinate": {
+				"longitude": 11.033478200000001,
+				"latitude": 45.88575607777778
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 431.4411283450824,
+			"GeoCoordinate": {
+				"longitude": 10.8761598125,
+				"latitude": 45.871305737499995
+			}
+		},
+		{
+			"name": "Aldi",
+			"area": 3454.1661669766036,
+			"GeoCoordinate": {
+				"longitude": 11.0154469875,
+				"latitude": 45.868434612499996
+			}
+		},
+		{
+			"name": "Lidl",
+			"area": 2311.1633375728898,
+			"GeoCoordinate": {
+				"longitude": 11.119018846153844,
+				"latitude": 46.08419879230769
+			}
+		},
+		{
+			"name": "C+C",
+			"area": 5031.810673112548,
+			"GeoCoordinate": {
+				"longitude": 11.117765414285714,
+				"latitude": 46.08940722142858
+			}
+		},
+		{
+			"name": "Penny",
+			"area": 1184.6877842975005,
+			"GeoCoordinate": {
+				"longitude": 10.86556888,
+				"latitude": 45.907090000000004
+			}
+		},
+		{
+			"name": "MD Discount",
+			"area": 1184.298807536616,
+			"GeoCoordinate": {
+				"longitude": 11.292833474999998,
+				"latitude": 46.00672075
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 392.0857269054917,
+			"GeoCoordinate": {
+				"longitude": 10.982155285714285,
+				"latitude": 45.85360947142858
+			}
+		},
+		{
+			"name": "Amort",
+			"area": 4010.4805375828846,
+			"GeoCoordinate": {
+				"longitude": 11.094861344444446,
+				"latitude": 46.21738194444444
+			}
+		},
+		{
+			"name": "Poli",
+			"area": 3336.646129051659,
+			"GeoCoordinate": {
+				"longitude": 10.967430300000002,
+				"latitude": 45.85328771666667
+			}
+		},
+		{
+			"name": "Prix Quality",
+			"area": 1648.119841647898,
+			"GeoCoordinate": {
+				"longitude": 11.11231124,
+				"latitude": 46.0915583
+			}
+		},
+		{
+			"name": "Supermercato Orvea",
+			"area": 739.7919175441452,
+			"GeoCoordinate": {
+				"longitude": 10.885374160000001,
+				"latitude": 45.916652539999994
+			}
+		},
+		{
+			"name": "Cooperativa",
+			"area": 426.60777045402153,
+			"GeoCoordinate": {
+				"longitude": 10.790678759999999,
+				"latitude": 45.86580786
+			}
+		},
+		{
+			"name": "Margherita Conad",
+			"area": 536.7363991967187,
+			"GeoCoordinate": {
+				"longitude": 11.123914755555555,
+				"latitude": 46.053261355555556
+			}
+		},
+		{
+			"name": "Tovazzi Eurospesa",
+			"area": 468.3791687083169,
+			"GeoCoordinate": {
+				"longitude": 11.118663742857143,
+				"latitude": 46.07006891428573
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 225.8183247096025,
+			"GeoCoordinate": {
+				"longitude": 10.916574579999999,
+				"latitude": 45.96237552
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 331.73726855393875,
+			"GeoCoordinate": {
+				"longitude": 10.823333614285714,
+				"latitude": 45.93089862857142
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Pranzo",
+			"area": 236.20360556383488,
+			"GeoCoordinate": {
+				"longitude": 10.81812502857143,
+				"latitude": 45.92305581428572
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 332.3607726567412,
+			"GeoCoordinate": {
+				"longitude": 11.04544022,
+				"latitude": 45.9277022
+			}
+		},
+		{
+			"name": "Orvea",
+			"area": 1351.2894179103696,
+			"GeoCoordinate": {
+				"longitude": 10.9527341,
+				"latitude": 46.0464224
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 177.2592337584242,
+			"GeoCoordinate": {
+				"longitude": 10.94213124,
+				"latitude": 46.063639779999995
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 370.66377821253695,
+			"GeoCoordinate": {
+				"longitude": 10.9809547,
+				"latitude": 45.979613640000004
+			}
+		},
+		{
+			"area": 266.74542889283157,
+			"GeoCoordinate": {
+				"longitude": 10.72658722,
+				"latitude": 45.91257444
+			}
+		},
+		{
+			"area": 1169.7405785836738,
+			"GeoCoordinate": {
+				"longitude": 10.671566657142858,
+				"latitude": 45.88904581428572
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 409.4129393077981,
+			"GeoCoordinate": {
+				"longitude": 10.68736386,
+				"latitude": 45.893517540000005
+			}
+		},
+		{
+			"name": "CC Amort",
+			"area": 1890.548867268439,
+			"GeoCoordinate": {
+				"longitude": 11.236791855555555,
+				"latitude": 46.05558927777778
+			}
+		},
+		{
+			"name": "Targher",
+			"area": 270.63106308203857,
+			"GeoCoordinate": {
+				"longitude": 11.1721103,
+				"latitude": 45.915472944444446
+			}
+		},
+		{
+			"name": "Supermercato Poli",
+			"area": 980.2471176491808,
+			"GeoCoordinate": {
+				"longitude": 10.871834799999998,
+				"latitude": 46.0340562
+			}
+		},
+		{
+			"name": "Famiglia cooperativa",
+			"area": 277.52172980157155,
+			"GeoCoordinate": {
+				"longitude": 10.794489723076923,
+				"latitude": 46.05837191538462
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 350.9592211601442,
+			"GeoCoordinate": {
+				"longitude": 10.778050259999999,
+				"latitude": 46.05303104000001
+			}
+		},
+		{
+			"name": "Formaggi Trentini",
+			"area": 145.56943054137312,
+			"GeoCoordinate": {
+				"longitude": 10.724555380000002,
+				"latitude": 46.03288562
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 636.9948928956795,
+			"GeoCoordinate": {
+				"longitude": 10.765856320000001,
+				"latitude": 46.1625994
+			}
+		},
+		{
+			"area": 264.2543045629434,
+			"GeoCoordinate": {
+				"longitude": 10.757828700000001,
+				"latitude": 46.16631142000001
+			}
+		},
+		{
+			"name": "EuroSpar",
+			"area": 1583.1989318260705,
+			"GeoCoordinate": {
+				"longitude": 11.127855075,
+				"latitude": 46.0562897375
+			}
+		},
+		{
+			"area": 203.72375335919025,
+			"GeoCoordinate": {
+				"longitude": 10.838265560000002,
+				"latitude": 46.244459539999994
+			}
+		},
+		{
+			"name": "Famiglia cooperativa",
+			"area": 353.35231080694825,
+			"GeoCoordinate": {
+				"longitude": 10.751070371428572,
+				"latitude": 46.05775577142857
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 355.39038371341485,
+			"GeoCoordinate": {
+				"longitude": 11.213212299999999,
+				"latitude": 45.92495569999999
+			}
+		},
+		{
+			"area": 237.14713442236126,
+			"GeoCoordinate": {
+				"longitude": 11.11668762,
+				"latitude": 45.7652571
+			}
+		},
+		{
+			"name": "Eurospar",
+			"area": 968.3557096877701,
+			"GeoCoordinate": {
+				"longitude": 10.9088233,
+				"latitude": 46.34832082
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 409.80429430206186,
+			"GeoCoordinate": {
+				"longitude": 11.218596944444444,
+				"latitude": 45.994413377777775
+			}
+		},
+		{
+			"name": "Conad - Special Market",
+			"area": 503.4052511244006,
+			"GeoCoordinate": {
+				"longitude": 10.82640854,
+				"latitude": 46.23179358
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 1066.3692481524188,
+			"GeoCoordinate": {
+				"longitude": 11.121802366666666,
+				"latitude": 46.21577865555557
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 212.23004723550542,
+			"GeoCoordinate": {
+				"longitude": 11.093179619999999,
+				"latitude": 46.28914268
+			}
+		},
+		{
+			"name": "Mini Poli",
+			"area": 491.67219905744275,
+			"GeoCoordinate": {
+				"longitude": 11.111375246666665,
+				"latitude": 46.10763310000001
+			}
+		},
+		{
+			"name": "Cooperativa",
+			"area": 244.27095555506352,
+			"GeoCoordinate": {
+				"longitude": 11.266098899999998,
+				"latitude": 46.0142304
+			}
+		},
+		{
+			"name": "Lidl",
+			"area": 2468.5105846991096,
+			"GeoCoordinate": {
+				"longitude": 10.868062062500002,
+				"latitude": 45.876790587500004
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 972.4452922073955,
+			"GeoCoordinate": {
+				"longitude": 11.131829645454543,
+				"latitude": 46.0893121
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 875.9336395254273,
+			"GeoCoordinate": {
+				"longitude": 10.86514594,
+				"latitude": 45.919008899999994
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 750.3144529566819,
+			"GeoCoordinate": {
+				"longitude": 11.24958388,
+				"latitude": 45.94173821999999
+			}
+		},
+		{
+			"name": "Cooperativa Darzo",
+			"area": 253.7910259971448,
+			"GeoCoordinate": {
+				"longitude": 10.549480905000001,
+				"latitude": 45.84182192
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 433.680623188613,
+			"GeoCoordinate": {
+				"longitude": 11.206958680000001,
+				"latitude": 46.116128599999996
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 198.66872528450008,
+			"GeoCoordinate": {
+				"longitude": 10.75721592,
+				"latitude": 46.309206419999995
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 998.2049439231512,
+			"GeoCoordinate": {
+				"longitude": 11.258630257142858,
+				"latitude": 45.99445127142857
+			}
+		},
+		{
+			"name": "Despar",
+			"area": 272.74074692144586,
+			"GeoCoordinate": {
+				"longitude": 10.69067375,
+				"latitude": 46.297109400000004
+			}
+		},
+		{
+			"area": 191.13803761115588,
+			"GeoCoordinate": {
+				"longitude": 11.354187159999999,
+				"latitude": 46.23499224
+			}
+		},
+		{
+			"name": "Sait - Famiglia Cooperativa",
+			"area": 1042.6559899574436,
+			"GeoCoordinate": {
+				"longitude": 11.170555433333332,
+				"latitude": 46.248971555555556
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 565.6953524069644,
+			"GeoCoordinate": {
+				"longitude": 11.66892079,
+				"latitude": 45.990703960000005
+			}
+		},
+		{
+			"name": "Supermercati Trentini Famiglia Cooperativa",
+			"area": 511.61313769587196,
+			"GeoCoordinate": {
+				"longitude": 10.872793714285717,
+				"latitude": 46.32730597142857
+			}
+		},
+		{
+			"area": 1885.476555190785,
+			"GeoCoordinate": {
+				"longitude": 10.87040265,
+				"latitude": 46.329202224999996
+			}
+		},
+		{
+			"area": 332.15442384834205,
+			"GeoCoordinate": {
+				"longitude": 10.8711003,
+				"latitude": 45.917164879999994
+			}
+		},
+		{
+			"name": "Conad City",
+			"area": 868.5880841413734,
+			"GeoCoordinate": {
+				"longitude": 10.865033528571429,
+				"latitude": 46.32761157142857
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 254.18572926034435,
+			"GeoCoordinate": {
+				"longitude": 11.327097236363638,
+				"latitude": 46.21659008181818
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 355.1833044564364,
+			"GeoCoordinate": {
+				"longitude": 11.1188521,
+				"latitude": 45.78283748
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 159.69432004443752,
+			"GeoCoordinate": {
+				"longitude": 11.11862682,
+				"latitude": 46.30697268
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 301.90862381886427,
+			"GeoCoordinate": {
+				"longitude": 10.879768344444448,
+				"latitude": 46.031018
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 283.28565807947825,
+			"GeoCoordinate": {
+				"longitude": 11.634483079999999,
+				"latitude": 46.0619799
+			}
+		},
+		{
+			"name": "Eurospar",
+			"area": 1889.8038861097161,
+			"GeoCoordinate": {
+				"longitude": 11.490357460000002,
+				"latitude": 46.29258696
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 439.00425233168903,
+			"GeoCoordinate": {
+				"longitude": 11.660468933333334,
+				"latitude": 46.376934255555554
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Caoria",
+			"area": 202.8321385114686,
+			"GeoCoordinate": {
+				"longitude": 11.67929878,
+				"latitude": 46.19743416
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Zortea",
+			"area": 190.83758508517343,
+			"GeoCoordinate": {
+				"longitude": 11.748522900000001,
+				"latitude": 46.16258458
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 452.712096436995,
+			"GeoCoordinate": {
+				"longitude": 11.107025957142856,
+				"latitude": 46.431379
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Prade",
+			"area": 283.7953167386929,
+			"GeoCoordinate": {
+				"longitude": 11.740672416666667,
+				"latitude": 46.157489533333326
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Canal San Bovo",
+			"area": 190.2075032808683,
+			"GeoCoordinate": {
+				"longitude": 11.73228534,
+				"latitude": 46.1552561
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 342.9348049163746,
+			"GeoCoordinate": {
+				"longitude": 11.232646418181817,
+				"latitude": 45.96892321818182
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 152.9439369361085,
+			"GeoCoordinate": {
+				"longitude": 11.09468414,
+				"latitude": 46.362469659999995
+			}
+		},
+		{
+			"name": "LIDL",
+			"area": 1566.8165543143461,
+			"GeoCoordinate": {
+				"longitude": 11.0945245,
+				"latitude": 46.210486759999995
+			}
+		},
+		{
+			"name": "Iperpoli",
+			"area": 2366.2738607667943,
+			"GeoCoordinate": {
+				"longitude": 10.911373585714287,
+				"latitude": 46.34840379999999
+			}
+		},
+		{
+			"name": "Eurospin",
+			"area": 962.8387783431435,
+			"GeoCoordinate": {
+				"longitude": 10.91070138,
+				"latitude": 46.3480767
+			}
+		},
+		{
+			"name": "La Bottega di Zambiasi",
+			"area": 131.77533419532858,
+			"GeoCoordinate": {
+				"longitude": 11.13578685,
+				"latitude": 46.44001985
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 563.9094609214128,
+			"GeoCoordinate": {
+				"longitude": 11.119022585714287,
+				"latitude": 46.393794185714285
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 999.8367748477585,
+			"GeoCoordinate": {
+				"longitude": 10.912976812499998,
+				"latitude": 45.95968386250001
+			}
+		},
+		{
+			"name": "Conad",
+			"area": 343.66884825960886,
+			"GeoCoordinate": {
+				"longitude": 11.0402147,
+				"latitude": 45.891083574999996
+			}
+		},
+		{
+			"name": "INTERSPAR",
+			"area": 2370.0586190123418,
+			"GeoCoordinate": {
+				"longitude": 11.014867762162162,
+				"latitude": 45.869483427027035
+			}
+		},
+		{
+			"name": "Coop",
+			"area": 423.2057992669421,
+			"GeoCoordinate": {
+				"longitude": 11.561946257142855,
+				"latitude": 46.28668727142858
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"area": 481.8589772477929,
+			"GeoCoordinate": {
+				"longitude": 11.116049033333333,
+				"latitude": 46.45530399999999
+			}
+		},
+		{
+			"name": "COOP Trentino",
+			"area": 333.7724251625396,
+			"GeoCoordinate": {
+				"longitude": 11.11181058,
+				"latitude": 46.04076568000001
+			}
+		},
+		{
+			"name": "Eurospin",
+			"area": 2465.2456347545567,
+			"GeoCoordinate": {
+				"longitude": 11.10619282,
+				"latitude": 46.10490712000001
+			}
+		},
+		{
+			"name": "MD",
+			"area": 2597.0809632061105,
+			"GeoCoordinate": {
+				"longitude": 11.031111927272727,
+				"latitude": 45.87424942727272
+			}
+		},
+		{
+			"name": "Eurospar",
+			"area": 1539.19689464911,
+			"GeoCoordinate": {
+				"longitude": 11.006944563636363,
+				"latitude": 45.75803746363637
+			}
+		},
+		{
+			"name": "Eurospar",
+			"area": 1477.117905032164,
+			"GeoCoordinate": {
+				"longitude": 11.041139715384615,
+				"latitude": 45.907781561538464
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1396505,
+				"latitude": 46.0706912
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.5115513,
+				"latitude": 46.2898165
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.4160248,
+				"latitude": 46.2730677
+			}
+		},
+		{
+			"name": "Alimentari Cavada",
+			"GeoCoordinate": {
+				"longitude": 11.4194903,
+				"latitude": 46.2737428
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.4346627,
+				"latitude": 46.2815749
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.215569,
+				"latitude": 46.0854316
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.2188721,
+				"latitude": 46.1436183
+			}
+		},
+		{
+			"name": "COOP",
+			"GeoCoordinate": {
+				"longitude": 11.6512289,
+				"latitude": 46.3691185
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.1056042,
+				"latitude": 46.0169011
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2439692,
+				"latitude": 46.1321475
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.2491243,
+				"latitude": 46.1343174
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.2469627,
+				"latitude": 46.1316692
+			}
+		},
+		{
+			"name": "Coop Famiglia",
+			"GeoCoordinate": {
+				"longitude": 10.9103205,
+				"latitude": 46.3508636
+			}
+		},
+		{
+			"name": "DeSpar",
+			"GeoCoordinate": {
+				"longitude": 10.8026501,
+				"latitude": 46.3159101
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7957428,
+				"latitude": 46.3165834
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Povo",
+			"GeoCoordinate": {
+				"longitude": 11.1544666,
+				"latitude": 46.0662059
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1419313,
+				"latitude": 46.0768325
+			}
+		},
+		{
+			"name": "Conad City",
+			"GeoCoordinate": {
+				"longitude": 11.2388017,
+				"latitude": 46.0611105
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.1329721,
+				"latitude": 46.0893811
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8412336,
+				"latitude": 45.9078222
+			}
+		},
+		{
+			"name": "Cooperativa di Strembo",
+			"GeoCoordinate": {
+				"longitude": 10.7516126,
+				"latitude": 46.1206938
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1612811,
+				"latitude": 46.1925747
+			}
+		},
+		{
+			"name": "Cantina Frantoio",
+			"GeoCoordinate": {
+				"longitude": 10.8527754,
+				"latitude": 45.8974302
+			}
+		},
+		{
+			"name": "Vivo",
+			"GeoCoordinate": {
+				"longitude": 11.1313911,
+				"latitude": 46.19526
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1325889,
+				"latitude": 46.1933171
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.6020321,
+				"latitude": 46.3135246
+			}
+		},
+		{
+			"name": "Supermercato Poli",
+			"GeoCoordinate": {
+				"longitude": 11.5932141,
+				"latitude": 46.3036354
+			}
+		},
+		{
+			"name": "Lidl",
+			"GeoCoordinate": {
+				"longitude": 10.8520823,
+				"latitude": 45.8965602
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.6007515,
+				"latitude": 46.3128694
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.598513,
+				"latitude": 46.3141926
+			}
+		},
+		{
+			"name": "SAIT",
+			"GeoCoordinate": {
+				"longitude": 10.9799342,
+				"latitude": 45.8452313
+			}
+		},
+		{
+			"name": "Supermercati Poli",
+			"GeoCoordinate": {
+				"longitude": 11.0025475,
+				"latitude": 45.7593408
+			}
+		},
+		{
+			"name": "Minimarket",
+			"GeoCoordinate": {
+				"longitude": 10.9024978,
+				"latitude": 45.9499618
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.3023386,
+				"latitude": 46.0089476
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2377096,
+				"latitude": 46.0610492
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.9133812,
+				"latitude": 46.360811
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8454558,
+				"latitude": 46.4012625
+			}
+		},
+		{
+			"name": "Centro commerciale",
+			"GeoCoordinate": {
+				"longitude": 10.810411,
+				"latitude": 46.3049112
+			}
+		},
+		{
+			"name": "Supermercati Trentino Coop",
+			"GeoCoordinate": {
+				"longitude": 10.8728766,
+				"latitude": 46.3273098
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.3363207,
+				"latitude": 46.0048689
+			}
+		},
+		{
+			"name": "Supermercati Poli",
+			"GeoCoordinate": {
+				"longitude": 10.8706446,
+				"latitude": 45.9101496
+			}
+		},
+		{
+			"name": "Eurospar",
+			"GeoCoordinate": {
+				"longitude": 11.2324842,
+				"latitude": 46.063642
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.6930817,
+				"latitude": 46.3519597
+			}
+		},
+		{
+			"name": "Conad City",
+			"GeoCoordinate": {
+				"longitude": 11.1454301,
+				"latitude": 46.047901
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.8733134,
+				"latitude": 46.0357147
+			}
+		},
+		{
+			"name": "Central Market",
+			"GeoCoordinate": {
+				"longitude": 10.9665101,
+				"latitude": 46.1427735
+			}
+		},
+		{
+			"name": "Supermercato Poli di Largo medaglie d'oro",
+			"GeoCoordinate": {
+				"longitude": 11.1326139,
+				"latitude": 46.0579964
+			}
+		},
+		{
+			"name": "Coop Superstore",
+			"GeoCoordinate": {
+				"longitude": 11.1296069,
+				"latitude": 46.0445635
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1330849,
+				"latitude": 46.040605
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.1314183,
+				"latitude": 46.0643926
+			}
+		},
+		{
+			"name": "Fam Coop pinzolo Fil Mavignola",
+			"GeoCoordinate": {
+				"longitude": 10.7879622,
+				"latitude": 46.1906982
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.0958779,
+				"latitude": 45.7948557
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2817727,
+				"latitude": 46.0912311
+			}
+		},
+		{
+			"name": "COOP",
+			"GeoCoordinate": {
+				"longitude": 10.8536661,
+				"latitude": 45.8832053
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.243034,
+				"latitude": 46.0058114
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2203292,
+				"latitude": 46.1754026
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.2224578,
+				"latitude": 46.1740118
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.2256122,
+				"latitude": 46.1780451
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.1876903,
+				"latitude": 46.1605689
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.1091253,
+				"latitude": 46.1389392
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa (Coop)",
+			"GeoCoordinate": {
+				"longitude": 10.5512194,
+				"latitude": 45.8055178
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1120562,
+				"latitude": 46.1384202
+			}
+		},
+		{
+			"name": "CONAD City",
+			"GeoCoordinate": {
+				"longitude": 11.1139086,
+				"latitude": 46.1387907
+			}
+		},
+		{
+			"name": "EuroSPIN",
+			"GeoCoordinate": {
+				"longitude": 11.1206354,
+				"latitude": 46.0545335
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.1198111,
+				"latitude": 46.09449
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Besagno",
+			"GeoCoordinate": {
+				"longitude": 10.9690495,
+				"latitude": 45.8377514
+			}
+		},
+		{
+			"name": "Regina Poli",
+			"GeoCoordinate": {
+				"longitude": 11.2984452,
+				"latitude": 46.010694
+			}
+		},
+		{
+			"name": "Supermercato PAM",
+			"GeoCoordinate": {
+				"longitude": 11.1162507,
+				"latitude": 46.0946011
+			}
+		},
+		{
+			"name": "Dpi\u00c3\u00b9",
+			"GeoCoordinate": {
+				"longitude": 11.6986997,
+				"latitude": 46.425625
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 10.998879,
+				"latitude": 46.0773733
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.8758395,
+				"latitude": 45.8704499
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.2295905,
+				"latitude": 46.0283728
+			}
+		},
+		{
+			"name": "Sisa",
+			"GeoCoordinate": {
+				"longitude": 11.0334572,
+				"latitude": 45.8751486
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Monte Baldo",
+			"GeoCoordinate": {
+				"longitude": 10.9541624,
+				"latitude": 45.8171998
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.6930368,
+				"latitude": 46.0006466
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0942412,
+				"latitude": 45.9331346
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.8007958,
+				"latitude": 46.152351
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.8060964,
+				"latitude": 46.1540765
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.7967828,
+				"latitude": 46.1507853
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0645985,
+				"latitude": 46.087869
+			}
+		},
+		{
+			"name": "Cooperativa di Preore",
+			"GeoCoordinate": {
+				"longitude": 10.7609979,
+				"latitude": 46.0464181
+			}
+		},
+		{
+			"name": "Supermercati Trentini",
+			"GeoCoordinate": {
+				"longitude": 11.0424154,
+				"latitude": 45.8903377
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.4445674,
+				"latitude": 46.2871317
+			}
+		},
+		{
+			"name": "Supermercato Coop",
+			"GeoCoordinate": {
+				"longitude": 11.4443474,
+				"latitude": 46.2873613
+			}
+		},
+		{
+			"name": "Cooperativa di Villalagarina",
+			"GeoCoordinate": {
+				"longitude": 11.0329215,
+				"latitude": 45.914963
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Primanaunia",
+			"GeoCoordinate": {
+				"longitude": 11.0867079,
+				"latitude": 46.26475
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1290668,
+				"latitude": 46.0668155
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.1411854,
+				"latitude": 46.4201824
+			}
+		},
+		{
+			"name": "Alimentari Romedio",
+			"GeoCoordinate": {
+				"longitude": 11.1771572,
+				"latitude": 46.4146772
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.3025112,
+				"latitude": 46.1078754
+			}
+		},
+		{
+			"name": "Margehrita Conad",
+			"GeoCoordinate": {
+				"longitude": 11.6683745,
+				"latitude": 46.3957165
+			}
+		},
+		{
+			"name": "Supermercato Coop",
+			"GeoCoordinate": {
+				"longitude": 10.9025319,
+				"latitude": 45.9125572
+			}
+		},
+		{
+			"name": "Supermarket Coop",
+			"GeoCoordinate": {
+				"longitude": 10.8858984,
+				"latitude": 45.9169626
+			}
+		},
+		{
+			"name": "Supermercati Trentini - SAIT",
+			"GeoCoordinate": {
+				"longitude": 10.7253504,
+				"latitude": 46.031276
+			}
+		},
+		{
+			"name": "Alimentari Rosani - Despar",
+			"GeoCoordinate": {
+				"longitude": 11.0366766,
+				"latitude": 46.3635627
+			}
+		},
+		{
+			"name": "Minela",
+			"GeoCoordinate": {
+				"longitude": 11.0369267,
+				"latitude": 46.3613668
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.0290811,
+				"latitude": 46.3571446
+			}
+		},
+		{
+			"name": "Supermarcati Trentini",
+			"GeoCoordinate": {
+				"longitude": 11.4622085,
+				"latitude": 46.0561202
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.168605,
+				"latitude": 46.2505196
+			}
+		},
+		{
+			"name": "COOP Viale Trento",
+			"GeoCoordinate": {
+				"longitude": 11.0421453,
+				"latitude": 45.9006113
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.1322939,
+				"latitude": 46.0143623
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.1811582,
+				"latitude": 46.0902243
+			}
+		},
+		{
+			"name": "L'Origine",
+			"GeoCoordinate": {
+				"longitude": 11.1263983,
+				"latitude": 46.0614485
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.8094523,
+				"latitude": 46.3035073
+			}
+		},
+		{
+			"name": "Discount",
+			"GeoCoordinate": {
+				"longitude": 10.9099973,
+				"latitude": 46.3508732
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.8398699,
+				"latitude": 46.321625
+			}
+		},
+		{
+			"name": "supermarket",
+			"GeoCoordinate": {
+				"longitude": 11.0339252,
+				"latitude": 46.2582906
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Perginese",
+			"GeoCoordinate": {
+				"longitude": 11.3514815,
+				"latitude": 46.1291728
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.5534689,
+				"latitude": 46.2836882
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.4547445,
+				"latitude": 46.2893957
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.2239498,
+				"latitude": 46.0681133
+			}
+		},
+		{
+			"name": "Erboristeria La Sorgente",
+			"GeoCoordinate": {
+				"longitude": 11.4438661,
+				"latitude": 46.2876207
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 10.733283,
+				"latitude": 46.0351577
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.059741,
+				"latitude": 46.0716693
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1948239,
+				"latitude": 46.1443003
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.7344712,
+				"latitude": 46.1504143
+			}
+		},
+		{
+			"name": "Famiglia cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2342036,
+				"latitude": 46.1601462
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.1017849,
+				"latitude": 46.0820991
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.9432407,
+				"latitude": 46.3654566
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.841909,
+				"latitude": 46.0041405
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.8424079,
+				"latitude": 46.0049975
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0713887,
+				"latitude": 45.9288614
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0962387,
+				"latitude": 46.151461
+			}
+		},
+		{
+			"name": "Crai Minimarket",
+			"GeoCoordinate": {
+				"longitude": 11.8000981,
+				"latitude": 46.2617201
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.0593789,
+				"latitude": 46.0708749
+			}
+		},
+		{
+			"name": "Despar GiElle",
+			"GeoCoordinate": {
+				"longitude": 11.069156,
+				"latitude": 45.9170548
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0634477,
+				"latitude": 45.9166045
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.0352319,
+				"latitude": 45.9154496
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.0346406,
+				"latitude": 45.9154361
+			}
+		},
+		{
+			"name": "Alimentari Dal Marcante",
+			"GeoCoordinate": {
+				"longitude": 11.0048515,
+				"latitude": 46.1662322
+			}
+		},
+		{
+			"name": "Conad City",
+			"GeoCoordinate": {
+				"longitude": 11.002146,
+				"latitude": 46.1636906
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 10.6172991,
+				"latitude": 45.9115868
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 10.6170278,
+				"latitude": 45.9114781
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.8837384,
+				"latitude": 45.9205511
+			}
+		},
+		{
+			"name": "Supermercati Poli",
+			"GeoCoordinate": {
+				"longitude": 10.8450002,
+				"latitude": 45.8869913
+			}
+		},
+		{
+			"name": "Supemercato Lombardi",
+			"GeoCoordinate": {
+				"longitude": 10.5365937,
+				"latitude": 45.8296676
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.6511094,
+				"latitude": 46.3696151
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8321408,
+				"latitude": 45.9197525
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.058367,
+				"latitude": 46.3468277
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.8294687,
+				"latitude": 46.1766597
+			}
+		},
+		{
+			"name": "Iperpoli",
+			"GeoCoordinate": {
+				"longitude": 11.4729434,
+				"latitude": 46.0555848
+			}
+		},
+		{
+			"name": "Iper Soap",
+			"GeoCoordinate": {
+				"longitude": 11.1184553,
+				"latitude": 46.2145473
+			}
+		},
+		{
+			"name": "Conad - Nicolodi",
+			"GeoCoordinate": {
+				"longitude": 11.1234678,
+				"latitude": 46.0704005
+			}
+		},
+		{
+			"name": "Eurospar",
+			"GeoCoordinate": {
+				"longitude": 11.122769,
+				"latitude": 46.0697626
+			}
+		},
+		{
+			"name": "Famiglia cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0090438,
+				"latitude": 45.8853304
+			}
+		},
+		{
+			"name": "Schlecker",
+			"GeoCoordinate": {
+				"longitude": 11.1025244,
+				"latitude": 46.2089761
+			}
+		},
+		{
+			"name": "Eurodespar",
+			"GeoCoordinate": {
+				"longitude": 11.128351,
+				"latitude": 46.0563672
+			}
+		},
+		{
+			"name": "Coop Mattarello",
+			"GeoCoordinate": {
+				"longitude": 11.1276501,
+				"latitude": 46.0071075
+			}
+		},
+		{
+			"name": "COOP Trentino",
+			"GeoCoordinate": {
+				"longitude": 11.1200879,
+				"latitude": 46.0771375
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0780283,
+				"latitude": 46.2755032
+			}
+		},
+		{
+			"name": "Muntenia Market \/ din Rom\u00c3\u00a2nia",
+			"GeoCoordinate": {
+				"longitude": 11.1258582,
+				"latitude": 46.0710267
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2372463,
+				"latitude": 45.9789791
+			}
+		},
+		{
+			"name": "Mio Negozio di Hu Ling",
+			"GeoCoordinate": {
+				"longitude": 11.1179594,
+				"latitude": 46.0915541
+			}
+		},
+		{
+			"name": "Coop Trentino",
+			"GeoCoordinate": {
+				"longitude": 11.1217447,
+				"latitude": 46.087
+			}
+		},
+		{
+			"name": "NaturaS\u00c3\u00ac",
+			"GeoCoordinate": {
+				"longitude": 11.1227357,
+				"latitude": 46.0794525
+			}
+		},
+		{
+			"name": "Margherita Conad",
+			"GeoCoordinate": {
+				"longitude": 11.168022,
+				"latitude": 45.916959
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1713655,
+				"latitude": 45.9157899
+			}
+		},
+		{
+			"name": "Famiglia Coperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0000168,
+				"latitude": 45.9026802
+			}
+		},
+		{
+			"name": "Mini Market",
+			"GeoCoordinate": {
+				"longitude": 11.0575321,
+				"latitude": 46.0394038
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 10.6888013,
+				"latitude": 46.296443
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 10.9500341,
+				"latitude": 45.8896925
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1170564,
+				"latitude": 46.1227454
+			}
+		},
+		{
+			"name": "Conad Market Moser",
+			"GeoCoordinate": {
+				"longitude": 11.1173266,
+				"latitude": 46.1283108
+			}
+		},
+		{
+			"name": "DeSpar",
+			"GeoCoordinate": {
+				"longitude": 10.6937125,
+				"latitude": 46.3516329
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2064209,
+				"latitude": 46.069498
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.0506417,
+				"latitude": 46.2738746
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.9286048,
+				"latitude": 46.2043746
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.5991476,
+				"latitude": 45.8885022
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.7261453,
+				"latitude": 46.0417669
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1066124,
+				"latitude": 46.15333
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1254414,
+				"latitude": 46.1723034
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0453047,
+				"latitude": 46.0818541
+			}
+		},
+		{
+			"name": "Mela Ortofrutta",
+			"GeoCoordinate": {
+				"longitude": 11.199141,
+				"latitude": 46.005183
+			}
+		},
+		{
+			"name": "Margherita CONAD",
+			"GeoCoordinate": {
+				"longitude": 11.1991954,
+				"latitude": 46.0050272
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.8401539,
+				"latitude": 46.1818149
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0062266,
+				"latitude": 45.9236542
+			}
+		},
+		{
+			"name": "coop Familia Coprativa",
+			"GeoCoordinate": {
+				"longitude": 11.7402982,
+				"latitude": 46.4762472
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 10.8613759,
+				"latitude": 45.9103326
+			}
+		},
+		{
+			"name": "Euro Spin",
+			"GeoCoordinate": {
+				"longitude": 11.127309,
+				"latitude": 46.0480568
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.1399981,
+				"latitude": 46.4139861
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.0027082,
+				"latitude": 46.3995348
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Valle di Ledro Societ\u00c3\u00a0 Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.743694,
+				"latitude": 45.8704118
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.1252248,
+				"latitude": 46.0746828
+			}
+		},
+		{
+			"name": "Conad City",
+			"GeoCoordinate": {
+				"longitude": 10.975616,
+				"latitude": 45.995064
+			}
+		},
+		{
+			"name": "Margherita Conad",
+			"GeoCoordinate": {
+				"longitude": 10.98337,
+				"latitude": 46.044792
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.988257,
+				"latitude": 46.062212
+			}
+		},
+		{
+			"name": "Tuod\u00c3\u00ac",
+			"GeoCoordinate": {
+				"longitude": 10.5700353,
+				"latitude": 45.8546222
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8884222,
+				"latitude": 46.3364953
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7624055,
+				"latitude": 46.1690075
+			}
+		},
+		{
+			"name": "Agrimarket \"La dispensa\"",
+			"GeoCoordinate": {
+				"longitude": 10.7309159,
+				"latitude": 46.3096509
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.5979582,
+				"latitude": 45.8864058
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0849878,
+				"latitude": 46.4167573
+			}
+		},
+		{
+			"name": "spar",
+			"GeoCoordinate": {
+				"longitude": 11.0611356,
+				"latitude": 46.3919901
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1526251,
+				"latitude": 46.1572698
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.1216631,
+				"latitude": 46.0560983
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9970527,
+				"latitude": 45.7541524
+			}
+		},
+		{
+			"name": "Famiglia Coop",
+			"GeoCoordinate": {
+				"longitude": 10.9719596,
+				"latitude": 45.9934545
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Coop",
+			"GeoCoordinate": {
+				"longitude": 10.6381656,
+				"latitude": 45.9385466
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9541652,
+				"latitude": 45.816802
+			}
+		},
+		{
+			"name": "A&O",
+			"GeoCoordinate": {
+				"longitude": 11.6351456,
+				"latitude": 46.0172162
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2476583,
+				"latitude": 46.1272515
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.7551901,
+				"latitude": 46.3111506
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.0448754,
+				"latitude": 46.0980196
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.2758472,
+				"latitude": 46.0788963
+			}
+		},
+		{
+			"name": "Margherita Conad",
+			"GeoCoordinate": {
+				"longitude": 10.8908442,
+				"latitude": 45.8777433
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 10.973793,
+				"latitude": 45.8485567
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.1188856,
+				"latitude": 45.7827967
+			}
+		},
+		{
+			"name": "Cooperativa Trentina",
+			"GeoCoordinate": {
+				"longitude": 10.7018741,
+				"latitude": 46.3438379
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9585376,
+				"latitude": 46.1381929
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.9587669,
+				"latitude": 46.1399158
+			}
+		},
+		{
+			"name": "Fratelli Ravanelli",
+			"GeoCoordinate": {
+				"longitude": 11.2461899,
+				"latitude": 46.1337583
+			}
+		},
+		{
+			"name": "Prix",
+			"GeoCoordinate": {
+				"longitude": 11.104805,
+				"latitude": 46.1401497
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.0894082,
+				"latitude": 46.2132593
+			}
+		},
+		{
+			"name": "GlutenFree World",
+			"GeoCoordinate": {
+				"longitude": 11.1080407,
+				"latitude": 46.1117843
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.1149177,
+				"latitude": 46.0832568
+			}
+		},
+		{
+			"name": "ENI Shop",
+			"GeoCoordinate": {
+				"longitude": 11.1308081,
+				"latitude": 46.0443261
+			}
+		},
+		{
+			"name": "Cooperativa Brenta Paganella",
+			"GeoCoordinate": {
+				"longitude": 10.8664863,
+				"latitude": 46.0238837
+			}
+		},
+		{
+			"name": "Minimarket Salizzoni",
+			"GeoCoordinate": {
+				"longitude": 10.8202816,
+				"latitude": 46.0169997
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Perginese",
+			"GeoCoordinate": {
+				"longitude": 11.2297149,
+				"latitude": 46.0419897
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1117786,
+				"latitude": 46.1084201
+			}
+		},
+		{
+			"name": "IperPoli",
+			"GeoCoordinate": {
+				"longitude": 11.1187131,
+				"latitude": 46.0887029
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0954961,
+				"latitude": 46.3217465
+			}
+		},
+		{
+			"name": "Eder",
+			"GeoCoordinate": {
+				"longitude": 11.4609449,
+				"latitude": 46.2912348
+			}
+		},
+		{
+			"name": "Conad Margherita",
+			"GeoCoordinate": {
+				"longitude": 11.0008901,
+				"latitude": 45.7560226
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.0690079,
+				"latitude": 46.3171045
+			}
+		},
+		{
+			"name": "Famiglia cooperativa Storo",
+			"GeoCoordinate": {
+				"longitude": 10.5792221,
+				"latitude": 45.8492276
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 10.5670138,
+				"latitude": 45.8542094
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9829707,
+				"latitude": 46.0229389
+			}
+		},
+		{
+			"name": "Trentino Glutine",
+			"GeoCoordinate": {
+				"longitude": 10.5403473,
+				"latitude": 45.8316303
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0199373,
+				"latitude": 46.0981954
+			}
+		},
+		{
+			"name": "C&C Amort",
+			"GeoCoordinate": {
+				"longitude": 10.7372149,
+				"latitude": 46.1005802
+			}
+		},
+		{
+			"name": "Conad Spesa Facile",
+			"GeoCoordinate": {
+				"longitude": 10.7360274,
+				"latitude": 46.1007012
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9535239,
+				"latitude": 45.7414364
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.6732461,
+				"latitude": 46.3632637
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.6733433,
+				"latitude": 46.3633292
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.6736266,
+				"latitude": 46.3636572
+			}
+		},
+		{
+			"name": "Famiglia Coperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7529389,
+				"latitude": 45.8822109
+			}
+		},
+		{
+			"name": "MD",
+			"GeoCoordinate": {
+				"longitude": 11.1143171,
+				"latitude": 46.0923408
+			}
+		},
+		{
+			"name": "F.C. Vattaro e Altipiani",
+			"GeoCoordinate": {
+				"longitude": 11.2483696,
+				"latitude": 45.9300452
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1342727,
+				"latitude": 46.132069
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.0342516,
+				"latitude": 46.2865766
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.036663,
+				"latitude": 45.898352
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.4720051,
+				"latitude": 46.0557071
+			}
+		},
+		{
+			"name": "COOP",
+			"GeoCoordinate": {
+				"longitude": 11.109904,
+				"latitude": 45.9415967
+			}
+		},
+		{
+			"name": "Supermercati Trentini",
+			"GeoCoordinate": {
+				"longitude": 11.4105994,
+				"latitude": 46.0529324
+			}
+		},
+		{
+			"name": "Centro Spesa Corona",
+			"GeoCoordinate": {
+				"longitude": 11.7200931,
+				"latitude": 46.1526424
+			}
+		},
+		{
+			"name": "Vanoiofficinalis",
+			"GeoCoordinate": {
+				"longitude": 11.7173219,
+				"latitude": 46.1419587
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0304576,
+				"latitude": 46.2997196
+			}
+		},
+		{
+			"name": "Famigli Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0473094,
+				"latitude": 46.3148069
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.79964,
+				"latitude": 46.2621931
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8263188,
+				"latitude": 46.2305265
+			}
+		},
+		{
+			"name": "D-Pi\u00c3\u00b9",
+			"GeoCoordinate": {
+				"longitude": 11.0322839,
+				"latitude": 45.877563
+			}
+		},
+		{
+			"name": "MD",
+			"GeoCoordinate": {
+				"longitude": 11.8036748,
+				"latitude": 46.1487361
+			}
+		},
+		{
+			"name": "MiniMarket inbesta",
+			"GeoCoordinate": {
+				"longitude": 10.7677066,
+				"latitude": 45.8756552
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7290815,
+				"latitude": 45.9062149
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.4624812,
+				"latitude": 46.2912674
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.0903551,
+				"latitude": 45.9765982
+			}
+		},
+		{
+			"name": "Conad City",
+			"GeoCoordinate": {
+				"longitude": 11.232842,
+				"latitude": 46.0657607
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Valle di Ledro Societ\u00c3\u00a0 Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7319527,
+				"latitude": 45.8858664
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa di Caoria",
+			"GeoCoordinate": {
+				"longitude": 11.6793638,
+				"latitude": 46.1974428
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.1004588,
+				"latitude": 46.2072565
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 10.9725453,
+				"latitude": 45.851426
+			}
+		},
+		{
+			"name": "Verde e Blu",
+			"GeoCoordinate": {
+				"longitude": 10.764584,
+				"latitude": 46.1584842
+			}
+		},
+		{
+			"name": "Belvedere",
+			"GeoCoordinate": {
+				"longitude": 10.8672925,
+				"latitude": 46.2971049
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 10.5880757,
+				"latitude": 46.260591
+			}
+		},
+		{
+			"name": "Dpi\u00c3\u00b9",
+			"GeoCoordinate": {
+				"longitude": 10.8756491,
+				"latitude": 45.9135814
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.6213139,
+				"latitude": 45.947287
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.9447602,
+				"latitude": 45.9704141
+			}
+		},
+		{
+			"name": "Coop Trentino",
+			"GeoCoordinate": {
+				"longitude": 11.0002815,
+				"latitude": 46.1666057
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 10.7155775,
+				"latitude": 45.8953946
+			}
+		},
+		{
+			"name": "Alimentari Turini",
+			"GeoCoordinate": {
+				"longitude": 10.7193348,
+				"latitude": 45.8961178
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7253378,
+				"latitude": 45.8994215
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.7173405,
+				"latitude": 45.8964802
+			}
+		},
+		{
+			"name": "Naturarco",
+			"GeoCoordinate": {
+				"longitude": 10.876222,
+				"latitude": 45.9134849
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Varena",
+			"GeoCoordinate": {
+				"longitude": 11.4563692,
+				"latitude": 46.303627
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1838948,
+				"latitude": 46.1070102
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.87035,
+				"latitude": 46.0330378
+			}
+		},
+		{
+			"name": "Frutta e Verdura Parsi",
+			"GeoCoordinate": {
+				"longitude": 10.8677578,
+				"latitude": 46.037082
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 10.837214,
+				"latitude": 46.0247351
+			}
+		},
+		{
+			"name": "Aldi",
+			"GeoCoordinate": {
+				"longitude": 11.1174423,
+				"latitude": 46.0858835
+			}
+		},
+		{
+			"name": "Aldi",
+			"GeoCoordinate": {
+				"longitude": 11.4736026,
+				"latitude": 46.0544658
+			}
+		},
+		{
+			"name": "specialita alimentari frizzeria",
+			"GeoCoordinate": {
+				"longitude": 10.8397347,
+				"latitude": 45.8887125
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.0755944,
+				"latitude": 46.3658536
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.3187468,
+				"latitude": 46.0149922
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.1364044,
+				"latitude": 46.4373624
+			}
+		},
+		{
+			"GeoCoordinate": {
+				"longitude": 11.0319155,
+				"latitude": 45.8668109
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.9755219,
+				"latitude": 45.8201315
+			}
+		},
+		{
+			"name": "Amort",
+			"GeoCoordinate": {
+				"longitude": 11.2720413,
+				"latitude": 45.9945081
+			}
+		},
+		{
+			"name": "MD",
+			"GeoCoordinate": {
+				"longitude": 11.1298485,
+				"latitude": 46.0363492
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0692701,
+				"latitude": 46.3733792
+			}
+		},
+		{
+			"name": "LIDL",
+			"GeoCoordinate": {
+				"longitude": 11.1989656,
+				"latitude": 46.0826322
+			}
+		},
+		{
+			"name": "Orvea",
+			"GeoCoordinate": {
+				"longitude": 11.1992861,
+				"latitude": 46.0828973
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.1128309,
+				"latitude": 45.9410858
+			}
+		},
+		{
+			"name": "Conad",
+			"GeoCoordinate": {
+				"longitude": 11.0707997,
+				"latitude": 46.1804541
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 10.8410093,
+				"latitude": 45.8877421
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.1996174,
+				"latitude": 46.0041848
+			}
+		},
+		{
+			"name": "EuroSpin",
+			"GeoCoordinate": {
+				"longitude": 11.1413467,
+				"latitude": 46.425811
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0457256,
+				"latitude": 46.3414191
+			}
+		},
+		{
+			"name": "Margherita",
+			"GeoCoordinate": {
+				"longitude": 11.021426,
+				"latitude": 45.9017313
+			}
+		},
+		{
+			"name": "Lidl",
+			"GeoCoordinate": {
+				"longitude": 11.0469782,
+				"latitude": 46.352119
+			}
+		},
+		{
+			"name": "Eurospin",
+			"GeoCoordinate": {
+				"longitude": 11.0350873,
+				"latitude": 46.3675013
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Grigno",
+			"GeoCoordinate": {
+				"longitude": 11.634526,
+				"latitude": 46.0168653
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.0304961,
+				"latitude": 46.2366095
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa Cimone",
+			"GeoCoordinate": {
+				"longitude": 11.0683226,
+				"latitude": 45.978059
+			}
+		},
+		{
+			"name": "Regina",
+			"GeoCoordinate": {
+				"longitude": 10.7370214,
+				"latitude": 46.1002401
+			}
+		},
+		{
+			"name": "Alimentari, souvenir, frutta e verdura",
+			"GeoCoordinate": {
+				"longitude": 11.3248098,
+				"latitude": 45.9232584
+			}
+		},
+		{
+			"name": "Famiglia Cooperativa",
+			"GeoCoordinate": {
+				"longitude": 10.8184601,
+				"latitude": 46.410533
+			}
+		},
+		{
+			"name": "Famiglia cooperativa",
+			"GeoCoordinate": {
+				"longitude": 11.2477465,
+				"latitude": 46.0319044
+			}
+		},
+		{
+			"name": "Latte Trento",
+			"GeoCoordinate": {
+				"longitude": 11.2213836,
+				"latitude": 46.0698108
+			}
+		},
+		{
+			"name": "Naturas\u00c3\u00ad supermercato bio",
+			"GeoCoordinate": {
+				"longitude": 11.2215048,
+				"latitude": 46.0697002
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.1407515,
+				"latitude": 46.1582267
+			}
+		},
+		{
+			"name": "Coop",
+			"GeoCoordinate": {
+				"longitude": 11.0334745,
+				"latitude": 46.3661298
+			}
+		},
+		{
+			"name": "Despar",
+			"GeoCoordinate": {
+				"longitude": 11.0334897,
+				"latitude": 46.3673759
+			}
+		},
+		{
+			"name": "Aldi",
+			"GeoCoordinate": {
+				"longitude": 11.0376696,
+				"latitude": 46.3571422
+			}
+		},
+		{
+			"name": "Poli",
+			"GeoCoordinate": {
+				"longitude": 11.0454223,
+				"latitude": 46.3522905
+			}
+		},
+		{
+			"name": "Eliseo - Senza Glutine",
+			"GeoCoordinate": {
+				"longitude": 11.0293098,
+				"latitude": 46.3566683
+			}
+		},
+		{
+			"name": "Euro Spin",
+			"GeoCoordinate": {
+				"longitude": 10.93876,
+				"latitude": 45.7303394
+			}
+		}
+	]
+}
