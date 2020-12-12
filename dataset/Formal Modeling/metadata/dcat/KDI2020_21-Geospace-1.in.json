@@ -4,10 +4,9 @@
 "DatasetDescription"="short textual description",
 "ColumnNames"={
     "name"="name",
-    "type"="",
+    "GeoShape"="GeoShape",
     "latitude"="latitude",
     "longitude"="longitude",
-    "elevation"="altitude",
     "totalLenght"="totalLenght",
     "blackSlopeLenght"="blackSlopeLenght",
     "redSlopeLenght"="redSlopeLenght",
@@ -23,5 +22,5 @@
 },
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"="13"
+"NumberItems"="12"
 
