@@ -3,8 +3,8 @@
 "DatasetName"="KDI2020_21-Geospace-21.in",
 "DatasetDescription"="roads",
 "ColumnNames"={
-    "name"="SKGname",
-    "highway"="roadType",
+    "name"="name",
+    "roadType"="roadType",
     "GeoShape"="GeoShape"
 },
 "SourceDatasetURL"="www.openstreetmap.org",

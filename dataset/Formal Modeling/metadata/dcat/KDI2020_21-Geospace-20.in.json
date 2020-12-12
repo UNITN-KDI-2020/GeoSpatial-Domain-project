@@ -1,7 +1,7 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
 "DatasetName"="KDI2020_21-Geospace-20.in",
-"DatasetDescription"="short textual description",
+"DatasetDescription"="railways in Trentino,
 "ColumnNames"={
     "name"="name",
     "GeoShape"="GeoShape"
