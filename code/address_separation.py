@@ -122,7 +122,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				countValid += 1
 				for k in address.keys():
 					d[k] = address[k]
-				# d.pop("address")
+				d.pop("address")
 			else:
 				d["address_additional_information"] = d.pop("address")
 			
