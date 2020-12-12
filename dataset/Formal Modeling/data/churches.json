@@ -1,7 +1,6 @@
 {
 	"records": [
 		{
-			"id": 120307,
 			"name": "Chiesa dei Santi Pietro e Paolo - Soraga di Fassa ",
 			"address": "Strada de Gejia, 38030 Soraga",
 			"GeoCoordinate": {
@@ -10,7 +9,6 @@
 			}
 		},
 		{
-			"id": 120308,
 			"name": "Cappella della Madonna Immacolata - Soraga ",
 			"address": "Strada de Barbida, 38030 Soraga",
 			"GeoCoordinate": {
@@ -19,7 +17,6 @@
 			}
 		},
 		{
-			"id": 120167,
 			"name": "Chiesa dei Santi Filippo e Giacomo  - Campitello di Fassa ",
 			"address": "Campitello",
 			"GeoCoordinate": {
@@ -28,7 +25,6 @@
 			}
 		},
 		{
-			"id": 120170,
 			"name": "Chiesa della Beata Maria Vergine - fraz Pian -  Campitello di Fassa ",
 			"address": "Str&egrave;da de Pian, Campitello",
 			"GeoCoordinate": {
@@ -37,7 +33,6 @@
 			}
 		},
 		{
-			"id": 120016,
 			"name": "Chiesa di San Antonio Abate - Alba di Canazei ",
 			"address": "Via Soraperra, alba di Canazei",
 			"GeoCoordinate": {
@@ -46,7 +41,6 @@
 			}
 		},
 		{
-			"id": 120173,
 			"name": "Chiesa di Nostra Signora del Carmelo - Fontanazzo ",
 			"address": "Fontanazzo, Mazzin",
 			"GeoCoordinate": {
@@ -55,7 +49,6 @@
 			}
 		},
 		{
-			"id": 120165,
 			"name": "Chiesa della Madonna della Neve - Fraz Gries - Canazei ",
 			"address": "Piaz de Gries, Canazei",
 			"GeoCoordinate": {
@@ -64,7 +57,6 @@
 			}
 		},
 		{
-			"id": 120164,
 			"name": "Chiesa del Sacro Cuore - Canazei ",
 			"address": "Str&egrave;da de magoa, Canazei",
 			"GeoCoordinate": {
@@ -73,7 +65,6 @@
 			}
 		},
 		{
-			"id": 120172,
 			"name": "Chiesa della Madonna di Lourdes - Campestrin ",
 			"address": "Campestrin, Mazzin",
 			"GeoCoordinate": {
@@ -82,7 +73,6 @@
 			}
 		},
 		{
-			"id": 120163,
 			"name": "Chiesa di san Floriano - Canazei ",
 			"address": "Strada Dolomiti, Canazei",
 			"GeoCoordinate": {
@@ -91,7 +81,6 @@
 			}
 		},
 		{
-			"id": 120304,
 			"name": "Chiesa della Santissima Trinit\u00e0 - Tamion ",
 			"address": "Strada de Sora Pozat, Tamion, 38039 Vigo di Fassa",
 			"GeoCoordinate": {
@@ -100,7 +89,6 @@
 			}
 		},
 		{
-			"id": 120303,
 			"name": "Chiesa di San Giovanni Nepomuceno - Vallonga - S\u00e8n Jan di Fassa ",
 			"address": "Vallonga, 38039 Vigo di Fassa",
 			"GeoCoordinate": {
@@ -109,7 +97,6 @@
 			}
 		},
 		{
-			"id": 19133,
 			"name": "Chiesa di S. Volfango - Moena ",
 			"address": "Strada Don G. Iori, 10 38035 Moena, Italy",
 			"GeoCoordinate": {
@@ -118,7 +105,6 @@
 			}
 		},
 		{
-			"id": 120543,
 			"name": "Chiesa di san Giovanni Nepomuceno martire - Penia di Moena ",
 			"address": "Penia, 38035 Moena",
 			"GeoCoordinate": {
@@ -127,7 +113,6 @@
 			}
 		},
 		{
-			"id": 120012,
 			"name": "Chiesa dei Santi Sebastiano e Rocco - Penia di Canazei",
 			"address": "Penia, Canazei",
 			"GeoCoordinate": {
@@ -136,7 +121,6 @@
 			}
 		},
 		{
-			"id": 120538,
 			"name": "Chiesa dei Santi Rocco, Sebastiano e Fabiano - Someda - Moena ",
 			"address": "Strada de Sen Roch, 38035 Moena",
 			"GeoCoordinate": {
@@ -145,7 +129,6 @@
 			}
 		},
 		{
-			"id": 120537,
 			"name": "Chiesa di San Giuseppe - Moena ",
 			"address": "Strada de Sort, 38035 Moena",
 			"GeoCoordinate": {
@@ -154,7 +137,6 @@
 			}
 		},
 		{
-			"id": 120540,
 			"name": "Chiesa di san Lazzaro - Forno - Moena ",
 			"address": "Via san Lazzaro, Forno, 38035 Moena",
 			"GeoCoordinate": {
@@ -163,7 +145,6 @@
 			}
 		},
 		{
-			"id": 19135,
 			"name": "Chiesa di S. Giovanni - Vigo di Fassa ",
 			"address": "Strada De La Pieif, 14 38039, Vigo di Fassa, Italy",
 			"GeoCoordinate": {
@@ -172,7 +153,6 @@
 			}
 		},
 		{
-			"id": 120171,
 			"name": "Chiesa di Santa Maria Maddalena - Mazzin di Fassa ",
 			"address": "Mazzin",
 			"GeoCoordinate": {
@@ -181,7 +161,6 @@
 			}
 		},
 		{
-			"id": 19136,
 			"name": "Chiesa di S. Giuliana - Vigo di Fassa ",
 			"address": "Str&egrave;da Roma, 36 38032 Canazei, Italy",
 			"GeoCoordinate": {
@@ -190,7 +169,6 @@
 			}
 		},
 		{
-			"id": 120300,
 			"name": "Chiesa di Santa Maria Madre della Chiesa, di san Vigilio e di san Lorenzo - Pera di Fassa ",
 			"address": "Strada Tita Piaz, Pera di fassa",
 			"GeoCoordinate": {
@@ -199,7 +177,6 @@
 			}
 		},
 		{
-			"id": 120299,
 			"name": "Chiesa di San Nicol\u00f2 - Pozza di Fassa ",
 			"address": "Strada de Piz, 38036 Pozza di Fassa",
 			"GeoCoordinate": {
@@ -208,7 +185,6 @@
 			}
 		},
 		{
-			"id": 120298,
 			"name": "Chiesa di Maria Ausiliatrice - Pozza di Fassa ",
 			"address": "Strada de Meida, 38036 Pozza di Fassa",
 			"GeoCoordinate": {
@@ -217,7 +193,6 @@
 			}
 		},
 		{
-			"id": 120539,
 			"name": "Chiesa di San Antonio - San Pellegrino - Moena ",
 			"address": "San Pellegrino, 38035 Moena",
 			"GeoCoordinate": {
@@ -226,7 +201,6 @@
 			}
 		},
 		{
-			"id": 19132,
 			"name": "Chiesa di S. Vigilio - Moena ",
 			"address": "Strada Don G. Iori, 10 38035 Moena, Italy",
 			"GeoCoordinate": {
@@ -235,7 +209,6 @@
 			}
 		},
 		{
-			"id": 120541,
 			"name": "Chiesa di Sant'Anna - Medil - Moena ",
 			"address": "Moena, Comunit&agrave; della Val di Fassa, TN, Trentino-Alto Adige, 38035, Italia",
 			"GeoCoordinate": {
@@ -244,7 +217,6 @@
 			}
 		},
 		{
-			"id": 120301,
 			"name": "Chiesa di san Lorenzo - Pera di Fassa ",
 			"address": "Strada Tita Piaz, Pera di Fassa",
 			"GeoCoordinate": {
@@ -253,7 +225,6 @@
 			}
 		},
 		{
-			"id": 120302,
 			"name": "Chiesa di Sant'Anna - Monzon - Pera di Fassa ",
 			"address": "Monzon, Pera di fassa",
 			"GeoCoordinate": {
@@ -262,7 +233,6 @@
 			}
 		},
 		{
-			"id": 2028,
 			"name": "Chiesa di S.Antonio da Padova",
 			"address": "Albiano tn",
 			"GeoCoordinate": {
@@ -272,7 +242,6 @@
 			"city": "Albiano"
 		},
 		{
-			"id": 2029,
 			"name": "Chiesa Nuova",
 			"address": "Albiano",
 			"GeoCoordinate": {
@@ -282,7 +251,6 @@
 			"city": "Albiano"
 		},
 		{
-			"id": 2030,
 			"name": "Chiesa di S.Biagio",
 			"address": "Albiano",
 			"GeoCoordinate": {
@@ -292,7 +260,6 @@
 			"city": "Albiano"
 		},
 		{
-			"id": 1894,
 			"name": "Chiesa parrocchiale di Grumes",
 			"address": "Altavalle, 38030, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -302,7 +269,6 @@
 			"city": "Altavalle"
 		},
 		{
-			"id": 2049,
 			"name": "La chiesa parrocchiale di Grauno",
 			"address": "Altavalle, 38030, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -312,7 +278,6 @@
 			"city": "Altavalle"
 		},
 		{
-			"id": 3378,
 			"name": "Chiesa Parrocchiale di S. Filippo e S. Giacomo a Faver ",
 			"address": "Altavalle, 38030, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -322,7 +287,6 @@
 			"city": "Altavalle"
 		},
 		{
-			"id": 3381,
 			"name": "Cappella del Santissimo Crocifisso",
 			"address": "Altavalle, 38030, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -332,7 +296,6 @@
 			"city": "Altavalle"
 		},
 		{
-			"id": 3383,
 			"name": "Chiesa parrocchiale di Valda ",
 			"address": "Altavalle, 38030, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -342,7 +305,6 @@
 			"city": "Altavalle"
 		},
 		{
-			"id": 2395,
 			"name": "La Chiesa Collegiata",
 			"address": "Arco",
 			"GeoCoordinate": {
@@ -352,7 +314,6 @@
 			"city": "Arco"
 		},
 		{
-			"id": 1537,
 			"name": "Chiesa parrocchiale di S. Rocco",
 			"address": "miola baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -362,7 +323,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1538,
 			"name": "Chiesa di Sternigo",
 			"address": "baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -372,7 +332,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1539,
 			"name": "Chiesa di S. Antonio da Padova",
 			"address": "Rizzolaga baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -382,7 +341,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1540,
 			"name": "Chiesa parrocchiale della Trinit\u00e0",
 			"address": "Faida baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -392,7 +350,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1541,
 			"name": "Chiesa degli Angeli Custodi",
 			"address": "Ricaldo baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -402,7 +359,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1542,
 			"name": "Chiesa di San Mauro",
 			"address": "San Mauro di Pin&eacute;",
 			"GeoCoordinate": {
@@ -412,7 +368,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1543,
 			"name": "Chiesa parrocchiale di S. Anna",
 			"address": "Montagnaga di Pin&eacute;",
 			"GeoCoordinate": {
@@ -422,7 +377,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1534,
 			"name": "Chiesa di S. Maria Assunta",
 			"address": "baselga di pin&egrave;",
 			"GeoCoordinate": {
@@ -432,7 +386,6 @@
 			"city": "Baselga di Pin\u00e8"
 		},
 		{
-			"id": 1942,
 			"name": "La Chiesa di San Biagio",
 			"GeoCoordinate": {
 				"longitude": 11.554618,
@@ -441,7 +394,6 @@
 			"city": "Bieno"
 		},
 		{
-			"id": 2384,
 			"name": "Chiesa di San Rocco",
 			"GeoCoordinate": {
 				"longitude": 11.544464,
@@ -450,7 +402,6 @@
 			"city": "Bieno"
 		},
 		{
-			"id": 2164,
 			"name": "Chiesa di San Rocco",
 			"address": "lera brentonico",
 			"GeoCoordinate": {
@@ -460,7 +411,6 @@
 			"city": "Brentonico"
 		},
 		{
-			"id": 2166,
 			"name": "Chiesa dei Santi Pietro e Paolo",
 			"address": "Brentonico",
 			"GeoCoordinate": {
@@ -470,7 +420,6 @@
 			"city": "Brentonico"
 		},
 		{
-			"id": 2167,
 			"name": "Piazzale della Chiesa dei Santi Pietro e Paolo",
 			"address": "Brentonico",
 			"GeoCoordinate": {
@@ -480,7 +429,6 @@
 			"city": "Brentonico"
 		},
 		{
-			"id": 1020,
 			"name": "La Chiesa di Baselga",
 			"GeoCoordinate": {
 				"latitude": 46.415608,
@@ -490,7 +438,6 @@
 			"city": "Bresimo"
 		},
 		{
-			"id": 1811,
 			"name": "Chiesa di San Valentino",
 			"address": "piazza san valentino, cagn&ograve;",
 			"GeoCoordinate": {
@@ -500,7 +447,6 @@
 			"city": "Cagn\u00f2"
 		},
 		{
-			"id": 3790,
 			"name": "Cappella della Madonna del Rosario di Pompei",
 			"address": "Via Nazionale, Cagn&ograve;, Comunit&agrave; della Val di Non, TN, Trentino-Alto Adige, 38028, Italia",
 			"GeoCoordinate": {
@@ -510,7 +456,6 @@
 			"city": "Cagn\u00f2"
 		},
 		{
-			"id": 1321,
 			"name": "Chiesa parrocchiale di San Bartolomeo ",
 			"address": "Piazza San Bartolomeo, Caldes",
 			"GeoCoordinate": {
@@ -520,7 +465,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1332,
 			"name": "Chiesa di San Vigilio",
 			"address": "Via Dei Tolameotti 19, caldes",
 			"GeoCoordinate": {
@@ -530,7 +474,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1337,
 			"name": "Chiesa dei Santi Pietro e Paolo ",
 			"address": "strada stale 42, bozzana",
 			"GeoCoordinate": {
@@ -540,7 +483,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1342,
 			"name": "Chiesa dell\u2019Annunciazione di Maria ",
 			"address": "bordiana, caldes",
 			"GeoCoordinate": {
@@ -550,7 +492,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1345,
 			"name": "Chiesa della Madonna del Carmine (XVII sec.)",
 			"address": "tozzaga, caldes",
 			"GeoCoordinate": {
@@ -560,7 +501,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1346,
 			"name": "Chiesa di S.Tommaso apostolo ",
 			"address": "via michele comini 18, caldes",
 			"GeoCoordinate": {
@@ -570,7 +510,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 1349,
 			"name": "Chiesa di S. Giacomo (XVI sec.)",
 			"address": "san giacomo, caldes",
 			"GeoCoordinate": {
@@ -580,7 +519,6 @@
 			"city": "Caldes"
 		},
 		{
-			"id": 2403,
 			"name": "Chiesa di San Lorenzo",
 			"address": "Via Valentini, 15 - 38060 Calliano ",
 			"GeoCoordinate": {
@@ -590,7 +528,6 @@
 			"city": "Calliano"
 		},
 		{
-			"id": 2091,
 			"name": "Chiesa ed Eremo di San Pancrazio",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -600,7 +537,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2093,
 			"name": "Chiesa di Sant'Egidio a Quetta",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -610,7 +546,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2095,
 			"name": "Chiesa di San Giovanni Battista a Termon",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -620,7 +555,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2097,
 			"name": "Chiesa di San Maurizio a Campodenno",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -630,7 +564,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2099,
 			"name": "Chiesa di Santo Stefano a Dercolo",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -640,7 +573,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2101,
 			"name": "Chiesa dell'Immacolata a Lover",
 			"address": "CAMPODENNO, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -650,7 +582,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 2102,
 			"name": "Chiesa di S. Michele Arcangelo a Maso Sant'Angelo",
 			"address": "SP55, Maso Santa Lucia, Campodenno, Provincia autonoma di Trento, Trentino-Alto Adige, 38010, Italia",
 			"GeoCoordinate": {
@@ -660,7 +591,6 @@
 			"city": "Campodenno"
 		},
 		{
-			"id": 1903,
 			"name": "Chiesa parrocchiale",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -669,7 +599,6 @@
 			"city": "Capriana"
 		},
 		{
-			"id": 1904,
 			"name": "Chiesa di Carbonare",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -678,7 +607,6 @@
 			"city": "Capriana"
 		},
 		{
-			"id": 1516,
 			"name": "La chiesa di San Nicol\u00f2",
 			"GeoCoordinate": {
 				"latitude": 46.292136,
@@ -688,7 +616,6 @@
 			"city": "Carano"
 		},
 		{
-			"id": 1517,
 			"name": "La chiesa di Aguai",
 			"GeoCoordinate": {
 				"latitude": 46.292136,
@@ -698,7 +625,6 @@
 			"city": "Carano"
 		},
 		{
-			"id": 1604,
 			"name": "Chiesa di San Giorgio",
 			"GeoCoordinate": {
 				"longitude": 10.602074,
@@ -707,7 +633,6 @@
 			"city": "Castel Condino"
 		},
 		{
-			"id": 1605,
 			"name": "La Cappella dei Morti",
 			"GeoCoordinate": {
 				"longitude": 10.602674,
@@ -716,7 +641,6 @@
 			"city": "Castel Condino"
 		},
 		{
-			"id": 2407,
 			"name": "Chiesa di Sant\u2019Antonio Abate - Dovena",
 			"address": "Dovena - Castelfondo",
 			"GeoCoordinate": {
@@ -726,7 +650,6 @@
 			"city": "Castelfondo"
 		},
 		{
-			"id": 2409,
 			"name": "Chiesa della Madonna del Rosario - Raina",
 			"address": "Raina - Castelfondo",
 			"GeoCoordinate": {
@@ -736,7 +659,6 @@
 			"city": "Castelfondo"
 		},
 		{
-			"id": 2203,
 			"name": "Chiesa parrocchiale di san Nicol\u00f2 vescovo",
 			"address": "Castelfondo",
 			"GeoCoordinate": {
@@ -746,7 +668,6 @@
 			"city": "Castelfondo"
 		},
 		{
-			"id": 2685,
 			"name": "Chiesa di Masi di Cavalese: S.S. Trinit\u00e0",
 			"address": "Tesero, Comunit&agrave; territoriale della Val di Fiemme, TN, Trentino-Alto Adige, 38033, Italia",
 			"GeoCoordinate": {
@@ -756,7 +677,6 @@
 			"city": "Cavalese"
 		},
 		{
-			"id": 1969,
 			"name": "Chiesa di San Vigilio e Convento del Padri Francescani",
 			"address": "Chiesa dei Frati Francescani, Via IX Novembre, Cavalese, Comunit&agrave; territoriale della Val di Fiemme, TN, Trentino-Alto Adige, 38033, Italia",
 			"GeoCoordinate": {
@@ -766,7 +686,6 @@
 			"city": "Cavalese"
 		},
 		{
-			"id": 1971,
 			"name": "Chiesa di San Sebastiano e Fabiano e torre campanaria",
 			"address": "Piazza Cesare Battisti - Cavalese",
 			"GeoCoordinate": {
@@ -776,7 +695,6 @@
 			"city": "Cavalese"
 		},
 		{
-			"id": 1973,
 			"name": "Chiesa della Madonna Addolorata",
 			"address": "Chiesa dell&#039;Addolorata, Passeggiata Santa Maria della Lasta, Cavalese, Comunit&agrave; territoriale della Val di Fiemme, TN, Trentino-Alto Adige,",
 			"GeoCoordinate": {
@@ -786,7 +704,6 @@
 			"city": "Cavalese"
 		},
 		{
-			"id": 1997,
 			"name": "Chiesa parrocchiale San Lorenzo",
 			"address": "San Lorenzo .- Cavedago",
 			"GeoCoordinate": {
@@ -796,7 +713,6 @@
 			"city": "Cavedago"
 		},
 		{
-			"id": 1998,
 			"name": "Chiesa San Tommaso - Cimitero",
 			"address": "San Tommaso - Cavedago",
 			"GeoCoordinate": {
@@ -806,7 +722,6 @@
 			"city": "Cavedago"
 		},
 		{
-			"id": 2377,
 			"name": "Chiesa di San Pietro",
 			"address": "Piazza San Pietro, Cembra Lisignago, Trentino-Alto Adige, 38034, Italia",
 			"GeoCoordinate": {
@@ -816,7 +731,6 @@
 			"city": "Cembralisignago"
 		},
 		{
-			"id": 2378,
 			"name": "Chiesa di San Biagio",
 			"address": "Piazza della Chiesa, Lisignago, Cembra Lisignago, Trentino-Alto Adige, 38034, Italia",
 			"GeoCoordinate": {
@@ -826,7 +740,6 @@
 			"city": "Cembralisignago"
 		},
 		{
-			"id": 2379,
 			"name": "Chiesa di San Leonardo",
 			"address": "Via Trento, Albiano, 38041, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -836,7 +749,6 @@
 			"city": "Cembralisignago"
 		},
 		{
-			"id": 4201,
 			"name": "Chiesa di S. Maria Assunta",
 			"address": "cles",
 			"GeoCoordinate": {
@@ -846,7 +758,6 @@
 			"city": "Cles"
 		},
 		{
-			"id": 4208,
 			"name": "Chiesa di S. Tommaso (Dres)",
 			"address": "Dres, Cles",
 			"GeoCoordinate": {
@@ -856,7 +767,6 @@
 			"city": "Cles"
 		},
 		{
-			"id": 4211,
 			"name": "Chiesa dei Ss. Pietro e Paolo (Maiano)",
 			"GeoCoordinate": {
 				"longitude": 11.04285,
@@ -865,7 +775,6 @@
 			"city": "Cles"
 		},
 		{
-			"id": 4212,
 			"name": "Chiesa di S. Lucia (Caltron)",
 			"GeoCoordinate": {
 				"longitude": 11.027808,
@@ -874,7 +783,6 @@
 			"city": "Cles"
 		},
 		{
-			"id": 4213,
 			"name": "Chiesa di San Vigilio (Pez)",
 			"address": "pez cles",
 			"GeoCoordinate": {
@@ -884,7 +792,6 @@
 			"city": "Cles"
 		},
 		{
-			"id": 1819,
 			"name": "Chiesa di San Felice",
 			"address": "Comano",
 			"GeoCoordinate": {
@@ -894,7 +801,6 @@
 			"city": "Comano Terme"
 		},
 		{
-			"id": 4004,
 			"name": "Chiesa della Madonna di Loreto",
 			"address": "Via Brescia, Presson, 38025 - Dimaro Folgarida, TN, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -904,7 +810,6 @@
 			"city": "Dimaro Folgarida"
 		},
 		{
-			"id": 4005,
 			"name": "Chiesa di San Vigilio",
 			"address": "Via San Vigilio, Monclassico, 38020, Dimaro Folgarida, TN, Trentino-Alto Adige, Italia ",
 			"GeoCoordinate": {
@@ -914,7 +819,6 @@
 			"city": "Dimaro Folgarida"
 		},
 		{
-			"id": 3975,
 			"name": "Chiesa di S. Lorenzo",
 			"address": "Via alla Chiesa, 8, Dimaro, 38025, Dimaro Folgarida, TN, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -924,7 +828,6 @@
 			"city": "Dimaro Folgarida"
 		},
 		{
-			"id": 3976,
 			"name": "Chiesa di S. Giovanni battista a Carciato",
 			"address": "Piazza S. Giovanni, Carciato, Dimaro, 38025, Dimaro Folgarida, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -934,7 +837,6 @@
 			"city": "Dimaro Folgarida"
 		},
 		{
-			"id": 4750,
 			"name": "Chiesa Santa Maria del Carmine",
 			"address": "drena",
 			"GeoCoordinate": {
@@ -944,7 +846,6 @@
 			"city": "Drena"
 		},
 		{
-			"id": 4751,
 			"name": "Chiesa San Vigilio",
 			"address": "drena",
 			"GeoCoordinate": {
@@ -954,7 +855,6 @@
 			"city": "Drena"
 		},
 		{
-			"id": 1398,
 			"name": "Chiesa di San Martino",
 			"address": "fornace",
 			"GeoCoordinate": {
@@ -964,7 +864,6 @@
 			"city": "Fornace"
 		},
 		{
-			"id": 1399,
 			"name": "Chiesa di Sant'Antonio",
 			"address": "fornace",
 			"GeoCoordinate": {
@@ -974,7 +873,6 @@
 			"city": "Fornace"
 		},
 		{
-			"id": 1400,
 			"name": "Chiesa di San Rocco",
 			"address": "fornace",
 			"GeoCoordinate": {
@@ -984,7 +882,6 @@
 			"city": "Fornace"
 		},
 		{
-			"id": 1401,
 			"name": "Chiesa di Santo Stefano",
 			"address": "fornace",
 			"GeoCoordinate": {
@@ -994,7 +891,6 @@
 			"city": "Fornace"
 		},
 		{
-			"id": 1641,
 			"name": "Chiesa cinquecentesca",
 			"GeoCoordinate": {
 				"latitude": 46.089663,
@@ -1004,7 +900,6 @@
 			"city": "Frassilongo"
 		},
 		{
-			"id": 1921,
 			"name": "Chiesa di S. Osvaldo",
 			"address": "loc. Sant Osvaldo",
 			"GeoCoordinate": {
@@ -1014,7 +909,6 @@
 			"city": "Garniga Terme"
 		},
 		{
-			"id": 1922,
 			"name": "Chiesa del Sacro Cuore di Ges\u00f9",
 			"address": "Piazza don Pietro Simion, Garniga Terme, Territorio Val d&#039;Adige, TN, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1024,7 +918,6 @@
 			"city": "Garniga Terme"
 		},
 		{
-			"id": 1740,
 			"name": "Chiesa di Santa Maria Assunta",
 			"address": "Verla di Giovo",
 			"GeoCoordinate": {
@@ -1034,7 +927,6 @@
 			"city": "Giovo"
 		},
 		{
-			"id": 1741,
 			"name": "Chiesa di S. Floriano",
 			"address": "san Floriano Giovo",
 			"GeoCoordinate": {
@@ -1044,7 +936,6 @@
 			"city": "Giovo"
 		},
 		{
-			"id": 1742,
 			"name": "Chiesa di Sant'Antonio",
 			"address": "Verla di Giovo",
 			"GeoCoordinate": {
@@ -1054,7 +945,6 @@
 			"city": "Giovo"
 		},
 		{
-			"id": 1744,
 			"name": "Chiesa di San Giorgio",
 			"address": "Giovo",
 			"GeoCoordinate": {
@@ -1064,7 +954,6 @@
 			"city": "Giovo"
 		},
 		{
-			"id": 1993,
 			"name": "Chiesa parrocchiale del Redentore ",
 			"GeoCoordinate": {
 				"longitude": 11.301059,
@@ -1073,7 +962,6 @@
 			"city": "Levico Terme"
 		},
 		{
-			"id": 1383,
 			"name": "Chiesa di San Martino",
 			"GeoCoordinate": {
 				"latitude": 46.40311,
@@ -1083,7 +971,6 @@
 			"city": "Livo"
 		},
 		{
-			"id": 1555,
 			"name": "Chiesa Nativit\u00e0 di S. Maria",
 			"GeoCoordinate": {
 				"latitude": 46.398185,
@@ -1092,7 +979,6 @@
 			"city": "Livo"
 		},
 		{
-			"id": 1808,
 			"name": "Chiesa di S. Antonio a Preghena",
 			"GeoCoordinate": {
 				"latitude": 46.409468,
@@ -1102,7 +988,6 @@
 			"city": "Livo"
 		},
 		{
-			"id": 1809,
 			"name": "Chiesa SS.Immacolata a Scanna",
 			"GeoCoordinate": {
 				"latitude": 46.396204,
@@ -1112,7 +997,6 @@
 			"city": "Livo"
 		},
 		{
-			"id": 1892,
 			"name": "Cappella Madruzziana - Calavino",
 			"address": "Madruzzo, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1122,7 +1006,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 1894,
 			"name": "Cappella del rosario - Calavino",
 			"address": "Madruzzo, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1132,7 +1015,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2046,
 			"name": "Chiesa Lauretana - Madruzzo",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1142,7 +1024,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2048,
 			"name": "Chiesa parrocchiale della Nativit\u00e0 - Pergolese",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1152,7 +1033,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2052,
 			"name": "Chiesa parrocchiale SS Pietro e Paolo - Lasino",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1162,7 +1042,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2053,
 			"name": "Cappella del Santo Crocifisso - Lasino",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1172,7 +1051,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2056,
 			"name": "Chiesa dei Santi Grato, Mauro e Giacomo - Calavino",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1182,7 +1060,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2057,
 			"name": "Chiesa della Madonna del Carmelo - Sarche",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1192,7 +1069,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2058,
 			"name": "Chiesa di SS. Trinit\u00e0 - Calavino",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1202,7 +1078,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 2059,
 			"name": "Chiesa parrocchiale di San Floriano e Santa Maria - Calavino",
 			"address": "Madruzzo, Trentino-Alto Adige, 38076, Italia",
 			"GeoCoordinate": {
@@ -1212,7 +1087,6 @@
 			"city": "Madruzzo"
 		},
 		{
-			"id": 4129,
 			"name": "Chiesa di Santa Maddalena Penitente, abside",
 			"address": "mazzin",
 			"GeoCoordinate": {
@@ -1222,7 +1096,6 @@
 			"city": "Mazzin"
 		},
 		{
-			"id": 1942,
 			"name": "Chiesa pievana di S. Maria Assunta",
 			"address": "Piazza della Chiesa, 21 - Mezzocorona",
 			"GeoCoordinate": {
@@ -1232,7 +1105,6 @@
 			"city": "Mezzocorona"
 		},
 		{
-			"id": 1766,
 			"name": "Chiesa di San Vigilio",
 			"address": "Molveno",
 			"GeoCoordinate": {
@@ -1242,7 +1114,6 @@
 			"city": "Molveno"
 		},
 		{
-			"id": 1769,
 			"name": "Chiesa di San Borromeo",
 			"address": "Molveno",
 			"GeoCoordinate": {
@@ -1252,7 +1123,6 @@
 			"city": "Molveno"
 		},
 		{
-			"id": 1719,
 			"name": "Chiesa di S. Tomaso",
 			"GeoCoordinate": {
 				"latitude": 46.303296,
@@ -1262,7 +1132,6 @@
 			"city": "Nanno"
 		},
 		{
-			"id": 1717,
 			"name": "Chiesa di S. Fabiano e Sebastiano",
 			"GeoCoordinate": {
 				"latitude": 46.321107,
@@ -1271,7 +1140,6 @@
 			"city": "Nanno"
 		},
 		{
-			"id": 1718,
 			"name": "Chiesa di S. Biagio",
 			"GeoCoordinate": {
 				"latitude": 46.316094,
@@ -1281,7 +1149,6 @@
 			"city": "Nanno"
 		},
 		{
-			"id": 1512,
 			"name": "La Chiesa di S.Valentino di Noarna",
 			"GeoCoordinate": {
 				"latitude": 45.91491,
@@ -1291,7 +1158,6 @@
 			"city": "Nogaredo"
 		},
 		{
-			"id": 2768,
 			"name": "Chiesa di San Giorgio a Peio paese",
 			"address": "peio",
 			"GeoCoordinate": {
@@ -1301,7 +1167,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 2769,
 			"name": "Chiesa di Ss. Filippo e Giacomo a Cogolo ",
 			"address": "cogolo",
 			"GeoCoordinate": {
@@ -1311,7 +1176,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 2770,
 			"name": "Chiesa di San Bartolomeo a Pegaia ",
 			"address": "chiesetta di pegaia",
 			"GeoCoordinate": {
@@ -1321,7 +1185,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 2772,
 			"name": "Chiesa di San Matteo a Comasine ",
 			"address": "comasine",
 			"GeoCoordinate": {
@@ -1331,7 +1194,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 2773,
 			"name": "Chiesa di San Agostino ",
 			"address": "celentino",
 			"GeoCoordinate": {
@@ -1341,7 +1203,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 2774,
 			"name": "Chiesa di San Camillo a Peio Fonti ",
 			"GeoCoordinate": {
 				"longitude": 10.665073,
@@ -1350,7 +1211,6 @@
 			"city": "Peio"
 		},
 		{
-			"id": 1624,
 			"address": "pelugo tn",
 			"name": "Chiesa cimiteriale di Sant'Antonio Abate",
 			"GeoCoordinate": {
@@ -1360,7 +1220,6 @@
 			"city": "Pelugo"
 		},
 		{
-			"id": 1626,
 			"address": "pelugo tn",
 			"name": "Chiesa parrocchiale di San Zeno",
 			"GeoCoordinate": {
@@ -1370,7 +1229,6 @@
 			"city": "Pelugo"
 		},
 		{
-			"id": 1965,
 			"name": "Chiesa Arcipretale",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1379,7 +1237,6 @@
 			"city": "Pieve Tesino"
 		},
 		{
-			"id": 1966,
 			"name": "Chiesa e Colle di San Sebastiano",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1388,7 +1245,6 @@
 			"city": "Pieve Tesino"
 		},
 		{
-			"id": 2398,
 			"name": "Chiesa di Sant'Antonio ",
 			"address": "pinzolo, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1398,7 +1254,6 @@
 			"city": "Pinzolo"
 		},
 		{
-			"id": 2399,
 			"name": "Chiesa di San Lorenzo",
 			"address": "pinzolo, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1408,7 +1263,6 @@
 			"city": "Pinzolo"
 		},
 		{
-			"id": 2375,
 			"name": "La Chiesa di San Vigilio",
 			"address": "pinzolo, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1418,7 +1272,6 @@
 			"city": "Pinzolo"
 		},
 		{
-			"id": 2047,
 			"name": "Cappella di San Rocco",
 			"address": "Via Sarco, Dar&egrave;, 38094, Porte di Rendena",
 			"GeoCoordinate": {
@@ -1428,7 +1281,6 @@
 			"city": "Porte di Rendena"
 		},
 		{
-			"id": 2054,
 			"name": "Chiesa di San Lorenzo",
 			"address": "Via IV Novembre, Vigo Rendena, 38094, Porte di Rendena",
 			"GeoCoordinate": {
@@ -1438,7 +1290,6 @@
 			"city": "Porte di Rendena"
 		},
 		{
-			"id": 3207,
 			"name": "Chiesa Ss. Fabiano e Sebastiano a Verdesina",
 			"address": "Fr. Verdesina, 38094, Porte di Rendena",
 			"GeoCoordinate": {
@@ -1448,7 +1299,6 @@
 			"city": "Porte di Rendena"
 		},
 		{
-			"id": 3208,
 			"name": "Chiesa di Santa Maria Assunta a Javr\u00e8",
 			"address": "Via Nazionale, 173, Javr&egrave;, 38094, Porte di Rendena",
 			"GeoCoordinate": {
@@ -1458,7 +1308,6 @@
 			"city": "Porte di Rendena"
 		},
 		{
-			"id": 3210,
 			"name": "Chiesa parrocchiale di San Martino ",
 			"address": "Strada Statale 239, Villa Rendena, 38094, Porte di Rendena",
 			"GeoCoordinate": {
@@ -1468,7 +1317,6 @@
 			"city": "Porte di Rendena"
 		},
 		{
-			"id": 1753,
 			"name": "Chiesa di Santa Maria Ausiliatrice (Pozza)",
 			"address": "Pozza di Fassa",
 			"GeoCoordinate": {
@@ -1478,7 +1326,6 @@
 			"city": "Pozza di Fassa"
 		},
 		{
-			"id": 1754,
 			"name": "Chiesa di San Lorenzo (Pera)",
 			"address": "Pera di Fassa",
 			"GeoCoordinate": {
@@ -1488,7 +1335,6 @@
 			"city": "Pozza di Fassa"
 		},
 		{
-			"id": 1755,
 			"name": "Chiesa della Madonna del Rosario (Pera)",
 			"address": "Pera di Fassa",
 			"GeoCoordinate": {
@@ -1498,7 +1344,6 @@
 			"city": "Pozza di Fassa"
 		},
 		{
-			"id": 1742,
 			"name": "Chiesa del romitaggio di Santa Giustina ",
 			"address": "dermulo",
 			"GeoCoordinate": {
@@ -1508,7 +1353,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1743,
 			"name": "Chiesa di San Marcello",
 			"address": "dardine",
 			"GeoCoordinate": {
@@ -1518,7 +1362,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1747,
 			"name": "Chiesa di San Marco Evangelista ",
 			"address": "mollaro ",
 			"GeoCoordinate": {
@@ -1528,7 +1371,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1748,
 			"name": "Chiesa della nativit\u00e0 di Maria ",
 			"address": "segno, taio ",
 			"GeoCoordinate": {
@@ -1538,7 +1380,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1749,
 			"name": "Chiesa di S.Eusebio ",
 			"address": "torra, taio",
 			"GeoCoordinate": {
@@ -1548,7 +1389,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1750,
 			"name": "Chiesa di San Rocco confessore ",
 			"address": "tuenetto ",
 			"GeoCoordinate": {
@@ -1558,7 +1398,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1759,
 			"name": "Chiesa di San Rocco ",
 			"address": "tres,tn ",
 			"GeoCoordinate": {
@@ -1568,7 +1407,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1760,
 			"name": "Chiesa di San Sigismondo ",
 			"address": "vion, tn ",
 			"GeoCoordinate": {
@@ -1578,7 +1416,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1761,
 			"name": "Chiesa di Sant'Agnese ",
 			"address": "tres,tn ",
 			"GeoCoordinate": {
@@ -1588,7 +1425,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1740,
 			"name": "Chiesa dei Santi Filippo e Giacomo ",
 			"address": "dermulo ",
 			"GeoCoordinate": {
@@ -1598,7 +1434,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 1741,
 			"name": "Chiesa parrocchiale di Santa Giustina ",
 			"address": "dermulo",
 			"GeoCoordinate": {
@@ -1608,7 +1443,6 @@
 			"city": "Predaia"
 		},
 		{
-			"id": 2023,
 			"name": "Chiesa di Santo Stefano",
 			"address": "rev&ograve;",
 			"GeoCoordinate": {
@@ -1618,7 +1452,6 @@
 			"city": "Rev\u00f2"
 		},
 		{
-			"id": 108276,
 			"name": "Chiesa di San Michele",
 			"address": "San Michele, Viale Martiri XXVIII Giugno, Riva del Garda, Provincia autonoma di Trento, Trentino-Alto Adige, 38066, Italia",
 			"GeoCoordinate": {
@@ -1628,7 +1461,6 @@
 			"city": "Riva del Garda"
 		},
 		{
-			"id": 3147,
 			"name": "Chiesa di Santo Stefano",
 			"address": "Roncone",
 			"GeoCoordinate": {
@@ -1638,7 +1470,6 @@
 			"city": "Roncone"
 		},
 		{
-			"id": 1031,
 			"name": "Cappella di Sant'Anna",
 			"address": "rover&egrave; della luna, piazza unit&agrave; d&#039;italia",
 			"GeoCoordinate": {
@@ -1648,7 +1479,6 @@
 			"city": "Rover\u00e9 della Luna"
 		},
 		{
-			"id": 1052,
 			"name": "Chiesa parrocchiale di Santa Caterina d'Alessandria",
 			"address": "rovere della luna, piazza unit&agrave; d&#039;italia",
 			"GeoCoordinate": {
@@ -1658,7 +1488,6 @@
 			"city": "Rover\u00e9 della Luna"
 		},
 		{
-			"id": 1133,
 			"name": "Chiesa parrocchiale di San Giuseppe",
 			"GeoCoordinate": {
 				"latitude": 46.080224,
@@ -1668,7 +1497,6 @@
 			"city": "Samone"
 		},
 		{
-			"id": 1134,
 			"name": "Chiesa di San Donato",
 			"GeoCoordinate": {
 				"latitude": 46.080224,
@@ -1678,7 +1506,6 @@
 			"city": "Samone"
 		},
 		{
-			"id": 2492,
 			"name": "La chiesa antica di San Giorgio",
 			"GeoCoordinate": {
 				"longitude": 10.896903,
@@ -1687,7 +1514,6 @@
 			"city": "San Lorenzo Dorsino"
 		},
 		{
-			"id": 1918,
 			"name": "Basilica dei SS. Martiri di Sanzeno",
 			"address": "sanzeno",
 			"GeoCoordinate": {
@@ -1697,7 +1523,6 @@
 			"city": "Sanzeno"
 		},
 		{
-			"id": 2117,
 			"name": "Chiesa di S. Giorgio",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1706,7 +1531,6 @@
 			"city": "Sarnonico"
 		},
 		{
-			"id": 2081,
 			"name": "Chiesa di S. Lorenzo",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1715,7 +1539,6 @@
 			"city": "Sarnonico"
 		},
 		{
-			"id": 2112,
 			"name": "Chiesa di S.Maria",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1724,7 +1547,6 @@
 			"city": "Sarnonico"
 		},
 		{
-			"id": 3804,
 			"name": "Antica chiesa di San Barnaba",
 			"address": "Piazza Italia, Bondo, 38087, Sella Giudicarie",
 			"GeoCoordinate": {
@@ -1734,7 +1556,6 @@
 			"city": "Sella Giudicarie"
 		},
 		{
-			"id": 3808,
 			"name": "Antica Chiesa di Sant'Andrea",
 			"address": "Strada statale 237, Breguzzo, 38087, Sella Giudicarie",
 			"GeoCoordinate": {
@@ -1744,7 +1565,6 @@
 			"city": "Sella Giudicarie"
 		},
 		{
-			"id": 3810,
 			"name": "Nuova chiesa di Sant'Andrea",
 			"address": "Strada statale 237, Breguzzo, 38087, Sella Giudicarie",
 			"GeoCoordinate": {
@@ -1754,7 +1574,6 @@
 			"city": "Sella Giudicarie"
 		},
 		{
-			"id": 3817,
 			"name": "Chiesa di Santo Stefano",
 			"address": "Roncone, 38087, Sella Giudicarie",
 			"GeoCoordinate": {
@@ -1764,7 +1583,6 @@
 			"city": "Sella Giudicarie"
 		},
 		{
-			"id": 5718,
 			"name": "Chiesa di San Vigilio",
 			"GeoCoordinate": {
 				"latitude": 46.052676,
@@ -1774,7 +1592,6 @@
 			"city": "Stenico"
 		},
 		{
-			"id": 5719,
 			"name": "Chiesa di San Pietro e Paolo",
 			"GeoCoordinate": {
 				"latitude": 46.055562,
@@ -1784,7 +1601,6 @@
 			"city": "Stenico"
 		},
 		{
-			"id": 5720,
 			"name": "Chiesa di San Michele",
 			"GeoCoordinate": {
 				"latitude": 46.057277,
@@ -1794,7 +1610,6 @@
 			"city": "Stenico"
 		},
 		{
-			"id": 5721,
 			"name": "Chiesa di Ss. Margherita e Lucia",
 			"GeoCoordinate": {
 				"latitude": 46.04806,
@@ -1804,7 +1619,6 @@
 			"city": "Stenico"
 		},
 		{
-			"id": 5722,
 			"name": "Chiesa della Santa Trinit\u00e0",
 			"GeoCoordinate": {
 				"latitude": 46.04755,
@@ -1814,7 +1628,6 @@
 			"city": "Stenico"
 		},
 		{
-			"id": 1972,
 			"name": "Cappella Bozzoni",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1823,7 +1636,6 @@
 			"city": "Tenno"
 		},
 		{
-			"id": 1762,
 			"name": "Chiesa dei SS. Pietro e Paolo",
 			"address": "Piazza - Terragnolo",
 			"GeoCoordinate": {
@@ -1833,7 +1645,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1764,
 			"name": "Chiesa dell'Immacolata Concezione",
 			"address": "Zoreri - Terragnolo",
 			"GeoCoordinate": {
@@ -1843,7 +1654,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1765,
 			"name": "Chiesa della Madonna del Buonconsiglio",
 			"address": "Scottini - Terragnolo",
 			"GeoCoordinate": {
@@ -1853,7 +1663,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1767,
 			"name": "Chiesa della Madonna di Caravaggio",
 			"address": "Geroli - Terragnolo",
 			"GeoCoordinate": {
@@ -1863,7 +1672,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1768,
 			"name": "Chiesa dei SS. Nicol\u00f2 e Colombano",
 			"address": "S. Nicol&ograve; - Terragnolo",
 			"GeoCoordinate": {
@@ -1873,7 +1681,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1769,
 			"name": "Chiesa della Madonna del Carmine",
 			"address": "Valduga - Terragnolo",
 			"GeoCoordinate": {
@@ -1883,7 +1690,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 5829,
 			"name": "Chiesa di S. Antonio",
 			"address": "Perini, Comunit&agrave; della Vallagarina, TN, Trentino-Alto Adige, Italia",
 			"GeoCoordinate": {
@@ -1893,7 +1699,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1770,
 			"name": "Chiesa di S. Maria Maddalena",
 			"address": "Camperi - Terragnolo",
 			"GeoCoordinate": {
@@ -1903,7 +1708,6 @@
 			"city": "Terragnolo"
 		},
 		{
-			"id": 1598,
 			"name": "Chiesa di S. Eliseo",
 			"address": "p.zza Chiesa - 38038 Tesero ",
 			"GeoCoordinate": {
@@ -1913,7 +1717,6 @@
 			"city": "Tesero"
 		},
 		{
-			"id": 1599,
 			"name": "Chiesa di San Leonardo",
 			"address": "Via S. Leonardo - 38038 Tesero",
 			"GeoCoordinate": {
@@ -1923,7 +1726,6 @@
 			"city": "Tesero"
 		},
 		{
-			"id": 1600,
 			"name": "Chiesa SS. Trinit\u00e0 - Ricovero",
 			"address": "Via Giovanelli - 38038 Tesero",
 			"GeoCoordinate": {
@@ -1933,7 +1735,6 @@
 			"city": "Tesero"
 		},
 		{
-			"id": 1601,
 			"name": "Cappella della Palanca",
 			"address": "Via Stava - 38038 Tesero",
 			"GeoCoordinate": {
@@ -1943,7 +1744,6 @@
 			"city": "Tesero"
 		},
 		{
-			"id": 1602,
 			"name": "Chiesa della Madonna delle Grazie",
 			"address": " Via - Lago di Tesero ",
 			"GeoCoordinate": {
@@ -1953,7 +1753,6 @@
 			"city": "Tesero"
 		},
 		{
-			"id": 2118,
 			"name": "Chiesa dei Santi Fabiano e Sebastiano",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1962,7 +1761,6 @@
 			"city": "Ton"
 		},
 		{
-			"id": 2119,
 			"name": "Chiesa di San Nicol\u00f2",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1971,7 +1769,6 @@
 			"city": "Ton"
 		},
 		{
-			"id": 2120,
 			"name": "Chiesa di San Vigilio",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1980,7 +1777,6 @@
 			"city": "Ton"
 		},
 		{
-			"id": 2121,
 			"name": "Chiesa di Santa Maria Assunta",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -1989,7 +1785,6 @@
 			"city": "Ton"
 		},
 		{
-			"id": 1784,
 			"name": "Chiesa parrocchiale",
 			"address": "torcegno",
 			"GeoCoordinate": {
@@ -1999,7 +1794,6 @@
 			"city": "Torcegno"
 		},
 		{
-			"id": 1785,
 			"name": "Cappella Maria Ausiliatrice",
 			"address": "torcegno",
 			"GeoCoordinate": {
@@ -2009,7 +1803,6 @@
 			"city": "Torcegno"
 		},
 		{
-			"id": 1790,
 			"name": "Cappella del cimitero",
 			"address": "torcegno",
 			"GeoCoordinate": {
@@ -2019,7 +1812,6 @@
 			"city": "Torcegno"
 		},
 		{
-			"id": 1793,
 			"name": "Cappella San Rocco",
 			"address": "torcegno",
 			"GeoCoordinate": {
@@ -2029,7 +1821,6 @@
 			"city": "Torcegno"
 		},
 		{
-			"id": 888513,
 			"name": "Garage Parcheggio Duomo - P5",
 			"GeoCoordinate": {
 				"longitude": 11.115204,
@@ -2038,7 +1829,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1131164,
 			"name": "Giardino Valsorda Chiesa",
 			"GeoCoordinate": {
 				"longitude": 11.155897,
@@ -2047,7 +1837,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1220102,
 			"name": "Chiesa paleocristiana sul Doss Trento",
 			"GeoCoordinate": {
 				"longitude": 11.112092,
@@ -2056,7 +1845,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1140000,
 			"name": "Chiesa dei Santi Pietro e Paolo ",
 			"GeoCoordinate": {
 				"longitude": 11.133812,
@@ -2065,7 +1853,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884710,
 			"name": "Chiesa di San Marco",
 			"GeoCoordinate": {
 				"longitude": 11.125733,
@@ -2074,7 +1861,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884705,
 			"name": "Chiesa di San Francesco Saverio",
 			"GeoCoordinate": {
 				"longitude": 11.121038,
@@ -2083,7 +1869,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884711,
 			"name": "Chiesa di Santa Trinit\u00e0",
 			"GeoCoordinate": {
 				"longitude": 11.124859,
@@ -2092,7 +1877,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884702,
 			"name": "Chiesa di S. Apollinare",
 			"GeoCoordinate": {
 				"longitude": 11.114627,
@@ -2101,7 +1885,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884798,
 			"name": "Piazza Duomo",
 			"GeoCoordinate": {
 				"longitude": 11.121251,
@@ -2110,7 +1893,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884792,
 			"name": "La basilica paleocristiana di San Vigilio",
 			"GeoCoordinate": {
 				"longitude": 11.12176,
@@ -2119,7 +1901,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884704,
 			"name": "Basilica di Santa Maria Maggiore",
 			"GeoCoordinate": {
 				"longitude": 11.119221,
@@ -2128,7 +1909,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1249380,
 			"name": "Chiesa del battesimo di Chiara",
 			"GeoCoordinate": {
 				"longitude": 11.119666,
@@ -2137,7 +1917,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1249399,
 			"name": "Chiesa dell\u2019adorazione",
 			"GeoCoordinate": {
 				"longitude": 11.123738,
@@ -2146,7 +1925,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1249518,
 			"name": "Chiesa dei Cappuccini",
 			"GeoCoordinate": {
 				"longitude": 11.128721,
@@ -2155,7 +1933,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 930172,
 			"name": "Ambulatorio piazza Duomo 11  - Trento",
 			"GeoCoordinate": {
 				"longitude": 11.121052,
@@ -2164,7 +1941,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 884708,
 			"name": "Chiesa di San Pietro",
 			"GeoCoordinate": {
 				"longitude": 11.124686,
@@ -2173,7 +1949,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1276666,
 			"name": "Palazzo Bortolazzi-Cappella del Simonino",
 			"GeoCoordinate": {
 				"longitude": 11.123759,
@@ -2182,7 +1957,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 1263799,
 			"name": "DAE di piazza Duomo",
 			"GeoCoordinate": {
 				"longitude": 11.12134,
@@ -2191,7 +1965,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 4654,
 			"name": "Chiesa parrocchiale di San Faustino",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -2200,7 +1973,6 @@
 			"city": "Treville"
 		},
 		{
-			"id": 2939,
 			"name": "Chiesa di San Bartolomeo ",
 			"GeoCoordinate": {
 				"longitude": 10.620186,
@@ -2209,7 +1981,6 @@
 			"city": "Valdaone"
 		},
 		{
-			"id": 5021,
 			"name": "Chiesa di San Bartolomeo",
 			"address": "Via S. Bartolomeo, Fraveggio 38070 Vezzano, Vallelaghi",
 			"GeoCoordinate": {
@@ -2219,7 +1990,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5022,
 			"name": "Chiesa di San Lorenzo a Ciago",
 			"address": "Via al Belvedere, Ciago 38070 Vezzano, Vallelaghi",
 			"GeoCoordinate": {
@@ -2229,7 +1999,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5023,
 			"name": "Chiesa di San Pantaleone",
 			"GeoCoordinate": {
 				"longitude": 11.048303,
@@ -2238,7 +2007,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5024,
 			"name": "Chiesa parrocchiale di San Nicol\u00f2",
 			"address": "Ranzo 38070 Vezzano, Vallelaghi",
 			"GeoCoordinate": {
@@ -2248,7 +2016,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5026,
 			"name": "Chiesa parrocchiale di Santa Massenza",
 			"GeoCoordinate": {
 				"longitude": 10.991998,
@@ -2257,7 +2024,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5027,
 			"name": "Chiesa parrocchiale di Sant'Andrea",
 			"address": "Via Roma 12 38070 Terlago, Vallelaghi",
 			"GeoCoordinate": {
@@ -2267,7 +2033,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5029,
 			"name": "Chiesa parrocchiale Santi Vigilio e Valentino",
 			"address": "Piazza S. Valentino 38070 Vezzano, Vallelaghi",
 			"GeoCoordinate": {
@@ -2277,7 +2042,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5031,
 			"name": "Chiesa parrocchiale dei Santi Filippo e Giacomo",
 			"address": "Via Montagnola 11 38070 Padergnone, Vallelaghi",
 			"GeoCoordinate": {
@@ -2287,7 +2051,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5033,
 			"name": "Chiesa di Santa Maria della Pace",
 			"address": "Via Montagnola 75 38070 Padergnone, Vezzano",
 			"GeoCoordinate": {
@@ -2297,7 +2060,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 5038,
 			"name": "Chiesa di Santa Maria Maddalena",
 			"address": "Margone 38070 Vezzano, Vallelaghi",
 			"GeoCoordinate": {
@@ -2307,7 +2069,6 @@
 			"city": "Vallelaghi"
 		},
 		{
-			"id": 1457,
 			"name": "Chiesa, campanile e campane ",
 			"address": "varena tn",
 			"GeoCoordinate": {
@@ -2317,7 +2078,6 @@
 			"city": "Varena"
 		},
 		{
-			"id": 1297,
 			"name": "Chiesa di San Bartolomeo",
 			"GeoCoordinate": {
 				"latitude": 46.04478,
@@ -2327,7 +2087,6 @@
 			"city": "Vignola Falesina"
 		},
 		{
-			"id": 2052,
 			"name": "Chiesa di S. Biagio",
 			"address": "Piazza San Biagio 38010 Nanno, Ville d&#039;Anaunia",
 			"GeoCoordinate": {
@@ -2337,7 +2096,6 @@
 			"city": "Ville d'Anaunia"
 		},
 		{
-			"id": 2053,
 			"name": "Chiesa di S. Fabiano e Sebastiano",
 			"address": "Strada Provinciale 10 38010 Nanno, Ville d&#039;Anaunia",
 			"GeoCoordinate": {
@@ -2347,7 +2105,6 @@
 			"city": "Ville d'Anaunia"
 		},
 		{
-			"id": 2054,
 			"name": "Chiesa di S. Tommaso",
 			"address": "Via di San Tommaso 38010 Portolo, Ville d&#039;Anaunia",
 			"GeoCoordinate": {
@@ -2357,7 +2114,6 @@
 			"city": "Ville d'Anaunia"
 		},
 		{
-			"id": 6859,
 			"name": "Chiesa di Santa Emerenziana",
 			"address": "Strada Provinciale 14 del Lago di Tovel, Ville d&#039;Anaunia, Comunit&agrave; della Val di Non, TN, Trentino-Alto Adige, 38019, Italia",
 			"GeoCoordinate": {
@@ -2367,7 +2123,6 @@
 			"city": "Ville d'Anaunia"
 		},
 		{
-			"id": 3722,
 			"name": "Chiesa Parrocchiale",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -2376,7 +2131,6 @@
 			"city": "Volano"
 		},
 		{
-			"id": 3724,
 			"name": "Chiesa di San Rocco",
 			"GeoCoordinate": {
 				"latitude": 0,
@@ -2385,7 +2139,6 @@
 			"city": "Volano"
 		},
 		{
-			"id": 1479,
 			"name": "Chiesa dei Santi Filippo e Giacomo ",
 			"address": "zambana, piazza s.s. giacomo e filippo",
 			"GeoCoordinate": {
@@ -2395,7 +2148,6 @@
 			"city": "Zambana"
 		},
 		{
-			"id": 7729,
 			"name": "Chiesa dell'Inviolata",
 			"GeoCoordinate": {
 				"longitude": 10.84266,
@@ -2403,7 +2155,6 @@
 			}
 		},
 		{
-			"id": 7736,
 			"name": "Chiesa di S. Marco - Rovereto",
 			"GeoCoordinate": {
 				"longitude": 11.045294,
@@ -2411,7 +2162,6 @@
 			}
 		},
 		{
-			"id": 7758,
 			"name": "Chiesa di S. Maria Assunta - Villa Lagarina",
 			"GeoCoordinate": {
 				"longitude": 11.036778,
@@ -2419,7 +2169,6 @@
 			}
 		},
 		{
-			"id": 8527,
 			"name": "Romeno, chiesa di S. Antonio",
 			"GeoCoordinate": {
 				"longitude": 11.10713,
@@ -2427,7 +2176,6 @@
 			}
 		},
 		{
-			"id": 8540,
 			"name": "Sanzeno, basilica dei Santi Martiri",
 			"GeoCoordinate": {
 				"longitude": 11.063926,
@@ -2435,7 +2183,6 @@
 			}
 		},
 		{
-			"id": 7752,
 			"name": "Basilica dei SS. Martiri di Sanzeno",
 			"GeoCoordinate": {
 				"longitude": 11.063926,
@@ -2443,7 +2190,6 @@
 			}
 		},
 		{
-			"id": 7725,
 			"name": "Chiesa di S. Antonio Abate",
 			"GeoCoordinate": {
 				"longitude": 10.644115,
@@ -2451,7 +2197,6 @@
 			}
 		},
 		{
-			"id": 7727,
 			"name": "Chiesa di S. Stefano",
 			"GeoCoordinate": {
 				"longitude": 10.746781,
@@ -2459,7 +2204,6 @@
 			}
 		},
 		{
-			"id": 7757,
 			"name": "Chiesa di S. Vigilio - Pinzolo",
 			"GeoCoordinate": {
 				"longitude": 10.765332,
@@ -2467,7 +2211,6 @@
 			}
 		},
 		{
-			"id": 8511,
 			"name": "Pelugo, la chiesa",
 			"GeoCoordinate": {
 				"longitude": 10.644115,
@@ -2475,7 +2218,6 @@
 			}
 		},
 		{
-			"id": 13677,
 			"name": "Chiesa di S. Lorenzo",
 			"GeoCoordinate": {
 				"longitude": 10.872259,
@@ -2483,7 +2225,6 @@
 			}
 		},
 		{
-			"id": 13807,
 			"name": "Massimeno, chiesa di S.Giovanni",
 			"GeoCoordinate": {
 				"longitude": 10.773043,
@@ -2491,7 +2232,6 @@
 			}
 		},
 		{
-			"id": 13827,
 			"name": "Pelugo, chiesa di S. Antonio",
 			"GeoCoordinate": {
 				"longitude": 10.730037,
@@ -2499,7 +2239,6 @@
 			}
 		},
 		{
-			"id": 7747,
 			"name": "Chiesa di S. Vigilio e Convento dei Francescani",
 			"GeoCoordinate": {
 				"longitude": 11.460566,
@@ -2507,7 +2246,6 @@
 			}
 		},
 		{
-			"id": 7753,
 			"name": "Chiesa di S. Maria Assunta - Cavalese",
 			"GeoCoordinate": {
 				"longitude": 11.460566,
@@ -2515,7 +2253,6 @@
 			}
 		},
 		{
-			"id": 7749,
 			"name": "Chiesa di S. Biagio",
 			"GeoCoordinate": {
 				"longitude": 11.331713,
@@ -2523,7 +2260,6 @@
 			}
 		},
 		{
-			"id": 7750,
 			"name": "Chiesa di S. Valentino",
 			"GeoCoordinate": {
 				"longitude": 11.276874,
@@ -2531,7 +2267,6 @@
 			}
 		},
 		{
-			"id": 7763,
 			"name": "Chiesa di S. Ermete",
 			"GeoCoordinate": {
 				"longitude": 11.244401,

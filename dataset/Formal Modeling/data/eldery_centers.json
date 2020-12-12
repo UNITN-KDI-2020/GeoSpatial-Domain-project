@@ -1,7 +1,6 @@
 {
 	"records": [
 		{
-			"id": 2037,
 			"name": "Centro Diurno per Anziani",
 			"address": "Piazza Degasperi 6 38041 Albiano",
 			"GeoCoordinate": {
@@ -11,17 +10,10 @@
 			"city": "Albiano"
 		},
 		{
-			"id": 3225,
 			"name": "Anziani",
-			"address": {
-				"latitude": 0,
-				"longitude": 0,
-				"address": ""
-			},
 			"city": "Borgo Chiese"
 		},
 		{
-			"id": 2027,
 			"name": "Centro Anziani",
 			"address": "Viale Stazione, 2 - Caldonazzo",
 			"GeoCoordinate": {
@@ -31,7 +23,6 @@
 			"city": "Caldonazzo"
 		},
 		{
-			"id": 957082,
 			"name": "Centro servizi anziani \"Contrada Larga\" -  via Belenzani",
 			"GeoCoordinate": {
 				"longitude": 11.121536,
@@ -40,7 +31,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 957090,
 			"name": "Centro diurno e centro servizi anziani \"Il Girasole\" - Clarina",
 			"GeoCoordinate": {
 				"longitude": 11.124525,
@@ -49,7 +39,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 931901,
 			"name": "Centro diurno e centro servizi anziani \"Sempreverde\" - Mattarello",
 			"GeoCoordinate": {
 				"longitude": 11.128143,
@@ -58,7 +47,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 931904,
 			"name": "Centro diurno anziani Povo",
 			"GeoCoordinate": {
 				"longitude": 11.159524,
@@ -67,7 +55,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 931909,
 			"name": "Centro diurno e centro servizi anziani Povo",
 			"GeoCoordinate": {
 				"longitude": 11.159524,
@@ -76,7 +63,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 931911,
 			"name": "Centro diurno e centro servizi anziani \"Filo Fil\u00f2\" -  Ravina",
 			"GeoCoordinate": {
 				"longitude": 11.107446,
@@ -85,7 +71,6 @@
 			"city": "Trento"
 		},
 		{
-			"id": 933751,
 			"name": "Centro diurno e centro servizi per anziani Gardolo",
 			"GeoCoordinate": {
 				"longitude": 11.110889,

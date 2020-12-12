@@ -27,6 +27,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	data = json.load(dataset)["records"]
 
 	for d_i, d in enumerate(data):
+		if "id" in d:
+			d.pop("id")
 		if "geo" in d:
 			d["address"] = d.pop("geo")
 		if "geometry" in d:

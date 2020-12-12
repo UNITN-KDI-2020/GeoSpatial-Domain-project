@@ -56,6 +56,24 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	newDataset = {"records": []}
 
+	if "park.json" in filename:
+		for d_i, d in enumerate(data):
+			if "leisure" in d:
+				d.pop("leisure")
+			if "playground" in d:
+				d.pop("playground")
+			if "playground:theme" in d:
+				d.pop("playground:theme")
+			if "opening_hours" in d:
+				d.pop("opening_hours")
+			if "playground:water" in d:
+				d.pop("playground:water")
+
+	if "parking.json" in filename:
+		for d_i, d in enumerate(data):
+			if "opening_hours" in d:
+				d.pop("opening_hours")
+
 	if "supermarket.json" in filename:
 		for d_i, d in enumerate(data):
 			if "geometry" in d and "Polygon" == d["geometry"]["type"]:
@@ -125,6 +143,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["GeoCoordinate"] = { "longitude" : mean[0], "latitude" : mean[1] }
 			if "rating" in d:
 				d.pop("rating")
+			if "elevation" in d:
+				d.pop("elevation")
 			if "raiting" in d:
 				d.pop("raiting")
 			if "openingTime" in d:
@@ -138,7 +158,6 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "General Season" in d:
 				d.pop("General Season")
 		
-
 	if "piste_ciclabili.json" in filename:
 		for d_i, d in enumerate(data):
 			d.pop("tipo")
@@ -170,6 +189,11 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				d["Path"]["GeoCoordinate"] = d["Path"].pop("geoPoints")
 				if "description" in d:
 					d["Path"].pop("description")
+
+	if "climb.json" in filename:
+		for d_i, d in enumerate(data):
+			if "opening_hours" in d:
+				d.pop("opening_hours")
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:

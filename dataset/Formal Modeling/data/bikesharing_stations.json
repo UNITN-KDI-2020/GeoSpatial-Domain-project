@@ -3,676 +3,520 @@
 		{
 			"name": "Grazioli",
 			"address": "Piazza Grazioli - Lavis",
-			"rackSlot": 10,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.13979665068481,
-					"latitude": 11.111428140771086
-				}
+			"totalSlots": 10,
+			"GeoCoordinate": {
+				"longitude": 46.13979665068481,
+				"latitude": 11.111428140771086
 			},
 			"city": "Lavis"
 		},
 		{
 			"name": "Pressano",
 			"address": "Piazza della Croce - Pressano",
-			"rackSlot": 7,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.15356728074421,
-					"latitude": 11.106639504499894
-				}
+			"totalSlots": 7,
+			"GeoCoordinate": {
+				"longitude": 46.15356728074421,
+				"latitude": 11.106639504499894
 			},
 			"city": "Lavis"
 		},
 		{
 			"name": "Stazione RFI",
 			"address": "Via Stazione - Lavis",
-			"rackSlot": 10,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.14811056416327,
-					"latitude": 11.096854210493252
-				}
+			"totalSlots": 10,
+			"GeoCoordinate": {
+				"longitude": 46.14811056416327,
+				"latitude": 11.096854210493252
 			},
 			"city": "Lavis"
 		},
 		{
 			"name": "Borgata - Trento-Mal\u00c3\u00a8",
 			"address": "Piazza San Gottardo",
-			"rackSlot": 11,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.21425992031754,
-					"latitude": 11.11867249384243
-				}
+			"totalSlots": 11,
+			"GeoCoordinate": {
+				"longitude": 46.21425992031754,
+				"latitude": 11.11867249384243
 			},
 			"city": "Mezzocorona"
 		},
 		{
 			"name": "Cavalleggeri",
 			"address": "Via Cavalleggeri, 19",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.21604742113538,
-					"latitude": 11.120071411726162
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.21604742113538,
+				"latitude": 11.120071411726162
 			},
 			"city": "Mezzocorona"
 		},
 		{
 			"name": "Stazione TN-Mal\u00c3\u00a8 - RFI",
 			"address": "Piazza Trento",
-			"rackSlot": 18,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.20661229117257,
-					"latitude": 11.127350324192488
-				}
+			"totalSlots": 18,
+			"GeoCoordinate": {
+				"longitude": 46.20661229117257,
+				"latitude": 11.127350324192488
 			},
 			"city": "Mezzocorona"
 		},
 		{
 			"name": "Fiera",
 			"address": "via Cavalleggeri Udine 1",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.21610309842586,
-					"latitude": 11.087624429371784
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.21610309842586,
+				"latitude": 11.087624429371784
 			},
 			"city": "Mezzolombardo"
 		},
 		{
 			"name": "Ospedale San Giovanni",
 			"address": "Via Carducci",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.21245958241063,
-					"latitude": 11.094517706968276
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.21245958241063,
+				"latitude": 11.094517706968276
 			},
 			"city": "Mezzolombardo"
 		},
 		{
 			"name": "Stazione TN-MALE'",
 			"address": "Via San Francesco, 4",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.21346390439162,
-					"latitude": 11.093116402922714
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 46.21346390439162,
+				"latitude": 11.093116402922714
 			},
 			"city": "Mezzolombardo"
 		},
 		{
 			"name": "Baldresca",
 			"address": "via Della Roggia",
-			"rackSlot": 0,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.8805278,
-					"latitude": 11.02875
-				}
+			"totalSlots": 0,
+			"GeoCoordinate": {
+				"longitude": 45.8805278,
+				"latitude": 11.02875
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Balista",
 			"address": "Via Antonio Balista 10",
-			"rackSlot": 9,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.896175282432274,
-					"latitude": 11.03036572611154
-				}
+			"totalSlots": 9,
+			"GeoCoordinate": {
+				"longitude": 45.896175282432274,
+				"latitude": 11.03036572611154
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Brione",
 			"address": "Via Perosi / Via Puccini",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.90421911950808,
-					"latitude": 11.044299836454002
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.90421911950808,
+				"latitude": 11.044299836454002
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Lizzana",
 			"address": "P.za Guella / Via Montello",
-			"rackSlot": 9,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.8675281353871,
-					"latitude": 11.031902417860465
-				}
+			"totalSlots": 9,
+			"GeoCoordinate": {
+				"longitude": 45.8675281353871,
+				"latitude": 11.031902417860465
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Marco",
 			"address": "Via 2 novembre / via Alveo - Scuola",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.84133938920707,
-					"latitude": 11.008448922615116
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.84133938920707,
+				"latitude": 11.008448922615116
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Mart",
 			"address": "Via Bettini Museo Mart",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.89383120606002,
-					"latitude": 11.043776690807363
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.89383120606002,
+				"latitude": 11.043776690807363
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Municipio",
 			"address": "Via Calcinari fr. civ. 11",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.88700893072052,
-					"latitude": 11.04421812261512
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.88700893072052,
+				"latitude": 11.04421812261512
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Noriglio",
 			"address": "Via Noriglio / ex scuola D. Chiesa",
-			"rackSlot": 8,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.88365364364294,
-					"latitude": 11.070399481792492
-				}
+			"totalSlots": 8,
+			"GeoCoordinate": {
+				"longitude": 45.88365364364294,
+				"latitude": 11.070399481792492
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Orvea",
 			"address": "Via del Garda / Via dell\u00e2\u20ac\u2122Industria",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.87202945143379,
-					"latitude": 11.020309774135626
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.87202945143379,
+				"latitude": 11.020309774135626
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Ospedale",
 			"address": "C.so Verona Park Ospedale Nuovo",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.88226500641319,
-					"latitude": 11.040281016146878
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.88226500641319,
+				"latitude": 11.040281016146878
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "P. Rosmini",
 			"address": "P.za Rosmini 1",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.89102037579931,
-					"latitude": 11.043363036887968
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.89102037579931,
+				"latitude": 11.043363036887968
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Piscina",
 			"address": "Via Udine - zona est parcheggio",
-			"rackSlot": 10,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.88445275840435,
-					"latitude": 11.033651829062546
-				}
+			"totalSlots": 10,
+			"GeoCoordinate": {
+				"longitude": 45.88445275840435,
+				"latitude": 11.033651829062546
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Quercia",
 			"address": "Via Palestrina 3",
-			"rackSlot": 5,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.90050916437712,
-					"latitude": 11.036815184130887
-				}
+			"totalSlots": 5,
+			"GeoCoordinate": {
+				"longitude": 45.90050916437712,
+				"latitude": 11.036815184130887
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Sacco",
 			"address": "Via Vittoria / Via Unione",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.88477528345004,
-					"latitude": 11.023286167216156
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.88477528345004,
+				"latitude": 11.023286167216156
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Stazione FF.SS.",
 			"address": "P.le Orsi - Scuola",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.89125332494616,
-					"latitude": 11.03489086508182
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.89125332494616,
+				"latitude": 11.03489086508182
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Stazione Mori",
 			"address": "Stazione Mori",
-			"rackSlot": 11,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.861171706692836,
-					"latitude": 11.001933217048647
-				}
+			"totalSlots": 11,
+			"GeoCoordinate": {
+				"longitude": 45.861171706692836,
+				"latitude": 11.001933217048647
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Via Paoli",
 			"address": "Via Manzoni / Via Paoli",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.89177380040726,
-					"latitude": 11.039904616532908
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.89177380040726,
+				"latitude": 11.039904616532908
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Villa Lagarina",
 			"address": "Piazzetta Scrinzi",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.91594639958107,
-					"latitude": 11.031688259394059
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 45.91594639958107,
+				"latitude": 11.031688259394059
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Zona Industriale",
 			"address": "Via Caproni Park Laghiol - Luxottica",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 45.86630335827336,
-					"latitude": 11.015673193887324
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 45.86630335827336,
+				"latitude": 11.015673193887324
 			},
 			"city": "Rovereto"
 		},
 		{
 			"name": "Mach",
 			"address": "Via S.F. Biasi c/o Fond. Mach",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.19131219731996,
-					"latitude": 11.135137084143805
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.19131219731996,
+				"latitude": 11.135137084143805
 			},
 			"city": "San Michele All'Adige"
 		},
 		{
 			"name": "Municipio",
 			"address": "Via San Francesco Biasi 1",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.192586343220725,
-					"latitude": 11.133782863353856
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.192586343220725,
+				"latitude": 11.133782863353856
 			},
 			"city": "San Michele All'Adige"
 		},
 		{
 			"name": "Aeroporto",
 			"address": "Via Lidorno / Aeroporto Caproni",
-			"rackSlot": 8,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.01983619754026,
-					"latitude": 11.127080654939277
-				}
+			"totalSlots": 8,
+			"GeoCoordinate": {
+				"longitude": 46.01983619754026,
+				"latitude": 11.127080654939277
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Azienda Sanitaria",
 			"address": "Via De Gasperi - Lato Trento Frutta",
-			"rackSlot": 18,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.044433415996814,
-					"latitude": 11.12804971230321
-				}
+			"totalSlots": 18,
+			"GeoCoordinate": {
+				"longitude": 46.044433415996814,
+				"latitude": 11.12804971230321
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Bezzi",
 			"address": "Via Bezzi / Via Vittorio Veneto",
-			"rackSlot": 9,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.058020904033015,
-					"latitude": 11.119315767528406
-				}
+			"totalSlots": 9,
+			"GeoCoordinate": {
+				"longitude": 46.058020904033015,
+				"latitude": 11.119315767528406
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Biblioteca",
 			"address": "Via Alfieri / Via Torre Vanga",
-			"rackSlot": 24,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.07043395910254,
-					"latitude": 11.121399842327946
-				}
+			"totalSlots": 24,
+			"GeoCoordinate": {
+				"longitude": 46.07043395910254,
+				"latitude": 11.121399842327946
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Bren Center",
 			"address": "Via Guardini fr. civ. 75",
-			"rackSlot": 18,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.094653868146885,
-					"latitude": 11.117693389024225
-				}
+			"totalSlots": 18,
+			"GeoCoordinate": {
+				"longitude": 46.094653868146885,
+				"latitude": 11.117693389024225
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Centro Santa Chiara",
 			"address": "Via S. Croce 78",
-			"rackSlot": 18,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.06345393738132,
-					"latitude": 11.12375366752849
-				}
+			"totalSlots": 18,
+			"GeoCoordinate": {
+				"longitude": 46.06345393738132,
+				"latitude": 11.12375366752849
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Cimitero",
 			"address": "via Madruzzo / via Rosmini",
-			"rackSlot": 10,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.063653753791996,
-					"latitude": 11.119203004368615
-				}
+			"totalSlots": 10,
+			"GeoCoordinate": {
+				"longitude": 46.063653753791996,
+				"latitude": 11.119203004368615
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Ex Atesina - Lidl",
 			"address": "via Del Brennero 99 - via Marconi",
-			"rackSlot": 9,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.083939246923265,
-					"latitude": 11.119624973661725
-				}
+			"totalSlots": 9,
+			"GeoCoordinate": {
+				"longitude": 46.083939246923265,
+				"latitude": 11.119624973661725
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Gardolo",
 			"address": "Via IV Novembre / Piscina",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.10407094472173,
-					"latitude": 11.112932473016372
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.10407094472173,
+				"latitude": 11.112932473016372
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Lidorno",
 			"address": "Via Lidorno / Park Trento Sud",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.03316279422745,
-					"latitude": 11.126252122229062
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.03316279422745,
+				"latitude": 11.126252122229062
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Muse",
 			"address": "Corso del Lavoro e della Scienza",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.06137765005302,
-					"latitude": 11.116027144580812
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.06137765005302,
+				"latitude": 11.116027144580812
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Piazza della Mostra",
 			"address": "P.za della Mostra 30",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.071784324082046,
-					"latitude": 11.125761136176266
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.071784324082046,
+				"latitude": 11.125761136176266
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Piazza di Centa",
 			"address": "P.le di Centa / Via Vannetti",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.07538723420181,
-					"latitude": 11.12382177686004
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.07538723420181,
+				"latitude": 11.12382177686004
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Piazza Venezia",
 			"address": "Via Grazioli / P.za Venezia",
-			"rackSlot": 24,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.06753791402558,
-					"latitude": 11.126987115869156
-				}
+			"totalSlots": 24,
+			"GeoCoordinate": {
+				"longitude": 46.06753791402558,
+				"latitude": 11.126987115869156
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Piscina",
 			"address": "Via Fogazzaro / Via Gocciadoro",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.05627509524844,
-					"latitude": 11.13094278895494
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.05627509524844,
+				"latitude": 11.13094278895494
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Stazione Autocorriere",
 			"address": "Via Pozzo / Via Torre Vanga",
-			"rackSlot": 21,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.07023563810641,
-					"latitude": 11.119849430688419
-				}
+			"totalSlots": 21,
+			"GeoCoordinate": {
+				"longitude": 46.07023563810641,
+				"latitude": 11.119849430688419
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Stazione FFSS - Ospedale",
 			"address": "Via Gocciadoro - Staz. S. Chiara",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.054586705531555,
-					"latitude": 11.135349258821861
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.054586705531555,
+				"latitude": 11.135349258821861
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Top Center",
 			"address": "Via Pranzelores / Via Giuseppe Gilli",
-			"rackSlot": 24,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.09010372321067,
-					"latitude": 11.118583717279193
-				}
+			"totalSlots": 24,
+			"GeoCoordinate": {
+				"longitude": 46.09010372321067,
+				"latitude": 11.118583717279193
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Universit\u00c3\u00a0",
 			"address": "Via Rosmini 50 - Universit\u00c3\u00a0",
-			"rackSlot": 18,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.06632943181332,
-					"latitude": 11.119020308598351
-				}
+			"totalSlots": 18,
+			"GeoCoordinate": {
+				"longitude": 46.06632943181332,
+				"latitude": 11.119020308598351
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Vannetti",
 			"address": "piazza Dante / via Vannetti",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.072996732945235,
-					"latitude": 11.121911281089751
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 46.072996732945235,
+				"latitude": 11.121911281089751
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Zuffo 1 - bike park",
 			"address": "piazzale Zuffo - Bike Park",
-			"rackSlot": 6,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.07516784166884,
-					"latitude": 11.109941605738777
-				}
+			"totalSlots": 6,
+			"GeoCoordinate": {
+				"longitude": 46.07516784166884,
+				"latitude": 11.109941605738777
 			},
 			"city": "Trento"
 		},
 		{
 			"name": "Zuffo 2 via dos Trento",
 			"address": "piazzale Zuffo - uscita Via dos Trento",
-			"rackSlot": 12,
-			"GeoShape": {
-				"type": "Point",
-				"GeoCoordinate": {
-					"longitude": 46.07508100896583,
-					"latitude": 11.109325880468887
-				}
+			"totalSlots": 12,
+			"GeoCoordinate": {
+				"longitude": 46.07508100896583,
+				"latitude": 11.109325880468887
 			},
 			"city": "Trento"
 		}

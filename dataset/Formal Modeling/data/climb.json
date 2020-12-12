@@ -39,7 +39,6 @@
 		},
 		{
 			"name": "Forest Park",
-			"opening_hours": "10:00-17:30",
 			"GeoCoordinate": {
 				"longitude": 10.963743749999999,
 				"latitude": 46.152607687499994
@@ -690,7 +689,6 @@
 		},
 		{
 			"name": "Palestra di roccia San Bartolameo",
-			"opening_hours": "Mo-Fr 12:00-22:30, Sa-Su 09:00-22:00",
 			"GeoCoordinate": {
 				"longitude": 11.1332036,
 				"latitude": 46.0465305
@@ -1308,7 +1306,7 @@
 				"latitude": 45.9984762
 			},
 			"housenumber": "25",
-			"address": "Localit\u00c3\u00a0 le Basse"
+			"address": "Localita' le Basse"
 		},
 		{
 			"name": "Piste dei dinosauri",
