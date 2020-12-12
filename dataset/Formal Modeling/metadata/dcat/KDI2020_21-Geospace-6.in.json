@@ -1,16 +1,17 @@
+  
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-8.in",
-"DatasetDescription"="natural climbing wall",
+"DatasetName"="KDI2020_21-Geospace-6.in",
+"DatasetDescription"="cinemas in Trentino",
 "ColumnNames"={
     "name"="name",
-    "opening_hours"
-    "height"="height",
     "latitude"="latitude",
     "longitude"="longitude",
-    "housenumber"="HouseNumber",
-    "postal_code"="Postal Code",
-    "address"="StreetName"
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",

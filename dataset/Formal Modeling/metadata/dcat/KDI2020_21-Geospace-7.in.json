@@ -3,9 +3,11 @@
 "DatasetName"="KDI2020_21-Geospace-7.in",
 "DatasetDescription"="civic numbers in the city of Trento",
 "ColumnNames"={
-    "civico_num"="HouseNumber",
-    "address"="StreetName",
-    "city"="City",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City",
     "latitude"="latitude",
     "longitude"="longitude"
 },

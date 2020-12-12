@@ -4,10 +4,13 @@
 "DatasetDescription"="churches in the area of Trentino",
 "ColumnNames"={
     "name"="name",
-    "address"="StreetName",
-    "city"="City",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City",
     "latitude"="latitude",
-    "longitude""longitude"
+    "longitude"="longitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
 "SKG" = "project name.skg",

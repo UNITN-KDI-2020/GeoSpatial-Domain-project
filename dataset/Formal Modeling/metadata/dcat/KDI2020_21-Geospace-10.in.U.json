@@ -4,12 +4,12 @@
 "DatasetDescription"="hospitals",
 "ColumnNames"={
     "name"="name",
-    "addr_city"
-    "addr_househumber"
-    "addr_postcode"
-    "addr_street"
-    "latitude"
-    "longitude"
+    "addr_city"="City",
+    "addr_househumber"="HouseNumber",
+    "addr_postcode"="PostalCode",
+    "addr_street"="StreetName",
+    "latitude"="latitude",
+    "longitude"="longitude"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",

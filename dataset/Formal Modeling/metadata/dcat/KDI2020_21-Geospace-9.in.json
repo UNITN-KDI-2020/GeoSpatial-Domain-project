@@ -4,10 +4,13 @@
 "DatasetDescription"="elderly centers",
 "ColumnNames"={
     "name"="name",
-    "address"="",
-    "city"="City",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City",
     "latitude"="latitude",
-    "longitude"="longitude
+    "longitude"="longitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
 "SKG" = "project name.skg",

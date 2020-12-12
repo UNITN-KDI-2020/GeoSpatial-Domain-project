@@ -1,17 +1,17 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
 "DatasetName"="KDI2020_21-Geospace-11.in",
-"DatasetDescription"="short textual description",
+"DatasetDescription"="type of internet connection available in that house in Trentino",
 "ColumnNames"={
-    "name"="name"
-    "latitude"
-    "longitude"
+    "name"="name",
+    "latitude"="latitude",
+    "longitude"="longitude",
     "address"
     "city"
     "HouseNumber"
     "BarNumber"
-    "current"
-    "prediction2022"
+    "current"="current",
+    "prediction2022"="prediction2022"
 },
 "SourceDatasetURL"="www.infratelitalia.it",
 "SKG" = "project name.skg",
