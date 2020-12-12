@@ -3,16 +3,16 @@
 "DatasetName"="KDI2020_21-Geospace-15.in",
 "DatasetDescription"="parking place in Trentino",
 "ColumnNames"={
-    "fee"="SKGname",
-    "capacity"="",
-    "name"="",
-    "opening_hours"="",
-    "latitude"="",
-    "longitude"="",
-    "city"="",
-    "housenumber"="",
-    "postal_code"="",
-    "address"=""
+    "fee"="fee",
+    "capacity"="capacity",
+    "name"="name",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City"
 },
 "SourceDatasetURL"="",
 "SKG" = "project name.skg",
