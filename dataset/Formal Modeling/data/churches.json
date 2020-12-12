@@ -482,7 +482,7 @@
 		{
 			"id": 1020,
 			"name": "La Chiesa di Baselga",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.415608,
 				"longitude": 10.985737,
 				"address": "baselga bresimo"
@@ -662,27 +662,25 @@
 		{
 			"id": 1903,
 			"name": "Chiesa parrocchiale",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Capriana"
 		},
 		{
 			"id": 1904,
 			"name": "Chiesa di Carbonare",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Capriana"
 		},
 		{
 			"id": 1516,
 			"name": "La chiesa di San Nicol\u00f2",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.292136,
 				"longitude": 11.440759,
 				"address": "carano"
@@ -692,7 +690,7 @@
 		{
 			"id": 1517,
 			"name": "La chiesa di Aguai",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.292136,
 				"longitude": 11.440759,
 				"address": "carano"
@@ -998,11 +996,11 @@
 		{
 			"id": 1641,
 			"name": "Chiesa cinquecentesca",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.089663,
-				"longitude": 11.297549,
-				"address": "frassilongo"
+				"longitude": 11.297549
 			},
+			"address": "frassilongo",
 			"city": "Frassilongo"
 		},
 		{
@@ -1077,41 +1075,40 @@
 		{
 			"id": 1383,
 			"name": "Chiesa di San Martino",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.40311,
-				"longitude": 11.01971,
-				"address": "livo tn"
+				"longitude": 11.01971
 			},
+			"address": "livo tn",
 			"city": "Livo"
 		},
 		{
 			"id": 1555,
 			"name": "Chiesa Nativit\u00e0 di S. Maria",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.398185,
-				"longitude": 11.021841,
-				"address": ""
+				"longitude": 11.021841
 			},
 			"city": "Livo"
 		},
 		{
 			"id": 1808,
 			"name": "Chiesa di S. Antonio a Preghena",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.409468,
-				"longitude": 11.013003,
-				"address": "preghena"
+				"longitude": 11.013003
 			},
+			"address": "preghena",
 			"city": "Livo"
 		},
 		{
 			"id": 1809,
 			"name": "Chiesa SS.Immacolata a Scanna",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.396204,
-				"longitude": 11.02574,
-				"address": "scanna livo"
+				"longitude": 11.02574
 			},
+			"address": "scanna livo",
 			"city": "Livo"
 		},
 		{
@@ -1257,7 +1254,7 @@
 		{
 			"id": 1719,
 			"name": "Chiesa di S. Tomaso",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.303296,
 				"longitude": 11.059458,
 				"address": "portolo nanno"
@@ -1267,17 +1264,16 @@
 		{
 			"id": 1717,
 			"name": "Chiesa di S. Fabiano e Sebastiano",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.321107,
-				"longitude": 11.033556,
-				"address": ""
+				"longitude": 11.033556
 			},
 			"city": "Nanno"
 		},
 		{
 			"id": 1718,
 			"name": "Chiesa di S. Biagio",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.316094,
 				"longitude": 11.046502,
 				"address": "nanno"
@@ -1287,7 +1283,7 @@
 		{
 			"id": 1512,
 			"name": "La Chiesa di S.Valentino di Noarna",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 45.91491,
 				"longitude": 11.022841,
 				"address": "nogaredo"
@@ -1355,41 +1351,39 @@
 		},
 		{
 			"id": 1624,
+			"address": "pelugo tn",
 			"name": "Chiesa cimiteriale di Sant'Antonio Abate",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.087643,
-				"longitude": 10.724535,
-				"address": "pelugo tn"
+				"longitude": 10.724535
 			},
 			"city": "Pelugo"
 		},
 		{
 			"id": 1626,
+			"address": "pelugo tn",
 			"name": "Chiesa parrocchiale di San Zeno",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.087643,
-				"longitude": 10.724535,
-				"address": "pelugo tn"
+				"longitude": 10.724535
 			},
 			"city": "Pelugo"
 		},
 		{
 			"id": 1965,
 			"name": "Chiesa Arcipretale",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Pieve Tesino"
 		},
 		{
 			"id": 1966,
 			"name": "Chiesa e Colle di San Sebastiano",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Pieve Tesino"
 		},
@@ -1666,21 +1660,21 @@
 		{
 			"id": 1133,
 			"name": "Chiesa parrocchiale di San Giuseppe",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.080224,
-				"longitude": 11.522493,
-				"address": "samone tn"
+				"longitude": 11.522493
 			},
+			"address": "samone tn",
 			"city": "Samone"
 		},
 		{
 			"id": 1134,
 			"name": "Chiesa di San Donato",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.080224,
-				"longitude": 11.522493,
-				"address": "samone tn"
+				"longitude": 11.522493
 			},
+			"address": "samone tn",
 			"city": "Samone"
 		},
 		{
@@ -1705,30 +1699,27 @@
 		{
 			"id": 2117,
 			"name": "Chiesa di S. Giorgio",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Sarnonico"
 		},
 		{
 			"id": 2081,
 			"name": "Chiesa di S. Lorenzo",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Sarnonico"
 		},
 		{
 			"id": 2112,
 			"name": "Chiesa di S.Maria",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Sarnonico"
 		},
@@ -1775,60 +1766,59 @@
 		{
 			"id": 5718,
 			"name": "Chiesa di San Vigilio",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.052676,
-				"longitude": 10.853631,
-				"address": "stenico"
+				"longitude": 10.853631
 			},
+			"address": "stenico",
 			"city": "Stenico"
 		},
 		{
 			"id": 5719,
 			"name": "Chiesa di San Pietro e Paolo",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.055562,
-				"longitude": 10.883276,
-				"address": "sclemo"
+				"longitude": 10.883276
 			},
+			"address": "sclemo",
 			"city": "Stenico"
 		},
 		{
 			"id": 5720,
 			"name": "Chiesa di San Michele",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.057277,
-				"longitude": 10.871687,
-				"address": "seo stenico"
+				"longitude": 10.871687
 			},
+			"address": "seo stenico",
 			"city": "Stenico"
 		},
 		{
 			"id": 5721,
 			"name": "Chiesa di Ss. Margherita e Lucia",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.04806,
-				"longitude": 10.873502,
-				"address": "premione stenico"
+				"longitude": 10.873502
 			},
+			"address": "premione stenico",
 			"city": "Stenico"
 		},
 		{
 			"id": 5722,
 			"name": "Chiesa della Santa Trinit\u00e0",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.04755,
-				"longitude": 10.888232,
-				"address": "villa banale"
+				"longitude": 10.888232
 			},
+			"address": "villa banale",
 			"city": "Stenico"
 		},
 		{
 			"id": 1972,
 			"name": "Cappella Bozzoni",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Tenno"
 		},
@@ -1965,40 +1955,36 @@
 		{
 			"id": 2118,
 			"name": "Chiesa dei Santi Fabiano e Sebastiano",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Ton"
 		},
 		{
 			"id": 2119,
 			"name": "Chiesa di San Nicol\u00f2",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Ton"
 		},
 		{
 			"id": 2120,
 			"name": "Chiesa di San Vigilio",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Ton"
 		},
 		{
 			"id": 2121,
 			"name": "Chiesa di Santa Maria Assunta",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Ton"
 		},
@@ -2207,10 +2193,9 @@
 		{
 			"id": 4654,
 			"name": "Chiesa parrocchiale di San Faustino",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Treville"
 		},
@@ -2334,7 +2319,7 @@
 		{
 			"id": 1297,
 			"name": "Chiesa di San Bartolomeo",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 46.04478,
 				"longitude": 11.27637,
 				"address": "frazione Vignola 12"
@@ -2384,20 +2369,18 @@
 		{
 			"id": 3722,
 			"name": "Chiesa Parrocchiale",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Volano"
 		},
 		{
 			"id": 3724,
 			"name": "Chiesa di San Rocco",
-			"address": {
+			"GeoCoordinate": {
 				"latitude": 0,
-				"longitude": 0,
-				"address": ""
+				"longitude": 0
 			},
 			"city": "Volano"
 		},
