@@ -6,7 +6,7 @@
     "reservedForBike"="reservedForBike",
     "totalLength"="totalLength",
     "GeoShape"="GeoShape",
-    "address"="StreetName"
+    "name"="name"
 },
 "SourceDatasetURL"="",
 "SKG" = "project name.skg",
