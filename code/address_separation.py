@@ -15,6 +15,7 @@ regioni = json.load(file_comuni)["regioni"]
 trentino = [x for x in regioni if x["nome"] == "Trentino-Alto Adige"][0]
 comuni = [x["nome"] for x in trentino["province"][0]["comuni"]]
 comuni.extend([x["nome"] for x in trentino["province"][1]["comuni"]])
+comuni.remove('Don')
 
 # ap = AddressParser(cities=comuni)
 
@@ -35,21 +36,32 @@ def extractCity(address):
 			return True, c
 	return False, None
 
-def parse(address):
+def parse(address, city):
 	out = {}
 	prefixes = ["via", "piazza", "corso", "piaz", "strada provinciale", "strada", "vicolo", "cort", "cianton", "localita'", "viale", "piazzale", "p.za", "p.le", "c.so", "porta", "largo", "piaza", "piazzetta"]
-	res, city = extractCity(address)
-	if res:
-		out["city"] = city
+	if city == None:
+		res, city = extractCity(address)
+		if res:
+			out["city"] = city
+			address = address.replace(city, "")
+	else:
 		address = address.replace(city, "")
 	subaddr = re.split("[,;-]+", address)
 	searchForStreet = -1
 	street = ""
 	for a_i, addr in enumerate(subaddr):
 		splittedAddr = addr.split()
+		if a_i - 1 == searchForStreet and searchForStreet >= 0:
+			out["StreetName"] = street
+			street = ""
+			searchForStreet = -2
 		for w_i, word in enumerate(splittedAddr):
 			if word.lower() in prefixes:
 				out["StreetType"] = word
+				if searchForStreet >= 0:
+					out["StreetName"] = street
+					street = ""
+					searchForStreet = -2
 				if w_i == 0 and a_i == 0:
 					searchForStreet = a_i
 			elif RepresentsInt(word):
@@ -57,6 +69,10 @@ def parse(address):
 					out["postal_code"] = word
 				else:
 					out["HouseNumber"] = word
+				if searchForStreet >= 0:
+					out["StreetName"] = street
+					street = ""
+					searchForStreet = -2
 			elif searchForStreet >= 0:
 				if a_i == searchForStreet:
 					street += ("" if street == "" else " ") + word
@@ -79,7 +95,7 @@ OUT_FOLDER = "./dataset/Data Integration/data/"
 countAddress = 0
 countValid = 0
 
-# print(parse("Via Antonio Stoppani"))
+print(parse("Piazza Cesare Battisti - Cavalese", None))
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	if not ".json" in filename or filename in exceptions:
@@ -93,24 +109,25 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	newDataset = {"records": []}
 
+	countAddress = 0
+	countValid = 0
+
 	for d_i, d in enumerate(data):
 
 		if "address" in d:
 			countAddress += 1
-			# address = ap.parse_address(d["address"])
-			# if not "postal_code" in d and address.zip
-			address = parse(d["address"])
+			address = parse(d["address"], d["city"] if "city" in d else None)
+			# print("\t"+d["address"]+"\t"+str(address))
 			if address != None:
 				countValid += 1
 				for k in address.keys():
 					d[k] = address[k]
-			# 	print("\t"+d["address"]+"\t"+str(address))
-			# else:
-			# 	print("\t"+d["address"])
-			
+				# d.pop("address")
+			else:
+				d["address_additional_information"] = d.pop("address")
 			
 		newDataset["records"].append(d)
-	
-	# print()
-	with open(OUT_FOLDER + filename, 'w+') as file:
-		json.dump(newDataset, file)
+	if countAddress > 0:
+		print("\t"+ str(countValid/countAddress*100)+"%" )
+		with open(OUT_FOLDER + filename, 'w+') as file:
+			json.dump(newDataset, file)
