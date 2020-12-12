@@ -10,7 +10,7 @@
     "city"="City",
     "name"="name",
     "SchoolType"="schoolType",
-    "study paths"="courseOfStudy"
+    "courseOfStudy"="courseOfStudy"
 },
 "SourceDatasetURL"={
     "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
