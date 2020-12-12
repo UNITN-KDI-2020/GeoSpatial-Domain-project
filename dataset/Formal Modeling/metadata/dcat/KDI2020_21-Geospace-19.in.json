@@ -1,11 +1,18 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-n.in",
-"DatasetDescription"="short textual description",
+"DatasetName"="KDI2020_21-Geospace-19.in",
+"DatasetDescription"="post offeces in Trentino",
 "ColumnNames"={
-    "inputName"="SKGname"
+    "name"="name",
+    "opening_hours"="openingHours",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "city"="City",
+    "housenumber"="HouseNumber",
+    "postal_code"="Postal Code",
+    "address"="StreetName"
 },
-"SourceDatasetURL"="",
+"SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
 "NumberItems"=""

@@ -1,0 +1,24 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-22.in",
+"DatasetDescription"="schools in Trentino",
+"ColumnNames"={
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "HouseNumber"="HouseNumber",
+    "address"="StreetName",
+    "city"="City",
+    "name"="name",
+    "SchoolType"="schoolType",
+    "study paths"="courseOfStudy"
+},
+"SourceDatasetURL"={
+    "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+    "https://dati.trentino.it/dataset/localizzazione-delle-scuole-medie-open-data",
+    "https://dati.trentino.it/dataset/localizzazione-scuole-dell-infanzia-open-data",
+    "https://dati.trentino.it/dataset/localizzazione-delle-scuole-elementari-open-data"
+}
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
+

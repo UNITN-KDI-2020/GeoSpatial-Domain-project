@@ -1,0 +1,17 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-23.in",
+"DatasetDescription"="ski slopes in Trentino",
+"ColumnNames"={
+    "name"="name",
+    "piste:type"="SlopeType",
+    "piste:difficulty"="SlopeDifficultyType",
+    "GeoShape"="GeoShape",
+    ""="SkiArea"
+
+},
+"SourceDatasetURL"="www.openstreetmap",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
+
