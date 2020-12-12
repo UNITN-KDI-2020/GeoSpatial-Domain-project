@@ -3,7 +3,7 @@
 		{
 			"name": "Grazioli",
 			"address": "Piazza Grazioli - Lavis",
-			"totalSlots": 10,
+			"rackSlot": 10,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -16,7 +16,7 @@
 		{
 			"name": "Pressano",
 			"address": "Piazza della Croce - Pressano",
-			"totalSlots": 7,
+			"rackSlot": 7,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -29,7 +29,7 @@
 		{
 			"name": "Stazione RFI",
 			"address": "Via Stazione - Lavis",
-			"totalSlots": 10,
+			"rackSlot": 10,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -42,7 +42,7 @@
 		{
 			"name": "Borgata - Trento-Mal\u00c3\u00a8",
 			"address": "Piazza San Gottardo",
-			"totalSlots": 11,
+			"rackSlot": 11,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -55,7 +55,7 @@
 		{
 			"name": "Cavalleggeri",
 			"address": "Via Cavalleggeri, 19",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -68,7 +68,7 @@
 		{
 			"name": "Stazione TN-Mal\u00c3\u00a8 - RFI",
 			"address": "Piazza Trento",
-			"totalSlots": 18,
+			"rackSlot": 18,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -81,7 +81,7 @@
 		{
 			"name": "Fiera",
 			"address": "via Cavalleggeri Udine 1",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -94,7 +94,7 @@
 		{
 			"name": "Ospedale San Giovanni",
 			"address": "Via Carducci",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -107,7 +107,7 @@
 		{
 			"name": "Stazione TN-MALE'",
 			"address": "Via San Francesco, 4",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -120,7 +120,7 @@
 		{
 			"name": "Baldresca",
 			"address": "via Della Roggia",
-			"totalSlots": 0,
+			"rackSlot": 0,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -133,7 +133,7 @@
 		{
 			"name": "Balista",
 			"address": "Via Antonio Balista 10",
-			"totalSlots": 9,
+			"rackSlot": 9,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -146,7 +146,7 @@
 		{
 			"name": "Brione",
 			"address": "Via Perosi / Via Puccini",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -159,7 +159,7 @@
 		{
 			"name": "Lizzana",
 			"address": "P.za Guella / Via Montello",
-			"totalSlots": 9,
+			"rackSlot": 9,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -172,7 +172,7 @@
 		{
 			"name": "Marco",
 			"address": "Via 2 novembre / via Alveo - Scuola",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -185,7 +185,7 @@
 		{
 			"name": "Mart",
 			"address": "Via Bettini Museo Mart",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -198,7 +198,7 @@
 		{
 			"name": "Municipio",
 			"address": "Via Calcinari fr. civ. 11",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -211,7 +211,7 @@
 		{
 			"name": "Noriglio",
 			"address": "Via Noriglio / ex scuola D. Chiesa",
-			"totalSlots": 8,
+			"rackSlot": 8,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -224,7 +224,7 @@
 		{
 			"name": "Orvea",
 			"address": "Via del Garda / Via dell\u00e2\u20ac\u2122Industria",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -237,7 +237,7 @@
 		{
 			"name": "Ospedale",
 			"address": "C.so Verona Park Ospedale Nuovo",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -250,7 +250,7 @@
 		{
 			"name": "P. Rosmini",
 			"address": "P.za Rosmini 1",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -263,7 +263,7 @@
 		{
 			"name": "Piscina",
 			"address": "Via Udine - zona est parcheggio",
-			"totalSlots": 10,
+			"rackSlot": 10,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -276,7 +276,7 @@
 		{
 			"name": "Quercia",
 			"address": "Via Palestrina 3",
-			"totalSlots": 5,
+			"rackSlot": 5,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -289,7 +289,7 @@
 		{
 			"name": "Sacco",
 			"address": "Via Vittoria / Via Unione",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -302,7 +302,7 @@
 		{
 			"name": "Stazione FF.SS.",
 			"address": "P.le Orsi - Scuola",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -315,7 +315,7 @@
 		{
 			"name": "Stazione Mori",
 			"address": "Stazione Mori",
-			"totalSlots": 11,
+			"rackSlot": 11,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -328,7 +328,7 @@
 		{
 			"name": "Via Paoli",
 			"address": "Via Manzoni / Via Paoli",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -341,7 +341,7 @@
 		{
 			"name": "Villa Lagarina",
 			"address": "Piazzetta Scrinzi",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -354,7 +354,7 @@
 		{
 			"name": "Zona Industriale",
 			"address": "Via Caproni Park Laghiol - Luxottica",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -367,7 +367,7 @@
 		{
 			"name": "Mach",
 			"address": "Via S.F. Biasi c/o Fond. Mach",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -380,7 +380,7 @@
 		{
 			"name": "Municipio",
 			"address": "Via San Francesco Biasi 1",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -393,7 +393,7 @@
 		{
 			"name": "Aeroporto",
 			"address": "Via Lidorno / Aeroporto Caproni",
-			"totalSlots": 8,
+			"rackSlot": 8,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -406,7 +406,7 @@
 		{
 			"name": "Azienda Sanitaria",
 			"address": "Via De Gasperi - Lato Trento Frutta",
-			"totalSlots": 18,
+			"rackSlot": 18,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -419,7 +419,7 @@
 		{
 			"name": "Bezzi",
 			"address": "Via Bezzi / Via Vittorio Veneto",
-			"totalSlots": 9,
+			"rackSlot": 9,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -432,7 +432,7 @@
 		{
 			"name": "Biblioteca",
 			"address": "Via Alfieri / Via Torre Vanga",
-			"totalSlots": 24,
+			"rackSlot": 24,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -445,7 +445,7 @@
 		{
 			"name": "Bren Center",
 			"address": "Via Guardini fr. civ. 75",
-			"totalSlots": 18,
+			"rackSlot": 18,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -458,7 +458,7 @@
 		{
 			"name": "Centro Santa Chiara",
 			"address": "Via S. Croce 78",
-			"totalSlots": 18,
+			"rackSlot": 18,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -471,7 +471,7 @@
 		{
 			"name": "Cimitero",
 			"address": "via Madruzzo / via Rosmini",
-			"totalSlots": 10,
+			"rackSlot": 10,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -484,7 +484,7 @@
 		{
 			"name": "Ex Atesina - Lidl",
 			"address": "via Del Brennero 99 - via Marconi",
-			"totalSlots": 9,
+			"rackSlot": 9,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -497,7 +497,7 @@
 		{
 			"name": "Gardolo",
 			"address": "Via IV Novembre / Piscina",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -510,7 +510,7 @@
 		{
 			"name": "Lidorno",
 			"address": "Via Lidorno / Park Trento Sud",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -523,7 +523,7 @@
 		{
 			"name": "Muse",
 			"address": "Corso del Lavoro e della Scienza",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -536,7 +536,7 @@
 		{
 			"name": "Piazza della Mostra",
 			"address": "P.za della Mostra 30",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -549,7 +549,7 @@
 		{
 			"name": "Piazza di Centa",
 			"address": "P.le di Centa / Via Vannetti",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -562,7 +562,7 @@
 		{
 			"name": "Piazza Venezia",
 			"address": "Via Grazioli / P.za Venezia",
-			"totalSlots": 24,
+			"rackSlot": 24,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -575,7 +575,7 @@
 		{
 			"name": "Piscina",
 			"address": "Via Fogazzaro / Via Gocciadoro",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -588,7 +588,7 @@
 		{
 			"name": "Stazione Autocorriere",
 			"address": "Via Pozzo / Via Torre Vanga",
-			"totalSlots": 21,
+			"rackSlot": 21,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -601,7 +601,7 @@
 		{
 			"name": "Stazione FFSS - Ospedale",
 			"address": "Via Gocciadoro - Staz. S. Chiara",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -614,7 +614,7 @@
 		{
 			"name": "Top Center",
 			"address": "Via Pranzelores / Via Giuseppe Gilli",
-			"totalSlots": 24,
+			"rackSlot": 24,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -627,7 +627,7 @@
 		{
 			"name": "Universit\u00c3\u00a0",
 			"address": "Via Rosmini 50 - Universit\u00c3\u00a0",
-			"totalSlots": 18,
+			"rackSlot": 18,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -640,7 +640,7 @@
 		{
 			"name": "Vannetti",
 			"address": "piazza Dante / via Vannetti",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -653,7 +653,7 @@
 		{
 			"name": "Zuffo 1 - bike park",
 			"address": "piazzale Zuffo - Bike Park",
-			"totalSlots": 6,
+			"rackSlot": 6,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {
@@ -666,7 +666,7 @@
 		{
 			"name": "Zuffo 2 via dos Trento",
 			"address": "piazzale Zuffo - uscita Via dos Trento",
-			"totalSlots": 12,
+			"rackSlot": 12,
 			"GeoShape": {
 				"type": "Point",
 				"GeoCoordinate": {

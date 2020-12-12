@@ -5,8 +5,12 @@
 "DatasetDescription"="bikesharing stations in Trento",
 "ColumnNames"={
     "name"="name",
-    "address"="StreetName",
-    "totalSlot"="rackSlot",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City",
+    "rackSlot"="rackSlot",
     "latitude"="latitude",
     "longitude"="longitude"
 },
