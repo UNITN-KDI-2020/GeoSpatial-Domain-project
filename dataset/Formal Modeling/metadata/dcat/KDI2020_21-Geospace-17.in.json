@@ -3,9 +3,12 @@
 "DatasetName"="KDI2020_21-Geospace-17.in",
 "DatasetDescription"="physician in Trentino",
 "ColumnNames"={
-    "name"="SKGname",
-    "address"="Address",
-    "city"="City",
+    "name"="name",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "HouseNumber"="HouseNumber",
+    "PostalCode"="PostalCode"
+    "City"="City",
     "latitude"="latitude",
     "longitude"="longitude"
 },
