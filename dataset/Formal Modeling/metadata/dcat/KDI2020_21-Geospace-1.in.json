@@ -1,0 +1,27 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-1.in",
+"DatasetDescription"="short textual description",
+"ColumnNames"={
+    "name"="name",
+    "type"="",
+    "latitude"="latitude",
+    "longitude"="longitude",
+    "elevation"="altitude",
+    "totalLenght"="totalLenght",
+    "blackSlopeLenght"="blackSlopeLenght",
+    "redSlopeLenght"="redSlopeLenght",
+    "blueSlopeLenght"="blueSlopeLenght",
+    "numberLiftsnumberLifts",
+    "adultPrice"="adultPrice",
+    "youngPrice"="youngPrice",
+    "kidPrice"="kidPrice"
+},
+"SourceDatasetURL"={
+    "www.openstreetmap.org",
+    "www.skiresort.it"
+},
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"="13"
+

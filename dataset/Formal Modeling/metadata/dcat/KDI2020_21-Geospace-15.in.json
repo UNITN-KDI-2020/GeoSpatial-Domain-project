@@ -1,0 +1,21 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-15.in",
+"DatasetDescription"="parking place in Trentino",
+"ColumnNames"={
+    "fee"="SKGname",
+    "capacity"="",
+    "name"="",
+    "opening_hours"="",
+    "latitude"="",
+    "longitude"="",
+    "city"="",
+    "housenumber"="",
+    "postal_code"="",
+    "address"=""
+},
+"SourceDatasetURL"="",
+"SKG" = "project name.skg",
+"DKG"= "project name.dkg",
+"NumberItems"=""
+
