@@ -3,7 +3,7 @@
 "DatasetName"="KDI2020_21-Geospace-26.in",
 "DatasetDescription"="supermarket in Trentino",
 "ColumnNames"={
-    "name"="SKGname",
+    "name"="name",
     "latitude"="latitude",
     "longitude"="longitude",
     ""="area"

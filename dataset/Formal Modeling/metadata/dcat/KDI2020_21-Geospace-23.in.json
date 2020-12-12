@@ -4,10 +4,10 @@
 "DatasetDescription"="ski slopes in Trentino",
 "ColumnNames"={
     "name"="name",
-    "piste:type"="SlopeType",
-    "piste:difficulty"="SlopeDifficultyType",
+    "SlopeType"="SlopeType",
+    "SlopeDifficultyType"="SlopeDifficultyType",
     "GeoShape"="GeoShape",
-    ""="SkiArea"
+    "SkiArea"="SkiArea"
 
 },
 "SourceDatasetURL"="www.openstreetmap",
