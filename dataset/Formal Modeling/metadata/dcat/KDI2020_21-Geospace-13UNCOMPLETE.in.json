@@ -3,7 +3,7 @@
 "DatasetName"="KDI2020_21-Geospace-13.in",
 "DatasetDescription"="short textual description",
 "ColumnNames"={
-    "sat_Id"="SKGname",
+    "sat_Id"="satId",
     "trainType"
     "name"
     "distance"

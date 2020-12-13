@@ -10,10 +10,12 @@
     "city"="City",
     "housenumber"="HouseNumber",
     "postal_code"="Postal Code",
-    "address"="StreetName"
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "address_additional_information"="AdditionalInformation"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="10"
 

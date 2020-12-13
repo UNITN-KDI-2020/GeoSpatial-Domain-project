@@ -6,10 +6,10 @@
     "name"="name",
     "latitude"="latitude",
     "longitude"="longitude",
-    ""="area"
+    "area"="area"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="4"
 

@@ -6,7 +6,9 @@
     "latitude"="latitude",
     "longitude"="longitude",
     "HouseNumber"="HouseNumber",
-    "address"="StreetName",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "address_additional_information"="AdditionalInformation",
     "city"="City",
     "name"="name",
     "SchoolType"="schoolType",
@@ -20,5 +22,5 @@
 }
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="1"
 

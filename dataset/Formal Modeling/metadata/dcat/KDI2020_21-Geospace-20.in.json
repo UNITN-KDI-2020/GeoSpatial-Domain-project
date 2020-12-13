@@ -1,7 +1,7 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
 "DatasetName"="KDI2020_21-Geospace-20.in",
-"DatasetDescription"="railways in Trentino,
+"DatasetDescription"="railways in Trentino",
 "ColumnNames"={
     "name"="name",
     "GeoShape"="GeoShape"
@@ -9,5 +9,5 @@
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="2"
 

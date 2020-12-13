@@ -1,7 +1,7 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-27.in",
-"DatasetDescription"="theaters in Trentino",
+"DatasetName"="KDI2020_21-Geospace-28.in",
+"DatasetDescription"="ambulatories in Trentino",
 "ColumnNames"={
     "name"="name",
     "latitude"="latitude",
