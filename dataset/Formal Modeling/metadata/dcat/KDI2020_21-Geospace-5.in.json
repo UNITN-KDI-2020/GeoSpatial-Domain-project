@@ -14,6 +14,6 @@
     "longitude"="longitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
 "NumberItems"=""

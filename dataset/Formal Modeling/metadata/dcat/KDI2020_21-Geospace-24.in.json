@@ -11,7 +11,7 @@
     "GeoShape"="GeoShape"
 },
 "SourceDatasetURL"= "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"=""
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="6"
 

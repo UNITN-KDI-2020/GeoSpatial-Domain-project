@@ -14,7 +14,7 @@
     "address_additional_information"="AdditionalInformation"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"=""
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="9"
 

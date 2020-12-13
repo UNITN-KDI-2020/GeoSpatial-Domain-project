@@ -20,7 +20,7 @@
     "https://dati.trentino.it/dataset/localizzazione-scuole-dell-infanzia-open-data",
     "https://dati.trentino.it/dataset/localizzazione-delle-scuole-elementari-open-data"
 }
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"="1"
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="10"
 

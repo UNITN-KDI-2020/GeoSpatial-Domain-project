@@ -13,8 +13,8 @@
     "StreetName"="StreetName"
     "StreetType"="StreetType"
 },
-"SourceDatasetURL"="",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
+"SourceDatasetURL"="www.openstreetmap.org",
+"SKG" = "KDI2020_21-Geospace",
+"DKG"= "KDI2020_21-Geospace",
 "NumberItems"="9"
 
