@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore", category=Warning)
 # address = ap.parse_address('123 West Mifflin Street, Madison, WI, 53703')
 # print "Address is: {0} {1} {2} {3}".format(address.house_number, address.street_prefix, address.street, address.street_suffix)
 
-exceptions = ["buildings.json", "trails.json", "civici_web.json"]
+exceptions = ["buildings.json", "trails.json"]
 
 file_comuni = open("./code/italia_comuni.json", "r")
 regioni = json.load(file_comuni)["regioni"]
