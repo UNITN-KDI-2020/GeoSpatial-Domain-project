@@ -1,17 +1,18 @@
 # script to allineate point of interests
 
-from shapely.geometry.polygon import Polygon
+# from shapely.geometry.polygon import Polygon
 from functools import partial
 import pyproj
-import shapely.ops as ops
+# import shapely.ops as ops
 import ujson
 import json
 import csv
 import numpy as np
 import math
 from os import path, listdir
-from sys import argv
+from sys import argv, stdout
 import pyproj as pj
+import timeit
 import warnings
 warnings.filterwarnings("ignore", category=Warning)
 
@@ -55,6 +56,20 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	data = json.load(dataset)["records"]
 
 	newDataset = {"records": []}
+
+	if "civici_web.json" in filename:
+		length = len(data)
+		for d_i, d in enumerate(data):
+			# start = timeit.default_timer()
+			if "geometry" in d:
+				coor = d["geometry"]["coordinates"]
+				d.pop("geometry")
+				x, y = pj.transform(inProj, outProj, coor[0], coor[1])
+				d["GeoCoordinate"] = { "longitude" : x, "latitude" : y }
+			# stop = timeit.default_timer()
+			if d_i % 10 == 0:
+				print('\rprogress: ',round(d_i/length*100,1),"%\t",d_i,"/",length, end='')
+				stdout.flush()
 
 	if "park.json" in filename:
 		for d_i, d in enumerate(data):
@@ -206,23 +221,23 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					count = 0
 					for edifici_i, edifici in enumerate(coordinates):
 						for edificio_i, edificio in enumerate(edifici):
-							d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
+							# d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
 							mediaX += edificio[0]
 							mediaY += edificio[1]
 							count += 1
 					
-					# d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
+					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "LineString" or d["GeoCoordinate"]["type"] == "Line":
 					coordinates = d["GeoCoordinate"]["coordinates"]
 					mediaX = 0
 					mediaY = 0
 					count = 0
 					for p_i, point in enumerate(coordinates):
-						d["GeoCoordinate"]["coordinates"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
+						# d["GeoCoordinate"]["coordinates"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
 						mediaX += point[0]
 						mediaY += point[1]
 						count += 1
-					# d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
+					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "Point":
 					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
 
