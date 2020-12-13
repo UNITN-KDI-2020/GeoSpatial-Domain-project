@@ -1,18 +1,18 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-3.in",
-"DatasetDescription"="Cafe in Trentino",
+"DatasetName"="KDI2020_21-Geospace-9.in",
+"DatasetDescription"="elderly centers in Trentino",
 "ColumnNames"={
     "name"="name",
     "StreetName"="StreetName",
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
     "PostalCode"="PostalCode"
-    "City"="City",
-    "latitude"="longitude",
-    "longitude"="latitude"
+    "city"="City",
+    "latitude"="latitude",
+    "longitude"="longitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"="6"
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="8"

@@ -14,6 +14,6 @@
     "city"="City"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
 "NumberItems"="8"

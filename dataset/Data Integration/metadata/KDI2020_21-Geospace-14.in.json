@@ -19,20 +19,17 @@
     "playground:sandpit"="sandpit",
     "playground:skate_equipment"="skate_equipment",
     "playground:teenshelter"="teenshelter",
-    "playground:theme"="",
-    "opening_hours"="",
-    "playground:water"="",
-    "leisure"="",
-    "playground"="",
     "latitude"="latitude",
     "longitude"="longitude",
-    "city"="",
-    "housenumber"="",
-    "postal_code"="",
-    "address"=""
+    "city"="City",
+    "housenumber"="HouseNumber",
+    "postal_code"="Postal Code",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
+    "address_additional_information"="AddressInformation"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"=""
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="24"
 

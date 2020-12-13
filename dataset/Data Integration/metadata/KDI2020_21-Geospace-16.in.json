@@ -1,7 +1,7 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-19.in",
-"DatasetDescription"="post offices in Trentino",
+"DatasetName"="KDI2020_21-Geospace-16.in",
+"DatasetDescription"="pharmacy in Trentino",
 "ColumnNames"={
     "name"="name",
     "opening_hours"="openingHours",
@@ -10,10 +10,11 @@
     "city"="City",
     "housenumber"="HouseNumber",
     "postal_code"="Postal Code",
-    "address"="StreetName"
+    "StreetName"="StreetName"
+    "StreetType"="StreetType"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"=""
+"SKG" = "KDI2020_21-Geospace",
+"DKG"= "KDI2020_21-Geospace",
+"NumberItems"="9"
 

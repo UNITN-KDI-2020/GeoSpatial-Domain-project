@@ -1,8 +1,7 @@
-  
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-4.in",
-"DatasetDescription"="bikesharing stations in Trento",
+"DatasetName"="KDI2020_21-Geospace-5.in",
+"DatasetDescription"="churches in the area of Trentino",
 "ColumnNames"={
     "name"="name",
     "StreetName"="StreetName",
@@ -10,11 +9,11 @@
     "HouseNumber"="HouseNumber",
     "PostalCode"="PostalCode"
     "city"="City",
-    "rackSlot"="rackSlot",
+    "address_additional_information"="AdditionalInformation",
     "latitude"="latitude",
     "longitude"="longitude"
 },
-"SourceDatasetURL"="https://dati.trentino.it/dataset/stazioni-bike-sharing-emotion-trentino",
-"SKG" = "project name.skg",
-"DKG"= "project name.dkg",
-"NumberItems"="9"
+"SourceDatasetURL"="https://dati.trentino.it/",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"=""
