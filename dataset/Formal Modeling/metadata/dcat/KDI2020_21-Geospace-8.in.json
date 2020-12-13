@@ -10,8 +10,8 @@
     "StreetName"="StreetName",
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode"
-    "City"="City"
+    "PostalCode"="PostalCode",
+    "city"="City"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
