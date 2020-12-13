@@ -9,11 +9,12 @@
     "longitude"="longitude",
     "city"="City",
     "housenumber"="HouseNumber",
-    "postal_code"="Postal Code",
-    "address"="StreetName",
+    "PostalCode"="Postal Code",
+    "StreetName"="StreetName",
+    "StreetType"="StreetType",
     "hasAtm"="Atm"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"="8"
+"NumberItems"="9"

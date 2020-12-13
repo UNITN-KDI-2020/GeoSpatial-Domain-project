@@ -9,7 +9,7 @@
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
     "PostalCode"="PostalCode"
-    "City"="City",
+    "city"="City",
     "rackSlot"="rackSlot",
     "latitude"="latitude",
     "longitude"="longitude"
@@ -17,4 +17,4 @@
 "SourceDatasetURL"="https://dati.trentino.it/dataset/stazioni-bike-sharing-emotion-trentino",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="9"

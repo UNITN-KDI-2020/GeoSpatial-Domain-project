@@ -1,1 +1,144 @@
-{"records": [{"name": "Bar \u201cDel Comun\u201d", "GeoCoordinate": {"longitude": 11.00212, "latitude": 46.39932}, "city": "Cis", "StreetType": "Piazza", "HouseNumber": "4", "StreetName": "Centrale", "postal_code": "38020"}, {"name": "Ristorante Bar Hotel Garden", "GeoCoordinate": {"longitude": 10.733766, "latitude": 45.8884}, "city": "Ledro", "postal_code": "38067"}, {"name": "Ristorante Bar Hotel Lido", "GeoCoordinate": {"longitude": 10.735902, "latitude": 45.885543}, "city": "Ledro", "postal_code": "38067"}, {"name": "Ristorante Bar Albergo Alba", "GeoCoordinate": {"longitude": 10.725462, "latitude": 45.899967}, "city": "Ledro", "postal_code": "38067"}, {"name": "Bar La Chicchera", "GeoCoordinate": {"longitude": 10.671866, "latitude": 45.889009}, "city": "Ledro", "postal_code": "38067"}, {"name": "Ristorante/Pizzeria Bar Cima d'Oro", "GeoCoordinate": {"longitude": 10.766393, "latitude": 45.874463}, "city": "Ledro", "postal_code": "38067"}, {"name": "Bar Tavola Calda Catinaccio", "city": "Ruffr\u00e8 Mendola"}, {"name": "Bar Ristorante La Stua", "city": "Ruffr\u00e8 Mendola"}, {"name": "Bar Ristorante Europa", "city": "Ruffr\u00e8 Mendola"}, {"name": "Bar Grill", "city": "Ruffr\u00e8 Mendola"}, {"name": "Bar Calvi", "GeoCoordinate": {"longitude": 11.15181, "latitude": 45.878885}, "city": "Terragnolo", "StreetType": "Piazza", "HouseNumber": "36"}, {"name": "Bar - Ristorante - Tabacchi  Valduga Laura", "GeoCoordinate": {"longitude": 11.151821, "latitude": 45.879363}, "city": "Terragnolo", "StreetType": "Piazza", "HouseNumber": "58"}, {"name": "Bar Tre Portoni", "GeoCoordinate": {"longitude": 11.123346, "latitude": 46.063978}, "city": "Trento"}, {"name": "Bar pasticceria Mazzoleni", "GeoCoordinate": {"longitude": 11.119907, "latitude": 46.077373}, "city": "Trento"}, {"name": "Bar Veneto", "GeoCoordinate": {"longitude": 11.125733, "latitude": 46.05972}, "city": "Trento"}, {"name": "Bar Fiorentina", "GeoCoordinate": {"longitude": 11.122472, "latitude": 46.066751}, "city": "Trento"}, {"name": "Birreria Pedavena", "GeoCoordinate": {"longitude": 11.123413, "latitude": 46.06477}, "city": "Trento"}, {"name": "Bar Loeze", "GeoCoordinate": {"longitude": 11.63492, "latitude": 46.318723}}]}
+{
+    "records": [
+        {
+            "name": "Bar \u201cDel Comun\u201d",
+            "GeoCoordinate": {
+                "longitude": 11.00212,
+                "latitude": 46.39932
+            },
+            "city": "Cis",
+            "StreetType": "Piazza",
+            "HouseNumber": "4",
+            "StreetName": "Centrale",
+            "PostalCode": "38020"
+        },
+        {
+            "name": "Ristorante Bar Hotel Garden",
+            "GeoCoordinate": {
+                "longitude": 10.733766,
+                "latitude": 45.8884
+            },
+            "city": "Ledro",
+            "PostalCode": "38067"
+        },
+        {
+            "name": "Ristorante Bar Hotel Lido",
+            "GeoCoordinate": {
+                "longitude": 10.735902,
+                "latitude": 45.885543
+            },
+            "city": "Ledro",
+            "PostalCode": "38067"
+        },
+        {
+            "name": "Ristorante Bar Albergo Alba",
+            "GeoCoordinate": {
+                "longitude": 10.725462,
+                "latitude": 45.899967
+            },
+            "city": "Ledro",
+            "PostalCode": "38067"
+        },
+        {
+            "name": "Bar La Chicchera",
+            "GeoCoordinate": {
+                "longitude": 10.671866,
+                "latitude": 45.889009
+            },
+            "city": "Ledro",
+            "PostalCode": "38067"
+        },
+        {
+            "name": "Ristorante/Pizzeria Bar Cima d'Oro",
+            "GeoCoordinate": {
+                "longitude": 10.766393,
+                "latitude": 45.874463
+            },
+            "city": "Ledro",
+            "PostalCode": "38067"
+        },
+        {
+            "name": "Bar Tavola Calda Catinaccio",
+            "city": "Ruffr\u00e8 Mendola"
+        },
+        {
+            "name": "Bar Ristorante La Stua",
+            "city": "Ruffr\u00e8 Mendola"
+        },
+        {
+            "name": "Bar Ristorante Europa",
+            "city": "Ruffr\u00e8 Mendola"
+        },
+        {
+            "name": "Bar Grill",
+            "city": "Ruffr\u00e8 Mendola"
+        },
+        {
+            "name": "Bar Calvi",
+            "GeoCoordinate": {
+                "longitude": 11.15181,
+                "latitude": 45.878885
+            },
+            "city": "Terragnolo",
+            "StreetType": "Piazza",
+            "HouseNumber": "36"
+        },
+        {
+            "name": "Bar - Ristorante - Tabacchi  Valduga Laura",
+            "GeoCoordinate": {
+                "longitude": 11.151821,
+                "latitude": 45.879363
+            },
+            "city": "Terragnolo",
+            "StreetType": "Piazza",
+            "HouseNumber": "58"
+        },
+        {
+            "name": "Bar Tre Portoni",
+            "GeoCoordinate": {
+                "longitude": 11.123346,
+                "latitude": 46.063978
+            },
+            "city": "Trento"
+        },
+        {
+            "name": "Bar pasticceria Mazzoleni",
+            "GeoCoordinate": {
+                "longitude": 11.119907,
+                "latitude": 46.077373
+            },
+            "city": "Trento"
+        },
+        {
+            "name": "Bar Veneto",
+            "GeoCoordinate": {
+                "longitude": 11.125733,
+                "latitude": 46.05972
+            },
+            "city": "Trento"
+        },
+        {
+            "name": "Bar Fiorentina",
+            "GeoCoordinate": {
+                "longitude": 11.122472,
+                "latitude": 46.066751
+            },
+            "city": "Trento"
+        },
+        {
+            "name": "Birreria Pedavena",
+            "GeoCoordinate": {
+                "longitude": 11.123413,
+                "latitude": 46.06477
+            },
+            "city": "Trento"
+        },
+        {
+            "name": "Bar Loeze",
+            "GeoCoordinate": {
+                "longitude": 11.63492,
+                "latitude": 46.318723
+            }
+        }
+    ]
+}

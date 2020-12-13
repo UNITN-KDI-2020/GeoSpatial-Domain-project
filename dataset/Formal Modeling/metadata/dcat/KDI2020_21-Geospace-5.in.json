@@ -8,7 +8,8 @@
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
     "PostalCode"="PostalCode"
-    "City"="City",
+    "city"="City",
+    "address_additional_information"="AdditionalInformation",
     "latitude"="latitude",
     "longitude"="longitude"
 },
