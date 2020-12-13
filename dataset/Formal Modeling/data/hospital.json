@@ -1,1 +1,324 @@
-{"records": [{"name": "Ospedale Riabilitativo Villa Rosa", "GeoCoordinate": {"longitude": 11.24912533888889, "latitude": 46.06447616666669}}, {"name": "Ospedale Santa Maria del Carmine", "GeoCoordinate": {"longitude": 11.041515133333329, "latitude": 45.882092951851845}, "city": "Rovereto", "housenumber": "4", "postal_code": "38068", "StreetType": "Corso", "StreetName": "Verona"}, {"name": "Ospedale San Lorenzo", "GeoCoordinate": {"longitude": 11.46396825414012, "latitude": 46.05696116242039}}, {"name": "A.S.L.", "GeoCoordinate": {"longitude": 11.24475608888889, "latitude": 46.062850600000004}}, {"name": "APSS Villa Igea", "GeoCoordinate": {"longitude": 11.128170082608694, "latitude": 46.06177764347826}}, {"name": "Ospedale San Camillo", "GeoCoordinate": {"longitude": 11.132001358333332, "latitude": 46.06490974166667}}, {"name": "Casa di Cura \"Villa Bianca\"", "GeoCoordinate": {"longitude": 11.126686583333333, "latitude": 46.062533916666666}}, {"name": "Casa di cura Solatrix", "GeoCoordinate": {"longitude": 11.045592496666664, "latitude": 45.89745480666666}}, {"name": "Ospedale di Fiemme", "GeoCoordinate": {"longitude": 11.455208054545455, "latitude": 46.28840219545454}}, {"name": "APSS Banca del Sangue", "GeoCoordinate": {"longitude": 11.127130171428574, "latitude": 46.061730314285704}}, {"GeoCoordinate": {"longitude": 10.7243221, "latitude": 46.04182201333333}}, {"GeoCoordinate": {"longitude": 10.724484369230767, "latitude": 46.0411524923077}}, {"name": "Casa di cura Eremo", "GeoCoordinate": {"longitude": 10.870330872727273, "latitude": 45.91939521818181}}, {"GeoCoordinate": {"longitude": 10.720911081818182, "latitude": 45.89567996363636}}, {"GeoCoordinate": {"longitude": 11.000504474999998, "latitude": 45.75625848124999}}, {"name": "Ambulatori", "GeoCoordinate": {"longitude": 11.1069046, "latitude": 46.14197422}}, {"name": "Croce bianca Fai della Paganella", "GeoCoordinate": {"longitude": 11.070968, "latitude": 46.178174}}, {"name": "Santa Chiara", "GeoCoordinate": {"longitude": 11.133811648148146, "latitude": 46.05608977407408}, "housenumber": "9", "StreetType": "Largo", "StreetName": "Medaglie d'Oro"}, {"name": "Centro di Protonterapia", "GeoCoordinate": {"longitude": 11.115358305882353, "latitude": 46.049334170588224}, "city": "Trento", "housenumber": "14", "postal_code": "38122", "StreetType": "Via", "StreetName": "al Desert"}, {"name": "Ospedale Valli del Noce", "GeoCoordinate": {"longitude": 11.032800792307693, "latitude": 46.361310757692316}, "city": "Cles", "housenumber": "31", "postal_code": "38023", "StreetType": "Via", "StreetName": "Alcide Degasperi"}, {"name": "Centro di Riabilitazione Villa San Pietro", "GeoCoordinate": {"longitude": 10.8903618125, "latitude": 45.915518675}}, {"name": "Le Palme", "GeoCoordinate": {"longitude": 10.883925620930233, "latitude": 45.91927610465115}}, {"GeoCoordinate": {"longitude": 10.87500411, "latitude": 45.91938032428572}}, {"name": "Regina", "GeoCoordinate": {"longitude": 10.887599189473685, "latitude": 45.91688508947368}}, {"GeoCoordinate": {"longitude": 10.87041428235294, "latitude": 45.91933168529412}}, {"GeoCoordinate": {"longitude": 10.809961, "latitude": 46.3014623}}, {"name": "Ex Villa Rosa", "GeoCoordinate": {"longitude": 11.2197156, "latitude": 46.0746505}}, {"name": "APSS Poliambulatorio di Levico Terme", "GeoCoordinate": {"longitude": 11.3041043, "latitude": 46.0095327}}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 11.2585751, "latitude": 46.1874416}, "city": "Scancio"}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 11.0490774, "latitude": 46.2747699}, "city": "Denno", "postal_code": "38010"}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 11.1317864, "latitude": 46.057186}}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 10.9813247, "latitude": 45.8511471}, "city": "Mori"}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 11.0946842, "latitude": 46.2130371}}, {"name": "Guardia Medica", "GeoCoordinate": {"longitude": 11.0661113, "latitude": 46.3203409}, "city": "Taio"}, {"name": "Poliambulatorio comunale - Medici Generici - Pediatri - Sede temporanea presso foresteria Ice Rink Pin\u00c3\u00a9", "GeoCoordinate": {"longitude": 11.2527548, "latitude": 46.126114}}, {"name": "Medico di base", "GeoCoordinate": {"longitude": 11.0952361, "latitude": 46.3215842}}, {"name": "Pronto Soccorso Ospedale di Arco", "GeoCoordinate": {"longitude": 10.875114, "latitude": 45.919077}, "city": "Arco"}, {"name": "Pronto Soccorso Ospedale di Fiemme", "GeoCoordinate": {"longitude": 11.4558986, "latitude": 46.2883679}, "city": "Cavalese", "postal_code": "38033"}, {"name": "Pronto Soccorso Ospedale \"San Lorenzo\"", "GeoCoordinate": {"longitude": 11.4632511, "latitude": 46.0568308}, "city": "Borgo Valsugana", "housenumber": "9", "postal_code": "38051", "StreetType": "Corso", "StreetName": "Vicenza"}, {"name": "Pronto Soccorso Ospedale Tione di Trento", "GeoCoordinate": {"longitude": 10.7245566, "latitude": 46.0422014}, "city": "Tione di Trento"}, {"name": "Pronto Soccorso Ospedale Santa Maria del Carmine", "GeoCoordinate": {"longitude": 11.0401616, "latitude": 45.8811734}, "city": "Rovereto", "postal_code": "38068"}, {"GeoCoordinate": {"longitude": 10.7210169, "latitude": 45.8955723}}]}
+{
+    "records": [
+        {
+            "name": "Ospedale Riabilitativo Villa Rosa",
+            "GeoCoordinate": {
+                "longitude": 11.24912533888889,
+                "latitude": 46.06447616666669
+            }
+        },
+        {
+            "name": "Ospedale Santa Maria del Carmine",
+            "GeoCoordinate": {
+                "longitude": 11.041515133333329,
+                "latitude": 45.882092951851845
+            },
+            "city": "Rovereto",
+            "HouseNumber": "4",
+            "PostalCode": "38068",
+            "StreetType": "Corso",
+            "StreetName": "Verona"
+        },
+        {
+            "name": "Ospedale San Lorenzo",
+            "GeoCoordinate": {
+                "longitude": 11.46396825414012,
+                "latitude": 46.05696116242039
+            }
+        },
+        {
+            "name": "A.S.L.",
+            "GeoCoordinate": {
+                "longitude": 11.24475608888889,
+                "latitude": 46.062850600000004
+            }
+        },
+        {
+            "name": "APSS Villa Igea",
+            "GeoCoordinate": {
+                "longitude": 11.128170082608694,
+                "latitude": 46.06177764347826
+            }
+        },
+        {
+            "name": "Ospedale San Camillo",
+            "GeoCoordinate": {
+                "longitude": 11.132001358333332,
+                "latitude": 46.06490974166667
+            }
+        },
+        {
+            "name": "Casa di Cura \"Villa Bianca\"",
+            "GeoCoordinate": {
+                "longitude": 11.126686583333333,
+                "latitude": 46.062533916666666
+            }
+        },
+        {
+            "name": "Casa di cura Solatrix",
+            "GeoCoordinate": {
+                "longitude": 11.045592496666664,
+                "latitude": 45.89745480666666
+            }
+        },
+        {
+            "name": "Ospedale di Fiemme",
+            "GeoCoordinate": {
+                "longitude": 11.455208054545455,
+                "latitude": 46.28840219545454
+            }
+        },
+        {
+            "name": "APSS Banca del Sangue",
+            "GeoCoordinate": {
+                "longitude": 11.127130171428574,
+                "latitude": 46.061730314285704
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.7243221,
+                "latitude": 46.04182201333333
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.724484369230767,
+                "latitude": 46.0411524923077
+            }
+        },
+        {
+            "name": "Casa di cura Eremo",
+            "GeoCoordinate": {
+                "longitude": 10.870330872727273,
+                "latitude": 45.91939521818181
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.720911081818182,
+                "latitude": 45.89567996363636
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 11.000504474999998,
+                "latitude": 45.75625848124999
+            }
+        },
+        {
+            "name": "Ambulatori",
+            "GeoCoordinate": {
+                "longitude": 11.1069046,
+                "latitude": 46.14197422
+            }
+        },
+        {
+            "name": "Croce bianca Fai della Paganella",
+            "GeoCoordinate": {
+                "longitude": 11.070968,
+                "latitude": 46.178174
+            }
+        },
+        {
+            "name": "Santa Chiara",
+            "GeoCoordinate": {
+                "longitude": 11.133811648148146,
+                "latitude": 46.05608977407408
+            },
+            "HouseNumber": "9",
+            "StreetType": "Largo",
+            "StreetName": "Medaglie d'Oro"
+        },
+        {
+            "name": "Centro di Protonterapia",
+            "GeoCoordinate": {
+                "longitude": 11.115358305882353,
+                "latitude": 46.049334170588224
+            },
+            "city": "Trento",
+            "HouseNumber": "14",
+            "PostalCode": "38122",
+            "StreetType": "Via",
+            "StreetName": "al Desert"
+        },
+        {
+            "name": "Ospedale Valli del Noce",
+            "GeoCoordinate": {
+                "longitude": 11.032800792307693,
+                "latitude": 46.361310757692316
+            },
+            "city": "Cles",
+            "HouseNumber": "31",
+            "PostalCode": "38023",
+            "StreetType": "Via",
+            "StreetName": "Alcide Degasperi"
+        },
+        {
+            "name": "Centro di Riabilitazione Villa San Pietro",
+            "GeoCoordinate": {
+                "longitude": 10.8903618125,
+                "latitude": 45.915518675
+            }
+        },
+        {
+            "name": "Le Palme",
+            "GeoCoordinate": {
+                "longitude": 10.883925620930233,
+                "latitude": 45.91927610465115
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.87500411,
+                "latitude": 45.91938032428572
+            }
+        },
+        {
+            "name": "Regina",
+            "GeoCoordinate": {
+                "longitude": 10.887599189473685,
+                "latitude": 45.91688508947368
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.87041428235294,
+                "latitude": 45.91933168529412
+            }
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.809961,
+                "latitude": 46.3014623
+            }
+        },
+        {
+            "name": "Ex Villa Rosa",
+            "GeoCoordinate": {
+                "longitude": 11.2197156,
+                "latitude": 46.0746505
+            }
+        },
+        {
+            "name": "APSS Poliambulatorio di Levico Terme",
+            "GeoCoordinate": {
+                "longitude": 11.3041043,
+                "latitude": 46.0095327
+            }
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 11.2585751,
+                "latitude": 46.1874416
+            },
+            "city": "Scancio"
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 11.0490774,
+                "latitude": 46.2747699
+            },
+            "city": "Denno",
+            "PostalCode": "38010"
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 11.1317864,
+                "latitude": 46.057186
+            }
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 10.9813247,
+                "latitude": 45.8511471
+            },
+            "city": "Mori"
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 11.0946842,
+                "latitude": 46.2130371
+            }
+        },
+        {
+            "name": "Guardia Medica",
+            "GeoCoordinate": {
+                "longitude": 11.0661113,
+                "latitude": 46.3203409
+            },
+            "city": "Taio"
+        },
+        {
+            "name": "Poliambulatorio comunale - Medici Generici - Pediatri - Sede temporanea presso foresteria Ice Rink Pin\u00c3\u00a9",
+            "GeoCoordinate": {
+                "longitude": 11.2527548,
+                "latitude": 46.126114
+            }
+        },
+        {
+            "name": "Medico di base",
+            "GeoCoordinate": {
+                "longitude": 11.0952361,
+                "latitude": 46.3215842
+            }
+        },
+        {
+            "name": "Pronto Soccorso Ospedale di Arco",
+            "GeoCoordinate": {
+                "longitude": 10.875114,
+                "latitude": 45.919077
+            },
+            "city": "Arco"
+        },
+        {
+            "name": "Pronto Soccorso Ospedale di Fiemme",
+            "GeoCoordinate": {
+                "longitude": 11.4558986,
+                "latitude": 46.2883679
+            },
+            "city": "Cavalese",
+            "PostalCode": "38033"
+        },
+        {
+            "name": "Pronto Soccorso Ospedale \"San Lorenzo\"",
+            "GeoCoordinate": {
+                "longitude": 11.4632511,
+                "latitude": 46.0568308
+            },
+            "city": "Borgo Valsugana",
+            "HouseNumber": "9",
+            "PostalCode": "38051",
+            "StreetType": "Corso",
+            "StreetName": "Vicenza"
+        },
+        {
+            "name": "Pronto Soccorso Ospedale Tione di Trento",
+            "GeoCoordinate": {
+                "longitude": 10.7245566,
+                "latitude": 46.0422014
+            },
+            "city": "Tione di Trento"
+        },
+        {
+            "name": "Pronto Soccorso Ospedale Santa Maria del Carmine",
+            "GeoCoordinate": {
+                "longitude": 11.0401616,
+                "latitude": 45.8811734
+            },
+            "city": "Rovereto",
+            "PostalCode": "38068"
+        },
+        {
+            "GeoCoordinate": {
+                "longitude": 10.7210169,
+                "latitude": 45.8955723
+            }
+        }
+    ]
+}

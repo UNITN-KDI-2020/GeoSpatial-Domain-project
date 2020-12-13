@@ -8,11 +8,11 @@
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
     "PostalCode"="PostalCode"
-    "City"="City",
+    "city"="City",
     "latitude"="latitude",
     "longitude"="longitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
 "SKG" = "project name.skg",
 "DKG"= "project name.dkg",
-"NumberItems"=""
+"NumberItems"="8"
