@@ -7,11 +7,10 @@
     "arrival_time"="arrivalTime",
     "departure_time"="departureTime",
     "stop_id"="stopID",
-    "stop_sequence"="stopSequence",
-    "GeoShape"="GeoShape"
+    "stop_sequence"="stopSequence"
 },
 "SourceDatasetURL"= "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="6"
+"NumberItems"="5"
 

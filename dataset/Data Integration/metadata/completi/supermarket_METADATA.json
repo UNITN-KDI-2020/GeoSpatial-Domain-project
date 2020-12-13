@@ -3,41 +3,21 @@
     "generator": "overpass-ide",
     "source": "www.openstreetmap.org",
     "copyright": "ODbL",
-    "timestamp": "2020-11-15T17:12:02Z",
+    "timestamp": "2020-10-19T13:28:02Z",
     "update_frequency": "no update",
     "Geographical Coverage": "Provincia di Trento",
-    "DatasetName":"KDI2020_21-Geospace-10.in",
+    "DatasetName":"KDI2020_21-Geospace-26.in",    
     "format": "json",
     "fields": {
         "name": {
             "type": "string",
-            "description": "name of the facility",
+            "description": "name of the supermarket",
             "data_definition": "core"
         },
-        "city": {
-            "type": "string",
-            "description": "the city component of the address",
-            "data_definition": "common"
-        },
-        "housenumber": {
-            "type": "string",
-            "description": "the house number component of the address",
-            "data_definition": "common"
-        },
-        "PostalCode": {
-            "type": "string",
-            "description": "the postcode component of the address",
-            "data_definition": "common"
-        },
-        "StreetName": {
-            "type": "string",
-            "description": "the street component of the address",
-            "data_definition": "common"
-        },
-        "StreetType": {
-            "type": "string",
-            "description": "tyoe of street (street, place, etc)",
-            "data_definition": "common"
+        "area": {
+            "type": "double",
+            "description": "area of the supermarket (m^2)",
+            "data_definition": "contextual"
         },        
         "GeoCoordinate": {
             "type": "GeoCoordinate",

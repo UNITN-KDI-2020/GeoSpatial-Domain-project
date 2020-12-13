@@ -6,7 +6,7 @@
     "StreetName"="StreetName",
     "StreetType"="StreetType",
     "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode"
+    "postal_code"="PostalCode"
     "City"="City",
     "latitude"="latitude",
     "longitude"="longitude"

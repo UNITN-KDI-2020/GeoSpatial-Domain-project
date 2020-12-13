@@ -1,0 +1,116 @@
+{
+	"high_school": {
+		"Release date": "19-09-2020",
+		"source": "https://www.comuniecitta.it/scuole-secondarie-di-secondo-grado/comune-di-trento-22205",
+		"Geographical Coverage": "Provincia di Trento",
+		"Update frequency": "unknown",
+		"Format": "json"
+	},
+	"middle_school": {
+		"Dataset ID": "c_l378-1129125",
+		"Release date": "09-11-2017",
+		"Modification date": "08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"URI di GeoNames": "http://www.geonames.org/6541469",
+		"source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-medie-open-data",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"nursery_school": {
+		"Dataset ID": "c_l378-1129127",
+		"Release date": "09-11-2017",
+		"Modification date": "08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"source": "https://dati.trentino.it/dataset/localizzazione-scuole-dell-infanzia-open-data",
+		"GeoNames URI": "http://www.geonames.org/6541469",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"elementary_school": {
+		"Dataset ID": "c_l378-1129126",
+		"Release date": "09-11-2017",
+		"Modification date": "08-05-2019",
+		"Geographical Coverage": "Provincia di Trento",
+		"Source": "https://dati.trentino.it/dataset/localizzazione-delle-scuole-elementari-open-data",
+		"GeoNames URI": "http://www.geonames.org/6541469",
+		"Holder": {
+			"Nome": "Comune di Trento",
+			"Code IPA/IVA": "c_l378"
+		},
+		"Update frequency": "continuously updated",
+		"Format": "json"
+	},
+	"DatasetName":"KDI2020_21-Geospace-22.in",
+	"fields":{
+		"SchoolType":{
+			"type": "string",
+			"description": "type of school (nursery, elementary, middle, high)",
+			"data_definition":"Core"
+		},
+		"courseOfStudy": {
+			"type": "string",
+			"description": "the study paths offerted from the school (comma separated)",
+			"data_definition":"Core"
+		},
+        "name": {
+            "type": "string",
+            "description": "name of the facility",
+            "data_definition": "core"
+        },
+        "city": {
+            "type": "string",
+            "description": "the city component of the address",
+            "data_definition": "common"
+        },
+        "housenumber": {
+            "type": "string",
+            "description": "the house number component of the address",
+            "data_definition": "common"
+        },
+        "PostalCode": {
+            "type": "string",
+            "description": "the postcode component of the address",
+            "data_definition": "common"
+        },
+        "StreetName": {
+            "type": "string",
+            "description": "the street component of the address",
+            "data_definition": "common"
+        },
+        "StreetType": {
+            "type": "string",
+            "description": "tyoe of street (street, place, etc)",
+            "data_definition": "common"
+		}, 
+        "address_additional_information": {
+            "type": "string",
+            "description": "additional address information",
+            "data_definition": "common"
+        },  		       
+        "GeoCoordinate": {
+            "type": "GeoCoordinate",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "latitude": {
+                    "type": "double",
+                    "description": "latitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                },
+                "longitude": {
+                    "type": "double",
+                    "description": "longitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        }
+    }
+}

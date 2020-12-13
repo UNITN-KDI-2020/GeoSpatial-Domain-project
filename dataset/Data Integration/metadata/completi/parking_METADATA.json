@@ -3,15 +3,20 @@
     "generator": "overpass-ide",
     "source": "www.openstreetmap.org",
     "copyright": "ODbL",
-    "timestamp": "2020-11-15T17:12:02Z",
+    "timestamp": "2020-10-19T09:57:03Z",
     "update_frequency": "no update",
     "Geographical Coverage": "Provincia di Trento",
-    "DatasetName":"KDI2020_21-Geospace-10.in",
+    "DatasetName"="KDI2020_21-Geospace-15.in",    
     "format": "json",
     "fields": {
-        "name": {
-            "type": "string",
-            "description": "name of the facility",
+        "fee": {
+            "type": "boolean",
+            "description": "The fee tag is for specifying whether a fee is usually charged for a service, or for access.",
+            "data_definition": "core"
+        },
+        "capacity": {
+            "type": "int",
+            "description": "max capacity of the parking lot",
             "data_definition": "core"
         },
         "city": {
