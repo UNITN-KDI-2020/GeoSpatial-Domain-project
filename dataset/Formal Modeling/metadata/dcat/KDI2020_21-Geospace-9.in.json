@@ -1,7 +1,7 @@
 "creator"="GeoSpatial-Domain-project",
 "CreationDate"="10-10-2020",
 "DatasetName"="KDI2020_21-Geospace-9.in",
-"DatasetDescription"="elderly centers",
+"DatasetDescription"="elderly centers in Trentino",
 "ColumnNames"={
     "name"="name",
     "StreetName"="StreetName",
