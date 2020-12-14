@@ -6,7 +6,7 @@
     "timestamp": "2020-10-19T09:57:03Z",
     "update_frequency": "no update",
     "Geographical Coverage": "Provincia di Trento",
-    "DatasetName"="KDI2020_21-Geospace-15.in",    
+    "DatasetName": "KDI2020_21-Geospace-15.in",    
     "format": "json",
     "fields": {
         "fee": {

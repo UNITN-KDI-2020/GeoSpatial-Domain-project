@@ -5,7 +5,7 @@
 	"Lingue del dataset": "italiano",
 	"Upload frequency": "unknow",
 	"Conforme a": "Standard: conforme a REST/JSON",
-	"DatasetName"="KDI2020_21-Geospace-17.in",	
+	"DatasetName": "KDI2020_21-Geospace-17.in",	
 	"description": "dataset merged from 'luoghi_e_punti_di_interesse_per_comune'",
 	"fields": {
         "city": {
