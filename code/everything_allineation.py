@@ -214,11 +214,15 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		if "geometry" in d:
 			d["GeoCoordinate"] = d.pop("geometry")
 			if "coordinates" in d["GeoCoordinate"]:
-				if d["GeoCoordinate"]["type"] == "Polygon" or d["GeoCoordinate"]["type"] == "MultiLineString":
+				if d["GeoCoordinate"]["type"] == "Polygon" or d["GeoCoordinate"]["type"] == "MultiLineString" or d["GeoCoordinate"]["type"] == "MultiPolygon":
 					coordinates = d["GeoCoordinate"]["coordinates"]
 					mediaX = 0
 					mediaY = 0
 					count = 0
+
+					if d["GeoCoordinate"]["type"] == "MultiPolygon":
+						coordinates = np.array(coordinates, dtype=object).ravel()
+
 					for edifici_i, edifici in enumerate(coordinates):
 						for edificio_i, edificio in enumerate(edifici):
 							# d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
