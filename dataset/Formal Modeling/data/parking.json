@@ -383,7 +383,8 @@
 			"city": "Trento",
 			"housenumber": "4",
 			"postal_code": "38122",
-			"address": "Via Benedetto Giovanelli"
+			"StreetType": "Via",
+			"StreetName": "Benedetto Giovanelli"
 		},
 		{
 			"fee": "no",
@@ -575,7 +576,8 @@
 			},
 			"city": "Cles",
 			"postal_code": "38023",
-			"address": "Viale Alcide De Gasperi"
+			"StreetType": "Viale",
+			"StreetName": "Alcide De Gasperi"
 		},
 		{
 			"name": "Piazza di San Don\u00c3\u00a0",
@@ -749,7 +751,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38123",
-			"address": "Via Palermo"
+			"StreetType": "Via",
+			"StreetName": "Palermo"
 		},
 		{
 			"fee": "yes",
@@ -1505,7 +1508,8 @@
 			},
 			"city": "Rovereto",
 			"postal_code": "38068",
-			"address": "Corso Bettini"
+			"StreetType": "Corso",
+			"StreetName": "Bettini"
 		},
 		{
 			"GeoCoordinate": {
@@ -1592,7 +1596,8 @@
 				"longitude": 11.14906894,
 				"latitude": 46.055394719999995
 			},
-			"address": "Via Castel di Pietrapiana"
+			"StreetType": "Via",
+			"StreetName": "Castel di Pietrapiana"
 		},
 		{
 			"name": "Parcheggio Centro V.le Verona 190",
@@ -2406,7 +2411,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38123",
-			"address": "Via ai Dineri"
+			"StreetType": "Via",
+			"StreetName": "ai Dineri"
 		},
 		{
 			"name": "Parcheggio al Ponte",
@@ -2514,7 +2520,8 @@
 			},
 			"city": "Arco",
 			"housenumber": "16",
-			"address": "Via Filippo Serafini"
+			"StreetType": "Via",
+			"StreetName": "Filippo Serafini"
 		},
 		{
 			"GeoCoordinate": {
@@ -4382,7 +4389,8 @@
 			},
 			"city": "Cles",
 			"postal_code": "38023",
-			"address": "Viale Alcide de Gasperi"
+			"StreetType": "Viale",
+			"StreetName": "Alcide de Gasperi"
 		},
 		{
 			"GeoCoordinate": {
@@ -5101,7 +5109,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38121",
-			"address": "Piazzale Lionello Groff"
+			"StreetType": "Piazzale",
+			"StreetName": "Lionello Groff"
 		},
 		{
 			"fee": "no",
@@ -6676,7 +6685,7 @@
 				"longitude": 11.119700579999998,
 				"latitude": 46.085902940000004
 			},
-			"address": "pranzelores"
+			"address_additional_information": "pranzelores"
 		},
 		{
 			"GeoCoordinate": {
@@ -8721,7 +8730,8 @@
 			},
 			"city": "Cles",
 			"postal_code": "38023",
-			"address": "Viale Alcide de Gasperi"
+			"StreetType": "Viale",
+			"StreetName": "Alcide de Gasperi"
 		},
 		{
 			"GeoCoordinate": {
@@ -9855,7 +9865,8 @@
 			"city": "Torbole",
 			"housenumber": "56",
 			"postal_code": "38068",
-			"address": "Strada Piccola"
+			"StreetType": "Strada",
+			"StreetName": "Piccola"
 		},
 		{
 			"fee": "yes",
@@ -10142,7 +10153,8 @@
 			},
 			"city": "Rovereto",
 			"postal_code": "38068",
-			"address": "Via Gaetano Tacchi"
+			"StreetType": "Via",
+			"StreetName": "Gaetano Tacchi"
 		},
 		{
 			"GeoCoordinate": {
@@ -10434,7 +10446,8 @@
 				"latitude": 45.92027334
 			},
 			"city": "Arco",
-			"address": "Via Nicola Bresciani"
+			"StreetType": "Via",
+			"StreetName": "Nicola Bresciani"
 		},
 		{
 			"GeoCoordinate": {
@@ -10584,7 +10597,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38121",
-			"address": "Via Santi Cosma e Damiano"
+			"StreetType": "Via",
+			"StreetName": "Santi Cosma e Damiano"
 		},
 		{
 			"GeoCoordinate": {
@@ -10592,7 +10606,8 @@
 				"latitude": 46.075135577777786
 			},
 			"city": "Trento",
-			"address": "Via Santi Cosma e Damiano"
+			"StreetType": "Via",
+			"StreetName": "Santi Cosma e Damiano"
 		},
 		{
 			"GeoCoordinate": {
@@ -12129,7 +12144,8 @@
 				"longitude": 11.153603528571427,
 				"latitude": 46.058873971428575
 			},
-			"address": "Via Gabbiolo"
+			"StreetType": "Via",
+			"StreetName": "Gabbiolo"
 		},
 		{
 			"capacity": "12",
@@ -12298,7 +12314,8 @@
 			},
 			"city": "Canazei",
 			"postal_code": "38032",
-			"address": "Via Roma"
+			"StreetType": "Via",
+			"StreetName": "Roma"
 		},
 		{
 			"GeoCoordinate": {
@@ -12830,7 +12847,8 @@
 			},
 			"city": "Castello Tesino",
 			"postal_code": "38053",
-			"address": "Via Venezia"
+			"StreetType": "Via",
+			"StreetName": "Venezia"
 		},
 		{
 			"GeoCoordinate": {
@@ -13034,7 +13052,7 @@
 			}
 		},
 		{
-			"name": "Parcheggio SAIT \/ Ex Nazionale",
+			"name": "Parcheggio SAIT / Ex Nazionale",
 			"GeoCoordinate": {
 				"longitude": 11.247899844444444,
 				"latitude": 46.12757314444445
@@ -13328,7 +13346,8 @@
 			},
 			"city": "Pergine Valsugana",
 			"postal_code": "38057",
-			"address": "Via dell'Angi"
+			"StreetType": "Via",
+			"StreetName": "dell'Angi"
 		},
 		{
 			"GeoCoordinate": {
@@ -13749,7 +13768,8 @@
 			},
 			"city": "Besenello",
 			"postal_code": "38060",
-			"address": "Via Pascoli"
+			"StreetType": "Via",
+			"StreetName": "Pascoli"
 		},
 		{
 			"name": "Piazzale Neufahrn",
@@ -13777,7 +13797,8 @@
 			"city": "Torbole sul Garda",
 			"housenumber": "15",
 			"postal_code": "38069",
-			"address": "Via Benaco"
+			"StreetType": "Via",
+			"StreetName": "Benaco"
 		},
 		{
 			"GeoCoordinate": {
@@ -13825,7 +13846,7 @@
 			"city": "Riva del Garda",
 			"housenumber": "81",
 			"postal_code": "38066",
-			"address": "San Nazzaro"
+			"address_additional_information": "San Nazzaro"
 		},
 		{
 			"fee": "no",
@@ -13931,7 +13952,7 @@
 			"city": "Livo",
 			"housenumber": "49",
 			"postal_code": "38020",
-			"address": "Frazione Preghena"
+			"address_additional_information": "Frazione Preghena"
 		},
 		{
 			"GeoCoordinate": {
@@ -14389,7 +14410,8 @@
 			},
 			"city": "Carano",
 			"postal_code": "38033",
-			"address": "Piazza Dolomiti"
+			"StreetType": "Piazza",
+			"StreetName": "Dolomiti"
 		},
 		{
 			"fee": "no",
@@ -15113,7 +15135,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38123",
-			"address": "Via alla Cros"
+			"StreetType": "Via",
+			"StreetName": "alla Cros"
 		},
 		{
 			"name": "Piazza San Giacomo",
@@ -15136,7 +15159,7 @@
 			}
 		},
 		{
-			"name": "parcheggio Asilo \/ biblioteca",
+			"name": "parcheggio Asilo / biblioteca",
 			"capacity": "12",
 			"GeoCoordinate": {
 				"longitude": 11.632382250000001,
@@ -15158,7 +15181,8 @@
 			},
 			"city": "Borgo Valsugana",
 			"postal_code": "38051",
-			"address": "Via Ventiquattro Maggio"
+			"StreetType": "Via",
+			"StreetName": "Ventiquattro Maggio"
 		},
 		{
 			"name": "Parcheggio",
@@ -15677,8 +15701,9 @@
 				"latitude": 45.935663600000005
 			},
 			"city": "Cappella",
-			"housenumber": "9\/1",
-			"address": "Via Padova"
+			"housenumber": "9/1",
+			"StreetType": "Via",
+			"StreetName": "Padova"
 		},
 		{
 			"GeoCoordinate": {
@@ -15816,7 +15841,8 @@
 			},
 			"city": "Mezzano",
 			"postal_code": "38050",
-			"address": "Via delle Basse"
+			"StreetType": "Via",
+			"StreetName": "delle Basse"
 		},
 		{
 			"fee": "no",
@@ -15827,7 +15853,8 @@
 			},
 			"city": "Mezzano",
 			"postal_code": "38050",
-			"address": "Via Roma"
+			"StreetType": "Via",
+			"StreetName": "Roma"
 		},
 		{
 			"GeoCoordinate": {
@@ -16464,7 +16491,8 @@
 			},
 			"city": "Tonadico",
 			"postal_code": "38054",
-			"address": "Via Castelpietra"
+			"StreetType": "Via",
+			"StreetName": "Castelpietra"
 		},
 		{
 			"GeoCoordinate": {
@@ -16794,9 +16822,10 @@
 				"latitude": 46.06515285263158
 			},
 			"city": "Trento",
-			"housenumber": "1\/B",
+			"housenumber": "1/B",
 			"postal_code": "38122",
-			"address": "Piazza Fiera"
+			"StreetType": "Piazza",
+			"StreetName": "Fiera"
 		},
 		{
 			"fee": "no",
@@ -17625,7 +17654,8 @@
 			},
 			"city": "Cles",
 			"postal_code": "38023",
-			"address": "Viale Alcide de Gasperi"
+			"StreetType": "Viale",
+			"StreetName": "Alcide de Gasperi"
 		},
 		{
 			"fee": "no",
@@ -18029,7 +18059,8 @@
 			},
 			"city": "Cles",
 			"postal_code": "38023",
-			"address": "Viale Alcide de Gasperi"
+			"StreetType": "Viale",
+			"StreetName": "Alcide de Gasperi"
 		},
 		{
 			"fee": "no",
@@ -18439,7 +18470,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38123",
-			"address": "Via dei Caduti di Sardagna"
+			"StreetType": "Via",
+			"StreetName": "dei Caduti di Sardagna"
 		},
 		{
 			"GeoCoordinate": {
@@ -19642,7 +19674,8 @@
 			"city": "Torbole",
 			"housenumber": "5",
 			"postal_code": "38069",
-			"address": "Via alle Pesch\u00c3\u00a8re"
+			"StreetType": "Via",
+			"StreetName": "alle Pesch\u00c3\u00a8re"
 		},
 		{
 			"capacity": "6",
@@ -21363,7 +21396,7 @@
 		},
 		{
 			"name": "Piazza Fiera Interno",
-			"fee": "24\/7",
+			"fee": "24/7",
 			"capacity": "15",
 			"GeoCoordinate": {
 				"longitude": 10.998968485714284,
@@ -32642,7 +32675,8 @@
 			},
 			"city": "Ala",
 			"postal_code": "38061",
-			"address": "Via Basilio Anzelini"
+			"StreetType": "Via",
+			"StreetName": "Basilio Anzelini"
 		},
 		{
 			"GeoCoordinate": {
@@ -33258,7 +33292,8 @@
 			},
 			"city": "Borgo Valsugana",
 			"postal_code": "38051",
-			"address": "Strada Provinciale della Val di Sella"
+			"StreetType": "Strada",
+			"StreetName": "Provinciale della Val di Sella"
 		},
 		{
 			"GeoCoordinate": {
@@ -34538,7 +34573,8 @@
 			},
 			"city": "Torcegno",
 			"postal_code": "38050",
-			"address": "Piazza Maggiore"
+			"StreetType": "Piazza",
+			"StreetName": "Maggiore"
 		},
 		{
 			"GeoCoordinate": {
@@ -35381,7 +35417,8 @@
 				"longitude": 11.0855929,
 				"latitude": 46.4162119
 			},
-			"address": "Via Zaffoni"
+			"StreetType": "Via",
+			"StreetName": "Zaffoni"
 		},
 		{
 			"GeoCoordinate": {
@@ -35851,7 +35888,8 @@
 				"longitude": 11.5619936,
 				"latitude": 46.2871678
 			},
-			"address": "Via Nazionale"
+			"StreetType": "Via",
+			"StreetName": "Nazionale"
 		},
 		{
 			"GeoCoordinate": {
