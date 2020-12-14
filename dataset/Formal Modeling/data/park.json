@@ -1685,7 +1685,8 @@
 			"city": "Trento",
 			"housenumber": "1",
 			"postal_code": "38122",
-			"address": "Via San Giovanni Bosco"
+			"StreetType": "Via",
+			"StreetName": "San Giovanni Bosco"
 		},
 		{
 			"name": "Parco Garbari",
@@ -1928,7 +1929,7 @@
 			}
 		},
 		{
-			"name": "Arboreto di Arco \/ Parco Arciducale",
+			"name": "Arboreto di Arco / Parco Arciducale",
 			"GeoCoordinate": {
 				"longitude": 10.883214394117648,
 				"latitude": 45.92223090294118
@@ -4420,7 +4421,7 @@
 			"city": "Fierozzo - Vlarotz",
 			"housenumber": "9",
 			"postal_code": "38050",
-			"address": "Maso Ronca"
+			"address_additional_information": "Maso Ronca"
 		},
 		{
 			"GeoCoordinate": {
@@ -4430,7 +4431,7 @@
 			"city": "Fierozzo - Vlarotz",
 			"housenumber": "11",
 			"postal_code": "38050",
-			"address": "Maso Ronca"
+			"address_additional_information": "Maso Ronca"
 		},
 		{
 			"GeoCoordinate": {
@@ -4534,7 +4535,7 @@
 			},
 			"city": "Pal\u00c3\u00b9 del Fersina - Palai en Bersntol",
 			"postal_code": "38050",
-			"address": "Kn\u00c3\u00b2ppn"
+			"address_additional_information": "Kn\u00c3\u00b2ppn"
 		},
 		{
 			"name": "Parco Molina",
@@ -4572,7 +4573,8 @@
 			},
 			"city": "Levico Terme",
 			"postal_code": "38056",
-			"address": "Viale Segantini"
+			"StreetType": "Viale",
+			"StreetName": "Segantini"
 		},
 		{
 			"GeoCoordinate": {
@@ -4707,7 +4709,8 @@
 			},
 			"city": "Trento",
 			"postal_code": "38122",
-			"address": "Vicolo di Piedicastello"
+			"StreetType": "Vicolo",
+			"StreetName": "di Piedicastello"
 		},
 		{
 			"GeoCoordinate": {
@@ -7516,7 +7519,7 @@
 			"city": "Capriana",
 			"housenumber": "15",
 			"postal_code": "38030",
-			"address": "Frazione Rover"
+			"address_additional_information": "Frazione Rover"
 		},
 		{
 			"GeoCoordinate": {
