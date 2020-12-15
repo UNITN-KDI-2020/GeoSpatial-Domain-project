@@ -1,0 +1,1072 @@
+[
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via Calepina 35  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.067147"],
+                    "46270": ["11.124444"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Giordano 8"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0492"],
+                    "46270": ["11.146686"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via dei Mille 61  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.061407"],
+                    "46270": ["11.129619"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio infermieristico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.155879"],
+                    "46270": ["11.152455"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Lunelli 50  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.092096"],
+                    "46270": ["11.11731"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio comunale via Sugarine 26 - Meano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.126515"],
+                    "46270": ["11.116127"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medici di base"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.189146"],
+                    "46270": ["11.258301"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": [" Ambulatorio comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.118413"],
+                    "46270": ["10.758872"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via San Martino 11 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07411"],
+                    "46270": ["11.12527"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via dell'Androna 1 - Cadine"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.086332"],
+                    "46270": ["11.063281"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico e pediatrico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["45.942003"],
+                    "46270": ["11.109585"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via 12 Settembre 7 - Vigolo Baselga"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.081673"],
+                    "46270": ["11.045436"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Gorizia 2"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.058542"],
+                    "46270": ["11.13079"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via della Resistenza 61/B - Povo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.065809"],
+                    "46270": ["11.159664"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio Valsorda"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.007836"],
+                    "46270": ["11.156884"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via Degasperi 102 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.04919"],
+                    "46270": ["11.12504"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio corso Alpini 6  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07925"],
+                    "46270": ["11.117733"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio piazza Duomo 11  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06713"],
+                    "46270": ["11.121052"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico piazza Oveno 15 - Sopramonte"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07126"],
+                    "46270": ["11.05962"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio piazzale Europa 7"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040992"],
+                    "46270": ["11.133565"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Medici generici di base - Ambulatorio - Piazza S. Gottardo - Palazzo al Corso"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.215112"],
+                    "46270": ["11.120106"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico Piscine"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.239248"],
+                    "46270": ["11.325202"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Assistenza medico-pedriatica di base"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.215087"],
+                    "46270": ["11.120124"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Medico d'igiene"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.187572"],
+                    "46270": ["11.261346"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio infermieristico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.189146"],
+                    "46270": ["11.258301"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Serafini 46 - Martignano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0888"],
+                    "46270": ["11.13194"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio strada di Montevaccino 1 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.071649"],
+                    "46270": ["11.108824"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via de le Oselere - Vigo Meano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.134311"],
+                    "46270": ["11.136229"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio igiene e sanità pubblici"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.211779"],
+                    "46270": ["11.095991"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio largo Nazario Sauro 8  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.074665"],
+                    "46270": ["11.124797"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico loc. S. Donà 51 - Cognola"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.070937"],
+                    "46270": ["11.135708"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.453388"],
+                    "46270": ["11.116506"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Canova 6 - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.098378"],
+                    "46270": ["11.11117"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio corso 3 Novembre 116  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.060668"],
+                    "46270": ["11.125107"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Monte Calisio 12 - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.107339"],
+                    "46270": ["11.113552"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via Poli 4 - Mattarello"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.00607"],
+                    "46270": ["11.128441"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via M. Pola 6 - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.108005"],
+                    "46270": ["11.11256"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Volta 38"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.048593"],
+                    "46270": ["11.124594"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico Sover"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.221827"],
+                    "46270": ["11.316303"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {"2": ["Ambulatorio Medico"]},
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Perini 4  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05994"],
+                    "46270": ["11.11978"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Milano 118  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.062409"],
+                    "46270": ["11.130311"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Giordano 4"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0492"],
+                    "46270": ["11.146686"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {"2": ["Ambulatorio medico "]},
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.189146"],
+                    "46270": ["11.258301"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via alle Sette Fontane 1 - Romagnano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.016687"],
+                    "46270": ["11.105678"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Lunelli 32 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.092076"],
+                    "46270": ["11.11723"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via al Torrione 1  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.065602"],
+                    "46270": ["11.121499"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Caneppele 31 Roncafort - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.098019"],
+                    "46270": ["11.102364"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Giovanelli 25 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.064648"],
+                    "46270": ["11.131496"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio piazza Santi Filippo e Giacomo - Sardagna"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.063662"],
+                    "46270": ["11.097707"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatra di base"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.077922"],
+                    "46270": ["10.999119"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio ginecologico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.187572"],
+                    "46270": ["11.261346"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via M. Pola 6 - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.108005"],
+                    "46270": ["11.11256"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via San Fabiano 13 - Villamontagna"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.085369"],
+                    "46270": ["11.15836"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio piazza Stainer 2 - Vigo Meano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.131963"],
+                    "46270": ["11.133895"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["45.99319"],
+                    "46270": ["11.26612"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via C. e V. Julg 9 - Cognola"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.076772"],
+                    "46270": ["11.142169"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via delle Sugarine 26 - Meano"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.126515"],
+                    "46270": ["11.116127"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Gramsci 40/A"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05328"],
+                    "46270": ["11.124228"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {"2": ["Ambulatorio medico"]},
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio strada del Dos Grum 16 - Baselga del Bondone"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.078734"],
+                    "46270": ["11.0472"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via Lunelli 32 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.092173"],
+                    "46270": ["11.11761"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio infermieristico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.215123"],
+                    "46270": ["11.120145"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio via Aeroporto 1 - Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10809"],
+                    "46270": ["11.111537"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.431132"],
+                    "46270": ["11.107963"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio: dove siamo"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.14484"],
+                    "46270": ["11.193322"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {"2": ["Ambulatorio Dott. Marzini Stefano"]},
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio piazza Oveno 15 - Sopramonte"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.070941"],
+                    "46270": ["11.058803"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio pediatrico via Gramsci 40/A - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.053388"],
+                    "46270": ["11.126365"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio San Donà 51/1 - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.070678"],
+                    "46270": ["11.139658"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio medico Montesover"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.217237"],
+                    "46270": ["11.326373"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatorio corso Buonarroti 51  - Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.073857"],
+                    "46270": ["11.118859"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+        "attributes": {
+            "2": ["Medici generici di base - Ambulatorio via Verdi, 32"],
+            "120051": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:23:59 GMT 2020",
+                "attributes": {
+                    "46263": ["46.21441"],
+                    "46270": ["11.12035"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120047
+    }
+]
