@@ -61,6 +61,7 @@ def find_skiarea(slopeCoords, point, slope, skiarea):
 	return False
 
 IN_FOLDER = "./dataset/Formal Modeling/data/"
+OUT_FOLDER = "./dataset/Data Integration/data/"
 
 dataset = open(IN_FOLDER + "areaski.json", "r")
 skiarea = json.load(dataset)["records"]
@@ -82,5 +83,5 @@ for slope in skislopes:
 print("\nNumber of intersections: " + str(count))
 
 
-with open(IN_FOLDER + "skislopes2.json", 'w+') as file:
+with open(OUT_FOLDER + "skislopes.json", 'w+') as file:
 	json.dump(newDataset, file)
