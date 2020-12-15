@@ -317,6 +317,29 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		for d_i, d in enumerate(data):
 			multicoordAllineation(d)
 
+	if "city_center.json" in filename:
+		for d in data:
+			if "geometry" in d and "GeometryCollection" == d["geometry"]["type"]:
+				mediaX = 0
+				mediaY = 0
+				count = 0
+				for linestring in d["geometry"]["geometries"]:
+					coords = linestring["coordinates"]
+					# print(np.array(linestring["coordinates"]).shape)
+					shapeDim = len(np.array(coords).shape)
+					if shapeDim > 1:
+						if shapeDim == 3:
+							coords = coords[0]
+						for coord in coords:
+							mediaX += coord[0]
+							mediaY += coord[1]
+							count += 1
+					else:
+						mediaX += coords[0]
+						mediaY += coords[1]
+						count += 1
+				d.pop("geometry")
+				d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
@@ -327,17 +350,13 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					mediaX = 0
 					mediaY = 0
 					count = 0
-
 					if d["GeoCoordinate"]["type"] == "MultiPolygon":
 						coordinates = np.array(coordinates, dtype=object).ravel()
-
 					for edifici_i, edifici in enumerate(coordinates):
 						for edificio_i, edificio in enumerate(edifici):
-							# d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
 							mediaX += edificio[0]
 							mediaY += edificio[1]
 							count += 1
-					
 					d["GeoCoordinate"] = {"longitude" : mediaX/count, "latitude" : mediaY/count}
 				elif d["GeoCoordinate"]["type"] == "LineString" or d["GeoCoordinate"]["type"] == "Line":
 					coordinates = d["GeoCoordinate"]["coordinates"]
@@ -345,7 +364,6 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					mediaY = 0
 					count = 0
 					for p_i, point in enumerate(coordinates):
-						# d["GeoCoordinate"]["coordinates"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
 						mediaX += point[0]
 						mediaY += point[1]
 						count += 1
