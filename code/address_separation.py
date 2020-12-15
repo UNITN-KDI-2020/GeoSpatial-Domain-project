@@ -1,12 +1,10 @@
 import json
 import re
 from os import path, listdir
-# from address import AddressParser, Address
 import warnings
 warnings.filterwarnings("ignore", category=Warning)
 
-# address = ap.parse_address('123 West Mifflin Street, Madison, WI, 53703')
-# print "Address is: {0} {1} {2} {3}".format(address.house_number, address.street_prefix, address.street, address.street_suffix)
+alreadyParsed = ["schools.json" , "internet_quality_trento.json"]
 
 exceptions = ["buildings.json", "trails.json"]
 
@@ -17,7 +15,6 @@ comuni = [x["nome"] for x in trentino["province"][0]["comuni"]]
 comuni.extend([x["nome"] for x in trentino["province"][1]["comuni"]])
 comuni.remove('Don')
 
-# ap = AddressParser(cities=comuni)
 
 def RepresentsInt(s):
     try: 
@@ -100,7 +97,7 @@ print(parse("Piazza Cesare Battisti - Cavalese", None))
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	# Check if the file it is not in the 
-	if not ".json" in filename or filename in exceptions:
+	if not ".json" in filename or filename in exceptions or filename in alreadyParsed:
 		continue
 	print(filename)
 	

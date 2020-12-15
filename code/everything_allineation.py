@@ -237,7 +237,33 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					"tertiaryRoad": 1 if "tertiary" == roadType else 0,
 					"highwayRoad": 1 if "motorway" == roadType else 0
 				}
-			
+	
+	if "internet_quality_trento.json" in filename:
+		for d_i, d in enumerate(data):
+			if "class_19" in d:
+				class19 = d.pop("class_19")
+				d["current"] = {
+					"black_NoVHCN": 1 if "nero_novhcn" == class19 else 0,
+					"black_VHCN_FO": 1 if "nero_vhcn_fo" == class19 else 0,
+					"black_VHCN_FWA": 1 if "nero_vhcn_fwa" == class19 else 0,
+					"gray_NoVHCN_radio": 1 if "grigio_novhcn_fwa" == class19 else 0,
+					"gray_NoVHCN_copper": 1 if "grigio_novhcn_rame" == class19 else 0,
+					"gray_VHCN_FO": 1 if "grigio_vhcn_fo" == class19 else 0,
+					"gray_VHCN_FWA": 1 if "grigio_vhcn_fwa" == class19 else 0,
+					"no_coverage": 1 if "non_coperti" == class19 else 0
+				}
+			if "class_22" in d:
+				class22 = d.pop("class_22")
+				d["prediction2022"] = {
+					"black_NoVHCN": 1 if "nero_novhcn" == class22 else 0,
+					"black_VHCN_FO": 1 if "nero_vhcn_fo" == class22 else 0,
+					"black_VHCN_FWA": 1 if "nero_vhcn_fwa" == class22 else 0,
+					"gray_NoVHCN_radio": 1 if "grigio_novhcn_fwa" == class22 else 0,
+					"gray_NoVHCN_copper": 1 if "grigio_novhcn_rame" == class22 else 0,
+					"gray_VHCN_FO": 1 if "grigio_vhcn_fo" == class22 else 0,
+					"gray_VHCN_FWA": 1 if "grigio_vhcn_fwa" == class22 else 0,
+					"no_coverage": 1 if "non_coperti" == class22 else 0
+				}
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
