@@ -1,0 +1,3336 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE Ontology [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY owl2xml "http://www.w3.org/2006/12/owl2-xml#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY ontology "https://raw.githubusercontent.com/UNITN-KDI-2020/GeoSpatial-Domain-project/master/documentation/codebook/ontology.owl#" >
+]>
+
+
+<Ontology xmlns="http://www.w3.org/2006/12/owl2-xml#"
+     xml:base="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
+     xmlns:ontology="https://raw.githubusercontent.com/UNITN-KDI-2020/GeoSpatial-Domain-project/master/documentation/codebook/ontology.owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     URI="https://raw.githubusercontent.com/UNITN-KDI-2020/GeoSpatial-Domain-project/master/documentation/codebook/ontology.owl">
+    <SubClassOf>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;hasAtm"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+        <Class URI="&ontology;BarOrPub"/>
+        <Class URI="&ontology;BikeSharingRack"/>
+        <Class URI="&ontology;BusStop"/>
+        <Class URI="&ontology;Church"/>
+        <Class URI="&ontology;CityCenter"/>
+        <Class URI="&ontology;ElderyCenter"/>
+        <Class URI="&ontology;GroceryStore"/>
+        <Class URI="&ontology;Hospital"/>
+        <Class URI="&ontology;Library"/>
+        <Class URI="&ontology;MovieTheater"/>
+        <Class URI="&ontology;NaturalClimbingWall"/>
+        <Class URI="&ontology;Park"/>
+        <Class URI="&ontology;ParkingFacility"/>
+        <Class URI="&ontology;Path"/>
+        <Class URI="&ontology;PerformingArtsTheather"/>
+        <Class URI="&ontology;Pharmacy"/>
+        <Class URI="&ontology;Physician"/>
+        <Class URI="&ontology;Playground"/>
+        <Class URI="&ontology;PostOffice"/>
+        <Class URI="&ontology;School"/>
+        <Class URI="&ontology;SkiArea"/>
+        <Class URI="&ontology;SportsActivityLocation"/>
+        <Class URI="&ontology;TrainStation"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a bank or credit union</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;BarOrPub"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;BarOrPub"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enities describe a bar, pub or coffee shop</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;BarOrPub"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;BikePath"/>
+        <Class URI="&ontology;PleasurePath"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BikePath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;reservedForBike"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BikePath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;totalLength"/>
+            <Datatype URI="&xsd;double"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;BikePath"/>
+        <Class URI="&ontology;SkiSlope"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;BikePath"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a bike or path</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;BikePath"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;BikeSharingRack"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BikeSharingRack"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;rackSlot"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;BikeSharingRack"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing the racks of a bike sharing service</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;BikeSharingRack"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Building"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Building"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entites contain the shape of a building</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Building"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty URI="&ontology;hasStopTime"/>
+            <Class URI="&ontology;StopTimes"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;stopCode"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;stopID"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;stopName"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;BusStop"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;wheelchairBoarding"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;BusStop"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a bus stop</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;BusStop"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <Class URI="&ontology;GTFS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isCalendarOf"/>
+            <Class URI="&ontology;StopTimes"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <ObjectMinCardinality cardinality="0">
+            <ObjectProperty URI="&ontology;hasCalendarDate"/>
+            <Class URI="&ontology;Calendar"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;endDate"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;friday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;monday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;saturday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;serviceID"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;startDate"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;sunday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;thursday_"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;tuesday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Calendar"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;wednesday"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;Calendar"/>
+        <Class URI="&ontology;CalendarDates"/>
+        <Class URI="&ontology;StopTimes"/>
+    </DisjointClasses>
+    <Declaration>
+        <Class URI="&ontology;Calendar"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;CalendarDates"/>
+        <Class URI="&ontology;GTFS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;CalendarDates"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+            <Class URI="&ontology;Calendar"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;CalendarDates"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;date"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;CalendarDates"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;exceptionType"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;CalendarDates"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;serviceID"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;CalendarDates"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Church"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Church"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a church</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Church"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;CityCenter"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;CityCenter"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing the position of the central part or main business and commercial area of a city.</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;CityCenter"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;ElderyCenter"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;ElderyCenter"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a eldery center or a healthcare residence for eldery</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;ElderyCenter"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <Class URI="&ontology;Trail"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+            <Class URI="&ontology;TrailPath"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;chartUrl"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;height"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;heightGap"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;highestPoint"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ElevationProfile"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;lowestPoint"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;ElevationProfile"/>
+        <Class URI="&ontology;TrailGround"/>
+        <Class URI="&ontology;TrailStats"/>
+    </DisjointClasses>
+    <Declaration>
+        <Class URI="&ontology;ElevationProfile"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Enumeration"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;Enumeration"/>
+        <Class URI="&ontology;GTFS"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <Class URI="&ontology;GeoShape"/>
+        <Class URI="&ontology;InternetAvailability"/>
+        <Class URI="&ontology;PostalAddress"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <Class URI="&ontology;Trail"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;Enumeration"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Lists or enumerations</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Enumeration"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;GTFS"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;GTFS"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <ObjectMinCardinality cardinality="0">
+            <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+            <Class URI="&ontology;Place"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <ObjectMinCardinality cardinality="0">
+            <ObjectProperty URI="&ontology;hasPostalAddress"/>
+            <Class URI="&ontology;PostalAddress"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <ObjectMinCardinality cardinality="0">
+            <ObjectProperty URI="&ontology;isContained"/>
+            <Class URI="&ontology;GeoShape"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <DataAllValuesFrom>
+            <DataProperty URI="&ontology;altitude"/>
+            <Datatype URI="&xsd;double"/>
+        </DataAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <DataAllValuesFrom>
+            <DataProperty URI="&ontology;latitude"/>
+            <Datatype URI="&xsd;double"/>
+        </DataAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <DataAllValuesFrom>
+            <DataProperty URI="&ontology;longitude"/>
+            <Datatype URI="&xsd;double"/>
+        </DataAllValuesFrom>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;GeoCoordinate"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a single point in the world</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;GeoShape"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GeoShape"/>
+        <ObjectMinCardinality cardinality="2">
+            <ObjectProperty URI="&ontology;hasPoints"/>
+            <Class URI="&ontology;GeoCoordinate"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;GeoShape"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a geographical shape</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;GeoShape"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;GroceryStore"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;GroceryStore"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;area"/>
+            <Datatype URI="&xsd;double"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;GroceryStore"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a grocery store or supermarket</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;GroceryStore"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Hospital"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Hospital"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a hospital</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Hospital"/>
+    </Declaration>
+    <DisjointClasses>
+        <Class URI="&ontology;Intangible"/>
+        <Class URI="&ontology;Place"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;Intangible"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >A utility class that serves as the umbrella for a number of &#39;intangible&#39; things such as quantities, structured values, etc.</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Intangible"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;InternetAvailability"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;InternetAvailability"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;currentInternetAvailability"/>
+            <Class URI="&ontology;InternetAvailabilityType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;InternetAvailability"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;predicted2022InternetAvailability"/>
+            <Class URI="&ontology;InternetAvailabilityType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;InternetAvailability"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty URI="&ontology;inPostalAddress"/>
+            <Class URI="&ontology;PostalAddress"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;InternetAvailability"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entites describing the availability of internet in a particular address</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;InternetAvailability"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;grey_novhcn_radio"/>
+            <Individual URI="&ontology;grey_vhcn_fwa"/>
+            <Individual URI="&ontology;black_vhcn_fwa"/>
+            <Individual URI="&ontology;black_vhcn_fo"/>
+            <Individual URI="&ontology;grey_novhcn_copper"/>
+            <Individual URI="&ontology;grey_vhcn_fo"/>
+            <Individual URI="&ontology;black_novhcn"/>
+            <Individual URI="&ontology;no_coverage"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the type of internet availability</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Library"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Library"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing libraries</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Library"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Line"/>
+        <Class URI="&ontology;GeoShape"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;Line"/>
+        <Class URI="&ontology;Polygon"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;Line"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a chain of points</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Line"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;MovieTheater"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;MovieTheater"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a movie theater or cinema</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;MovieTheater"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;NaturalClimbingWall"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;NaturalClimbingWall"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a climbing wall of natural origin</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;NaturalClimbingWall"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Park"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Park"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a park</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Park"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;ParkingFacility"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ParkingFacility"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;capacity"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;ParkingFacility"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;fee"/>
+            <Datatype URI="&xsd;decimal"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;ParkingFacility"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >A parking lot or other parking facility</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;ParkingFacility"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Path"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Path"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasLine"/>
+            <Class URI="&ontology;Line"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Path"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities that describe a path</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Path"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;PerformingArtsTheather"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;PerformingArtsTheather"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >A theater or other performing art center.</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;PerformingArtsTheather"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Pharmacy"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Pharmacy"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;openingHours"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Pharmacy"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a pharmacy or drug store</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Pharmacy"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Physician"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Physician"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a doctor office</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Physician"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Place"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty URI="&ontology;hasGeo"/>
+            <Class URI="&ontology;GeoCoordinate"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Place"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;name"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Place"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities that have a somewhat fixed, physical extension.</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Place"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Playground"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Playground"/>
+        <ObjectMinCardinality cardinality="0">
+            <ObjectProperty URI="&ontology;playgroundFacilities"/>
+            <Class URI="&ontology;PlaygroundFacilityType"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Playground"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a playground</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Playground"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;basketball_backboard"/>
+            <Individual URI="&ontology;tunnel_tube"/>
+            <Individual URI="&ontology;skate_equipment"/>
+            <Individual URI="&ontology;swing"/>
+            <Individual URI="&ontology;chain_ladder"/>
+            <Individual URI="&ontology;multi_play"/>
+            <Individual URI="&ontology;aerialrotor"/>
+            <Individual URI="&ontology;sandpit"/>
+            <Individual URI="&ontology;horizontal_bar"/>
+            <Individual URI="&ontology;slide"/>
+            <Individual URI="&ontology;teenshelter"/>
+            <Individual URI="&ontology;basketballswing"/>
+            <Individual URI="&ontology;seesaw"/>
+            <Individual URI="&ontology;exercise"/>
+            <Individual URI="&ontology;climbingframe"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the types of playground facility</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;PleasurePath"/>
+        <Class URI="&ontology;Path"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;PleasurePath"/>
+        <Class URI="&ontology;TransportationWay"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;PleasurePath"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities that describe a path normally travelled for pleasure and using human locomotion</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;PleasurePath"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Polygon"/>
+        <Class URI="&ontology;GeoShape"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Polygon"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a closed figure rappresented by a chain of points</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Polygon"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;PostOffice"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostOffice"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;openingHours"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;PostOffice"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a public post office</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;PostOffice"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isInPosition"/>
+            <Class URI="&ontology;GeoCoordinate"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <ObjectMaxCardinality cardinality="1">
+            <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+            <Class URI="&ontology;InternetAvailability"/>
+        </ObjectMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;additionalInformation"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;barNumber"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;city"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;country"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;houseNumber"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;postalCode"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;PostalAddress"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;state"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;PostalAddress"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing the street address of a point</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;PostalAddress"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;RailwayLine"/>
+        <Class URI="&ontology;TransportationWay"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;RailwayLine"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty URI="&ontology;hasTrainStation"/>
+            <Class URI="&ontology;TrainStation"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class URI="&ontology;RailwayLine"/>
+        <Class URI="&ontology;Road"/>
+    </DisjointClasses>
+    <EntityAnnotation>
+        <Class URI="&ontology;RailwayLine"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a pair of rails on which a railway train runs or a group of railway tracks running parallel, allowing one track to be used for each direction (a double-track railway line), or allowing segregation of fast trains from stopping trains (a four-track railway line).</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;RailwayLine"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Road"/>
+        <Class URI="&ontology;TransportationWay"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Road"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;roadType"/>
+            <Class URI="&ontology;RoadType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;Road"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;name"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;Road"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a road or route</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;Road"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;RoadType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;secondary"/>
+            <Individual URI="&ontology;tertiary"/>
+            <Individual URI="&ontology;highway"/>
+            <Individual URI="&ontology;primary"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;RoadType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;RoadType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the road types</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;RoadType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;School"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;School"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;schoolType"/>
+            <Class URI="&ontology;SchoolType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;School"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing school</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;School"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;SchoolType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;elementary"/>
+            <Individual URI="&ontology;high"/>
+            <Individual URI="&ontology;nursery"/>
+            <Individual URI="&ontology;middle"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;SchoolType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SchoolType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the types of school</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SchoolType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasArea"/>
+            <Class URI="&ontology;Polygon"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+            <Class URI="&ontology;SlopeStatistics"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <ObjectMinCardinality cardinality="1">
+            <ObjectProperty URI="&ontology;hasSkiSlope"/>
+            <Class URI="&ontology;SkiSlope"/>
+        </ObjectMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;adultPrice"/>
+            <Datatype URI="&xsd;decimal"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;kidPrice"/>
+            <Datatype URI="&xsd;decimal"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;open"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiArea"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;youngPrice"/>
+            <Datatype URI="&xsd;decimal"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SkiArea"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enties describing ski area in term of an area where there are nordic or downhill slope</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SkiArea"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;SkiSlope"/>
+        <Class URI="&ontology;PleasurePath"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiSlope"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isInSkiArea"/>
+            <Class URI="&ontology;SkiArea"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiSlope"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;slopeDifficultyType"/>
+            <Class URI="&ontology;SlopeDifficultyType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SkiSlope"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;slopeType"/>
+            <Class URI="&ontology;SlopeType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SkiSlope"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a nordic or downhill ski slope</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SkiSlope"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;advanced"/>
+            <Individual URI="&ontology;intermediate"/>
+            <Individual URI="&ontology;easy"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the types of slope difficulty</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+            <Class URI="&ontology;SkiArea"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;blackSlopeAvailable"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;blackSlopeLength"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;blueSlopeAvailable"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;blueSlopeLength"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;redSlopeAvailable"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeStatistics"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;redSlopeLength"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;SlopeType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;downhill"/>
+            <Individual URI="&ontology;nordic"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;SlopeType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SlopeType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the types of slope</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SlopeType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;SportsActivityLocation"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;SportsActivityLocation"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a sports location, such as playing fields</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;SportsActivityLocation"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <Class URI="&ontology;GTFS"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasCalendar"/>
+            <Class URI="&ontology;Calendar"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasStop"/>
+            <Class URI="&ontology;BusStop"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;arrivalTime"/>
+            <Datatype URI="&xsd;time"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;departureTime"/>
+            <Datatype URI="&xsd;time"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;StopTimes"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;stopSequence"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;StopTimes"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;Trail"/>
+        <Class URI="&ontology;Intangible"/>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;Trail"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;TrailGround"/>
+        <Class URI="&ontology;Trail"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailGround"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+            <Class URI="&ontology;TrailPath"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailGround"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;groundType"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailGround"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;percentage"/>
+            <Datatype URI="&xsd;double"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;TrailGround"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <Class URI="&ontology;PleasurePath"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasElevationProfile"/>
+            <Class URI="&ontology;ElevationProfile"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasTrailGround"/>
+            <Class URI="&ontology;TrailGround"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;hasTrailStats"/>
+            <Class URI="&ontology;TrailStats"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;trailPathDifficultyType"/>
+            <Class URI="&ontology;TrailPathDifficultyType"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMinCardinality cardinality="0">
+            <DataProperty URI="&ontology;openingMonths"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMinCardinality cardinality="0">
+            <DataProperty URI="&ontology;tags"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMinCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;distance"/>
+            <Datatype URI="&xsd;double"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;equipment"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;estimatedTime"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;name"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;open"/>
+            <Datatype URI="&xsd;boolean"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPath"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;satId"/>
+            <Datatype URI="&xsd;string"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;TrailPath"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a trail path</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;TrailPath"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <ObjectOneOf>
+            <Individual URI="&ontology;moderate"/>
+            <Individual URI="&ontology;easy"/>
+            <Individual URI="&ontology;difficult"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <Class URI="&ontology;Enumeration"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Enumerate the types of trail difficulty</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <Class URI="&ontology;Trail"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+            <Class URI="&ontology;TrailPath"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;experience"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;landscape"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;stamina"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrailStats"/>
+        <DataMaxCardinality cardinality="1">
+            <DataProperty URI="&ontology;technique"/>
+            <Datatype URI="&xsd;int"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <Declaration>
+        <Class URI="&ontology;TrailStats"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;TrainStation"/>
+        <Class URI="&ontology;Place"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class URI="&ontology;TrainStation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty URI="&ontology;hasRailwayLine"/>
+            <Class URI="&ontology;RailwayLine"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;TrainStation"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a train station or train stop</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;TrainStation"/>
+    </Declaration>
+    <SubClassOf>
+        <Class URI="&ontology;TransportationWay"/>
+        <Class URI="&ontology;Path"/>
+    </SubClassOf>
+    <EntityAnnotation>
+        <Class URI="&ontology;TransportationWay"/>
+        <Annotation annotationURI="&rdfs;comment">
+            <Constant
+                >Entities describing a path traveled for duty using motorized transportation mean.</Constant>
+        </Annotation>
+    </EntityAnnotation>
+    <Declaration>
+        <Class URI="&ontology;TransportationWay"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+    </InverseObjectProperties>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+        <Class URI="&ontology;Place"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;coordinateHasPlace"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;currentInternetAvailability"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;currentInternetAvailability"/>
+        <Class URI="&ontology;InternetAvailability"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;currentInternetAvailability"/>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;currentInternetAvailability"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasArea"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasArea"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasArea"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasArea"/>
+        <Class URI="&ontology;SkiArea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasArea"/>
+        <Class URI="&ontology;Polygon"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasArea"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+        <Class URI="&ontology;StopTimes"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+        <Class URI="&ontology;Calendar"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+        <Class URI="&ontology;Calendar"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+        <Class URI="&ontology;CalendarDates"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasElevationProfile"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+        <Class URI="&ontology;Place"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasGeo"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+        <Class URI="&ontology;InternetAvailability"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasInternetAvailability"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasLine"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasLine"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasLine"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasLine"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;PleasurePath"/>
+            <Class URI="&ontology;TransportationWay"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasLine"/>
+        <Class URI="&ontology;Line"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasLine"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasPoints"/>
+        <ObjectProperty URI="&ontology;isContained"/>
+    </InverseObjectProperties>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasPoints"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasPoints"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;Line"/>
+            <Class URI="&ontology;Polygon"/>
+        </ObjectUnionOf>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasPoints"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasPoints"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasPostalAddress"/>
+    </Declaration>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasRailwayLine"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasRailwayLine"/>
+        <Class URI="&ontology;TrainStation"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasRailwayLine"/>
+        <Class URI="&ontology;RailwayLine"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasRailwayLine"/>
+    </Declaration>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+        <Class URI="&ontology;SkiArea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+        <Class URI="&ontology;SkiSlope"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasSkiSlope"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+        <Class URI="&ontology;SkiArea"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasStop"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasStop"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasStop"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasStop"/>
+        <Class URI="&ontology;StopTimes"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasStop"/>
+        <Class URI="&ontology;BusStop"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasStop"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+        <ObjectProperty URI="&ontology;hasStop"/>
+    </InverseObjectProperties>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+        <Class URI="&ontology;BusStop"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+        <Class URI="&ontology;StopTimes"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasStopTime"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+    </InverseObjectProperties>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+        <Class URI="&ontology;TrailGround"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasTrailGround"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+        <Class URI="&ontology;TrailStats"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+    </Declaration>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;hasTrainStation"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;hasTrainStation"/>
+        <Class URI="&ontology;RailwayLine"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;hasTrainStation"/>
+        <Class URI="&ontology;TrainStation"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;hasTrainStation"/>
+    </Declaration>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+        <Class URI="&ontology;InternetAvailability"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;inPostalAddress"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+        <ObjectProperty URI="&ontology;hasCalendarDate"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+        <Class URI="&ontology;CalendarDates"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+        <Class URI="&ontology;Calendar"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isCalendarDatesOf"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+        <ObjectProperty URI="&ontology;hasCalendar"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+        <Class URI="&ontology;Calendar"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+        <Class URI="&ontology;StopTimes"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isCalendarOf"/>
+    </Declaration>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isContained"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isContained"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isContained"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;Line"/>
+            <Class URI="&ontology;Polygon"/>
+        </ObjectUnionOf>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isContained"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isElevationProfileOf"/>
+    </Declaration>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isInPosition"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+        <Class URI="&ontology;SkiSlope"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+        <Class URI="&ontology;SkiArea"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isInSkiArea"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+        <ObjectProperty URI="&ontology;hasSlopeStatistics"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+    </InverseFunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+    </AsymmetricObjectProperty>
+    <IrreflexiveObjectProperty>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+    </IrreflexiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+        <Class URI="&ontology;SkiArea"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isSkiAreaSlopeStatistics"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+    </FunctionalObjectProperty>
+    <AsymmetricObjectProperty>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+    </AsymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+        <Class URI="&ontology;TrailGround"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isTrailGroundOf"/>
+    </Declaration>
+    <InverseObjectProperties>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+        <ObjectProperty URI="&ontology;hasTrailStats"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+        <Class URI="&ontology;TrailStats"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;isTrailStatsOf"/>
+    </Declaration>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;playgroundFacilities"/>
+        <Class URI="&ontology;Playground"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;playgroundFacilities"/>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;playgroundFacilities"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;predicted2022InternetAvailability"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;predicted2022InternetAvailability"/>
+        <Class URI="&ontology;InternetAvailability"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;predicted2022InternetAvailability"/>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;predicted2022InternetAvailability"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;roadType"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;roadType"/>
+        <Class URI="&ontology;Road"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;roadType"/>
+        <Class URI="&ontology;RoadType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;roadType"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;schoolType"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;schoolType"/>
+        <Class URI="&ontology;School"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;schoolType"/>
+        <Class URI="&ontology;SchoolType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;schoolType"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;slopeDifficultyType"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;slopeDifficultyType"/>
+        <Class URI="&ontology;SkiSlope"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;slopeDifficultyType"/>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;slopeDifficultyType"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;slopeType"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;slopeType"/>
+        <Class URI="&ontology;SkiSlope"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;slopeType"/>
+        <Class URI="&ontology;SlopeType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;slopeType"/>
+    </Declaration>
+    <FunctionalObjectProperty>
+        <ObjectProperty URI="&ontology;trailPathDifficultyType"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty URI="&ontology;trailPathDifficultyType"/>
+        <Class URI="&ontology;TrailPath"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty URI="&ontology;trailPathDifficultyType"/>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+    </ObjectPropertyRange>
+    <Declaration>
+        <ObjectProperty URI="&ontology;trailPathDifficultyType"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;additionalInformation"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;additionalInformation"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;additionalInformation"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;adultPrice"/>
+        <Class URI="&ontology;SkiArea"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;adultPrice"/>
+        <Datatype URI="&xsd;decimal"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;adultPrice"/>
+    </Declaration>
+    <FunctionalDataProperty>
+        <DataProperty URI="&ontology;altitude"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;altitude"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;altitude"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;altitude"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;area"/>
+        <Class URI="&ontology;GroceryStore"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;area"/>
+        <Datatype URI="&xsd;double"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;area"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;arrivalTime"/>
+        <Class URI="&ontology;StopTimes"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;arrivalTime"/>
+        <Datatype URI="&xsd;time"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;arrivalTime"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;barNumber"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;barNumber"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;barNumber"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;blackSlopeAvailable"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;blackSlopeAvailable"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;blackSlopeAvailable"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;blackSlopeLength"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;blackSlopeLength"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;blackSlopeLength"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;blueSlopeAvailable"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;blueSlopeAvailable"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;blueSlopeAvailable"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;blueSlopeLength"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;blueSlopeLength"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;blueSlopeLength"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;capacity"/>
+        <Class URI="&ontology;ParkingFacility"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;capacity"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;capacity"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;chartUrl"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;chartUrl"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;chartUrl"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;city"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;city"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;city"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;country"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;country"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;country"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;date"/>
+        <Class URI="&ontology;CalendarDates"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;date"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;date"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;departureTime"/>
+        <Class URI="&ontology;StopTimes"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;departureTime"/>
+        <Datatype URI="&xsd;time"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;departureTime"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;distance"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;distance"/>
+        <Datatype URI="&xsd;double"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;distance"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;endDate"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;endDate"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;endDate"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;equipment"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;equipment"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;equipment"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;estimatedTime"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;estimatedTime"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;estimatedTime"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;exceptionType"/>
+        <Class URI="&ontology;CalendarDates"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;exceptionType"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;exceptionType"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;experience"/>
+        <Class URI="&ontology;TrailStats"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;experience"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;experience"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;fee"/>
+        <Class URI="&ontology;ParkingFacility"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;fee"/>
+        <Datatype URI="&xsd;decimal"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;fee"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;friday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;friday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;friday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;groundType"/>
+        <Class URI="&ontology;TrailGround"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;groundType"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;groundType"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;hasAtm"/>
+        <Class URI="&ontology;BankOrCreditUnion"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;hasAtm"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;hasAtm"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;height"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;height"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;height"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;heightGap"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;heightGap"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;heightGap"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;highestPoint"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;highestPoint"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;highestPoint"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;houseNumber"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;houseNumber"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;houseNumber"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;kidPrice"/>
+        <Class URI="&ontology;SkiArea"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;kidPrice"/>
+        <Datatype URI="&xsd;decimal"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;kidPrice"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;landscape"/>
+        <Class URI="&ontology;TrailStats"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;landscape"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;landscape"/>
+    </Declaration>
+    <FunctionalDataProperty>
+        <DataProperty URI="&ontology;latitude"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;latitude"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;latitude"/>
+        <Datatype URI="&xsd;double"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;latitude"/>
+    </Declaration>
+    <FunctionalDataProperty>
+        <DataProperty URI="&ontology;longitude"/>
+    </FunctionalDataProperty>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;longitude"/>
+        <Class URI="&ontology;GeoCoordinate"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;longitude"/>
+        <Datatype URI="&xsd;double"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;longitude"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;lowestPoint"/>
+        <Class URI="&ontology;ElevationProfile"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;lowestPoint"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;lowestPoint"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;monday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;monday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;monday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;name"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;Place"/>
+            <Class URI="&ontology;Road"/>
+            <Class URI="&ontology;TrailPath"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;name"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;name"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;open"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;SkiArea"/>
+            <Class URI="&ontology;TrailPath"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;open"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;open"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;openingHours"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;Pharmacy"/>
+            <Class URI="&ontology;PostOffice"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;openingHours"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;openingHours"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;openingMonths"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;openingMonths"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;openingMonths"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;percentage"/>
+        <Class URI="&ontology;TrailGround"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;percentage"/>
+        <Datatype URI="&xsd;double"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;percentage"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;postalCode"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;postalCode"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;postalCode"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;rackSlot"/>
+        <Class URI="&ontology;BikeSharingRack"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;rackSlot"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;rackSlot"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;redSlopeAvailable"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;redSlopeAvailable"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;redSlopeAvailable"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;redSlopeLength"/>
+        <Class URI="&ontology;SlopeStatistics"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;redSlopeLength"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;redSlopeLength"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;reservedForBike"/>
+        <Class URI="&ontology;BikePath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;reservedForBike"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;reservedForBike"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;satId"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;satId"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;satId"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;saturday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;saturday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;saturday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;serviceID"/>
+        <ObjectUnionOf>
+            <Class URI="&ontology;Calendar"/>
+            <Class URI="&ontology;CalendarDates"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;serviceID"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;serviceID"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stamina"/>
+        <Class URI="&ontology;TrailStats"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stamina"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stamina"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;startDate"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;startDate"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;startDate"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;state"/>
+        <Class URI="&ontology;PostalAddress"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;state"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;state"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stats"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stats"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stats"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stopCode"/>
+        <Class URI="&ontology;BusStop"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stopCode"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stopCode"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stopID"/>
+        <Class URI="&ontology;BusStop"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stopID"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stopID"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stopName"/>
+        <Class URI="&ontology;BusStop"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stopName"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stopName"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;stopSequence"/>
+        <Class URI="&ontology;StopTimes"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;stopSequence"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;stopSequence"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;sunday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;sunday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;sunday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;tags"/>
+        <Class URI="&ontology;TrailPath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;tags"/>
+        <Datatype URI="&xsd;string"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;tags"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;technique"/>
+        <Class URI="&ontology;Trail"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;technique"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;technique"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;thursday_"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;thursday_"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;thursday_"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;totalLength"/>
+        <Class URI="&ontology;BikePath"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;totalLength"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;totalLength"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;tuesday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;tuesday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;tuesday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;wednesday"/>
+        <Class URI="&ontology;Calendar"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;wednesday"/>
+        <Datatype URI="&xsd;boolean"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;wednesday"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;wheelchairBoarding"/>
+        <Class URI="&ontology;BusStop"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;wheelchairBoarding"/>
+        <Datatype URI="&xsd;int"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;wheelchairBoarding"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty URI="&ontology;youngPrice"/>
+        <Class URI="&ontology;SkiArea"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty URI="&ontology;youngPrice"/>
+        <Datatype URI="&xsd;decimal"/>
+    </DataPropertyRange>
+    <Declaration>
+        <DataProperty URI="&ontology;youngPrice"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <Individual URI="&ontology;advanced"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;advanced"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;aerialrotor"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;aerialrotor"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;basketball_backboard"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;basketball_backboard"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;basketballswing"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;basketballswing"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;black_novhcn"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;black_novhcn"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;black_vhcn_fo"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;black_vhcn_fo"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;black_vhcn_fwa"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;black_vhcn_fwa"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;chain_ladder"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;chain_ladder"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;climbingframe"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;climbingframe"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <Individual URI="&ontology;difficult"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;difficult"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SlopeType"/>
+        <Individual URI="&ontology;downhill"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;downhill"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <Individual URI="&ontology;easy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <Individual URI="&ontology;easy"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;easy"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SchoolType"/>
+        <Individual URI="&ontology;elementary"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;elementary"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;exercise"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;exercise"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;grey_novhcn_copper"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;grey_novhcn_copper"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;grey_novhcn_radio"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;grey_novhcn_radio"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;grey_vhcn_fo"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;grey_vhcn_fo"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;grey_vhcn_fwa"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;grey_vhcn_fwa"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SchoolType"/>
+        <Individual URI="&ontology;high"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;high"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;RoadType"/>
+        <Individual URI="&ontology;highway"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;highway"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;horizontal_bar"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;horizontal_bar"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SlopeDifficultyType"/>
+        <Individual URI="&ontology;intermediate"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;intermediate"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SchoolType"/>
+        <Individual URI="&ontology;middle"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;middle"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;TrailPathDifficultyType"/>
+        <Individual URI="&ontology;moderate"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;moderate"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;multi_play"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;multi_play"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;InternetAvailabilityType"/>
+        <Individual URI="&ontology;no_coverage"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;no_coverage"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SlopeType"/>
+        <Individual URI="&ontology;nordic"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;nordic"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;SchoolType"/>
+        <Individual URI="&ontology;nursery"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;nursery"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;RoadType"/>
+        <Individual URI="&ontology;primary"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;primary"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;sandpit"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;sandpit"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;RoadType"/>
+        <Individual URI="&ontology;secondary"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;secondary"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;seesaw"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;seesaw"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;skate_equipment"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;skate_equipment"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;slide"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;slide"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;swing"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;swing"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;teenshelter"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;teenshelter"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;RoadType"/>
+        <Individual URI="&ontology;tertiary"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;tertiary"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class URI="&ontology;PlaygroundFacilityType"/>
+        <Individual URI="&ontology;tunnel_tube"/>
+    </ClassAssertion>
+    <Declaration>
+        <Individual URI="&ontology;tunnel_tube"/>
+    </Declaration>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 2.2.1.1138) http://owlapi.sourceforge.net -->
+
