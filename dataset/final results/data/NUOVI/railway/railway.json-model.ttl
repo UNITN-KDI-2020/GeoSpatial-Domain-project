@@ -1,0 +1,278 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epk2mj2ex1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "railway.json" ;
+	km-dev:modelPublicationTime "1608065436750"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
+	km-dev:hasModelLabel "railway.json" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoShape\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"longitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoShape\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"latitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_point_GID-31970_Type-120050\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Line_GID-201111\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Line_GID-20111\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_e01981e1-621c-460c-ad45-c3c44f8351cb a rr:TriplesMap .
+
+_:node1epk2mj2ex1 km-dev:hasTriplesMap km-dev:TriplesMap_e01981e1-621c-460c-ad45-c3c44f8351cb .
+
+km-dev:TriplesMap_e01981e1-621c-460c-ad45-c3c44f8351cb km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex2 rr:tableName "railway.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasLogicalTable _:node1epk2mj2ex2 .
+
+km-dev:TriplesMap_e01981e1-621c-460c-ad45-c3c44f8351cb rr:logicalTable _:node1epk2mj2ex2 ;
+	rr:subjectMap _:node1epk2mj2ex3 .
+
+_:node1epk2mj2ex1 km-dev:hasSubjectMap _:node1epk2mj2ex3 .
+
+_:node1epk2mj2ex3 km-dev:isPartOfMapping _:node1epk2mj2ex1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Line_GID-201111" ;
+	rr:class etype:Line_GID-20111 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Line_GID-201111" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_65b8c7b6-99be-4c0f-aa42-14f3f52d0268 rr:predicate etype:has_point_GID-31970_Type-120050 .
+
+km-dev:RefObjectMap_e8f2bed0-b7d1-442b-9c28-7baf23870ea7 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasObjectMap km-dev:RefObjectMap_e8f2bed0-b7d1-442b-9c28-7baf23870ea7 .
+
+km-dev:PredicateObjectMap_65b8c7b6-99be-4c0f-aa42-14f3f52d0268 rr:objectMap km-dev:RefObjectMap_e8f2bed0-b7d1-442b-9c28-7baf23870ea7 .
+
+km-dev:TriplesMap_e01981e1-621c-460c-ad45-c3c44f8351cb rr:predicateObjectMap km-dev:PredicateObjectMap_65b8c7b6-99be-4c0f-aa42-14f3f52d0268 .
+
+km-dev:PredicateObjectMap_65b8c7b6-99be-4c0f-aa42-14f3f52d0268 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_65b8c7b6-99be-4c0f-aa42-14f3f52d0268 .
+
+km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb a rr:TriplesMap .
+
+_:node1epk2mj2ex1 km-dev:hasTriplesMap km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb .
+
+km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex4 rr:tableName "railway.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasLogicalTable _:node1epk2mj2ex4 .
+
+km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb rr:logicalTable _:node1epk2mj2ex4 ;
+	rr:subjectMap _:node1epk2mj2ex5 .
+
+_:node1epk2mj2ex1 km-dev:hasSubjectMap _:node1epk2mj2ex5 .
+
+_:node1epk2mj2ex5 km-dev:isPartOfMapping _:node1epk2mj2ex1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
+	rr:class etype:Geocoordinate_GID-120051 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
+
+km-dev:PredicateObjectMap_eb3f0488-e65b-4e7c-9cec-d96f67b9ee1b rr:predicate etype:has_longitude_GID-46270_Type-120051 .
+
+_:node1epk2mj2ex6 rr:column "[\"records\",\"GeoShape\",\"GeoCoordinate\",\"longitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasObjectMap _:node1epk2mj2ex6 .
+
+km-dev:PredicateObjectMap_eb3f0488-e65b-4e7c-9cec-d96f67b9ee1b rr:objectMap _:node1epk2mj2ex6 .
+
+km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb rr:predicateObjectMap km-dev:PredicateObjectMap_eb3f0488-e65b-4e7c-9cec-d96f67b9ee1b .
+
+km-dev:PredicateObjectMap_eb3f0488-e65b-4e7c-9cec-d96f67b9ee1b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_eb3f0488-e65b-4e7c-9cec-d96f67b9ee1b .
+
+km-dev:PredicateObjectMap_4561f749-f14f-415f-9e2f-9a4f5fab75ca rr:predicate etype:has_latitude_GID-46263_Type-120051 .
+
+_:node1epk2mj2ex7 rr:column "[\"records\",\"GeoShape\",\"GeoCoordinate\",\"latitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasObjectMap _:node1epk2mj2ex7 .
+
+km-dev:PredicateObjectMap_4561f749-f14f-415f-9e2f-9a4f5fab75ca rr:objectMap _:node1epk2mj2ex7 .
+
+km-dev:TriplesMap_9559000f-1657-4d3c-babf-157d6c2fcbdb rr:predicateObjectMap km-dev:PredicateObjectMap_4561f749-f14f-415f-9e2f-9a4f5fab75ca .
+
+km-dev:PredicateObjectMap_4561f749-f14f-415f-9e2f-9a4f5fab75ca a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk2mj2ex1 .
+
+_:node1epk2mj2ex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_4561f749-f14f-415f-9e2f-9a4f5fab75ca .
