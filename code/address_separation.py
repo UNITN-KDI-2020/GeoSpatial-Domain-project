@@ -95,13 +95,16 @@ OUT_FOLDER = "./dataset/Data Integration/data/"
 countAddress = 0
 countValid = 0
 
+# Parsing test
 print(parse("Piazza Cesare Battisti - Cavalese", None))
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
+	# Check if the file it is not in the 
 	if not ".json" in filename or filename in exceptions:
 		continue
-
 	print(filename)
+	
+	#open dataset
 	dataset = open(IN_FOLDER + filename, "r")
 	data = json.load(dataset)
 	if "records" in data:
