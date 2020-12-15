@@ -2,7 +2,7 @@
 
 import json
 import csv
-from os import path,listdir
+from os import path, listdir
 from sys import argv
 import pyproj as pj
 import warnings
@@ -12,13 +12,13 @@ IN_FOLDER = "./dataset/Informal Modeling/data/schools/"
 OUT_FOLDER = "./dataset/Formal Modeling/data/"
 ignore_existing = argv[1] if len(argv) > 1 else True
 
-schools = {"records":[]}
+schools = {"records": []}
 
 inProj = pj.Proj('PROJCS["ETRS89_UTM_zone_32N",GEOGCS["GCS_ETRS_1989",DATUM["D_ETRS_1989",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]')
 outProj = pj.Proj(init='epsg:4326')
-x1,y1 = 663007.733371042530052, 5111238.711814826354384
-y2,x2 = pj.transform(inProj,outProj,x1,y1)
-print(str(x2)+", "+str(y2))
+x1, y1 = 663007.733371042530052, 5111238.711814826354384
+y2, x2 = pj.transform(inProj, outProj, x1, y1)
+print(str(x2) + ", " + str(y2))
 
 
 # Data
@@ -39,10 +39,10 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	for d_i, d in enumerate(data):
 		if "WKT" in d:
-			coordinates = d["WKT"].replace("POINT (", "").replace(")","").split(" ")
+			coordinates = d["WKT"].replace("POINT (", "").replace(")", "").split(" ")
 			d.pop("WKT")
-			y,x = pj.transform(inProj,outProj,coordinates[0],coordinates[1])
-			d["GeoCoordinate"] = { "longitude" : y, "latitude" : x }
+			y, x = pj.transform(inProj, outProj, coordinates[0], coordinates[1])
+			d["GeoCoordinate"] = {"longitude": y, "latitude": x}
 		if "civico_alf" in d:
 			d["HouseNumber"] = d.pop("civico_alf")
 		if "destra" in d:
@@ -53,9 +53,13 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["name"] = d.pop("scuola")
 		if "school type" in d:
 			d.pop("school type")
-		d["SchoolType"] = school
+		d["SchoolType"] = {
+			"nursery school": 1 if "nursery" == school else 0,
+			"gradeSchool": 1 if "elementary" == school else 0,
+			"secondary school": 1 if "middle" == school else 0,
+			"tertiary school": 1 if "high" == school else 0,
+		}
 		schools["records"].append(d)
 
 with open(OUT_FOLDER + "schools.json", 'w+') as file:
 	json.dump(schools, file)
-

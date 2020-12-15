@@ -209,6 +209,16 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "opening_hours" in d:
 				d.pop("opening_hours")
 
+	if "stop_times.json" in filename:
+		for d_i, d in enumerate(data):
+			if "departure_time" in d:
+				times = d["departure_time"].split(":")
+				d["departure_time"] = {"Hours": times[0], "Minutes": times[1], "Seconds": times[2]}
+			if "arrival_time" in d:
+				times = d["arrival_time"].split(":")
+				d["arrival_time"] = {"Hours": times[0], "Minutes": times[1], "Seconds": times[2]}
+				
+
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
 			d["GeoCoordinate"] = d.pop("geometry")
