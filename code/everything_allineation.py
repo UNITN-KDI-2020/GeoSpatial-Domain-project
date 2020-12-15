@@ -76,7 +76,10 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	print(filename)
 	dataset = open(IN_FOLDER + filename, "r")
-	data = json.load(dataset)["records"]
+	if "outdooractive_trails.json" in filename:
+		data = json.load(dataset)
+	else:
+		data = json.load(dataset)["records"]
 
 	newDataset = {"records": []}
 	playground = {"records": []}
@@ -215,6 +218,9 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				d["Path"]["GeoCoordinate"] = d["Path"].pop("geoPoints")
 				if "description" in d:
 					d["Path"].pop("description")
+			if "estimatedTime" in d:
+				time = d["estimatedTime"]
+				d["estimatedTime"] = str(time["days"])+":"+str(time["hours"])+":"+str(time["minutes"])+":"+str(time["seconds"])
 
 	if "climb.json" in filename:
 		for d_i, d in enumerate(data):
