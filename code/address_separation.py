@@ -4,7 +4,7 @@ from os import path, listdir
 import warnings
 warnings.filterwarnings("ignore", category=Warning)
 
-alreadyParsed = ["schools.json" , "internet_quality_trento.json"]
+alreadyParsed = ["schools.json" , "internet_quality_trento.json", "rail_stations.json"]
 
 exceptions = ["buildings.json", "trails.json"]
 
@@ -83,8 +83,7 @@ def parse(address, city):
 		return None
 	else:
 		return out
-
-		
+	
 
 IN_FOLDER = "./dataset/Formal Modeling/data/"
 OUT_FOLDER = "./dataset/Data Integration/data/"

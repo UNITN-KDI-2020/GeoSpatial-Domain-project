@@ -80,6 +80,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	newDataset = {"records": []}
 	playground = {"records": []}
+	rail_stations = {"records": []}
 
 	if "civici_web.json" in filename:
 		length = len(data)
@@ -312,10 +313,14 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 								d["rails"].append(r["@id"])
 							else:
 								d["rails"] = [r["@id"]]
+					d.pop("geometry")
+					d["GeoCoordinate"] = {"longitude" : mean[0], "latitude" : mean[1]}
 					if "rails" in d:
 						print(len(d["rails"]))
+				
 		for d_i, d in enumerate(data):
-			multicoordAllineation(d)
+			if "geometry" in d:
+				multicoordAllineation(d)
 
 	if "city_center.json" in filename:
 		for d in data:
@@ -411,6 +416,14 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				else:
 					d.pop("leisure")
 					playground["records"].append(d)
+		elif "railway.json" in filename:
+			if "railway" in d:
+				if "rail" == d["railway"]:
+					d.pop("railway")
+					newDataset["records"].append(d)
+				else:
+					d.pop("railway")
+					rail_stations["records"].append(d)
 		else:
 			newDataset["records"].append(d)
 
@@ -420,6 +433,9 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	if "park.json" in filename:
 		with open(OUT_FOLDER + "playground.json", 'w+') as file:
 			ujson.dump(playground, file)
+	if "railway.json" in filename:
+		with open(OUT_FOLDER + "rail_stations.json", 'w+') as file:
+			ujson.dump(rail_stations, file)
 
 # Metadata
 
