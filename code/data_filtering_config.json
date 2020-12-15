@@ -36,11 +36,16 @@
 			"geometry"
 		]
 	},
-	"railway.json": {
+	"railway.geojson": {
 		"iterator": "features",
 		"props": [
 			"properties.name",
 			"properties.@id",
+			"properties.addr:city",
+			"properties.addr:housenumber",
+			"properties.addr:postcode",
+			"properties.addr:street",
+			"properties.railway",
 			"geometry"
 		]
 	},

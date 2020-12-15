@@ -1,9 +1,9 @@
 # script to allineate point of interests
 
-# from shapely.geometry.polygon import Polygon
+from shapely.geometry.polygon import Polygon, Point, LineString
 from functools import partial
 import pyproj
-# import shapely.ops as ops
+import shapely.ops as ops
 import ujson
 import json
 import csv
@@ -68,6 +68,7 @@ def multicoordAllineation(d):
 			coordinates = d["GeoShape"]["GeoCoordinate"]
 			d.pop("GeoShape")
 			d["GeoCoordinate"] = {"longitude" : coordinates[0], "latitude" : coordinates[1]}
+	return d
 
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	if not ".json" in filename or (ignore_existing and path.exists(OUT_FOLDER + filename)) or filename in exceptions:
@@ -134,11 +135,14 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	if "skislopes.json" in filename:
 		for d_i, d in enumerate(data):
-			d["GeoShape"] = d.pop("geometry")
-			if "coordinates" in d["GeoShape"]:
+			if "geometry" in d:
 				multicoordAllineation(d)
 			if "piste:type" in d:
-				d["SlopeType"] = d.pop("piste:type")
+				slopeType = d.pop("piste:type")
+				d["SlopeType"] = {
+					"nordic" : 1 if "nordic" == slopeType else 0,
+					"downhill" : 1 if "downhill" == slopeType else 0,
+				}
 			if "piste:difficulty" in d:
 				d["SlopeDifficultyType"] = d.pop("piste:difficulty")
 
@@ -265,6 +269,55 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					"no_coverage": 1 if "non_coperti" == class22 else 0
 				}
 
+	if "railway.json" in filename:
+		# listOfStations = []
+		listOfRails = []
+		tr = pyproj.Transformer.from_proj(pyproj.Proj(init='EPSG:4326'), pyproj.Proj(proj='eqdc', lat_1=45.5, lat_2=46.5))
+		for d_i, d in enumerate(data):
+			if "railway" in d and not "station" in d["railway"]:
+				listOfRails.append(d)
+		for d_i, d in enumerate(data):
+			# print("\r\tprogress: ", round(d_i/len(data)*100),"%",end="")
+			# stdout.flush()
+			if "railway" in d and "station" in d["railway"]:
+				if "geometry" in d:
+					mean = []
+					if d["geometry"]["type"] == "Point":
+						mean = d["geometry"]["coordinates"]
+					elif d["geometry"]["type"] == "LineString":
+						mean = get_mean(d["geometry"]["coordinates"])
+					elif d["geometry"]["type"] == "Polygon":
+						mean = get_mean(d["geometry"]["coordinates"][0])
+
+					circle = Point(mean)
+					# circle = ops.transform(partial(
+					# 			pyproj.transform,
+					# 			pyproj.Proj(init='EPSG:4326'),
+					# 			pyproj.Proj(proj='aea',	lat_1=circle.bounds[1], lat_2=circle.bounds[3])),circle)
+					circle = ops.transform(tr.transform, circle)
+					circle = Point(circle).buffer(100).boundary
+
+					for r in listOfRails:
+						poly = np.array(r["geometry"]["coordinates"])
+						poly = LineString(poly if len(poly.shape) == 2 else poly[0])
+						# print(poly.bounds[1],poly.bounds[3])
+						# geom = ops.transform(partial(
+						# 		pyproj.transform,
+						# 		pyproj.Proj(init='EPSG:4326'),
+						# 		pyproj.Proj(proj='aea',	lat_1=poly.bounds[1], lat_2=poly.bounds[3])),poly)
+						geom = ops.transform(tr.transform, poly)
+						i = circle.intersection(geom)
+						if not i.is_empty:
+							if "rails" in d:
+								d["rails"].append(r["@id"])
+							else:
+								d["rails"] = [r["@id"]]
+					if "rails" in d:
+						print(len(d["rails"]))
+		for d_i, d in enumerate(data):
+			multicoordAllineation(d)
+
+
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
 			d["GeoCoordinate"] = d.pop("geometry")
@@ -301,7 +354,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 					d["GeoCoordinate"] = {"longitude" : d["GeoCoordinate"]["coordinates"][0], "latitude" : d["GeoCoordinate"]["coordinates"][1]}
 
 
-		if "@id" in d:
+		if "@id" in d and not "railway.json" in filename:
 			d.pop("@id")
 		if "id" in d:
 			d.pop("id")

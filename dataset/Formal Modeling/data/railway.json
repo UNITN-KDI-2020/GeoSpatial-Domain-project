@@ -2,9 +2,36 @@
 	"records": [
 		{
 			"name": "Trento FTM",
-			"GeoCoordinate": {
+			"@id": "way\/24875421",
+			"railway": "station",
+			"rails": [
+				"way\/71532189",
+				"way\/72370831",
+				"way\/72370832",
+				"way\/72370839",
+				"way\/72370843",
+				"way\/72370852",
+				"way\/72455756",
+				"way\/72455762",
+				"way\/73103768",
+				"way\/79242933",
+				"way\/132072277",
+				"way\/213521328",
+				"way\/213521343",
+				"way\/213521348",
+				"way\/213521351",
+				"way\/213521352",
+				"way\/213521353",
+				"way\/213521354",
+				"way\/213521355",
+				"way\/213521357",
+				"way\/213521359",
+				"way\/213521360",
+				"way\/213521362"
+			],
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.121241,
@@ -56,12 +83,17 @@
 						}
 					]
 				]
-			}
+			},
+			"city": "Trento",
+			"postal_code": "38122",
+			"address": "Via Dogana"
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/72369700",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0932316,
@@ -92,9 +124,17 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/72370243",
+			"railway": "station",
+			"rails": [
+				"way\/83048118",
+				"way\/83048133",
+				"way\/132072254",
+				"way\/132072257"
+			],
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.1273063,
@@ -125,9 +165,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/73089906",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.1189141,
@@ -154,9 +196,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/75310574",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.1278747,
@@ -184,9 +228,11 @@
 		},
 		{
 			"name": "Cles",
-			"GeoCoordinate": {
+			"@id": "way\/80280397",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0387914,
@@ -229,9 +275,14 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/99012770",
+			"railway": "station",
+			"rails": [
+				"way\/99496037"
+			],
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.1046923,
@@ -267,9 +318,30 @@
 		},
 		{
 			"name": "Trento Roncafort",
-			"GeoCoordinate": {
+			"@id": "way\/99496068",
+			"railway": "station",
+			"rails": [
+				"way\/37192876",
+				"way\/72370837",
+				"way\/99012672",
+				"way\/99012689",
+				"way\/99012692",
+				"way\/99012697",
+				"way\/99012698",
+				"way\/99012701",
+				"way\/99012707",
+				"way\/99012725",
+				"way\/99012742",
+				"way\/99012748",
+				"way\/99012759",
+				"way\/99012766",
+				"way\/215655322",
+				"way\/215655323",
+				"way\/215655328"
+			],
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0940566,
@@ -304,9 +376,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/99858838",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 10.9169165,
@@ -341,9 +415,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/131701013",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0678359,
@@ -370,9 +446,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/142484584",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0627701,
@@ -427,9 +505,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
+			"@id": "way\/142896968",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.0681832,
@@ -465,9 +545,11 @@
 		},
 		{
 			"name": "Mezzana",
-			"GeoCoordinate": {
+			"@id": "way\/432811625",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 10.8010206,
@@ -551,9 +633,11 @@
 		},
 		{
 			"name": "Lavis",
-			"GeoCoordinate": {
+			"@id": "way\/661764646",
+			"railway": "station",
+			"GeoShape": {
 				"type": "Polygon",
-				"coordinates": [
+				"GeoCoordinate": [
 					[
 						{
 							"longitude": 11.1061967,
@@ -589,9 +673,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/23649328",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1530411,
 						"latitude": 46.2270878
@@ -609,9 +695,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/23649355",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9173563,
 						"latitude": 45.6883345
@@ -725,9 +813,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/23649438",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0882699,
 						"latitude": 46.1197743
@@ -741,9 +831,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24026280",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.116701,
 						"latitude": 46.0575175
@@ -837,9 +929,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24161645",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1183855,
 						"latitude": 46.0522105
@@ -853,9 +947,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24161646",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1200423,
 						"latitude": 46.0506656
@@ -881,9 +977,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24161647",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1167284,
 						"latitude": 46.0573041
@@ -897,9 +995,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24161648",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1181488,
 						"latitude": 46.0525306
@@ -937,9 +1037,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/24914212",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1186649,
 						"latitude": 46.071432
@@ -1005,9 +1107,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/25032650",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1176198,
 						"latitude": 46.0554692
@@ -1165,9 +1269,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26073963",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0862549,
 						"latitude": 46.1221907
@@ -1229,9 +1335,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26728489",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.144235,
 						"latitude": 46.2237572
@@ -1245,9 +1353,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26728490",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1446113,
 						"latitude": 46.2238938
@@ -1265,9 +1375,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26728510",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1219004,
 						"latitude": 46.1926762
@@ -1281,9 +1393,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26728511",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1217065,
 						"latitude": 46.1930992
@@ -1297,9 +1411,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/26828593",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0899213,
 						"latitude": 45.9333534
@@ -1313,9 +1429,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/31017449",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1359699,
 						"latitude": 46.0537148
@@ -1449,9 +1567,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/31115986",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1238899,
 						"latitude": 46.1901606
@@ -1464,9 +1584,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/37192876",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0968188,
 						"latitude": 46.1040845
@@ -1563,9 +1685,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/37192905",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0983275,
 						"latitude": 46.1031468
@@ -1610,9 +1734,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/37193011",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0986167,
 						"latitude": 46.1042731
@@ -1641,9 +1767,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/37236589",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1003062,
 						"latitude": 46.1154494
@@ -1677,9 +1805,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/38702400",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0351398,
 						"latitude": 45.89975
@@ -1693,9 +1823,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/38702401",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0884545,
 						"latitude": 45.9319624
@@ -1713,9 +1845,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41553780",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2922278,
 						"latitude": 46.0057398
@@ -1781,9 +1915,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41553796",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2920571,
 						"latitude": 46.0056376
@@ -1797,9 +1933,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41554602",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2866548,
 						"latitude": 46.0020885
@@ -1813,9 +1951,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41554607",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2864729,
 						"latitude": 46.0019667
@@ -1829,9 +1969,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41750277",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4188626,
 						"latitude": 46.0419489
@@ -1845,9 +1987,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41750278",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4199717,
 						"latitude": 46.0423207
@@ -1977,9 +2121,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41750281",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3953726,
 						"latitude": 46.0342197
@@ -2073,9 +2219,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/41750282",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3952814,
 						"latitude": 46.0340487
@@ -2089,9 +2237,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/46871616",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3049373,
 						"latitude": 46.0057311
@@ -2429,9 +2579,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60726634",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6777952,
 						"latitude": 45.9796875
@@ -2445,9 +2597,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60726641",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6784367,
 						"latitude": 45.9790281
@@ -2561,9 +2715,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60789322",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5216627,
 						"latitude": 46.0487458
@@ -2577,9 +2733,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60789324",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5196111,
 						"latitude": 46.04922
@@ -2593,9 +2751,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60789328",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5218673,
 						"latitude": 46.0487355
@@ -2677,9 +2837,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60789329",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5086607,
 						"latitude": 46.0510866
@@ -2697,9 +2859,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60789330",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5201304,
 						"latitude": 46.0490555
@@ -2717,9 +2881,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60882149",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4698358,
 						"latitude": 46.0533724
@@ -2733,9 +2899,11 @@
 		},
 		{
 			"name": "Trento - Venezia S.L.",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60882156",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4701159,
 						"latitude": 46.0535232
@@ -2749,9 +2917,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60882163",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.47547,
 						"latitude": 46.0536647
@@ -2765,9 +2935,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/60882166",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4757518,
 						"latitude": 46.0536337
@@ -2841,9 +3013,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/61596868",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2303401,
 						"latitude": 46.0262966
@@ -3065,9 +3239,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/61596872",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2304124,
 						"latitude": 46.0267718
@@ -3081,9 +3257,11 @@
 		},
 		{
 			"name": "Galleria San Rocco",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/61753793",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.138914,
 						"latitude": 46.0384098
@@ -3153,9 +3331,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/61753796",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1415566,
 						"latitude": 46.0407448
@@ -3245,9 +3425,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/67553627",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0341094,
 						"latitude": 45.8939317
@@ -3269,9 +3451,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/67553628",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0321594,
 						"latitude": 45.8831351
@@ -3285,9 +3469,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/67990762",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1392818,
 						"latitude": 46.0494028
@@ -3469,9 +3655,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/69288562",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0323106,
 						"latitude": 45.8835749
@@ -3517,9 +3705,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/70288413",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0354006,
 						"latitude": 45.901325
@@ -3533,9 +3723,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/70288414",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0355243,
 						"latitude": 45.9020011
@@ -3549,9 +3741,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/70288415",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0354333,
 						"latitude": 45.9015036
@@ -3565,9 +3759,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/70288417",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0355589,
 						"latitude": 45.9021733
@@ -3580,9 +3776,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/71532189",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1175087,
 						"latitude": 46.070067
@@ -3620,9 +3818,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370236",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1167535,
 						"latitude": 46.0575242
@@ -3636,9 +3836,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370238",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1167801,
 						"latitude": 46.0573065
@@ -3672,9 +3874,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370830",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1394035,
 						"latitude": 46.2216379
@@ -3707,9 +3911,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370831",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1198792,
 						"latitude": 46.0762211
@@ -3750,9 +3956,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370832",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1197589,
 						"latitude": 46.0761567
@@ -3785,9 +3993,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370833",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1203525,
 						"latitude": 46.0758956
@@ -3801,9 +4011,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370834",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1219528,
 						"latitude": 46.1927145
@@ -3817,9 +4029,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370837",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1027574,
 						"latitude": 46.1021083
@@ -3849,9 +4063,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370838",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0862132,
 						"latitude": 46.1221579
@@ -3912,9 +4128,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370839",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1213108,
 						"latitude": 46.0761439
@@ -3955,9 +4173,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370843",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1170867,
 						"latitude": 46.0696252
@@ -3987,9 +4207,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370844",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1166606,
 						"latitude": 46.0575123
@@ -4083,9 +4305,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370847",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1249096,
 						"latitude": 46.1872825
@@ -4123,9 +4347,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370848",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1231607,
 						"latitude": 46.190949
@@ -4143,9 +4369,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370849",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.123814,
 						"latitude": 46.1901361
@@ -4159,9 +4387,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370850",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1232264,
 						"latitude": 46.1909787
@@ -4179,9 +4409,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370851",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0826966,
 						"latitude": 46.1298161
@@ -4242,9 +4474,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370852",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1197224,
 						"latitude": 46.0760863
@@ -4286,9 +4520,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72370855",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1442563,
 						"latitude": 46.2237253
@@ -4301,9 +4537,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72400834",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1145475,
 						"latitude": 46.0880589
@@ -4316,9 +4554,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455756",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1203826,
 						"latitude": 46.0749548
@@ -4367,9 +4607,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455757",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0941485,
 						"latitude": 46.1132344
@@ -4398,9 +4640,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455758",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.11769,
 						"latitude": 46.0711308
@@ -4425,9 +4669,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455761",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.118497,
 						"latitude": 46.0726861
@@ -4456,9 +4702,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455762",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1205011,
 						"latitude": 46.0749284
@@ -4479,9 +4727,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455763",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1178638,
 						"latitude": 46.0714958
@@ -4502,9 +4752,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/72455764",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1205191,
 						"latitude": 46.0755672
@@ -4518,9 +4770,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73024811",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0209198,
 						"latitude": 45.7914286
@@ -4534,9 +4788,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73024815",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0209777,
 						"latitude": 45.7916676
@@ -4594,9 +4850,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73024816",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0177263,
 						"latitude": 45.7848848
@@ -4610,9 +4868,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73024819",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0179008,
 						"latitude": 45.7850829
@@ -4666,9 +4926,11 @@
 		},
 		{
 			"name": "Tronco Nord",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73103768",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.120638,
 						"latitude": 46.074416
@@ -4706,9 +4968,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173978",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1252342,
 						"latitude": 46.0468316
@@ -4730,9 +4994,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173980",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1180922,
 						"latitude": 46.0524998
@@ -4770,9 +5036,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173983",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1203352,
 						"latitude": 46.0503828
@@ -4786,9 +5054,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173984",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280374,
 						"latitude": 46.0372812
@@ -4802,9 +5072,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173989",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1203678,
 						"latitude": 46.0504307
@@ -4818,9 +5090,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173992",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.118331,
 						"latitude": 46.0521891
@@ -4834,9 +5108,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173993",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1200097,
 						"latitude": 46.0506257
@@ -4862,9 +5138,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/73173996",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1166879,
 						"latitude": 46.0573023
@@ -4878,9 +5156,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467101",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0356587,
 						"latitude": 45.9030137
@@ -4966,9 +5246,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467105",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0340197,
 						"latitude": 45.8939149
@@ -4990,9 +5272,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467107",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0354622,
 						"latitude": 45.9020086
@@ -5006,9 +5290,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467108",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0350887,
 						"latitude": 45.8997627
@@ -5022,9 +5308,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467110",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0322531,
 						"latitude": 45.8835721
@@ -5070,9 +5358,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467112",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0353735,
 						"latitude": 45.90151
@@ -5086,9 +5376,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467114",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0354967,
 						"latitude": 45.9021807
@@ -5102,9 +5394,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467116",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0903031,
 						"latitude": 45.9337683
@@ -5186,9 +5480,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467121",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0898685,
 						"latitude": 45.9333765
@@ -5202,9 +5498,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78467124",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0353385,
 						"latitude": 45.9013316
@@ -5218,9 +5516,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78724502",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2112959,
 						"latitude": 46.0686305
@@ -5426,9 +5726,11 @@
 		},
 		{
 			"name": "Galleria Albi",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/78724543",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1744074,
 						"latitude": 46.0808479
@@ -5450,9 +5752,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/79242933",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1188555,
 						"latitude": 46.0722647
@@ -5473,9 +5777,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048118",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1271779,
 						"latitude": 46.2051297
@@ -5500,9 +5806,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048126",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1299039,
 						"latitude": 46.2094386
@@ -5515,9 +5823,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048131",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1290368,
 						"latitude": 46.2085739
@@ -5538,9 +5848,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048133",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1304649,
 						"latitude": 46.2098075
@@ -5581,9 +5893,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048135",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1276293,
 						"latitude": 46.2063734
@@ -5596,9 +5910,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048136",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1274548,
 						"latitude": 46.2056162
@@ -5623,9 +5939,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/83048139",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1287638,
 						"latitude": 46.2079571
@@ -5647,9 +5965,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/84305076",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0193429,
 						"latitude": 45.8008476
@@ -5739,9 +6059,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/84305099",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0194267,
 						"latitude": 45.8007154
@@ -5754,9 +6076,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/98647062",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1293231,
 						"latitude": 46.2088967
@@ -5774,9 +6098,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/98709754",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1446238,
 						"latitude": 46.2238584
@@ -5793,9 +6119,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012669",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0982696,
 						"latitude": 46.1031194
@@ -5816,9 +6144,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012672",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1011707,
 						"latitude": 46.1038494
@@ -5851,9 +6181,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012676",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0967738,
 						"latitude": 46.1040529
@@ -5878,9 +6210,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012689",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0994953,
 						"latitude": 46.105154
@@ -5905,9 +6239,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012692",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0992192,
 						"latitude": 46.1050516
@@ -5936,9 +6272,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012697",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0948386,
 						"latitude": 46.1100556
@@ -5999,9 +6337,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012698",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0944737,
 						"latitude": 46.1117348
@@ -6034,9 +6374,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012701",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0946825,
 						"latitude": 46.11123
@@ -6057,9 +6399,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012702",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0944781,
 						"latitude": 46.1095505
@@ -6092,9 +6436,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012707",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0998499,
 						"latitude": 46.1048934
@@ -6135,9 +6481,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012713",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0982205,
 						"latitude": 46.1030961
@@ -6158,9 +6506,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012715",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0994453,
 						"latitude": 46.1051355
@@ -6181,9 +6531,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012719",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0953596,
 						"latitude": 46.1107971
@@ -6212,9 +6564,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012725",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0949565,
 						"latitude": 46.1106792
@@ -6251,9 +6605,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012728",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0991512,
 						"latitude": 46.1050264
@@ -6274,9 +6630,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012730",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0981665,
 						"latitude": 46.1030706
@@ -6301,9 +6659,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012735",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0950071,
 						"latitude": 46.1106782
@@ -6324,9 +6684,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012742",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1008528,
 						"latitude": 46.1040288
@@ -6363,9 +6725,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012747",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0936528,
 						"latitude": 46.1128566
@@ -6378,9 +6742,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012748",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.099376,
 						"latitude": 46.1051098
@@ -6405,9 +6771,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012750",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0995472,
 						"latitude": 46.1051733
@@ -6428,9 +6796,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012759",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1013591,
 						"latitude": 46.1036309
@@ -6495,9 +6865,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012766",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1019904,
 						"latitude": 46.1030399
@@ -6574,9 +6946,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99012775",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0992753,
 						"latitude": 46.1050725
@@ -6597,9 +6971,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99496034",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0998118,
 						"latitude": 46.115088
@@ -6612,9 +6988,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99496037",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1044174,
 						"latitude": 46.1073626
@@ -6723,9 +7101,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/99496175",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1001967,
 						"latitude": 46.1151819
@@ -6742,9 +7122,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/101165005",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0940046,
 						"latitude": 46.1125201
@@ -6757,9 +7139,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/101165006",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1016945,
 						"latitude": 46.1033227
@@ -6776,9 +7160,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/101166047",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1273181,
 						"latitude": 46.205417
@@ -6791,9 +7177,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/101166048",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1299039,
 						"latitude": 46.2094386
@@ -6814,9 +7202,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/102189343",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1393043,
 						"latitude": 46.0463648
@@ -6834,9 +7224,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/104501467",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0417081,
 						"latitude": 45.9142202
@@ -6850,9 +7242,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/104501468",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0420326,
 						"latitude": 45.9146107
@@ -6950,9 +7344,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/104501472",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0416603,
 						"latitude": 45.9142531
@@ -6966,9 +7362,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/104501474",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0357164,
 						"latitude": 45.9030059
@@ -7054,9 +7452,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/106050088",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1392913,
 						"latitude": 46.0492928
@@ -7070,9 +7470,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/113384279",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9170941,
 						"latitude": 45.688201
@@ -7086,9 +7488,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/115344053",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0194842,
 						"latitude": 45.8007281
@@ -7101,9 +7505,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/129125855",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1200908,
 						"latitude": 46.0807166
@@ -7181,9 +7587,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051675",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0209247,
 						"latitude": 45.7983018
@@ -7205,9 +7613,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051676",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9003644,
 						"latitude": 45.6583076
@@ -7473,9 +7883,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051679",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.01974,
 						"latitude": 45.8730098
@@ -7597,9 +8009,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051680",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0209807,
 						"latitude": 45.7914279
@@ -7613,9 +8027,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051687",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0322188,
 						"latitude": 45.8831364
@@ -7629,9 +8045,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051689",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1092681,
 						"latitude": 45.9554633
@@ -7665,9 +8083,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051690",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0668257,
 						"latitude": 45.9227914
@@ -7681,9 +8101,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051692",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9171419,
 						"latitude": 45.6881682
@@ -7697,9 +8119,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051694",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1093385,
 						"latitude": 45.9554513
@@ -7733,9 +8157,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051695",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0177718,
 						"latitude": 45.7848621
@@ -7749,9 +8175,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051696",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0668296,
 						"latitude": 45.9227431
@@ -7765,9 +8193,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051701",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0672316,
 						"latitude": 45.9228942
@@ -7817,9 +8247,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051702",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0420919,
 						"latitude": 45.9145848
@@ -7917,9 +8349,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051704",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280972,
 						"latitude": 46.0355011
@@ -7933,9 +8367,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051705",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1099241,
 						"latitude": 45.9619871
@@ -7989,9 +8425,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051712",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0179498,
 						"latitude": 45.7850691
@@ -8045,9 +8483,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132051714",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0154962,
 						"latitude": 45.7807349
@@ -8093,9 +8533,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052558",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0029253,
 						"latitude": 45.8427639
@@ -8149,9 +8591,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052559",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0029823,
 						"latitude": 45.8427531
@@ -8209,9 +8653,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052567",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027973,
 						"latitude": 45.8485346
@@ -8225,9 +8671,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052576",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.003031,
 						"latitude": 45.8394436
@@ -8241,9 +8689,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052578",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0029886,
 						"latitude": 45.8425831
@@ -8257,9 +8707,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052590",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027456,
 						"latitude": 45.8485336
@@ -8273,9 +8725,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052591",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0029351,
 						"latitude": 45.8425841
@@ -8289,9 +8743,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052592",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0030891,
 						"latitude": 45.8394425
@@ -8305,9 +8761,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052603",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0030287,
 						"latitude": 45.8395444
@@ -8341,9 +8799,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052604",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0030893,
 						"latitude": 45.8395462
@@ -8377,9 +8837,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052606",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0142896,
 						"latitude": 45.8094765
@@ -8617,9 +9079,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132052609",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0026795,
 						"latitude": 45.8505396
@@ -8781,9 +9245,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072185",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.082765,
 						"latitude": 46.1298175
@@ -8845,9 +9311,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072191",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0860174,
 						"latitude": 46.1379466
@@ -8861,9 +9329,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072196",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1392578,
 						"latitude": 46.2215901
@@ -8877,9 +9347,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072197",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1216544,
 						"latitude": 46.1934024
@@ -8893,9 +9365,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072198",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1330988,
 						"latitude": 46.2137338
@@ -8909,9 +9383,11 @@
 		},
 		{
 			"name": "Brennerbahn - Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072206",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1740545,
 						"latitude": 46.2350272
@@ -8925,9 +9401,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072212",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1392925,
 						"latitude": 46.2215581
@@ -8941,9 +9419,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072215",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.136891,
 						"latitude": 46.2192872
@@ -8957,9 +9437,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072217",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1333807,
 						"latitude": 46.214051
@@ -8973,9 +9455,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072219",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1333274,
 						"latitude": 46.2140686
@@ -8989,9 +9473,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072220",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1215892,
 						"latitude": 46.1933887
@@ -9005,9 +9491,11 @@
 		},
 		{
 			"name": "Brennerbahn - Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072222",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1741442,
 						"latitude": 46.2350034
@@ -9021,9 +9509,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072225",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1217742,
 						"latitude": 46.1931138
@@ -9037,9 +9527,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072228",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.124894,
 						"latitude": 46.1870967
@@ -9053,9 +9545,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072230",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1369614,
 						"latitude": 46.219265
@@ -9069,9 +9563,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072232",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1331574,
 						"latitude": 46.2137185
@@ -9085,9 +9581,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072234",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1248139,
 						"latitude": 46.1871002
@@ -9101,9 +9599,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072237",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0860832,
 						"latitude": 46.1379291
@@ -9117,9 +9617,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072245",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0861268,
 						"latitude": 46.1380572
@@ -9205,9 +9707,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072246",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0861877,
 						"latitude": 46.1380378
@@ -9297,9 +9801,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072254",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1215482,
 						"latitude": 46.1935143
@@ -9389,9 +9895,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072255",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1531252,
 						"latitude": 46.2270668
@@ -9409,9 +9917,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072257",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1216159,
 						"latitude": 46.193521
@@ -9509,9 +10019,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072264",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1370584,
 						"latitude": 46.2194061
@@ -9541,9 +10053,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072266",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1369882,
 						"latitude": 46.2194295
@@ -9573,9 +10087,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072271",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1393599,
 						"latitude": 46.2216644
@@ -9609,9 +10125,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072276",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1248309,
 						"latitude": 46.1872888
@@ -9649,9 +10167,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132072277",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1190039,
 						"latitude": 46.0722252
@@ -9805,9 +10325,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080347",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0827667,
 						"latitude": 45.9273025
@@ -9857,9 +10379,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080348",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0828065,
 						"latitude": 45.9272648
@@ -9909,9 +10433,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080349",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1234369,
 						"latitude": 45.99872
@@ -9969,9 +10495,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080350",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1191343,
 						"latitude": 45.9879054
@@ -10021,9 +10549,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080351",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0672356,
 						"latitude": 45.9228482
@@ -10073,9 +10603,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080352",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.119054,
 						"latitude": 45.9879259
@@ -10125,9 +10657,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080353",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1233589,
 						"latitude": 45.9987225
@@ -10181,9 +10715,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080354",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1281142,
 						"latitude": 46.0408872
@@ -10245,9 +10781,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080355",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1100079,
 						"latitude": 45.9619752
@@ -10301,9 +10839,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080356",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0193969,
 						"latitude": 45.8008689
@@ -10397,9 +10937,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080357",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280539,
 						"latitude": 46.0408825
@@ -10461,9 +11003,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080358",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.008313,
 						"latitude": 45.8663895
@@ -10545,9 +11089,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080360",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0082729,
 						"latitude": 45.8664108
@@ -10629,9 +11175,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080361",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280155,
 						"latitude": 46.0274131
@@ -10645,9 +11193,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080362",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1253237,
 						"latitude": 46.0466986
@@ -10661,9 +11211,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080364",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.113409,
 						"latitude": 45.9773349
@@ -10677,9 +11229,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080365",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1233292,
 						"latitude": 45.9985921
@@ -10693,9 +11247,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080366",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0827193,
 						"latitude": 45.9272173
@@ -10709,9 +11265,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080367",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.119052,
 						"latitude": 45.9877801
@@ -10725,9 +11283,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080368",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0196456,
 						"latitude": 45.8729476
@@ -10741,9 +11301,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080369",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280972,
 						"latitude": 46.0353893
@@ -10757,9 +11319,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080370",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.087922,
 						"latitude": 45.9315431
@@ -10773,9 +11337,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080371",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280961,
 						"latitude": 46.0372816
@@ -10789,9 +11355,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080372",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0881746,
 						"latitude": 45.9316943
@@ -10805,9 +11373,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080373",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0143129,
 						"latitude": 45.8092493
@@ -10821,9 +11391,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080374",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0879968,
 						"latitude": 45.9315241
@@ -10837,9 +11409,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080375",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280532,
 						"latitude": 46.0407313
@@ -10853,9 +11427,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080376",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0882744,
 						"latitude": 45.9317899
@@ -10869,9 +11445,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080377",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280394,
 						"latitude": 46.0355011
@@ -10885,9 +11463,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080378",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280733,
 						"latitude": 46.0274146
@@ -10901,9 +11481,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080379",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1253668,
 						"latitude": 46.0467206
@@ -10917,9 +11499,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080380",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1134825,
 						"latitude": 45.9773315
@@ -10933,9 +11517,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080381",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0081338,
 						"latitude": 45.8662945
@@ -10949,9 +11535,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080382",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0826765,
 						"latitude": 45.9272565
@@ -10965,9 +11553,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080383",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1234082,
 						"latitude": 45.9985941
@@ -10981,9 +11571,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080384",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0881005,
 						"latitude": 45.9317015
@@ -10997,9 +11589,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080385",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1189721,
 						"latitude": 45.9878027
@@ -11013,9 +11607,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080386",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0196048,
 						"latitude": 45.8729821
@@ -11029,9 +11625,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080387",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280388,
 						"latitude": 46.0353877
@@ -11045,9 +11643,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080388",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0080729,
 						"latitude": 45.8663052
@@ -11061,9 +11661,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080389",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0144054,
 						"latitude": 45.8092748
@@ -11077,9 +11679,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080391",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1281141,
 						"latitude": 46.0407297
@@ -11093,9 +11697,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080392",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0881996,
 						"latitude": 45.9317953
@@ -11109,9 +11715,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080393",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0196964,
 						"latitude": 45.8730386
@@ -11229,9 +11837,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080394",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280735,
 						"latitude": 46.0274934
@@ -11249,9 +11859,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080396",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0883553,
 						"latitude": 45.931944
@@ -11269,9 +11881,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080397",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1280157,
 						"latitude": 46.0274902
@@ -11289,9 +11903,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080398",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1213614,
 						"latitude": 46.0760511
@@ -11425,9 +12041,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080399",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1077264,
 						"latitude": 45.9525865
@@ -11457,9 +12075,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080400",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1251981,
 						"latitude": 46.046806
@@ -11481,9 +12101,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080401",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0075266,
 						"latitude": 45.8659866
@@ -11497,9 +12119,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080402",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.014202,
 						"latitude": 45.8094554
@@ -11733,9 +12357,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080403",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.113496,
 						"latitude": 45.9774319
@@ -11773,9 +12399,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132080404",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1134214,
 						"latitude": 45.9774358
@@ -11813,9 +12441,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105706",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0154398,
 						"latitude": 45.780742
@@ -11861,9 +12491,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105707",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0210335,
 						"latitude": 45.7916652
@@ -11921,9 +12553,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105708",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9884321,
 						"latitude": 45.7497515
@@ -11985,9 +12619,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105709",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9884762,
 						"latitude": 45.7497265
@@ -12049,9 +12685,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105713",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.968949,
 						"latitude": 45.7381819
@@ -12065,9 +12703,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105714",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9688319,
 						"latitude": 45.7381436
@@ -12081,9 +12721,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105715",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0209582,
 						"latitude": 45.7982346
@@ -12097,9 +12739,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105716",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9974861,
 						"latitude": 45.760876
@@ -12113,9 +12757,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105718",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9707362,
 						"latitude": 45.7388262
@@ -12129,9 +12775,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105721",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0154023,
 						"latitude": 45.7806555
@@ -12145,9 +12793,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105722",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.966014,
 						"latitude": 45.7372397
@@ -12161,9 +12811,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105724",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9315659,
 						"latitude": 45.7065114
@@ -12177,9 +12829,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105725",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0154608,
 						"latitude": 45.780654
@@ -12193,9 +12847,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105726",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9884286,
 						"latitude": 45.749666
@@ -12209,9 +12865,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105728",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9689289,
 						"latitude": 45.7382178
@@ -12225,9 +12883,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105729",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9707627,
 						"latitude": 45.7387932
@@ -12241,9 +12901,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105730",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9660485,
 						"latitude": 45.7372127
@@ -12257,9 +12919,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105731",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9316302,
 						"latitude": 45.7065017
@@ -12273,9 +12937,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105732",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9688104,
 						"latitude": 45.7381774
@@ -12289,9 +12955,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105733",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.020902,
 						"latitude": 45.7982197
@@ -12305,9 +12973,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105734",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9883862,
 						"latitude": 45.7496869
@@ -12321,9 +12991,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105735",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9974364,
 						"latitude": 45.7608991
@@ -12337,9 +13009,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105737",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9661988,
 						"latitude": 45.7372991
@@ -12353,9 +13027,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105739",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9662326,
 						"latitude": 45.7372724
@@ -12369,9 +13045,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105745",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9174065,
 						"latitude": 45.6882983
@@ -12485,9 +13163,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105746",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9708429,
 						"latitude": 45.7388197
@@ -12613,9 +13293,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105747",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9708165,
 						"latitude": 45.7388527
@@ -12741,9 +13423,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105748",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.997757,
 						"latitude": 45.7612854
@@ -12877,9 +13561,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105749",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9978039,
 						"latitude": 45.7612634
@@ -13013,9 +13699,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105750",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0208669,
 						"latitude": 45.7982902
@@ -13037,9 +13725,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105752",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9316667,
 						"latitude": 45.706563
@@ -13253,9 +13943,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105753",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.931606,
 						"latitude": 45.7065784
@@ -13469,9 +14161,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/132105756",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 10.9002927,
 						"latitude": 45.6583171
@@ -13749,9 +14443,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/140953332",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.007483,
 						"latitude": 45.866008
@@ -13765,9 +14461,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/140953334",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0073529,
 						"latitude": 45.8659396
@@ -13781,9 +14479,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/140953335",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0073771,
 						"latitude": 45.8659091
@@ -13797,9 +14497,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/140953337",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027394,
 						"latitude": 45.8505415
@@ -13948,9 +14650,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/204691069",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0324091,
 						"latitude": 45.8849527
@@ -13987,9 +14691,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/204691073",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0327774,
 						"latitude": 45.8878061
@@ -14010,9 +14716,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521328",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1198231,
 						"latitude": 46.0743519
@@ -14053,9 +14761,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521329",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1214256,
 						"latitude": 46.0790054
@@ -14104,9 +14814,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521330",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1188764,
 						"latitude": 46.0825519
@@ -14159,9 +14871,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521331",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1156877,
 						"latitude": 46.0637833
@@ -14222,9 +14936,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521332",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1179981,
 						"latitude": 46.0837392
@@ -14293,9 +15009,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521333",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1217513,
 						"latitude": 46.0766172
@@ -14360,9 +15078,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521334",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1216995,
 						"latitude": 46.0763275
@@ -14375,9 +15095,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521335",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1196209,
 						"latitude": 46.0738867
@@ -14390,9 +15112,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521336",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1213614,
 						"latitude": 46.0760511
@@ -14405,9 +15129,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521337",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.120707,
 						"latitude": 46.0797703
@@ -14420,9 +15146,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521338",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1163415,
 						"latitude": 46.0681162
@@ -14435,9 +15163,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521339",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1220545,
 						"latitude": 46.0778261
@@ -14450,9 +15180,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521341",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1165755,
 						"latitude": 46.0686788
@@ -14465,9 +15197,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521342",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1211907,
 						"latitude": 46.0793068
@@ -14480,9 +15214,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521343",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1202533,
 						"latitude": 46.0750924
@@ -14495,9 +15231,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521345",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1175967,
 						"latitude": 46.0707787
@@ -14510,9 +15248,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521346",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1216421,
 						"latitude": 46.0765088
@@ -14525,9 +15265,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521347",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1169214,
 						"latitude": 46.0693674
@@ -14540,9 +15282,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521348",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1173317,
 						"latitude": 46.0701103
@@ -14571,9 +15315,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521349",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1208468,
 						"latitude": 46.0753116
@@ -14598,9 +15344,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521350",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1211354,
 						"latitude": 46.0759429
@@ -14625,9 +15373,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521351",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1197604,
 						"latitude": 46.0754094
@@ -14652,9 +15402,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521352",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1202529,
 						"latitude": 46.0747902
@@ -14679,9 +15431,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521353",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1197991,
 						"latitude": 46.0754008
@@ -14706,9 +15460,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521354",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1199003,
 						"latitude": 46.0747478
@@ -14733,9 +15489,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521355",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1201398,
 						"latitude": 46.0748337
@@ -14760,9 +15518,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521356",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.119744,
 						"latitude": 46.0756311
@@ -14791,9 +15551,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521357",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1200366,
 						"latitude": 46.0745853
@@ -14818,9 +15580,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521358",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1201176,
 						"latitude": 46.0809818
@@ -14853,9 +15617,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521359",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1198635,
 						"latitude": 46.0763987
@@ -14896,9 +15662,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521360",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1177954,
 						"latitude": 46.07107
@@ -14935,9 +15703,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521361",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1199814,
 						"latitude": 46.0812074
@@ -14978,9 +15748,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/213521362",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1199932,
 						"latitude": 46.0747113
@@ -15018,9 +15790,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655320",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.088373,
 						"latitude": 46.1196507
@@ -15034,9 +15808,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655322",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1028259,
 						"latitude": 46.1021354
@@ -15065,9 +15841,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655323",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0939584,
 						"latitude": 46.1124751
@@ -15080,9 +15858,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655324",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0984557,
 						"latitude": 46.1042097
@@ -15095,9 +15875,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655325",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.098386,
 						"latitude": 46.1041823
@@ -15110,9 +15892,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655326",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0946268,
 						"latitude": 46.1116093
@@ -15125,9 +15909,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655327",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0899218,
 						"latitude": 46.1176975
@@ -15140,9 +15926,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655328",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0938703,
 						"latitude": 46.1124174
@@ -15155,9 +15943,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655329",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0989229,
 						"latitude": 46.1049418
@@ -15174,9 +15964,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655330",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0990288,
 						"latitude": 46.104981
@@ -15193,9 +15985,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655331",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0955819,
 						"latitude": 46.1091524
@@ -15212,9 +16006,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655332",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1020755,
 						"latitude": 46.1027996
@@ -15231,9 +16027,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655333",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0947428,
 						"latitude": 46.1114321
@@ -15254,9 +16052,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655334",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0945485,
 						"latitude": 46.1092426
@@ -15281,9 +16081,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655335",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.098331,
 						"latitude": 46.1041606
@@ -15308,9 +16110,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655336",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.100534,
 						"latitude": 46.1043823
@@ -15340,9 +16144,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655339",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0883131,
 						"latitude": 46.1196323
@@ -15356,9 +16162,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/215655340",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0882149,
 						"latitude": 46.1197505
@@ -15372,9 +16180,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/221904291",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.232355,
 						"latitude": 46.0284792
@@ -15388,9 +16198,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/221904292",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2322099,
 						"latitude": 46.0283347
@@ -15424,9 +16236,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224157852",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2456035,
 						"latitude": 46.0063538
@@ -15440,9 +16254,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224157855",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2458809,
 						"latitude": 46.006121
@@ -15612,9 +16428,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224421199",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0903564,
 						"latitude": 45.9337379
@@ -15696,9 +16514,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224421200",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1076221,
 						"latitude": 45.9524351
@@ -15712,9 +16532,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224421213",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1075524,
 						"latitude": 45.952457
@@ -15728,9 +16550,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/224421214",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1076653,
 						"latitude": 45.9526204
@@ -15759,9 +16583,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240816",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6205762,
 						"latitude": 46.0154511
@@ -15786,9 +16612,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240817",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6263857,
 						"latitude": 46.0149508
@@ -15813,9 +16641,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240818",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6218832,
 						"latitude": 46.015423
@@ -15841,9 +16671,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240833",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6369933,
 						"latitude": 46.0151454
@@ -15889,9 +16721,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240834",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6445984,
 						"latitude": 46.015004
@@ -15905,9 +16739,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240835",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6349551,
 						"latitude": 46.0148684
@@ -15921,9 +16757,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240836",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6366357,
 						"latitude": 46.0151254
@@ -15937,9 +16775,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240837",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6270817,
 						"latitude": 46.0148364
@@ -15953,9 +16793,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240838",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.627364,
 						"latitude": 46.0148047
@@ -15969,9 +16811,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240839",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.632459,
 						"latitude": 46.0143434
@@ -15985,9 +16829,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240840",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6350541,
 						"latitude": 46.0148977
@@ -16009,9 +16855,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240841",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6205762,
 						"latitude": 46.0154511
@@ -16033,9 +16881,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240842",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.644706,
 						"latitude": 46.014965
@@ -16137,9 +16987,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240843",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6274477,
 						"latitude": 46.0147965
@@ -16165,9 +17017,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/228240844",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6326259,
 						"latitude": 46.0143447
@@ -16193,9 +17047,11 @@
 		},
 		{
 			"name": "Trento - Venezia S.L.",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229292856",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4704164,
 						"latitude": 46.0536827
@@ -16209,9 +17065,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229292857",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4705007,
 						"latitude": 46.0537274
@@ -16240,9 +17098,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295663",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.456061,
 						"latitude": 46.0506578
@@ -16295,9 +17155,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295665",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.467545,
 						"latitude": 46.0528136
@@ -16358,9 +17220,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295666",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.466882,
 						"latitude": 46.0528084
@@ -16373,9 +17237,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295667",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4531523,
 						"latitude": 46.0514582
@@ -16388,9 +17254,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295668",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4561085,
 						"latitude": 46.0506833
@@ -16407,9 +17275,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295669",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.455905,
 						"latitude": 46.0507527
@@ -16430,9 +17300,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295670",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4498713,
 						"latitude": 46.0517224
@@ -16453,9 +17325,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295671",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4651834,
 						"latitude": 46.0526613
@@ -16492,9 +17366,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295672",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4564237,
 						"latitude": 46.0505604
@@ -16527,9 +17403,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295673",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.455537,
 						"latitude": 46.0507468
@@ -16567,9 +17445,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295674",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4599235,
 						"latitude": 46.0505176
@@ -16663,9 +17543,11 @@
 		},
 		{
 			"name": "Galleria Borgo",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/229295675",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4592446,
 						"latitude": 46.0504016
@@ -16678,9 +17560,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/233049275",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2662591,
 						"latitude": 45.9977802
@@ -16701,9 +17585,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/233049276",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2624343,
 						"latitude": 45.9972496
@@ -16732,9 +17618,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933480",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0861734,
 						"latitude": 46.1379152
@@ -16779,9 +17667,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933481",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0862637,
 						"latitude": 46.1380202
@@ -16794,9 +17684,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933482",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0885546,
 						"latitude": 46.1404073
@@ -16809,9 +17701,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933483",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0931742,
 						"latitude": 46.1452013
@@ -16828,9 +17722,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933484",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.084201,
 						"latitude": 46.1341828
@@ -16863,9 +17759,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/266933485",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0841094,
 						"latitude": 46.1345785
@@ -16887,9 +17785,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/267106478",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.56307,
 						"latitude": 46.0345102
@@ -16903,9 +17803,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/267106479",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5632263,
 						"latitude": 46.034474
@@ -17043,9 +17945,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/268148365",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5082022,
 						"latitude": 46.0509015
@@ -17059,9 +17963,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/268415444",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6597745,
 						"latitude": 46.0034272
@@ -17075,9 +17981,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/268415446",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6611454,
 						"latitude": 46.0023184
@@ -17138,9 +18046,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269669372",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1277366,
 						"latitude": 46.2065989
@@ -17157,9 +18067,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678716",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1316134,
 						"latitude": 46.2115788
@@ -17172,9 +18084,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678717",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1255704,
 						"latitude": 46.2025759
@@ -17187,9 +18101,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678718",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.130994,
 						"latitude": 46.2105885
@@ -17202,9 +18118,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678719",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1303567,
 						"latitude": 46.2095597
@@ -17217,9 +18135,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678720",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1308055,
 						"latitude": 46.2105143
@@ -17240,9 +18160,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/269678721",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1299039,
 						"latitude": 46.2094386
@@ -17267,9 +18189,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275573379",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1389315,
 						"latitude": 46.0443014
@@ -17322,9 +18246,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275573381",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.138865,
 						"latitude": 46.0443187
@@ -17341,9 +18267,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275573382",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1389663,
 						"latitude": 46.0442562
@@ -17361,9 +18289,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275573383",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1393116,
 						"latitude": 46.0490254
@@ -17376,9 +18306,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275593304",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2307522,
 						"latitude": 46.0635617
@@ -17391,9 +18323,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275593306",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2291775,
 						"latitude": 46.0643052
@@ -17406,9 +18340,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275593307",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2346081,
 						"latitude": 46.0614653
@@ -17421,9 +18357,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275593311",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2297298,
 						"latitude": 46.0640677
@@ -17456,9 +18394,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/275593312",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2295379,
 						"latitude": 46.064172
@@ -17504,9 +18444,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279382754",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5099689,
 						"latitude": 46.0515813
@@ -17584,9 +18526,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279382755",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5098072,
 						"latitude": 46.0515357
@@ -17599,9 +18543,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279386283",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5169063,
 						"latitude": 46.050506
@@ -17614,9 +18560,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279386284",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5119635,
 						"latitude": 46.0516932
@@ -17633,9 +18581,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279386285",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.511581,
 						"latitude": 46.0516932
@@ -17652,9 +18602,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279386286",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5165529,
 						"latitude": 46.0505321
@@ -17687,9 +18639,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437706",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5173993,
 						"latitude": 46.0502025
@@ -17710,9 +18664,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437707",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.518162,
 						"latitude": 46.0498625
@@ -17742,9 +18698,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437713",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.5061135,
 						"latitude": 46.050387
@@ -17758,9 +18716,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437714",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4936397,
 						"latitude": 46.0513867
@@ -17774,9 +18734,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437715",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4921166,
 						"latitude": 46.051449
@@ -17790,9 +18752,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437716",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4919516,
 						"latitude": 46.0514557
@@ -17806,9 +18770,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437717",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4974949,
 						"latitude": 46.0511278
@@ -17822,9 +18788,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437718",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4938198,
 						"latitude": 46.0513767
@@ -17842,9 +18810,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437719",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.506244,
 						"latitude": 46.0503905
@@ -17870,9 +18840,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/279437720",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.497625,
 						"latitude": 46.0511154
@@ -17909,9 +18881,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/295298250",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1206131,
 						"latitude": 46.0757187
@@ -17924,9 +18898,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/295298251",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1205033,
 						"latitude": 46.0757351
@@ -17939,9 +18915,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/295298252",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1203981,
 						"latitude": 46.0757324
@@ -17955,9 +18933,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/321018405",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3853935,
 						"latitude": 46.0283625
@@ -17971,9 +18951,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/321018406",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.38582,
 						"latitude": 46.0284014
@@ -18054,9 +19036,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031476",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0327411,
 						"latitude": 45.8879489
@@ -18081,9 +19065,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031477",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0328638,
 						"latitude": 45.887694
@@ -18112,9 +19098,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031478",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0327921,
 						"latitude": 45.8872181
@@ -18155,9 +19143,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031480",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0327164,
 						"latitude": 45.8881814
@@ -18174,9 +19164,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031481",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0329979,
 						"latitude": 45.8872547
@@ -18197,9 +19189,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330032004",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0327915,
 						"latitude": 45.8876237
@@ -18221,9 +19215,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/367565698",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2317964,
 						"latitude": 46.0379284
@@ -18237,9 +19233,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/367565700",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2315555,
 						"latitude": 46.0378047
@@ -18353,9 +19351,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/386678839",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2111862,
 						"latitude": 46.0686446
@@ -18369,9 +19369,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/386678840",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1794554,
 						"latitude": 46.0814021
@@ -18520,9 +19522,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607763",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3013567,
 						"latitude": 46.0062725
@@ -18535,9 +19539,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607765",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3078802,
 						"latitude": 46.0053035
@@ -18550,9 +19556,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607768",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.4023438,
 						"latitude": 46.0376579
@@ -18565,9 +19573,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607769",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3968017,
 						"latitude": 46.0352847
@@ -18580,9 +19590,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607772",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3024,
 						"latitude": 46.0060557
@@ -18595,9 +19607,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607774",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3075867,
 						"latitude": 46.0054309
@@ -18610,9 +19624,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607778",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3014646,
 						"latitude": 46.0062187
@@ -18637,9 +19653,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607779",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.3089043,
 						"latitude": 46.0052277
@@ -18673,9 +19691,11 @@
 		},
 		{
 			"name": "Trento - Venezia S.L.",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/428607781",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.396876,
 						"latitude": 46.0353625
@@ -18704,9 +19724,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/431042249",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0979791,
 						"latitude": 46.114674
@@ -18727,9 +19749,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/431042251",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0985591,
 						"latitude": 46.1148925
@@ -18759,9 +19783,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/443360906",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6707127,
 						"latitude": 45.989414
@@ -18819,9 +19845,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/443360907",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6706452,
 						"latitude": 45.9894872
@@ -18835,9 +19863,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/444180787",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6610902,
 						"latitude": 46.0023514
@@ -18851,9 +19881,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/444180788",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.660067,
 						"latitude": 46.0031004
@@ -18875,9 +19907,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/472183173",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2342133,
 						"latitude": 46.0516194
@@ -19059,9 +20093,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/472183182",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2343458,
 						"latitude": 46.0518634
@@ -19075,9 +20111,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/503522772",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2057689,
 						"latitude": 46.071068
@@ -19091,9 +20129,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/503522773",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2035575,
 						"latitude": 46.0722593
@@ -19111,9 +20151,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/503522775",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2059554,
 						"latitude": 46.0710144
@@ -19159,9 +20201,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/503522776",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2034703,
 						"latitude": 46.0723055
@@ -19175,9 +20219,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/559255067",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2303475,
 						"latitude": 46.0263961
@@ -19191,9 +20237,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/559255068",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.2303762,
 						"latitude": 46.0266772
@@ -19206,9 +20254,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/640325212",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1258103,
 						"latitude": 46.0093701
@@ -19229,9 +20279,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/640325213",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1256406,
 						"latitude": 46.0089454
@@ -19253,9 +20305,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/675187170",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1427588,
 						"latitude": 46.0647023
@@ -19269,9 +20323,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/675187171",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1427329,
 						"latitude": 46.0648851
@@ -19441,9 +20497,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/713444870",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0026841,
 						"latitude": 45.8504014
@@ -19457,9 +20515,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/713444871",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027425,
 						"latitude": 45.8486293
@@ -19485,9 +20545,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/713444872",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027445,
 						"latitude": 45.8504005
@@ -19501,9 +20563,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/713444873",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0027948,
 						"latitude": 45.8486319
@@ -19529,9 +20593,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/759188583",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1097885,
 						"latitude": 46.0936942
@@ -19553,9 +20619,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/759188584",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1097437,
 						"latitude": 46.0936788
@@ -19577,9 +20645,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/759188585",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1285539,
 						"latitude": 46.2071313
@@ -19605,9 +20675,11 @@
 		},
 		{
 			"name": "Ferrovia del Brennero",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/759188586",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1286863,
 						"latitude": 46.2071082
@@ -19641,9 +20713,11 @@
 		},
 		{
 			"name": "Ferrovia Trento - Venezia",
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/762114373",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.6697384,
 						"latitude": 45.9904647
@@ -19660,9 +20734,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/762679838",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.1204802,
 						"latitude": 46.0755736
@@ -19675,9 +20751,11 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/762679839",
+			"railway": "rail",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.120404,
 						"latitude": 46.0755591
@@ -19690,9 +20768,10 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/238166414",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0330797,
 						"latitude": 45.888459
@@ -19713,9 +20792,10 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/330031479",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0331333,
 						"latitude": 45.8884516
@@ -19732,9 +20812,10 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/69288561",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0338649,
 						"latitude": 45.8911937
@@ -19895,9 +20976,10 @@
 			}
 		},
 		{
-			"GeoCoordinate": {
-				"type": "LineString",
-				"coordinates": [
+			"@id": "way\/238166413",
+			"GeoShape": {
+				"type": "Path",
+				"GeoCoordinate": [
 					{
 						"longitude": 11.0336428,
 						"latitude": 45.8904205
@@ -19911,13 +20993,22 @@
 		},
 		{
 			"name": "Trento Santa Chiara",
+			"@id": "node\/270720712",
+			"railway": "station",
+			"rails": [
+				"way\/25032650",
+				"way\/31017449"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1354677,
 				"latitude": 46.05438
-			}
+			},
+			"address": "Via Gocciadoro"
 		},
 		{
 			"name": "Taio",
+			"@id": "node\/279318365",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.0677615,
 				"latitude": 46.3221375
@@ -19925,6 +21016,8 @@
 		},
 		{
 			"name": "Mollaro",
+			"@id": "node\/279318407",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.0682629,
 				"latitude": 46.2948118
@@ -19932,6 +21025,8 @@
 		},
 		{
 			"name": "Grumo - S. Michele",
+			"@id": "node\/311380464",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.1279605,
 				"latitude": 46.193903
@@ -19939,6 +21034,12 @@
 		},
 		{
 			"name": "Nave S. Felice",
+			"@id": "node\/311380528",
+			"railway": "station",
+			"rails": [
+				"way\/132072245",
+				"way\/132072246"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1137509,
 				"latitude": 46.1678799
@@ -19946,6 +21047,8 @@
 		},
 		{
 			"name": "Zambana",
+			"@id": "node\/311380553",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.1007472,
 				"latitude": 46.1512683
@@ -19953,6 +21056,11 @@
 		},
 		{
 			"name": "Gardolo",
+			"@id": "node\/311382070",
+			"railway": "station",
+			"rails": [
+				"way\/99496037"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1046112,
 				"latitude": 46.10806
@@ -19960,6 +21068,12 @@
 		},
 		{
 			"name": "Caldonazzo",
+			"@id": "node\/330400817",
+			"railway": "station",
+			"rails": [
+				"way\/224157855",
+				"way\/233049276"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.2649955,
 				"latitude": 45.9974291
@@ -19967,6 +21081,11 @@
 		},
 		{
 			"name": "Calceranica",
+			"@id": "node\/330400880",
+			"railway": "station",
+			"rails": [
+				"way\/61596868"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.2407723,
 				"latitude": 46.0073126
@@ -19974,6 +21093,8 @@
 		},
 		{
 			"name": "Mal\u00c3\u00a9",
+			"@id": "node\/335595260",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 10.9170884,
 				"latitude": 46.3535817
@@ -19981,6 +21102,16 @@
 		},
 		{
 			"name": "Strigno",
+			"@id": "node\/393163600",
+			"railway": "station",
+			"rails": [
+				"way\/279382754",
+				"way\/279386284",
+				"way\/279386285",
+				"way\/279386286",
+				"way\/279437706",
+				"way\/279437707"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.5144411,
 				"latitude": 46.0511847
@@ -19988,6 +21119,12 @@
 		},
 		{
 			"name": "Tezze di Grigno",
+			"@id": "node\/393163669",
+			"railway": "station",
+			"rails": [
+				"way\/268415446",
+				"way\/762114373"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.6696124,
 				"latitude": 45.9904101
@@ -19995,6 +21132,8 @@
 		},
 		{
 			"name": "Dermulo",
+			"@id": "node\/415948281",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.0630878,
 				"latitude": 46.3375743
@@ -20002,13 +21141,30 @@
 		},
 		{
 			"name": "Villazzano",
+			"@id": "node\/457181953",
+			"railway": "station",
+			"rails": [
+				"way\/61753796",
+				"way\/102189343",
+				"way\/275573379"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1393028,
 				"latitude": 46.0458891
-			}
+			},
+			"housenumber": "15",
+			"address": "Via Banala"
 		},
 		{
 			"name": "Levico Terme",
+			"@id": "node\/598464304",
+			"railway": "station",
+			"rails": [
+				"way\/41553780",
+				"way\/46871616",
+				"way\/428607778",
+				"way\/428607779"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.3049369,
 				"latitude": 46.0059194
@@ -20016,6 +21172,14 @@
 		},
 		{
 			"name": "Grigno",
+			"@id": "node\/761090461",
+			"railway": "station",
+			"rails": [
+				"way\/228240816",
+				"way\/228240817",
+				"way\/228240818",
+				"way\/228240841"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.6249743,
 				"latitude": 46.0153357
@@ -20023,12 +21187,15 @@
 		},
 		{
 			"name": "Mezzocorona Borgata",
+			"@id": "node\/867538756",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.118986,
 				"latitude": 46.2143496
 			}
 		},
 		{
+			"@id": "node\/935572603",
 			"GeoCoordinate": {
 				"longitude": 11.0336212,
 				"latitude": 45.8908028
@@ -20036,6 +21203,13 @@
 		},
 		{
 			"name": "Borgo Valsugana Est",
+			"@id": "node\/959514403",
+			"railway": "station",
+			"rails": [
+				"way\/229295665",
+				"way\/229295671",
+				"way\/229295674"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.4638678,
 				"latitude": 46.0524061
@@ -20043,6 +21217,16 @@
 		},
 		{
 			"name": "Borgo Valsugana Centro",
+			"@id": "node\/959514411",
+			"railway": "station",
+			"rails": [
+				"way\/41750278",
+				"way\/229295663",
+				"way\/229295667",
+				"way\/229295669",
+				"way\/229295672",
+				"way\/229295673"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.4540691,
 				"latitude": 46.0513699
@@ -20050,6 +21234,12 @@
 		},
 		{
 			"name": "Avio",
+			"@id": "node\/1764381712",
+			"railway": "station",
+			"rails": [
+				"way\/132105752",
+				"way\/132105753"
+			],
 			"GeoCoordinate": {
 				"longitude": 10.9560297,
 				"latitude": 45.7337382
@@ -20057,6 +21247,12 @@
 		},
 		{
 			"name": "Borghetto sull'Adige",
+			"@id": "node\/1764381713",
+			"railway": "station",
+			"rails": [
+				"way\/23649355",
+				"way\/132105745"
+			],
 			"GeoCoordinate": {
 				"longitude": 10.9271072,
 				"latitude": 45.6968932
@@ -20064,6 +21260,19 @@
 		},
 		{
 			"name": "Mezzocorona",
+			"@id": "node\/1764381719",
+			"railway": "station",
+			"rails": [
+				"way\/83048118",
+				"way\/83048133",
+				"way\/83048136",
+				"way\/83048139",
+				"way\/132072254",
+				"way\/132072257",
+				"way\/269669372",
+				"way\/759188585",
+				"way\/759188586"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1286919,
 				"latitude": 46.2072009
@@ -20071,12 +21280,19 @@
 		},
 		{
 			"name": "Mori",
+			"@id": "node\/1764381720",
+			"railway": "station",
+			"rails": [
+				"way\/132052609",
+				"way\/140953337"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.0024377,
 				"latitude": 45.8612938
 			}
 		},
 		{
+			"@id": "node\/1764381724",
 			"GeoCoordinate": {
 				"longitude": 11.0334797,
 				"latitude": 45.8908156
@@ -20084,6 +21300,17 @@
 		},
 		{
 			"name": "Rovereto",
+			"@id": "node\/1764381725",
+			"railway": "station",
+			"rails": [
+				"way\/69288562",
+				"way\/78467110",
+				"way\/204691069",
+				"way\/330031477",
+				"way\/330031478",
+				"way\/330031481",
+				"way\/330032004"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.0339061,
 				"latitude": 45.8908227
@@ -20091,6 +21318,12 @@
 		},
 		{
 			"name": "Serravalle all'Adige",
+			"@id": "node\/1764381734",
+			"railway": "station",
+			"rails": [
+				"way\/84305076",
+				"way\/132080356"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.015147,
 				"latitude": 45.808218
@@ -20098,6 +21331,23 @@
 		},
 		{
 			"name": "Trento",
+			"@id": "node\/1764381735",
+			"railway": "station",
+			"rails": [
+				"way\/24026280",
+				"way\/71532189",
+				"way\/72370843",
+				"way\/72370844",
+				"way\/72455758",
+				"way\/72455761",
+				"way\/72455762",
+				"way\/72455763",
+				"way\/79242933",
+				"way\/132072277",
+				"way\/213521328",
+				"way\/213521348",
+				"way\/213521360"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1193186,
 				"latitude": 46.0722416
@@ -20105,6 +21355,12 @@
 		},
 		{
 			"name": "Ala",
+			"@id": "node\/2518597829",
+			"railway": "station",
+			"rails": [
+				"way\/132105708",
+				"way\/132105709"
+			],
 			"GeoCoordinate": {
 				"longitude": 10.9963774,
 				"latitude": 45.759113
@@ -20112,12 +21368,15 @@
 		},
 		{
 			"name": "Mezzolombardo",
+			"@id": "node\/2757315482",
+			"railway": "station",
 			"GeoCoordinate": {
 				"longitude": 11.0934429,
 				"latitude": 46.2134458
 			}
 		},
 		{
+			"@id": "node\/3369898145",
 			"GeoCoordinate": {
 				"longitude": 11.0336823,
 				"latitude": 45.8907978
@@ -20125,6 +21384,12 @@
 		},
 		{
 			"name": "Roncegno Bagni-Marter",
+			"@id": "node\/4276907416",
+			"railway": "station",
+			"rails": [
+				"way\/41750281",
+				"way\/428607781"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.3986395,
 				"latitude": 46.0363321
@@ -20132,6 +21397,12 @@
 		},
 		{
 			"name": "Lavis",
+			"@id": "node\/4321052459",
+			"railway": "station",
+			"rails": [
+				"way\/132072245",
+				"way\/132072246"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.0962279,
 				"latitude": 46.148216
@@ -20139,6 +21410,12 @@
 		},
 		{
 			"name": "Povo-Mesiano",
+			"@id": "node\/4922948640",
+			"railway": "station",
+			"rails": [
+				"way\/67990762",
+				"way\/675187171"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1425787,
 				"latitude": 46.0649234
@@ -20146,6 +21423,14 @@
 		},
 		{
 			"name": "Mezzocorona Ferrovia",
+			"@id": "node\/6018351090",
+			"railway": "station",
+			"rails": [
+				"way\/83048118",
+				"way\/83048133",
+				"way\/132072254",
+				"way\/132072257"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1273546,
 				"latitude": 46.2063729
@@ -20153,13 +21438,24 @@
 		},
 		{
 			"name": "Trento San Bartolameo",
+			"@id": "node\/6813208618",
+			"railway": "station",
+			"rails": [
+				"way\/31017449"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.1352074,
 				"latitude": 46.047565
-			}
+			},
+			"address": "Localit\u00c3\u00a0 Masi S. Bartolameo"
 		},
 		{
 			"name": "San Cristoforo al Lago - Ischia",
+			"@id": "node\/6817029780",
+			"railway": "station",
+			"rails": [
+				"way\/472183173"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.2339293,
 				"latitude": 46.0397311
@@ -20167,6 +21463,13 @@
 		},
 		{
 			"name": "Pergine Valsugana",
+			"@id": "node\/6817033417",
+			"railway": "station",
+			"rails": [
+				"way\/78724502",
+				"way\/275593311",
+				"way\/275593312"
+			],
 			"GeoCoordinate": {
 				"longitude": 11.2321578,
 				"latitude": 46.0629337
