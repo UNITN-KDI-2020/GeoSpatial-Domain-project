@@ -490,8 +490,7 @@
             "name": "La Chiesa di Baselga",
             "GeoCoordinate": {
                 "latitude": 46.415608,
-                "longitude": 10.985737,
-                "address": "baselga bresimo"
+                "longitude": 10.985737
             },
             "city": "Bresimo"
         },
@@ -681,8 +680,7 @@
             "name": "La chiesa di San Nicol\u00f2",
             "GeoCoordinate": {
                 "latitude": 46.292136,
-                "longitude": 11.440759,
-                "address": "carano"
+                "longitude": 11.440759
             },
             "city": "Carano"
         },
@@ -690,8 +688,7 @@
             "name": "La chiesa di Aguai",
             "GeoCoordinate": {
                 "latitude": 46.292136,
-                "longitude": 11.440759,
-                "address": "carano"
+                "longitude": 11.440759
             },
             "city": "Carano"
         },
@@ -1217,8 +1214,7 @@
             "name": "Chiesa di S. Tomaso",
             "GeoCoordinate": {
                 "latitude": 46.303296,
-                "longitude": 11.059458,
-                "address": "portolo nanno"
+                "longitude": 11.059458
             },
             "city": "Nanno"
         },
@@ -1234,8 +1230,7 @@
             "name": "Chiesa di S. Biagio",
             "GeoCoordinate": {
                 "latitude": 46.316094,
-                "longitude": 11.046502,
-                "address": "nanno"
+                "longitude": 11.046502
             },
             "city": "Nanno"
         },
@@ -1243,8 +1238,7 @@
             "name": "La Chiesa di S.Valentino di Noarna",
             "GeoCoordinate": {
                 "latitude": 45.91491,
-                "longitude": 11.022841,
-                "address": "nogaredo"
+                "longitude": 11.022841
             },
             "city": "Nogaredo"
         },
@@ -2214,8 +2208,7 @@
             "name": "Chiesa di San Bartolomeo",
             "GeoCoordinate": {
                 "latitude": 46.04478,
-                "longitude": 11.27637,
-                "address": "frazione Vignola 12"
+                "longitude": 11.27637
             },
             "city": "Vignola Falesina"
         },

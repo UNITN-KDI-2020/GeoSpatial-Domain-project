@@ -269,7 +269,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "240",
 			"name": "Pista ciclabile lottizzazione Canova: tratto su via Soprasasso tra via Paludi e via Giarette",
 			"totalLength": 12.184300599380919,
 			"GeoShape": {
@@ -584,7 +583,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "135",
 			"name": "Percorso ciclopedonale - via Adamello",
 			"totalLength": 5.689013741605316,
 			"GeoShape": {
@@ -1207,7 +1205,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "105",
 			"name": "Pista ciclabile - via A. Gramsci",
 			"totalLength": 4.226479996302403,
 			"GeoShape": {
@@ -1252,7 +1249,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "630",
 			"name": "Percorso ciclopedonale - via Santi Pietro e Paolo",
 			"totalLength": 36.2958518848112,
 			"GeoShape": {
@@ -1307,7 +1303,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "400",
 			"name": "Percorso ciclopedonale - localit\u00ef\u00bf\u00bd Grezzi",
 			"totalLength": 25.14340607728128,
 			"GeoShape": {
@@ -1354,7 +1349,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "145",
 			"name": "Pista ciclabile rotatoria via Detassis",
 			"totalLength": 7.159868455119552,
 			"GeoShape": {
@@ -1497,7 +1491,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "120",
 			"name": "Pista ciclabile - via di Madonna Bianca",
 			"totalLength": 6.876628051489203,
 			"GeoShape": {
@@ -1582,7 +1575,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "200",
 			"name": "Pista ciclabile - sottopasso ferrovia Brennero",
 			"totalLength": 10.223576833677399,
 			"GeoShape": {
@@ -1629,7 +1621,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "120",
 			"name": "Pista ciclabile - via Grazioli (tra via Brigata Acqui e via Paradisi)",
 			"totalLength": 5.346112346897787,
 			"GeoShape": {
@@ -1664,7 +1655,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "120",
 			"name": "Percorso ciclopedonale - via C. Menguzzato Veglia",
 			"totalLength": 5.9837064680748755,
 			"GeoShape": {
@@ -1743,7 +1733,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "400",
 			"name": "Percorso ciclopedonale - via al bosco della citt\u00ef\u00bf\u00bd",
 			"totalLength": 18.12912877597632,
 			"GeoShape": {
@@ -1798,7 +1787,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "150",
 			"name": "Percorso ciclopedonale - villa de Mersi",
 			"totalLength": 7.740723414217304,
 			"GeoShape": {
@@ -1837,7 +1825,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "180",
 			"name": "Pista ciclabile - via di Madonna Bianca",
 			"totalLength": 9.473400264338526,
 			"GeoShape": {
@@ -2156,7 +2143,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "120",
 			"name": "Percorso ciclopedonale - Piazza Vicenza",
 			"totalLength": 5.623462386089241,
 			"GeoShape": {
@@ -2199,7 +2185,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "380",
 			"name": "Percorso ciclopedonale - via dei Tessadri via delle Tabarelle",
 			"totalLength": 22.171964847893463,
 			"GeoShape": {
@@ -3306,7 +3291,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "120",
 			"name": "Percorso ciclopedonale parco Albere",
 			"totalLength": 4.843304387380719,
 			"GeoShape": {
@@ -3465,7 +3449,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "10",
 			"name": "Pista ciclabile - collegamento via Venezia - port'Aquila",
 			"totalLength": 0.49053313877662663,
 			"GeoShape": {
@@ -3496,7 +3479,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "15",
 			"name": "Pista ciclabile - collegamento via Venezia - port'Aquila",
 			"totalLength": 0.5826556959697142,
 			"GeoShape": {
@@ -4877,7 +4859,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "300",
 			"name": "Pista ciclabile - via Valnigra",
 			"totalLength": 15.164700686116626,
 			"GeoShape": {
@@ -4916,7 +4897,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "420",
 			"name": "Pista ciclabile sul sovrapasso alla ferrovia tra loc. Roncafort e Gardolo",
 			"totalLength": 23.13893276466643,
 			"GeoShape": {
@@ -5603,7 +5583,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "170",
 			"name": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato ovest",
 			"totalLength": 9.662360759003931,
 			"GeoShape": {
@@ -5638,7 +5617,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "120",
 			"name": "Pista ciclabile Lungadige San Niccol\u00ef\u00bf\u00bd fino Italcementi - lato est",
 			"totalLength": 6.740807793356655,
 			"GeoShape": {
@@ -5739,7 +5717,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "70",
 			"name": "Pista ciclabile lato ovest rotatoria Bren Center",
 			"totalLength": 3.824451757123211,
 			"GeoShape": {
@@ -5770,7 +5747,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclabile": "70",
 			"name": "Pista ciclabile via S. Giovanni Bosco (tratto antistante scuole Crispi)",
 			"totalLength": 2.787351664511381,
 			"GeoShape": {
@@ -5941,7 +5917,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "120",
 			"name": "Percorso ciclopedonale - via Paradisi",
 			"totalLength": 6.755433337106341,
 			"GeoShape": {
@@ -6648,7 +6623,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "70",
 			"name": "Percorso ciclopedonale - via Taramelli",
 			"totalLength": 2.840815123779713,
 			"GeoShape": {
@@ -7355,7 +7329,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "110",
 			"name": "Pista ciclopedonale lato nord rotatoria Piedicastello",
 			"totalLength": 5.005507418757163,
 			"GeoShape": {
@@ -7550,7 +7523,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "100",
 			"name": "Percorso ciclopedonale all'interno dell'area verde in via San Bartolameo tra i civ. 4\/a \u00ef\u00bf\u00bd 4\/2",
 			"totalLength": 4.496019541024531,
 			"GeoShape": {
@@ -7585,7 +7557,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "40",
 			"name": "Percorso ciclopedonale - via Valnigra",
 			"totalLength": 2.544117835104099,
 			"GeoShape": {
@@ -7604,7 +7575,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "80",
 			"name": "Percorso ciclopedonale - via Grazioli (tra via Paradisi e Largo Porta Nuova)",
 			"totalLength": 3.1357256170565337,
 			"GeoShape": {
@@ -7891,7 +7861,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "265",
 			"name": "Percorso ciclopedonale tra via Gramsci e il parco del Sal\u00ef\u00bf\u00bd",
 			"totalLength": 13.578509087904674,
 			"GeoShape": {
@@ -7962,7 +7931,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "244",
 			"name": "Percorso ciclopedonale in via Barbacovi da Largo Pigarelli a via Brigata Acqui (lato nord)",
 			"totalLength": 8.406186834147393,
 			"GeoShape": {
@@ -7981,7 +7949,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclopedonale": "187",
 			"name": "Percorso ciclopedonale - via Pilati \/ via Brigata Acqui",
 			"totalLength": 9.097470522840785,
 			"GeoShape": {
@@ -8484,7 +8451,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "300",
 			"name": "Percorso ciclopedonale Localit\u00ef\u00bf\u00bd di Centa (tratto tra Localit\u00ef\u00bf\u00bd i Laghetti e civ.5 di Localit\u00ef\u00bf\u00bd di Centa)",
 			"totalLength": 15.253205540824244,
 			"GeoShape": {
@@ -9091,7 +9057,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "130",
 			"name": "Percorso ciclopedonale San Bartolomeo \u00ef\u00bf\u00bd Madonna Bianca \u00ef\u00bf\u00bd tratto RSA \u00ef\u00bf\u00bd stazione",
 			"totalLength": 8.506100040087132,
 			"GeoShape": {
@@ -9238,7 +9203,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "60",
 			"name": "Percorso ciclopedonale - via Giusti incrocio via Madruzzo",
 			"totalLength": 3.0436983623612357,
 			"GeoShape": {
@@ -9265,7 +9229,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "140",
 			"name": "Pista ciclabile in via Unterveger (lato nord), dall'intersezione con via Brunner all'intersezione con via Brennero",
 			"totalLength": 6.336081550014859,
 			"GeoShape": {
@@ -9320,7 +9283,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "30",
 			"name": "Percorso ciclopedonale in via Brennero (lato ovest) nel tratto prospiciente i numeri 145-147",
 			"totalLength": 1.6298254352741222,
 			"GeoShape": {
@@ -9355,7 +9317,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "87",
 			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 4.220671830977302,
 			"GeoShape": {
@@ -9398,7 +9359,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "30",
 			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 1.2441184649730515,
 			"GeoShape": {
@@ -9417,7 +9377,6 @@
 			"reservedForBike": 1
 		},
 		{
-			"tratto isolato ciclabile": "12",
 			"name": "Pista ciclabile nel nuovo parco a Roncafort",
 			"totalLength": 0.5646966925559849,
 			"GeoShape": {
@@ -9440,7 +9399,6 @@
 			"reservedForBike": 0
 		},
 		{
-			"tratto isolato ciclopedonale": "300",
 			"name": "Percorso ciclopedonale - via Conci via Tambosi",
 			"totalLength": 11.127450624854932,
 			"GeoShape": {

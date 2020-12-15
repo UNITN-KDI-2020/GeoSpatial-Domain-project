@@ -1,0 +1,59 @@
+{
+	"source": "https://dati.trentino.it/",
+	"format": "json",
+	"relese date": "15-11-2020",
+	"Lingue del dataset": "italiano",
+	"Upload frequency": "unknow",
+	"Conforme a": "Standard: conforme a REST/JSON",
+	"DatasetName": "KDI2020_21-Geospace-17.in",	
+	"description": "dataset merged from 'luoghi_e_punti_di_interesse_per_comune'",
+	"fields": {
+        "city": {
+            "type": "string",
+            "description": "the city component of the address",
+            "data_definition": "common"
+        },
+        "housenumber": {
+            "type": "string",
+            "description": "the house number component of the address",
+            "data_definition": "common"
+        },
+        "PostalCode": {
+            "type": "string",
+            "description": "the postcode component of the address",
+            "data_definition": "common"
+        },
+        "StreetName": {
+            "type": "string",
+            "description": "the street component of the address",
+            "data_definition": "common"
+        },
+        "StreetType": {
+            "type": "string",
+            "description": "tyoe of street (street, place, etc)",
+            "data_definition": "common"
+		},     
+		"address_additional_information": {
+            "type": "string",
+            "description": "additional address information",
+            "data_definition": "common"
+		},    		  
+        "GeoCoordinate": {
+            "type": "GeoCoordinate",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "latitude": {
+                    "type": "double",
+                    "description": "latitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                },
+                "longitude": {
+                    "type": "double",
+                    "description": "longitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        }
+    }
+}

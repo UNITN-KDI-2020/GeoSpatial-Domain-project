@@ -37,7 +37,7 @@
 				"longitude": 11.033906380000001,
 				"latitude": 45.91666678
 			},
-			"housenumber": "16",
+			"HouseNumber": "16",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "Gaetano Donizetti"
@@ -225,7 +225,7 @@
 				"latitude": 45.9142263
 			},
 			"city": "Folgaria",
-			"housenumber": "136 - 132",
+			"HouseNumber": "136 - 132",
 			"PostalCode": "38064",
 			"StreetType": "Via",
 			"StreetName": "Emilio Colpi"
@@ -415,7 +415,7 @@
 				"latitude": 46.11829291666666
 			},
 			"city": "Fornace",
-			"housenumber": "13",
+			"HouseNumber": "13",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "della Marela"
@@ -442,7 +442,7 @@
 				"latitude": 46.06426532352942
 			},
 			"city": "Scurelle",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38050",
 			"StreetType": "Piazza",
 			"StreetName": "Don Clemente Benetti"
@@ -492,7 +492,7 @@
 				"latitude": 45.91410681999999
 			},
 			"city": "Folgaria",
-			"housenumber": "361 - 367",
+			"HouseNumber": "361 - 367",
 			"StreetType": "Via",
 			"StreetName": "Emilio Colpi"
 		},
@@ -503,7 +503,7 @@
 				"latitude": 45.9148828
 			},
 			"city": "Folgaria",
-			"housenumber": "203",
+			"HouseNumber": "203",
 			"PostalCode": "38064",
 			"StreetType": "Via",
 			"StreetName": "E. Colpi"
@@ -525,7 +525,7 @@
 				"latitude": 46.06294906923077
 			},
 			"city": "Castello Tesino",
-			"housenumber": "4/a",
+			"HouseNumber": "4/a",
 			"PostalCode": "38053",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -572,7 +572,7 @@
 				"latitude": 46.418372727272725
 			},
 			"city": "Cloz",
-			"housenumber": "2",
+			"HouseNumber": "2",
 			"PostalCode": "38020",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -677,7 +677,7 @@
 				"latitude": 46.0476106
 			},
 			"city": "Trento",
-			"housenumber": "11",
+			"HouseNumber": "11",
 			"PostalCode": "38123",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -689,7 +689,7 @@
 				"longitude": 11.1245527,
 				"latitude": 46.0744905
 			},
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Largo",
@@ -702,7 +702,7 @@
 				"latitude": 46.0647175
 			},
 			"city": "Trento",
-			"housenumber": "4",
+			"HouseNumber": "4",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -714,7 +714,7 @@
 				"longitude": 11.2360509,
 				"latitude": 46.0996773
 			},
-			"housenumber": "6",
+			"HouseNumber": "6",
 			"StreetType": "Via",
 			"HouseNumber": "4",
 			"StreetName": ""
@@ -786,7 +786,7 @@
 				"latitude": 46.3158638
 			},
 			"city": "Mezzana",
-			"housenumber": "56",
+			"HouseNumber": "56",
 			"PostalCode": "38020",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -807,7 +807,7 @@
 				"latitude": 46.076473
 			},
 			"city": "Cognola",
-			"housenumber": "13",
+			"HouseNumber": "13",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -910,7 +910,7 @@
 				"longitude": 10.8423118,
 				"latitude": 45.8867384
 			},
-			"housenumber": "14",
+			"HouseNumber": "14",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
 			"StreetName": "Roma"
@@ -974,7 +974,7 @@
 				"latitude": 46.1428456
 			},
 			"city": "Molveno",
-			"housenumber": "2/B",
+			"HouseNumber": "2/B",
 			"PostalCode": "38018",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -987,7 +987,7 @@
 				"latitude": 46.1429816
 			},
 			"city": "Molveno",
-			"housenumber": "5",
+			"HouseNumber": "5",
 			"PostalCode": "38018",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1016,7 +1016,7 @@
 				"latitude": 46.0498905
 			},
 			"city": "Trento",
-			"housenumber": "92",
+			"HouseNumber": "92",
 			"PostalCode": "38123",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1029,7 +1029,7 @@
 				"latitude": 46.0619448
 			},
 			"city": "Trento",
-			"housenumber": "20",
+			"HouseNumber": "20",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1080,7 +1080,7 @@
 				"longitude": 11.1257241,
 				"latitude": 46.0681496
 			},
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1194,7 +1194,7 @@
 				"latitude": 46.0731534
 			},
 			"city": "Trento",
-			"housenumber": "23",
+			"HouseNumber": "23",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1230,7 +1230,7 @@
 				"latitude": 46.4014763
 			},
 			"city": "Rabbi",
-			"housenumber": "171",
+			"HouseNumber": "171",
 			"PostalCode": "38020",
 			"hasAtm": "yes"
 		},
@@ -1280,7 +1280,7 @@
 				"latitude": 46.430548
 			},
 			"city": "Pozza di Fassa",
-			"housenumber": "7",
+			"HouseNumber": "7",
 			"PostalCode": "38036",
 			"hasAtm": "yes",
 			"StreetType": "Piaza",
@@ -1363,7 +1363,7 @@
 				"latitude": 46.0670372
 			},
 			"city": "Trento",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38122",
 			"StreetType": "Via",
 			"StreetName": "dei Paradisi"
@@ -1391,7 +1391,7 @@
 				"latitude": 46.1662914
 			},
 			"city": "Nave San Rocco",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38010",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1411,7 +1411,7 @@
 				"longitude": 11.1220171,
 				"latitude": 46.0705317
 			},
-			"housenumber": "11",
+			"HouseNumber": "11",
 			"StreetType": "Via",
 			"StreetName": "Torre Verde"
 		},
@@ -1422,7 +1422,7 @@
 				"latitude": 46.0677803
 			},
 			"city": "Trento",
-			"housenumber": "21",
+			"HouseNumber": "21",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -1451,7 +1451,7 @@
 				"latitude": 46.0678089
 			},
 			"city": "Trento",
-			"housenumber": "31",
+			"HouseNumber": "31",
 			"PostalCode": "38122",
 			"StreetType": "Piazza",
 			"StreetName": "Lodron"
@@ -1471,7 +1471,7 @@
 				"latitude": 46.212953
 			},
 			"city": "Mezzolombardo",
-			"housenumber": "4/A",
+			"HouseNumber": "4/A",
 			"PostalCode": "38017",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1484,7 +1484,7 @@
 				"latitude": 46.2125285
 			},
 			"city": "Mezzolombardo",
-			"housenumber": "36",
+			"HouseNumber": "36",
 			"PostalCode": "38017",
 			"StreetType": "Via",
 			"StreetName": "Arturo De Varda"
@@ -1502,7 +1502,7 @@
 				"latitude": 46.0680368
 			},
 			"city": "Trento",
-			"housenumber": "19",
+			"HouseNumber": "19",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1522,7 +1522,7 @@
 				"latitude": 46.0705783
 			},
 			"city": "Trento",
-			"housenumber": "19",
+			"HouseNumber": "19",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1535,7 +1535,7 @@
 				"latitude": 46.073506
 			},
 			"city": "Trento",
-			"housenumber": "18",
+			"HouseNumber": "18",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1564,7 +1564,7 @@
 				"latitude": 46.0624696
 			},
 			"city": "Trento",
-			"housenumber": "69",
+			"HouseNumber": "69",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
@@ -1577,7 +1577,7 @@
 				"latitude": 46.0607673
 			},
 			"city": "Trento",
-			"housenumber": "177",
+			"HouseNumber": "177",
 			"PostalCode": "38122",
 			"StreetType": "Via",
 			"StreetName": "Fratelli Perini"
@@ -1589,7 +1589,7 @@
 				"latitude": 46.0566885
 			},
 			"city": "Trento",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1610,7 +1610,7 @@
 				"latitude": 46.0534822
 			},
 			"city": "Trento",
-			"housenumber": "128/a",
+			"HouseNumber": "128/a",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
 			"StreetName": "Verona"
@@ -1716,7 +1716,7 @@
 				"latitude": 46.4282253
 			},
 			"city": "Pozza di Fassa",
-			"housenumber": "60",
+			"HouseNumber": "60",
 			"PostalCode": "38036",
 			"hasAtm": "yes",
 			"StreetType": "Strada",
@@ -1729,7 +1729,7 @@
 				"latitude": 46.0900071
 			},
 			"city": "Trento",
-			"housenumber": "8",
+			"HouseNumber": "8",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1750,7 +1750,7 @@
 				"latitude": 46.2854007
 			},
 			"city": "Panchi\u00c3\u00a0",
-			"housenumber": "37/A",
+			"HouseNumber": "37/A",
 			"PostalCode": "38030",
 			"StreetType": "Via",
 			"StreetName": "Nazionale"
@@ -1762,7 +1762,7 @@
 				"latitude": 46.0895354
 			},
 			"city": "Trento",
-			"housenumber": "302/A",
+			"HouseNumber": "302/A",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1783,7 +1783,7 @@
 				"latitude": 46.070514
 			},
 			"city": "Trento",
-			"housenumber": "9",
+			"HouseNumber": "9",
 			"PostalCode": "38122",
 			"StreetType": "Via",
 			"StreetName": "Torre Verde"
@@ -1795,7 +1795,7 @@
 				"latitude": 46.1396838
 			},
 			"city": "Lavis",
-			"housenumber": "72",
+			"HouseNumber": "72",
 			"PostalCode": "38015",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1816,7 +1816,7 @@
 				"latitude": 46.069406
 			},
 			"city": "Trento",
-			"housenumber": "12",
+			"HouseNumber": "12",
 			"PostalCode": "38122",
 			"StreetType": "Via",
 			"StreetName": "Rodolfo Belenzani"
@@ -1828,7 +1828,7 @@
 				"latitude": 46.0598939
 			},
 			"city": "Trento",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -1879,7 +1879,7 @@
 				"latitude": 45.889963
 			},
 			"city": "Rovereto",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38068",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -1939,7 +1939,7 @@
 				"latitude": 46.0404801
 			},
 			"city": "Borgo Valsugana",
-			"housenumber": "2",
+			"HouseNumber": "2",
 			"PostalCode": "38051",
 			"hasAtm": "no",
 			"StreetType": "Via",
@@ -1975,7 +1975,7 @@
 				"latitude": 46.4264456
 			},
 			"city": "Pozza di Fassa",
-			"housenumber": "20",
+			"HouseNumber": "20",
 			"PostalCode": "38036",
 			"hasAtm": "yes",
 			"StreetType": "Strada",
@@ -1988,7 +1988,7 @@
 				"latitude": 46.0908289
 			},
 			"city": "Trento",
-			"housenumber": "320",
+			"HouseNumber": "320",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2064,7 +2064,7 @@
 				"latitude": 46.0517313
 			},
 			"city": "Stenico",
-			"housenumber": "3",
+			"HouseNumber": "3",
 			"PostalCode": "38070",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -2138,7 +2138,7 @@
 				"latitude": 46.2491364
 			},
 			"city": "Rover\u00c3\u00a9 della Luna",
-			"housenumber": "3",
+			"HouseNumber": "3",
 			"PostalCode": "38030",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2151,7 +2151,7 @@
 				"latitude": 46.138557
 			},
 			"city": "Lavis",
-			"housenumber": "6",
+			"HouseNumber": "6",
 			"PostalCode": "38015",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -2170,7 +2170,7 @@
 				"latitude": 46.0830316
 			},
 			"city": "Trento",
-			"housenumber": "194",
+			"HouseNumber": "194",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2182,7 +2182,7 @@
 				"longitude": 11.1240595,
 				"latitude": 46.0514428
 			},
-			"housenumber": "12",
+			"HouseNumber": "12",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "Gandhi"
@@ -2234,7 +2234,7 @@
 				"latitude": 46.056076
 			},
 			"city": "Trento",
-			"housenumber": "44",
+			"HouseNumber": "44",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2255,7 +2255,7 @@
 				"latitude": 45.9147121
 			},
 			"city": "Villa Lagarina",
-			"housenumber": "8",
+			"HouseNumber": "8",
 			"PostalCode": "38060",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2268,7 +2268,7 @@
 				"latitude": 46.0690051
 			},
 			"city": "Trento",
-			"housenumber": "49",
+			"HouseNumber": "49",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2302,7 +2302,7 @@
 				"longitude": 11.0482898,
 				"latitude": 46.2746848
 			},
-			"housenumber": "11",
+			"HouseNumber": "11",
 			"PostalCode": "38010",
 			"StreetType": "Via",
 			"StreetName": "Cesare Battisti"
@@ -2345,7 +2345,7 @@
 				"latitude": 46.0539244
 			},
 			"city": "Borgo Valsugana",
-			"housenumber": "6",
+			"HouseNumber": "6",
 			"PostalCode": "38051",
 			"hasAtm": "yes",
 			"StreetType": "Corso",
@@ -2358,7 +2358,7 @@
 				"latitude": 46.0713702
 			},
 			"city": "Trento",
-			"housenumber": "51",
+			"HouseNumber": "51",
 			"PostalCode": "38122",
 			"StreetType": "Via",
 			"StreetName": "Antonio Gazzoletti"
@@ -2376,7 +2376,7 @@
 				"latitude": 46.0566272
 			},
 			"city": "Trento",
-			"housenumber": "57",
+			"HouseNumber": "57",
 			"PostalCode": "38123",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
@@ -2389,7 +2389,7 @@
 				"latitude": 46.0768083
 			},
 			"city": "Trento",
-			"housenumber": "34/1",
+			"HouseNumber": "34/1",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2402,7 +2402,7 @@
 				"latitude": 46.0902107
 			},
 			"city": "Trento",
-			"housenumber": "320",
+			"HouseNumber": "320",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2444,7 +2444,7 @@
 				"longitude": 11.8286838,
 				"latitude": 46.1763684
 			},
-			"housenumber": "19",
+			"HouseNumber": "19",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "Giuseppe Terrabugio"
@@ -2455,7 +2455,7 @@
 				"longitude": 11.8320519,
 				"latitude": 46.175208
 			},
-			"housenumber": "5",
+			"HouseNumber": "5",
 			"PostalCode": "38054",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2527,7 +2527,7 @@
 				"longitude": 11.8410943,
 				"latitude": 46.1821288
 			},
-			"housenumber": "58",
+			"HouseNumber": "58",
 			"StreetType": "Via",
 			"StreetName": "Scopoli"
 		},
@@ -2538,7 +2538,7 @@
 				"latitude": 45.8897463
 			},
 			"city": "Rovereto",
-			"housenumber": "2B",
+			"HouseNumber": "2B",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "della Croce"
@@ -2588,7 +2588,7 @@
 				"latitude": 46.1659408
 			},
 			"city": "Andalo",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38010",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2601,7 +2601,7 @@
 				"latitude": 46.0600202
 			},
 			"city": "Pergine Valsugana",
-			"housenumber": "7",
+			"HouseNumber": "7",
 			"PostalCode": "38057",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -2659,7 +2659,7 @@
 				"longitude": 11.8064736,
 				"latitude": 46.1545646
 			},
-			"housenumber": "85",
+			"HouseNumber": "85",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "Roma"
@@ -2678,7 +2678,7 @@
 				"latitude": 46.1564176
 			},
 			"city": "Verla di Giovo",
-			"housenumber": "20",
+			"HouseNumber": "20",
 			"PostalCode": "38030",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2691,7 +2691,7 @@
 				"latitude": 46.060419
 			},
 			"city": "Trento",
-			"housenumber": "130",
+			"HouseNumber": "130",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Corso",
@@ -2703,7 +2703,7 @@
 				"latitude": 46.3273781
 			},
 			"city": "Tuenno",
-			"housenumber": "20",
+			"HouseNumber": "20",
 			"PostalCode": "38019",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -2716,7 +2716,7 @@
 				"latitude": 45.7578184
 			},
 			"city": "Ala",
-			"housenumber": "2",
+			"HouseNumber": "2",
 			"PostalCode": "38061",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -2760,7 +2760,7 @@
 				"latitude": 46.0610826
 			},
 			"city": "Trento",
-			"housenumber": "31",
+			"HouseNumber": "31",
 			"PostalCode": "38123",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
@@ -2809,7 +2809,7 @@
 				"latitude": 45.8885797
 			},
 			"city": "Rovereto",
-			"housenumber": "2",
+			"HouseNumber": "2",
 			"PostalCode": "38068",
 			"StreetType": "Piazza",
 			"StreetName": "delle Erbe"
@@ -2845,7 +2845,7 @@
 				"latitude": 45.8906863
 			},
 			"city": "Rovereto",
-			"housenumber": "23",
+			"HouseNumber": "23",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "Orefici"
@@ -2856,7 +2856,7 @@
 				"longitude": 11.0321012,
 				"latitude": 45.8901349
 			},
-			"housenumber": "6",
+			"HouseNumber": "6",
 			"hasAtm": "yes",
 			"StreetType": "Via",
 			"StreetName": "Fortunato Zeni"
@@ -2910,7 +2910,7 @@
 				"latitude": 45.8908217
 			},
 			"city": "Rovereto",
-			"housenumber": "20",
+			"HouseNumber": "20",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "Antonio Stoppani"
@@ -2922,7 +2922,7 @@
 				"latitude": 46.0642736
 			},
 			"city": "Trento",
-			"housenumber": "25",
+			"HouseNumber": "25",
 			"PostalCode": "38123",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2942,7 +2942,7 @@
 				"latitude": 46.1109008
 			},
 			"city": "Trento",
-			"housenumber": "17",
+			"HouseNumber": "17",
 			"PostalCode": "38121",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -2984,7 +2984,7 @@
 				"latitude": 46.3110874
 			},
 			"city": "Pellizzano",
-			"housenumber": "49",
+			"HouseNumber": "49",
 			"PostalCode": "38020",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -3098,7 +3098,7 @@
 				"latitude": 46.0803336
 			},
 			"city": "Bieno",
-			"housenumber": "4",
+			"HouseNumber": "4",
 			"PostalCode": "38050",
 			"StreetType": "Piazza",
 			"StreetName": "Maggiore"
@@ -3125,7 +3125,7 @@
 				"latitude": 46.2916986
 			},
 			"city": "Cavalese",
-			"housenumber": "12",
+			"HouseNumber": "12",
 			"PostalCode": "38033",
 			"hasAtm": "yes",
 			"StreetType": "Piazza",
@@ -3215,7 +3215,7 @@
 				"latitude": 46.0574869
 			},
 			"city": "Trento",
-			"housenumber": "28",
+			"HouseNumber": "28",
 			"PostalCode": "38122",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -3228,7 +3228,7 @@
 				"latitude": 46.1591725
 			},
 			"city": "Pinzolo",
-			"housenumber": "2",
+			"HouseNumber": "2",
 			"PostalCode": "38086",
 			"hasAtm": "yes",
 			"StreetType": "Viale",
@@ -3309,7 +3309,7 @@
 				"latitude": 46.0080389
 			},
 			"city": "Mattarello",
-			"housenumber": "22",
+			"HouseNumber": "22",
 			"PostalCode": "38123",
 			"StreetType": "Via",
 			"StreetName": "Giulio Catoni"
@@ -3344,7 +3344,7 @@
 				"latitude": 45.8907435
 			},
 			"city": "Rovereto",
-			"housenumber": "12",
+			"HouseNumber": "12",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "Antonio Stoppani"
@@ -3356,7 +3356,7 @@
 				"latitude": 45.8907649
 			},
 			"city": "Rovereto",
-			"housenumber": "14",
+			"HouseNumber": "14",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "Antonio Stoppani"
@@ -3368,7 +3368,7 @@
 				"latitude": 45.8907891
 			},
 			"city": "Rovereto",
-			"housenumber": "16",
+			"HouseNumber": "16",
 			"PostalCode": "38068",
 			"StreetType": "Via",
 			"StreetName": "Antonio Stoppani"
@@ -3380,7 +3380,7 @@
 				"latitude": 46.0686486
 			},
 			"city": "Castel Ivano",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38059",
 			"StreetType": "Via",
 			"StreetName": "Strigno"
@@ -3399,7 +3399,7 @@
 				"latitude": 46.0817092
 			},
 			"city": "Samone",
-			"housenumber": "1a",
+			"HouseNumber": "1a",
 			"PostalCode": "38059",
 			"StreetType": "Via",
 			"StreetName": "di San Rocco"
@@ -3425,7 +3425,7 @@
 				"latitude": 46.0533578
 			},
 			"city": "Borgo Valsugana",
-			"housenumber": "1",
+			"HouseNumber": "1",
 			"PostalCode": "38051",
 			"hasAtm": "yes",
 			"StreetType": "Via",
@@ -3466,7 +3466,7 @@
 				"latitude": 46.0056484
 			},
 			"city": "Calceranica al Lago",
-			"housenumber": "14",
+			"HouseNumber": "14",
 			"PostalCode": "38050",
 			"hasAtm": "yes",
 			"StreetType": "Via",

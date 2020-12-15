@@ -56,6 +56,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	data = json.load(dataset)["records"]
 
 	newDataset = {"records": []}
+	playground = {"records": []}
 
 	if "civici_web.json" in filename:
 		length = len(data)
@@ -73,8 +74,6 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	if "park.json" in filename:
 		for d_i, d in enumerate(data):
-			if "leisure" in d:
-				d.pop("leisure")
 			if "playground" in d:
 				d.pop("playground")
 			if "playground:theme" in d:
@@ -214,11 +213,15 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		if "geometry" in d:
 			d["GeoCoordinate"] = d.pop("geometry")
 			if "coordinates" in d["GeoCoordinate"]:
-				if d["GeoCoordinate"]["type"] == "Polygon" or d["GeoCoordinate"]["type"] == "MultiLineString":
+				if d["GeoCoordinate"]["type"] == "Polygon" or d["GeoCoordinate"]["type"] == "MultiLineString" or d["GeoCoordinate"]["type"] == "MultiPolygon":
 					coordinates = d["GeoCoordinate"]["coordinates"]
 					mediaX = 0
 					mediaY = 0
 					count = 0
+
+					if d["GeoCoordinate"]["type"] == "MultiPolygon":
+						coordinates = np.array(coordinates, dtype=object).ravel()
+
 					for edifici_i, edifici in enumerate(coordinates):
 						for edificio_i, edificio in enumerate(edifici):
 							# d["GeoCoordinate"]["coordinates"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
@@ -272,10 +275,24 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			d["province"] = d.pop("addr:province")
 		if "atm" in d:
 			d["hasAtm"] = d.pop("atm")
-		newDataset["records"].append(d)
+		
+		if "park.json" in filename:
+			if "leisure" in d:
+				if "park" == d["leisure"]:
+					d.pop("leisure")
+					newDataset["records"].append(d)
+				else:
+					d.pop("leisure")
+					playground["records"].append(d)
+		else:
+			newDataset["records"].append(d)
 
 	with open(OUT_FOLDER + filename, 'w+') as file:
 		ujson.dump(newDataset, file)
+
+	if "park.json" in filename:
+		with open(OUT_FOLDER + "playground.json", 'w+') as file:
+			ujson.dump(playground, file)
 
 # Metadata
 
