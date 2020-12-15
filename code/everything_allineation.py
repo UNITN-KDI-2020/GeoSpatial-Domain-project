@@ -47,6 +47,28 @@ def computeDistance(a,b):
 
 	return R * temp2
 
+def multicoordAllineation(d):
+	d["GeoShape"] = d.pop("geometry")
+	if "coordinates" in d["GeoShape"]:
+		d["GeoShape"]["GeoCoordinate"] = d["GeoShape"].pop("coordinates")
+		if d["GeoShape"]["type"] == "Polygon" or d["GeoShape"]["type"] == "MultiLineString":
+			d["GeoShape"]["type"] = "Polygon"
+			coordinates = d["GeoShape"]["GeoCoordinate"]
+			if d["GeoShape"]["type"] == "MultiPolygon":
+				coordinates = np.array(coordinates, dtype=object).ravel()
+			for edifici_i, edifici in enumerate(coordinates):
+				for edificio_i, edificio in enumerate(edifici):
+					d["GeoShape"]["GeoCoordinate"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
+		elif d["GeoShape"]["type"] == "LineString" or d["GeoShape"]["type"] == "Line":
+			d["GeoShape"]["type"] = "Path"
+			coordinates = d["GeoShape"]["GeoCoordinate"]
+			for p_i, point in enumerate(coordinates):
+				d["GeoShape"]["GeoCoordinate"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
+		elif d["GeoShape"]["type"] == "Point":
+			coordinates = d["GeoShape"]["GeoCoordinate"]
+			d.pop("GeoShape")
+			d["GeoCoordinate"] = {"longitude" : coordinates[0], "latitude" : coordinates[1]}
+
 for count, filename in enumerate(listdir(IN_FOLDER)):
 	if not ".json" in filename or (ignore_existing and path.exists(OUT_FOLDER + filename)) or filename in exceptions:
 		continue
@@ -114,22 +136,7 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 		for d_i, d in enumerate(data):
 			d["GeoShape"] = d.pop("geometry")
 			if "coordinates" in d["GeoShape"]:
-				d["GeoShape"]["GeoCoordinate"] = d["GeoShape"].pop("coordinates")
-				if d["GeoShape"]["type"] == "Polygon" or d["GeoShape"]["type"] == "MultiLineString":
-					d["GeoShape"]["type"] = "Polygon"
-					coordinates = d["GeoShape"]["GeoCoordinate"]
-					for edifici_i, edifici in enumerate(coordinates):
-						for edificio_i, edificio in enumerate(edifici):
-							d["GeoShape"]["GeoCoordinate"][edifici_i][edificio_i] = { "longitude" : edificio[0], "latitude" : edificio[1] }
-				elif d["GeoShape"]["type"] == "LineString" or d["GeoShape"]["type"] == "Line":
-					d["GeoShape"]["type"] = "Path"
-					coordinates = d["GeoShape"]["GeoCoordinate"]
-					for p_i, point in enumerate(coordinates):
-						d["GeoShape"]["GeoCoordinate"][p_i] = { "longitude" : point[0], "latitude" : point[1] }
-				elif d["GeoShape"]["type"] == "Point":
-					coordinates = d["GeoShape"]["GeoCoordinate"]
-					d.pop("GeoShape")
-					d["GeoCoordinate"] = {"longitude" : coordinates[0], "latitude" : coordinates[1]}
+				multicoordAllineation(d)
 			if "piste:type" in d:
 				d["SlopeType"] = d.pop("piste:type")
 			if "piste:difficulty" in d:
@@ -217,7 +224,20 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "arrival_time" in d:
 				times = d["arrival_time"].split(":")
 				d["arrival_time"] = {"Hours": times[0], "Minutes": times[1], "Seconds": times[2]}
-				
+
+	if "roads.json" in filename:
+		for d_i, d in enumerate(data):
+			if "geometry" in d:
+				multicoordAllineation(d)
+			if "highway" in d:
+				roadType = d.pop("highway")
+				d["roadType"] = {
+					"primaryRoad": 1 if "primary" == roadType or "trunk" == roadType else 0,
+					"secondaryRoad": 1 if "secondary" == roadType else 0,
+					"tertiaryRoad": 1 if "tertiary" == roadType else 0,
+					"highwayRoad": 1 if "motorway" == roadType else 0
+				}
+			
 
 	for d_i, d in enumerate(data):
 		if "geometry" in d:
