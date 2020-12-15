@@ -4,10 +4,11 @@
 "DatasetDescription"="railways in Trentino",
 "ColumnNames"={
     "name"="name",
+    "id"="id",
     "GeoShape"="GeoShape"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="2"
+"NumberItems"="3"
 
