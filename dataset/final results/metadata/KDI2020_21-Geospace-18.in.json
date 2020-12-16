@@ -1,0 +1,15 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-18.in",
+"DatasetDescription"="bike path in Trento",
+"ColumnNames"={
+    "reservedForBike"="reservedForBike",
+    "totalLength"="totalLength",
+    "GeoShape"="GeoShape",
+    "name"="name"
+},
+"SourceDatasetURL"="",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="4"
+

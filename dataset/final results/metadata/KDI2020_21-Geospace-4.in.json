@@ -1,0 +1,15 @@
+  
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-4.in",
+"DatasetDescription"="bikesharing stations in Trento",
+"ColumnNames"={
+    "name"="name",
+    "rackSlot"="rackSlot",
+    "latitude"="latitude",
+    "longitude"="longitude"
+},
+"SourceDatasetURL"="https://dati.trentino.it/dataset/stazioni-bike-sharing-emotion-trentino",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="4"

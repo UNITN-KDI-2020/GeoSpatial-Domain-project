@@ -1,0 +1,62 @@
+{
+    "source": "https://dati.trentino.it/dataset/stazioni-bike-sharing-emotion-trentino",
+    "format": "json",
+    "timestamp": "2020-10-18",
+    "Dataset ID": "p_TN:9b9c14d6-ee20-4802-a274-4c17ac96cdd5",
+    "Altro identificativo": "N/A",
+    "Temi del dataset": {
+        "Trasporti": [
+            "4816 trasporti terrestri",
+            "4806 politica dei trasporti"
+        ],
+        "Energia": [
+            "6626 energia dolce",
+            "6606 politica energetica"
+        ]
+    },
+    "Dataset publisher": {
+        "Nome": "Servizio Trasporti pubblici",
+        "Codice IPA/IVA": "0OK0PZ"
+    },
+    "Release date": "18-11-2014",
+    "Modification date": "03-07-2017",
+    "Geographical Coverage": "Comune di Trento",
+    "GeoNames URI": "http://www.geonames.org/3165241",
+    "Dataset language": "italiano",
+    "Temporal estension": "N/A",
+    "Holder": {
+        "Nome": "Provincia Autonoma di Trento",
+        "Codice IPA/IVA": "p_TN"
+    },
+    "Upload frequency": "continuous",
+    "DatasetName": "KDI2020_21-Geospace-4.in",     
+    "fields": {
+        "name": {
+            "type": "string",
+            "description": "name of the facility",
+            "data_definition": "core"
+        },
+        "rackSlot": {
+            "type": "int",
+            "description": "total number of slot bikes",
+            "data_definition": "Core"
+        },             
+        "GeoCoordinate": {
+            "type": "GeoCoordinate",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "latitude": {
+                    "type": "double",
+                    "description": "latitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                },
+                "longitude": {
+                    "type": "double",
+                    "description": "longitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        }
+    }
+}

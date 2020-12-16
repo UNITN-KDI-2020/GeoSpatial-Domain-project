@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "source": "www.openstreetmap.org",
+    "copyright": "ODbL",
+    "timestamp": "2020-11-15T17:12:02Z",
+    "update_frequency": "no update",
+    "Geographical Coverage": "Provincia di Trento",
+    "DatasetName":"KDI2020_21-Geospace-10.in",
+    "format": "json",
+    "fields": {
+        "name": {
+            "type": "string",
+            "description": "name of the facility",
+            "data_definition": "core"
+        },      
+        "GeoCoordinate": {
+            "type": "GeoCoordinate",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "latitude": {
+                    "type": "double",
+                    "description": "latitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                },
+                "longitude": {
+                    "type": "double",
+                    "description": "longitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        }
+    }
+}

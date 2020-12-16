@@ -1,0 +1,13 @@
+"creator"="GeoSpatial-Domain-project",
+"CreationDate"="10-10-2020",
+"DatasetName"="KDI2020_21-Geospace-12.in",
+"DatasetDescription"="libraries in Trentino",
+"ColumnNames"={
+    "name"="name",
+    "latitude"="latitude",
+    "longitude"="longitude"
+},
+"SourceDatasetURL"="https://dati.trentino.it/",
+"SKG" = "KDI2020_21-Geospace.skg",
+"DKG"= "KDI2020_21-Geospace.dkg",
+"NumberItems"="8"
