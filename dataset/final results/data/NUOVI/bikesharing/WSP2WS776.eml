@@ -1,0 +1,834 @@
+[
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.020309774135626"],
+                    "46270": ["45.87202945143379"]
+                },
+                "type": 120051
+            }],
+            "2": ["Orvea"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.04421812261512"],
+                    "46270": ["45.88700893072052"]
+                },
+                "type": 120051
+            }],
+            "2": ["Municipio"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.127350324192488"],
+                    "46270": ["46.20661229117257"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione TN-MalÃ¨ - RFI"],
+            "120077": ["18"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.11867249384243"],
+                    "46270": ["46.21425992031754"]
+                },
+                "type": 120051
+            }],
+            "2": ["Borgata - Trento-MalÃ¨"],
+            "120077": ["11"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.126987115869156"],
+                    "46270": ["46.06753791402558"]
+                },
+                "type": 120051
+            }],
+            "2": ["Piazza Venezia"],
+            "120077": ["24"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.121911281089751"],
+                    "46270": ["46.072996732945235"]
+                },
+                "type": 120051
+            }],
+            "2": ["Vannetti"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.119624973661725"],
+                    "46270": ["46.083939246923265"]
+                },
+                "type": 120051
+            }],
+            "2": ["Ex Atesina - Lidl"],
+            "120077": ["9"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.118583717279193"],
+                    "46270": ["46.09010372321067"]
+                },
+                "type": 120051
+            }],
+            "2": ["Top Center"],
+            "120077": ["24"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.033651829062546"],
+                    "46270": ["45.88445275840435"]
+                },
+                "type": 120051
+            }],
+            "2": ["Piscina"],
+            "120077": ["10"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.13094278895494"],
+                    "46270": ["46.05627509524844"]
+                },
+                "type": 120051
+            }],
+            "2": ["Piscina"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.127080654939277"],
+                    "46270": ["46.01983619754026"]
+                },
+                "type": 120051
+            }],
+            "2": ["Aeroporto"],
+            "120077": ["8"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.043776690807363"],
+                    "46270": ["45.89383120606002"]
+                },
+                "type": 120051
+            }],
+            "2": ["Mart"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.094517706968276"],
+                    "46270": ["46.21245958241063"]
+                },
+                "type": 120051
+            }],
+            "2": ["Ospedale San Giovanni"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.043363036887968"],
+                    "46270": ["45.89102037579931"]
+                },
+                "type": 120051
+            }],
+            "2": ["P. Rosmini"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.031688259394059"],
+                    "46270": ["45.91594639958107"]
+                },
+                "type": 120051
+            }],
+            "2": ["Villa Lagarina"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.02875"],
+                    "46270": ["45.8805278"]
+                },
+                "type": 120051
+            }],
+            "2": ["Baldresca"],
+            "120077": ["0"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.119203004368615"],
+                    "46270": ["46.063653753791996"]
+                },
+                "type": 120051
+            }],
+            "2": ["Cimitero"],
+            "120077": ["10"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.126252122229062"],
+                    "46270": ["46.03316279422745"]
+                },
+                "type": 120051
+            }],
+            "2": ["Lidorno"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.109941605738777"],
+                    "46270": ["46.07516784166884"]
+                },
+                "type": 120051
+            }],
+            "2": ["Zuffo 1 - bike park"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.119315767528406"],
+                    "46270": ["46.058020904033015"]
+                },
+                "type": 120051
+            }],
+            "2": ["Bezzi"],
+            "120077": ["9"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.135137084143805"],
+                    "46270": ["46.19131219731996"]
+                },
+                "type": 120051
+            }],
+            "2": ["Mach"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.135349258821861"],
+                    "46270": ["46.054586705531555"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione FFSS - Ospedale"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.001933217048647"],
+                    "46270": ["45.861171706692836"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione Mori"],
+            "120077": ["11"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.125761136176266"],
+                    "46270": ["46.071784324082046"]
+                },
+                "type": 120051
+            }],
+            "2": ["Piazza della Mostra"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.093116402922714"],
+                    "46270": ["46.21346390439162"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione TN-MALE'"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.008448922615116"],
+                    "46270": ["45.84133938920707"]
+                },
+                "type": 120051
+            }],
+            "2": ["Marco"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.106639504499894"],
+                    "46270": ["46.15356728074421"]
+                },
+                "type": 120051
+            }],
+            "2": ["Pressano"],
+            "120077": ["7"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.109325880468887"],
+                    "46270": ["46.07508100896583"]
+                },
+                "type": 120051
+            }],
+            "2": ["Zuffo 2 via dos Trento"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.133782863353856"],
+                    "46270": ["46.192586343220725"]
+                },
+                "type": 120051
+            }],
+            "2": ["Municipio"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.119849430688419"],
+                    "46270": ["46.07023563810641"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione Autocorriere"],
+            "120077": ["21"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.096854210493252"],
+                    "46270": ["46.14811056416327"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione RFI"],
+            "120077": ["10"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.120071411726162"],
+                    "46270": ["46.21604742113538"]
+                },
+                "type": 120051
+            }],
+            "2": ["Cavalleggeri"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.03036572611154"],
+                    "46270": ["45.896175282432274"]
+                },
+                "type": 120051
+            }],
+            "2": ["Balista"],
+            "120077": ["9"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.039904616532908"],
+                    "46270": ["45.89177380040726"]
+                },
+                "type": 120051
+            }],
+            "2": ["Via Paoli"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.023286167216156"],
+                    "46270": ["45.88477528345004"]
+                },
+                "type": 120051
+            }],
+            "2": ["Sacco"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.117693389024225"],
+                    "46270": ["46.094653868146885"]
+                },
+                "type": 120051
+            }],
+            "2": ["Bren Center"],
+            "120077": ["18"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.12804971230321"],
+                    "46270": ["46.044433415996814"]
+                },
+                "type": 120051
+            }],
+            "2": ["Azienda Sanitaria"],
+            "120077": ["18"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.121399842327946"],
+                    "46270": ["46.07043395910254"]
+                },
+                "type": 120051
+            }],
+            "2": ["Biblioteca"],
+            "120077": ["24"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.015673193887324"],
+                    "46270": ["45.86630335827336"]
+                },
+                "type": 120051
+            }],
+            "2": ["Zona Industriale"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.031902417860465"],
+                    "46270": ["45.8675281353871"]
+                },
+                "type": 120051
+            }],
+            "2": ["Lizzana"],
+            "120077": ["9"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.070399481792492"],
+                    "46270": ["45.88365364364294"]
+                },
+                "type": 120051
+            }],
+            "2": ["Noriglio"],
+            "120077": ["8"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.119020308598351"],
+                    "46270": ["46.06632943181332"]
+                },
+                "type": 120051
+            }],
+            "2": ["UniversitÃ "],
+            "120077": ["18"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.036815184130887"],
+                    "46270": ["45.90050916437712"]
+                },
+                "type": 120051
+            }],
+            "2": ["Quercia"],
+            "120077": ["5"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.03489086508182"],
+                    "46270": ["45.89125332494616"]
+                },
+                "type": 120051
+            }],
+            "2": ["Stazione FF.SS."],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.044299836454002"],
+                    "46270": ["45.90421911950808"]
+                },
+                "type": 120051
+            }],
+            "2": ["Brione"],
+            "120077": ["6"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.040281016146878"],
+                    "46270": ["45.88226500641319"]
+                },
+                "type": 120051
+            }],
+            "2": ["Ospedale"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.116027144580812"],
+                    "46270": ["46.06137765005302"]
+                },
+                "type": 120051
+            }],
+            "2": ["Muse"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.087624429371784"],
+                    "46270": ["46.21610309842586"]
+                },
+                "type": 120051
+            }],
+            "2": ["Fiera"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.12375366752849"],
+                    "46270": ["46.06345393738132"]
+                },
+                "type": 120051
+            }],
+            "2": ["Centro Santa Chiara"],
+            "120077": ["18"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.12382177686004"],
+                    "46270": ["46.07538723420181"]
+                },
+                "type": 120051
+            }],
+            "2": ["Piazza di Centa"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.112932473016372"],
+                    "46270": ["46.10407094472173"]
+                },
+                "type": 120051
+            }],
+            "2": ["Gardolo"],
+            "120077": ["12"]
+        },
+        "type": 120042
+    },
+    {
+        "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+        "attributes": {
+            "31970": [{
+                "provenance": "StarLinker import @Tue Dec 15 20:49:39 GMT 2020",
+                "attributes": {
+                    "46263": ["11.111428140771086"],
+                    "46270": ["46.13979665068481"]
+                },
+                "type": 120051
+            }],
+            "2": ["Grazioli"],
+            "120077": ["10"]
+        },
+        "type": 120042
+    }
+]
