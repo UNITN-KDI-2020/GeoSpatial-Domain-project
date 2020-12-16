@@ -6,15 +6,10 @@
     "name"="name",
     "opening_hours"="openingHours",
     "latitude"="latitude",
-    "longitude"="longitude",
-    "city"="City",
-    "housenumber"="HouseNumber",
-    "postal_code"="Postal Code",
-    "StreetName"="StreetName"
-    "StreetType"="StreetType"
+    "longitude"="longitude"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace",
 "DKG"= "KDI2020_21-Geospace",
-"NumberItems"="9"
+"NumberItems"="4"
 

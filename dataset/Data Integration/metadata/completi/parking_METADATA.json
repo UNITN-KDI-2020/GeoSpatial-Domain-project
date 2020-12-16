@@ -9,6 +9,11 @@
     "DatasetName": "KDI2020_21-Geospace-15.in",    
     "format": "json",
     "fields": {
+        "name": {
+            "type": "string",
+            "description": "name of the facility",
+            "data_definition": "core"
+        },  
         "fee": {
             "type": "boolean",
             "description": "The fee tag is for specifying whether a fee is usually charged for a service, or for access.",
@@ -18,32 +23,7 @@
             "type": "int",
             "description": "max capacity of the parking lot",
             "data_definition": "core"
-        },
-        "city": {
-            "type": "string",
-            "description": "the city component of the address",
-            "data_definition": "common"
-        },
-        "housenumber": {
-            "type": "string",
-            "description": "the house number component of the address",
-            "data_definition": "common"
-        },
-        "PostalCode": {
-            "type": "string",
-            "description": "the postcode component of the address",
-            "data_definition": "common"
-        },
-        "StreetName": {
-            "type": "string",
-            "description": "the street component of the address",
-            "data_definition": "common"
-        },
-        "StreetType": {
-            "type": "string",
-            "description": "tyoe of street (street, place, etc)",
-            "data_definition": "common"
-        },        
+        },     
         "GeoCoordinate": {
             "type": "GeoCoordinate",
             "description": "object containing location information",

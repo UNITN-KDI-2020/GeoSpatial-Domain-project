@@ -1,0 +1,142 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno anziani Povo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06583"],
+                    "46270": ["11.159524"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno e centro servizi anziani Povo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06583"],
+                    "46270": ["11.159524"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno e centro servizi anziani \"Sempreverde\" - Mattarello"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.005492"],
+                    "46270": ["11.128143"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro Anziani"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["45.991744"],
+                    "46270": ["11.262162"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno e centro servizi anziani \"Filo Filò\" -  Ravina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.038407"],
+                    "46270": ["11.107446"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno e centro servizi per anziani Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.109412"],
+                    "46270": ["11.110889"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {"2": ["Anziani"]},
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro servizi anziani \"Contrada Larga\" -  via Belenzani"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.067971"],
+                    "46270": ["11.121536"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro diurno e centro servizi anziani \"Il Girasole\" - Clarina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.053503"],
+                    "46270": ["11.124525"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+        "attributes": {
+            "2": ["Centro Diurno per Anziani"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:09:58 GMT 2020",
+                "attributes": {
+                    "46263": ["46.143827"],
+                    "46270": ["11.194938"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120043
+    }
+]

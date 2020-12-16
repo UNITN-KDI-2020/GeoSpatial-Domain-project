@@ -1,0 +1,1378 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epli46p9x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "areaski.json" ;
+	km-dev:modelPublicationTime "1608115165993"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"nested array\"},{\"columnName\":\"nested array\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"redSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"nested array\"},{\"columnName\":\"nested array\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"blueSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"adultPrice\"},{\"columnName\":\"values\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"numberLifts\"}],[{\"columnName\":\"records\"},{\"columnName\":\"blackSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"totalLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"youngPrice\"},{\"columnName\":\"values\"}],[{\"columnName\":\"records\"},{\"columnName\":\"kidPrice\"},{\"columnName\":\"values\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"nested array\"},{\"columnName\":\"nested array\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"redSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoShape\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"nested array\"},{\"columnName\":\"nested array\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"blueSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"adultPrice\"},{\"columnName\":\"values\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"numberLifts\"}],[{\"columnName\":\"records\"},{\"columnName\":\"blackSlopeLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"totalLenght\"}],[{\"columnName\":\"records\"},{\"columnName\":\"youngPrice\"},{\"columnName\":\"values\"}],[{\"columnName\":\"records\"},{\"columnName\":\"kidPrice\"},{\"columnName\":\"values\"}]]" ;
+	km-dev:hasModelLabel "areaski.json" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"longitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"latitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"totalLenght\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_total_length_GID-120125_Type-120049\",
+                    \"DomainLabel\": \"etype:Ski_area_GID-1180651 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"totalLenght\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"totalLenght\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"adultPrice\"},
+                    {\"columnName\": \"values\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_adult_price_GID-120110_Type-118065\",
+                    \"DomainLabel\": \"etype:Ski_area_GID-1180651\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"adultPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"adultPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"youngPrice\"},
+                    {\"columnName\": \"values\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_young_price_GID-120109_Type-118065\",
+                    \"DomainLabel\": \"etype:Ski_area_GID-1180651\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"youngPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"youngPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"kidPrice\"},
+                    {\"columnName\": \"values\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_kid_price_GID-120111_Type-118065\",
+                    \"DomainLabel\": \"etype:Ski_area_GID-1180651\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"kidPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"kidPrice\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"blueSlopeLenght\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-120053\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_blue_slopes_length_GID-120118_Type-120053\",
+                    \"DomainLabel\": \"etype:Slopes_statistics_GID-1200531 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"blueSlopeLenght\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"blueSlopeLenght\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"redSlopeLenght\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-120053\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_red_slopes_length_GID-120119_Type-120053\",
+                    \"DomainLabel\": \"etype:Slopes_statistics_GID-1200531\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"redSlopeLenght\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"redSlopeLenght\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"blackSlopeLenght\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-120053\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_black_slopes_length_GID-120120_Type-120053\",
+                    \"DomainLabel\": \"etype:Slopes_statistics_GID-1200531\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"blackSlopeLenght\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"blackSlopeLenght\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"numberLifts\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-120053\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_number_ski_tow_GID-120121_Type-120053\",
+                    \"DomainLabel\": \"etype:Slopes_statistics_GID-1200531\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"numberLifts\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"numberLifts\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoShape\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"nested array\"},
+                    {\"columnName\": \"nested array\"},
+                    {\"columnName\": \"longitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200512\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200512 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoShape\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"nested array\"},
+                    {\"columnName\": \"nested array\"},
+                    {\"columnName\": \"latitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200512\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200512\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoShape\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"name\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132\",
+                    \"DomainLabel\": \"etype:Ski_area_GID-1180651\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_slopes_statistics_GID-120053_Type-118065\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-120053\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Polygon_GID-737131\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_area_GID-45835_Type-118065\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Polygon_GID-73713\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200512\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_point_GID-31970_Type-120050\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Polygon_GID-737131\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Polygon_GID-73713\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_point_GID-31970_Type-120050\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Ski_area_GID-118065\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 a rr:TriplesMap .
+
+_:node1epli46p9x1 km-dev:hasTriplesMap km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 .
+
+km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x2 rr:tableName "areaski.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasLogicalTable _:node1epli46p9x2 .
+
+km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 rr:logicalTable _:node1epli46p9x2 ;
+	rr:subjectMap _:node1epli46p9x3 .
+
+_:node1epli46p9x1 km-dev:hasSubjectMap _:node1epli46p9x3 .
+
+_:node1epli46p9x3 km-dev:isPartOfMapping _:node1epli46p9x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Polygon_GID-737131" ;
+	rr:class etype:Polygon_GID-73713 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Polygon_GID-737131" .
+
+km-dev:PredicateObjectMap_28c5636c-a759-4069-9d22-b6e56abd1ac2 rr:predicate etype:has_point_GID-31970_Type-120050 .
+
+km-dev:RefObjectMap_ced053a5-3762-4999-a8b2-7d8066be6cd7 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap km-dev:RefObjectMap_ced053a5-3762-4999-a8b2-7d8066be6cd7 .
+
+km-dev:PredicateObjectMap_28c5636c-a759-4069-9d22-b6e56abd1ac2 rr:objectMap km-dev:RefObjectMap_ced053a5-3762-4999-a8b2-7d8066be6cd7 .
+
+km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 rr:predicateObjectMap km-dev:PredicateObjectMap_28c5636c-a759-4069-9d22-b6e56abd1ac2 .
+
+km-dev:PredicateObjectMap_28c5636c-a759-4069-9d22-b6e56abd1ac2 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_28c5636c-a759-4069-9d22-b6e56abd1ac2 .
+
+km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 a rr:TriplesMap .
+
+_:node1epli46p9x1 km-dev:hasTriplesMap km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 .
+
+km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x4 rr:tableName "areaski.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasLogicalTable _:node1epli46p9x4 .
+
+km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 rr:logicalTable _:node1epli46p9x4 ;
+	rr:subjectMap _:node1epli46p9x5 .
+
+_:node1epli46p9x1 km-dev:hasSubjectMap _:node1epli46p9x5 .
+
+_:node1epli46p9x5 km-dev:isPartOfMapping _:node1epli46p9x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200512" ;
+	rr:class etype:Geocoordinate_GID-120051 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Geocoordinate_GID-1200512" .
+
+km-dev:PredicateObjectMap_5ed08394-1ee9-4e03-9a01-f9cb4d8f893b rr:predicate etype:has_longitude_GID-46270_Type-120051 .
+
+_:node1epli46p9x6 rr:column "[\"records\",\"GeoShape\",\"GeoCoordinate\",\"nested array\",\"nested array\",\"longitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x6 .
+
+km-dev:PredicateObjectMap_5ed08394-1ee9-4e03-9a01-f9cb4d8f893b rr:objectMap _:node1epli46p9x6 .
+
+km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 rr:predicateObjectMap km-dev:PredicateObjectMap_5ed08394-1ee9-4e03-9a01-f9cb4d8f893b .
+
+km-dev:PredicateObjectMap_5ed08394-1ee9-4e03-9a01-f9cb4d8f893b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5ed08394-1ee9-4e03-9a01-f9cb4d8f893b .
+
+km-dev:PredicateObjectMap_382a4e9f-c693-4457-b476-d08c7a6647f1 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
+
+_:node1epli46p9x7 rr:column "[\"records\",\"GeoShape\",\"GeoCoordinate\",\"nested array\",\"nested array\",\"latitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x7 .
+
+km-dev:PredicateObjectMap_382a4e9f-c693-4457-b476-d08c7a6647f1 rr:objectMap _:node1epli46p9x7 .
+
+km-dev:TriplesMap_520c67b7-ba65-4e9a-8d78-666eb50c4470 rr:predicateObjectMap km-dev:PredicateObjectMap_382a4e9f-c693-4457-b476-d08c7a6647f1 .
+
+km-dev:PredicateObjectMap_382a4e9f-c693-4457-b476-d08c7a6647f1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_382a4e9f-c693-4457-b476-d08c7a6647f1 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 a rr:TriplesMap .
+
+_:node1epli46p9x1 km-dev:hasTriplesMap km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x8 rr:tableName "areaski.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasLogicalTable _:node1epli46p9x8 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:logicalTable _:node1epli46p9x8 ;
+	rr:subjectMap _:node1epli46p9x9 .
+
+_:node1epli46p9x1 km-dev:hasSubjectMap _:node1epli46p9x9 .
+
+_:node1epli46p9x9 km-dev:isPartOfMapping _:node1epli46p9x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Ski_area_GID-1180651" ;
+	rr:class etype:Ski_area_GID-118065 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Ski_area_GID-1180651" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_87bed6bb-2fc0-48b6-b0a4-882691e6f5c9 rr:predicate etype:has_point_GID-31970_Type-120050 .
+
+km-dev:RefObjectMap_ca59f16a-d083-42bf-a599-dc725a4a032d a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap km-dev:RefObjectMap_ca59f16a-d083-42bf-a599-dc725a4a032d .
+
+km-dev:PredicateObjectMap_87bed6bb-2fc0-48b6-b0a4-882691e6f5c9 rr:objectMap km-dev:RefObjectMap_ca59f16a-d083-42bf-a599-dc725a4a032d .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_87bed6bb-2fc0-48b6-b0a4-882691e6f5c9 .
+
+km-dev:PredicateObjectMap_87bed6bb-2fc0-48b6-b0a4-882691e6f5c9 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_87bed6bb-2fc0-48b6-b0a4-882691e6f5c9 .
+
+km-dev:PredicateObjectMap_05fc99af-2c04-489d-8f4c-1bc493bb5f92 rr:predicate etype:has_area_GID-45835_Type-118065 .
+
+km-dev:RefObjectMap_7fb6a86d-2f37-4c3e-b988-d2914e5f4fd9 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_b80e649a-107c-4196-b700-730ec3432a32 ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap km-dev:RefObjectMap_7fb6a86d-2f37-4c3e-b988-d2914e5f4fd9 .
+
+km-dev:PredicateObjectMap_05fc99af-2c04-489d-8f4c-1bc493bb5f92 rr:objectMap km-dev:RefObjectMap_7fb6a86d-2f37-4c3e-b988-d2914e5f4fd9 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_05fc99af-2c04-489d-8f4c-1bc493bb5f92 .
+
+km-dev:PredicateObjectMap_05fc99af-2c04-489d-8f4c-1bc493bb5f92 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_05fc99af-2c04-489d-8f4c-1bc493bb5f92 .
+
+km-dev:PredicateObjectMap_8c76d4b2-5a19-49aa-90af-b4404b6da156 rr:predicate etype:has_slopes_statistics_GID-120053_Type-118065 .
+
+km-dev:RefObjectMap_3d749ae9-1e9f-4c66-8a2d-886c37f36900 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap km-dev:RefObjectMap_3d749ae9-1e9f-4c66-8a2d-886c37f36900 .
+
+km-dev:PredicateObjectMap_8c76d4b2-5a19-49aa-90af-b4404b6da156 rr:objectMap km-dev:RefObjectMap_3d749ae9-1e9f-4c66-8a2d-886c37f36900 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_8c76d4b2-5a19-49aa-90af-b4404b6da156 .
+
+km-dev:PredicateObjectMap_8c76d4b2-5a19-49aa-90af-b4404b6da156 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8c76d4b2-5a19-49aa-90af-b4404b6da156 .
+
+km-dev:PredicateObjectMap_a9faedc9-6be9-48a5-926d-2327a15a6415 rr:predicate etype:has_adult_price_GID-120110_Type-118065 .
+
+_:node1epli46p9x10 rr:column "[\"records\",\"adultPrice\",\"values\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x10 .
+
+km-dev:PredicateObjectMap_a9faedc9-6be9-48a5-926d-2327a15a6415 rr:objectMap _:node1epli46p9x10 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_a9faedc9-6be9-48a5-926d-2327a15a6415 .
+
+km-dev:PredicateObjectMap_a9faedc9-6be9-48a5-926d-2327a15a6415 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a9faedc9-6be9-48a5-926d-2327a15a6415 .
+
+km-dev:PredicateObjectMap_87aa052c-17df-4977-89d2-2441022dce46 rr:predicate etype:has_name_GID-2_Type-132 .
+
+_:node1epli46p9x11 rr:column "[\"records\",\"name\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x11 .
+
+km-dev:PredicateObjectMap_87aa052c-17df-4977-89d2-2441022dce46 rr:objectMap _:node1epli46p9x11 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_87aa052c-17df-4977-89d2-2441022dce46 .
+
+km-dev:PredicateObjectMap_87aa052c-17df-4977-89d2-2441022dce46 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_87aa052c-17df-4977-89d2-2441022dce46 .
+
+km-dev:PredicateObjectMap_d0a6aebf-49e1-4ae8-a1f9-446ff38b12ce rr:predicate etype:has_total_length_GID-120125_Type-120049 .
+
+_:node1epli46p9x12 rr:column "[\"records\",\"totalLenght\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x12 .
+
+km-dev:PredicateObjectMap_d0a6aebf-49e1-4ae8-a1f9-446ff38b12ce rr:objectMap _:node1epli46p9x12 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_d0a6aebf-49e1-4ae8-a1f9-446ff38b12ce .
+
+km-dev:PredicateObjectMap_d0a6aebf-49e1-4ae8-a1f9-446ff38b12ce a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d0a6aebf-49e1-4ae8-a1f9-446ff38b12ce .
+
+km-dev:PredicateObjectMap_c35fe7f3-dc2c-4a8d-946d-f526065e62d3 rr:predicate etype:has_young_price_GID-120109_Type-118065 .
+
+_:node1epli46p9x13 rr:column "[\"records\",\"youngPrice\",\"values\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x13 .
+
+km-dev:PredicateObjectMap_c35fe7f3-dc2c-4a8d-946d-f526065e62d3 rr:objectMap _:node1epli46p9x13 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_c35fe7f3-dc2c-4a8d-946d-f526065e62d3 .
+
+km-dev:PredicateObjectMap_c35fe7f3-dc2c-4a8d-946d-f526065e62d3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c35fe7f3-dc2c-4a8d-946d-f526065e62d3 .
+
+km-dev:PredicateObjectMap_b70d9a20-e671-480e-b542-60f79d743bbf rr:predicate etype:has_kid_price_GID-120111_Type-118065 .
+
+_:node1epli46p9x14 rr:column "[\"records\",\"kidPrice\",\"values\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x14 .
+
+km-dev:PredicateObjectMap_b70d9a20-e671-480e-b542-60f79d743bbf rr:objectMap _:node1epli46p9x14 .
+
+km-dev:TriplesMap_59a834f9-e17a-4756-b296-aeb590324e27 rr:predicateObjectMap km-dev:PredicateObjectMap_b70d9a20-e671-480e-b542-60f79d743bbf .
+
+km-dev:PredicateObjectMap_b70d9a20-e671-480e-b542-60f79d743bbf a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b70d9a20-e671-480e-b542-60f79d743bbf .
+
+km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 a rr:TriplesMap .
+
+_:node1epli46p9x1 km-dev:hasTriplesMap km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 .
+
+km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x15 rr:tableName "areaski.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasLogicalTable _:node1epli46p9x15 .
+
+km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 rr:logicalTable _:node1epli46p9x15 ;
+	rr:subjectMap _:node1epli46p9x16 .
+
+_:node1epli46p9x1 km-dev:hasSubjectMap _:node1epli46p9x16 .
+
+_:node1epli46p9x16 km-dev:isPartOfMapping _:node1epli46p9x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
+	rr:class etype:Geocoordinate_GID-120051 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
+
+km-dev:PredicateObjectMap_4f741b24-7735-43c8-9a83-4fa57b433b4d rr:predicate etype:has_latitude_GID-46263_Type-120051 .
+
+_:node1epli46p9x17 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x17 .
+
+km-dev:PredicateObjectMap_4f741b24-7735-43c8-9a83-4fa57b433b4d rr:objectMap _:node1epli46p9x17 .
+
+km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 rr:predicateObjectMap km-dev:PredicateObjectMap_4f741b24-7735-43c8-9a83-4fa57b433b4d .
+
+km-dev:PredicateObjectMap_4f741b24-7735-43c8-9a83-4fa57b433b4d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_4f741b24-7735-43c8-9a83-4fa57b433b4d .
+
+km-dev:PredicateObjectMap_444c9c34-b50f-49f8-a98a-1141a5291a3f rr:predicate etype:has_longitude_GID-46270_Type-120051 .
+
+_:node1epli46p9x18 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x18 .
+
+km-dev:PredicateObjectMap_444c9c34-b50f-49f8-a98a-1141a5291a3f rr:objectMap _:node1epli46p9x18 .
+
+km-dev:TriplesMap_ac5961d9-bec9-41a4-aca7-c1c2c05a0232 rr:predicateObjectMap km-dev:PredicateObjectMap_444c9c34-b50f-49f8-a98a-1141a5291a3f .
+
+km-dev:PredicateObjectMap_444c9c34-b50f-49f8-a98a-1141a5291a3f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_444c9c34-b50f-49f8-a98a-1141a5291a3f .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 a rr:TriplesMap .
+
+_:node1epli46p9x1 km-dev:hasTriplesMap km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x19 rr:tableName "areaski.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasLogicalTable _:node1epli46p9x19 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 rr:logicalTable _:node1epli46p9x19 ;
+	rr:subjectMap _:node1epli46p9x20 .
+
+_:node1epli46p9x1 km-dev:hasSubjectMap _:node1epli46p9x20 .
+
+_:node1epli46p9x20 km-dev:isPartOfMapping _:node1epli46p9x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Slopes_statistics_GID-1200531" ;
+	rr:class etype:Slopes_statistics_GID-120053 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Slopes_statistics_GID-1200531" .
+
+km-dev:PredicateObjectMap_b2829e9f-a856-4571-9e4d-7ab0c803b5f1 rr:predicate etype:has_red_slopes_length_GID-120119_Type-120053 .
+
+_:node1epli46p9x21 rr:column "[\"records\",\"redSlopeLenght\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x21 .
+
+km-dev:PredicateObjectMap_b2829e9f-a856-4571-9e4d-7ab0c803b5f1 rr:objectMap _:node1epli46p9x21 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 rr:predicateObjectMap km-dev:PredicateObjectMap_b2829e9f-a856-4571-9e4d-7ab0c803b5f1 .
+
+km-dev:PredicateObjectMap_b2829e9f-a856-4571-9e4d-7ab0c803b5f1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b2829e9f-a856-4571-9e4d-7ab0c803b5f1 .
+
+km-dev:PredicateObjectMap_b78d8b31-053d-4385-9201-0f5a3f5847e9 rr:predicate etype:has_blue_slopes_length_GID-120118_Type-120053 .
+
+_:node1epli46p9x22 rr:column "[\"records\",\"blueSlopeLenght\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x22 .
+
+km-dev:PredicateObjectMap_b78d8b31-053d-4385-9201-0f5a3f5847e9 rr:objectMap _:node1epli46p9x22 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 rr:predicateObjectMap km-dev:PredicateObjectMap_b78d8b31-053d-4385-9201-0f5a3f5847e9 .
+
+km-dev:PredicateObjectMap_b78d8b31-053d-4385-9201-0f5a3f5847e9 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b78d8b31-053d-4385-9201-0f5a3f5847e9 .
+
+km-dev:PredicateObjectMap_dd45039b-e7bf-43e5-a3e9-4dd37cf29b7b rr:predicate etype:has_number_ski_tow_GID-120121_Type-120053 .
+
+_:node1epli46p9x23 rr:column "[\"records\",\"numberLifts\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x23 .
+
+km-dev:PredicateObjectMap_dd45039b-e7bf-43e5-a3e9-4dd37cf29b7b rr:objectMap _:node1epli46p9x23 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 rr:predicateObjectMap km-dev:PredicateObjectMap_dd45039b-e7bf-43e5-a3e9-4dd37cf29b7b .
+
+km-dev:PredicateObjectMap_dd45039b-e7bf-43e5-a3e9-4dd37cf29b7b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_dd45039b-e7bf-43e5-a3e9-4dd37cf29b7b .
+
+km-dev:PredicateObjectMap_9d32a515-35e2-4bd7-bdba-b82a0203255a rr:predicate etype:has_black_slopes_length_GID-120120_Type-120053 .
+
+_:node1epli46p9x24 rr:column "[\"records\",\"blackSlopeLenght\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasObjectMap _:node1epli46p9x24 .
+
+km-dev:PredicateObjectMap_9d32a515-35e2-4bd7-bdba-b82a0203255a rr:objectMap _:node1epli46p9x24 .
+
+km-dev:TriplesMap_e8fe722a-7bac-4d8d-99fe-6d1ddbcd1124 rr:predicateObjectMap km-dev:PredicateObjectMap_9d32a515-35e2-4bd7-bdba-b82a0203255a .
+
+km-dev:PredicateObjectMap_9d32a515-35e2-4bd7-bdba-b82a0203255a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epli46p9x1 .
+
+_:node1epli46p9x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9d32a515-35e2-4bd7-bdba-b82a0203255a .

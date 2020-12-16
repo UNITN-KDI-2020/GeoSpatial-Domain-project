@@ -1,0 +1,576 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ex Villa Rosa"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0746505"],
+                    "46270": ["11.2197156"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["46.0411524923077"],
+            "46270": ["10.724484369230767"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2747699"],
+                    "46270": ["11.0490774"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["45.89567996363636"],
+            "46270": ["10.720911081818182"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["APSS Poliambulatorio di Levico Terme"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0095327"],
+                    "46270": ["11.3041043"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["A.S.L."],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.062850600000004"],
+                    "46270": ["11.24475608888889"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale Santa Maria del Carmine"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.882092951851845"],
+                    "46270": ["11.041515133333329"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Pronto Soccorso Ospedale di Fiemme"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2883679"],
+                    "46270": ["11.4558986"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["APSS Banca del Sangue"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.061730314285704"],
+                    "46270": ["11.127130171428574"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Pronto Soccorso Ospedale Santa Maria del Carmine"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8811734"],
+                    "46270": ["11.0401616"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["APSS Villa Igea"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06177764347826"],
+                    "46270": ["11.128170082608694"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ambulatori"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.14197422"],
+                    "46270": ["11.1069046"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Pronto Soccorso Ospedale \"San Lorenzo\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0568308"],
+                    "46270": ["11.4632511"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["45.91933168529412"],
+            "46270": ["10.87041428235294"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Medico di base"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3215842"],
+                    "46270": ["11.0952361"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Centro di Protonterapia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.049334170588224"],
+                    "46270": ["11.115358305882353"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Centro di Riabilitazione Villa San Pietro"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.915518675"],
+                    "46270": ["10.8903618125"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale San Lorenzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05696116242039"],
+                    "46270": ["11.46396825414012"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.057186"],
+                    "46270": ["11.1317864"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8511471"],
+                    "46270": ["10.9813247"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Poliambulatorio comunale - Medici Generici - Pediatri - Sede temporanea presso foresteria Ice Rink PinÃ©"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.126114"],
+                    "46270": ["11.2527548"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Regina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.91688508947368"],
+                    "46270": ["10.887599189473685"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale Valli del Noce"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.361310757692316"],
+                    "46270": ["11.032800792307693"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Casa di cura Eremo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.91939521818181"],
+                    "46270": ["10.870330872727273"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["46.04182201333333"],
+            "46270": ["10.7243221"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["45.8955723"],
+            "46270": ["10.7210169"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale Riabilitativo Villa Rosa"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06447616666669"],
+                    "46270": ["11.24912533888889"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["46.3014623"],
+            "46270": ["10.809961"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Casa di Cura \"Villa Bianca\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.062533916666666"],
+                    "46270": ["11.126686583333333"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["45.75625848124999"],
+            "46270": ["11.000504474999998"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Pronto Soccorso Ospedale Tione di Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0422014"],
+                    "46270": ["10.7245566"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2130371"],
+                    "46270": ["11.0946842"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Santa Chiara"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05608977407408"],
+                    "46270": ["11.133811648148146"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale di Fiemme"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.28840219545454"],
+                    "46270": ["11.455208054545455"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Casa di cura Solatrix"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.89745480666666"],
+                    "46270": ["11.045592496666664"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Pronto Soccorso Ospedale di Arco"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.919077"],
+                    "46270": ["10.875114"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "46263": ["45.91938032428572"],
+            "46270": ["10.87500411"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Le Palme"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["45.91927610465115"],
+                    "46270": ["10.883925620930233"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Croce bianca Fai della Paganella"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.178174"],
+                    "46270": ["11.070968"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Ospedale San Camillo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06490974166667"],
+                    "46270": ["11.132001358333332"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1874416"],
+                    "46270": ["11.2585751"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+        "attributes": {
+            "2": ["Guardia Medica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 10:07:48 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3203409"],
+                    "46270": ["11.0661113"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    }
+]

@@ -1,0 +1,1721 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0007847"],
+            "46270": ["10.6930792"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.9678203"],
+            "46270": ["11.23178"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.212695"],
+            "46270": ["11.0931157"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 8:00-13:30; Sa 8:00-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1927845"],
+                    "46270": ["11.1328804"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.7826222"],
+            "46270": ["11.1191077"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2915152"],
+                    "46270": ["11.4622626"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio postale Ala"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.758237771428576"],
+                    "46270": ["11.0021182"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1748254"],
+            "46270": ["11.221521"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9266801"],
+                    "46270": ["11.0419397"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8958536"],
+            "46270": ["10.7174464"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0354319"],
+            "46270": ["10.8735089"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["We 09:00-12:00 Fr 09:-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.99020504285715"],
+                    "46270": ["11.669217600000001"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0732042"],
+            "46270": ["10.8974717"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0756005"],
+                    "46270": ["11.1183484"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-19:05; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0717538"],
+                    "46270": ["11.1227397"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["GLS Corriere Espresso"],
+            "120067": ["Mo-Fr 08:30-13:00,14:30-18:00;Sa 08:30-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1238882"],
+                    "46270": ["11.0965236"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8483361"],
+            "46270": ["10.5796114"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.22267008"],
+                    "46270": ["11.31317646"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0498263"],
+                    "46270": ["11.124929"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0475593"],
+            "46270": ["10.9536856"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0389755"],
+                    "46270": ["11.131729"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1779079"],
+            "46270": ["11.0693868"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9407487"],
+                    "46270": ["11.2704899"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.003976"],
+            "46270": ["11.2415523"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2656018"],
+            "46270": ["11.0857989"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0396186"],
+                    "46270": ["11.1090994"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Tu,Th 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4561098"],
+                    "46270": ["11.1168126"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.4201374"],
+            "46270": ["11.6725869"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2185676"],
+            "46270": ["11.0481353"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0525898"],
+                    "46270": ["11.4941594"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8434641"],
+            "46270": ["11.0079136"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1302098"],
+            "46270": ["11.2448507"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 09:00-13:00; Th 09:00-16:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0667904"],
+                    "46270": ["11.1120084"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.075702"],
+                    "46270": ["11.1443214"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 09:20-12:20"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3102509"],
+                    "46270": ["10.7303716"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.889573"],
+            "46270": ["10.9499698"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.3212408"],
+            "46270": ["10.8400462"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1295871"],
+            "46270": ["11.3519744"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1875147"],
+            "46270": ["11.2585055"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Trentine"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0480023"],
+                    "46270": ["11.1309723"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane "],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1551397"],
+                    "46270": ["11.7327532"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8529443"],
+            "46270": ["10.9749615"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8177949"],
+            "46270": ["10.9543297"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo,We,Fr 08:20-13:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9417872"],
+                    "46270": ["11.1098529"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.011972"],
+            "46270": ["11.3000103"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.888797"],
+            "46270": ["10.5998977"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Strigno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0659123"],
+                    "46270": ["11.5235447"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8694492"],
+            "46270": ["11.0733946"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Aldeno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9775229"],
+                    "46270": ["11.0913986"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1967421"],
+            "46270": ["11.6791869"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1833858"],
+            "46270": ["11.0278902"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8710066"],
+            "46270": ["11.0313629"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2045231"],
+            "46270": ["11.928846"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.31401145"],
+            "46270": ["11.599967566666669"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3486974"],
+                    "46270": ["11.0885822"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4761314"],
+                    "46270": ["11.7423471"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.9473162"],
+            "46270": ["10.621614"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4309101"],
+                    "46270": ["11.1076234"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0647214"],
+                    "46270": ["11.6333688"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2995134"],
+            "46270": ["11.0309982"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Centrale"],
+            "120067": ["Mo-Fr 08:00-18:30; Sa 08:00-13:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.89110216666666"],
+                    "46270": ["11.040942941666666"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0060993"],
+                    "46270": ["11.1280347"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8857792"],
+                    "46270": ["10.844978"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio postale di Tione di Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0329272"],
+                    "46270": ["10.726849"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Impresa"],
+            "120067": ["Mo-Fr 09:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0668812"],
+                    "46270": ["11.1238831"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.315839"],
+                    "46270": ["10.8002863"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2153602"],
+            "46270": ["11.1206117"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0475623"],
+                    "46270": ["11.1452225"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.320254"],
+            "46270": ["11.0660026"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.165829"],
+            "46270": ["11.0053252"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Varena"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3034982"],
+                    "46270": ["11.455991"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["San Bernardo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3987392"],
+                    "46270": ["10.8494093"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-19:05; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0586817"],
+                    "46270": ["11.1274664"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.914175"],
+                    "46270": ["11.0331221"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9346872"],
+                    "46270": ["11.0944245"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0043363"],
+            "46270": ["10.8422325"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1691465"],
+            "46270": ["10.7638784"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.3958081"],
+            "46270": ["11.6685534"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Lavis"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13822"],
+                    "46270": ["11.1120497"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2624679"],
+            "46270": ["11.3389974"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.44049532727273"],
+                    "46270": ["11.136478999999998"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.8846866"],
+            "46270": ["11.0082739"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8914381"],
+                    "46270": ["11.1541534"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.91638682"],
+                    "46270": ["11.17140464"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Tenno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9178183"],
+                    "46270": ["10.8327877"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.19670391666667"],
+            "46270": ["11.679222516666668"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:00-13:30; Sa 08:00-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4303512"],
+                    "46270": ["11.6866641"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0774088"],
+                    "46270": ["10.9992333"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.04534"],
+            "46270": ["10.983247"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.03287266"],
+            "46270": ["10.72694204"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3504262"],
+                    "46270": ["10.6947497"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.3943172"],
+            "46270": ["11.1205919"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:20-13:45; Sa 8:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1516911"],
+                    "46270": ["11.0974999"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Posta"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2746105"],
+                    "46270": ["11.0480428"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.005877319999996"],
+            "46270": ["11.195824040000002"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Cloz"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4192902"],
+                    "46270": ["11.0872562"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-19:05; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.095482"],
+                    "46270": ["11.1177962"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:35; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1086818"],
+                    "46270": ["11.1113458"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.1428497"],
+            "46270": ["10.9660863"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0239632"],
+            "46270": ["10.983017"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0533279"],
+            "46270": ["11.4559396"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.3247875"],
+            "46270": ["10.8750004"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Molina di Ledro"],
+            "120067": ["Mo,We,Fr 08:20-13:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8707513"],
+                    "46270": ["10.7743236"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Cavedine"],
+            "120067": ["Mo-Sa"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9943696"],
+                    "46270": ["10.9725962"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-19:05; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0668575"],
+                    "46270": ["11.1236516"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Postomt - Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1001584"],
+                    "46270": ["11.3103899"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1544002"],
+                    "46270": ["11.8060802"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.05083449999999"],
+            "46270": ["10.77648638"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0617671"],
+            "46270": ["10.9879751"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["SDA Express Courier"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.128290437500006"],
+                    "46270": ["11.09869913125"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.289402"],
+            "46270": ["11.5106381"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45, Sa 08:20-12:45; Su, PH off"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0708592"],
+                    "46270": ["11.481043"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0868292"],
+            "46270": ["11.0635344"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3632348"],
+                    "46270": ["11.0331985"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Filiale di Nomi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9290132"],
+                    "46270": ["11.0709515"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale di Arco"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.916040980000005"],
+                    "46270": ["10.88508804"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["TNT"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.131034271428575"],
+                    "46270": ["11.108369942857143"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8698918"],
+                    "46270": ["10.8760518"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.99315128"],
+            "46270": ["11.26116356"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0308834"],
+            "46270": ["11.388744"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4764164"],
+                    "46270": ["11.7745157"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.4010863"],
+            "46270": ["10.8458113"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.9078618"],
+            "46270": ["10.8410635"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0159069"],
+            "46270": ["11.6358109"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0556269"],
+                    "46270": ["11.6155325"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale di Dro"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["45.96071194"],
+                    "46270": ["10.913490239999998"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:45; Sa 08:20-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0659486"],
+                    "46270": ["11.1539231"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["TNT Post"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0373822"],
+                    "46270": ["11.1267424"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0516848"],
+            "46270": ["10.8535191"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.05953272"],
+            "46270": ["11.2399387"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:20-13:35; Sa 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0566851"],
+                    "46270": ["11.1179937"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.0638571"],
+            "46270": ["11.5066438"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Sa 08:20-13:35; Su 08:20-12:35"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0716143"],
+                    "46270": ["11.0600443"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:00-13:30; Sa 08:00-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2817452"],
+                    "46270": ["11.4361527"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale Tassullo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3360357"],
+                    "46270": ["11.0499795"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:20-13:45; Tu off; Th off"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1508148"],
+                    "46270": ["11.7965517"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["45.9186424"],
+            "46270": ["11.0635233"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.25038538"],
+            "46270": ["11.3441215"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Poste Italiane"],
+            "120067": ["Mo-Fr 08:30-13:45; Sa 08:30-12:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0883575"],
+                    "46270": ["11.1302582"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "2": ["Ufficio Postale di Fiera di Primiero"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1757077"],
+                    "46270": ["11.8287396"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "46263": ["46.2317355"],
+            "46270": ["10.8282433"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo, We, Fr 08:20-13:45"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3653445"],
+                    "46270": ["11.0739975"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:00-13:30; Sa 08:00-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:30:30 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2488571"],
+                    "46270": ["11.1698874"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 117866
+    }
+]

@@ -3,6 +3,7 @@
 	"source": "www.outdooractive.com",
 	"update_frequency": "no update",
 	"Geographical Coverage": "Provincia di Trento",
+	"DatasetName":"KDI2020_21-Geospace-13.in",
 	"format": "json",
 	"fields": {
 		"sat_Id": {

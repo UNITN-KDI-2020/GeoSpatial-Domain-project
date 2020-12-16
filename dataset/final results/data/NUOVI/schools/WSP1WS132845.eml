@@ -1,0 +1,3063 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA U. MOGGIOLI - POVO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA DI POVO - MARIACHIARA CONOTTER"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06776133322674"],
+                    "46270": ["11.161601583198346"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA G.B. ZANELLA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MARTIGNANO - ARCOBALENO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.089648189804116"],
+                    "46270": ["11.131963112726407"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["Antonio Tambosi - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA MATTARELLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO SACRO CUORE - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO O. WINKLER - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA I. CALVINO - VIGO MEANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.133851739508714"],
+                    "46270": ["11.135736312105104"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA LA CLARINA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05249565312678"],
+                    "46270": ["11.123561181217731"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MADDALENA DI CANOSSA - LAVIS"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13524105123429"],
+                    "46270": ["11.110329803788908"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Collegio Arcivescovile Celestino Endrici"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA DI VIGO CORTESANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA R. BELENZANI - S. VITO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA RAVINA - GIROTONDO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.03863831586688"],
+                    "46270": ["11.107508708850558"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Antonio Rosmini - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MARGIT LEVINSON - GARDOLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA DI CADINE - IL MELOGRANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA ARCIVESCOVILE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.061445458400975"],
+                    "46270": ["11.121622928061393"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Lt Studenti  Attivita' Sportive (codice IE40),Ltg  - Indirizzo Costruzioni (codice IE41),Ltg  - Indirizzo Progettazione (codice IE42),Corso Tecnico Indirizzo Cantiere (codice IE44),Geometri (prog. Sirio) (codice TL04),"],
+            "2": ["Andrea Pozzo - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MELTA - IL GIRASOLE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10070532448165"],
+                    "46270": ["11.11858243526121"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO ARGENTARIO - COGNOLA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO S. PEDROLLI - GARDOLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10390391680275"],
+                    "46270": ["11.11303853028066"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA DI CADINE - IL MELOGRANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.089235961933625"],
+                    "46270": ["11.065425888918544"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO F. BONPORTI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO G. BRESADOLA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06532692170293"],
+                    "46270": ["11.121801702695453"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA F. CRISPI - TRENTO "]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA G. GRAZIOLI -  LAVIS"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13488859608467"],
+                    "46270": ["11.110480571229829"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Giovanni Prati - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["Collegio Arcivescovile Celestino Endrici"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SAN GIUSEPPE - MASO GINOCCHIO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.058853869638675"],
+                    "46270": ["11.117681980459826"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA GIANNI RODARI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.064569890657914"],
+                    "46270": ["11.131185901404653"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SOLTERI - IL QUADRIFOGLIO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0877907850902"],
+                    "46270": ["11.121024420864225"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SAN MARTINO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA A. DEGASPERI - SARDAGNA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06409474948869"],
+                    "46270": ["11.096871131761478"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Antonio Tambosi - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA A. TAMBOSI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06892975809731"],
+                    "46270": ["11.126640590178043"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Michelangelo Buonarroti - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA I. CALVINO - VIGO MEANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA A. NICOLODI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA ARCIVESCOVILE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA  DON L. SERAFINI - MARTIGNANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MATTARELLO - IL CASTELLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.006249856766665"],
+                    "46270": ["11.130585458796158"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA A. SCHMID - CRISTO RE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.082256956226836"],
+                    "46270": ["11.117012795912217"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA MATTARELLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.00597570730354"],
+                    "46270": ["11.128675230502047"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO FOGAZZARO - MATTARELLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.00648641271681"],
+                    "46270": ["11.13073322310189"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO G.PASCOLI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA F.LLI PIGARELLI - GARDOLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA PICCOLO MONDO - CLARINA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA B. KOFLER - S. DONA'"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.070710583589076"],
+                    "46270": ["11.138275886878198"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA S. PERTINI - SOPRAMONTE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.073558490379426"],
+                    "46270": ["11.060388805381168"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA R. ZANDONAI - MARTIGNANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.09023248633862"],
+                    "46270": ["11.131654196881456"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA D. SAVIO - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.053423124607974"],
+                    "46270": ["11.12085325976845"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SAN MARTINO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.074727418170085"],
+                    "46270": ["11.126330932952435"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO ARGENTARIO - COGNOLA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.074716524600916"],
+                    "46270": ["11.143753880840462"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA DI GARDOLO E GHIAIE - GARDOLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA DI GARDOLO E GHIAIE - GARDOLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.109991540620555"],
+                    "46270": ["11.109759529310239"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Scientifico (codice PS00),"],
+            "2": ["Galileo Galilei - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA A. DEGASPERI - SARDAGNA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO A. STAINER - LAVIS"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA R. BELENZANI - S. VITO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.074092873092724"],
+                    "46270": ["11.139814589706715"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA PARITARIA MARIA SS. BAMBINA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SACRO CUORE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA POVO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0646307445333"],
+                    "46270": ["11.151940350913794"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA S. BELLESINI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07730484903178"],
+                    "46270": ["11.120412922004794"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA CRISTO RE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO ISTITUTO SALESIANO - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA RAVINA - GIROTONDO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["Bonporti - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA VILLAZZANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0497630381273"],
+                    "46270": ["11.14711458372548"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA CROSINA SARTORI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA RAVINA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA F.LLI PIGARELLI - GARDOLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10517800081422"],
+                    "46270": ["11.111148122406462"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA A. SCHMID - CRISTO RE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MEANO - M.R.GIO.BATTA PARTELLONI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MADDALENA DI CANOSSA - LAVIS"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA LA CLARINA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA S. ANNA - GARDOLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10971851154845"],
+                    "46270": ["11.110528233090445"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA S. PERTINI - SOPRAMONTE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA MADONNA BIANCA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.03972623553722"],
+                    "46270": ["11.13404232164838"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO F.LLI BRONZETTI E G. SEGANTINI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA CLARINA -TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SACRO CUORE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06761037781285"],
+                    "46270": ["11.11980070382253"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MATTARELLO - IL CASTELLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA DI VIGO CORTESANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13239420648987"],
+                    "46270": ["11.134888291723215"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040711357533574"],
+                    "46270": ["11.138711997701915"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA B. KOFLER - COGNOLA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07606563385168"],
+                    "46270": ["11.143324409795806"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Classico (codice PC00),"],
+            "2": ["Giovanni Prati - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA G.A. TOMASI - VILLAZZANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["ASSOCIAZIONE PEDAGOGICA STEINERIANA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040711357533574"],
+                    "46270": ["11.138711997701915"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA DI GARDOLO E GHIAIE - GHIAIE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.120772595390974"],
+                    "46270": ["11.09297530609182"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA D. SAVIO - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA E. BERNARDI - COGNOLA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07520386423552"],
+                    "46270": ["11.143376865386557"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA CARLI - VILLAMONTAGNA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA CANOSSIANE VIRGINIA DE PANIZZA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.067071728996176"],
+                    "46270": ["11.126853648960145"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA A. TAMBOSI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO A. MANZONI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07269737415909"],
+                    "46270": ["11.117658136033972"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA PIEDICASTELLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA BIANCANEVE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA TORRIONE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA PARITARIA MARIA SS. BAMBINA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0653368430111"],
+                    "46270": ["11.120236615293399"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SAN GIUSEPPE - MASO GINOCCHIO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA TORRIONE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06525135528726"],
+                    "46270": ["11.122382327867205"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA R. ZANDONAI - MARTIGNANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA S. ANNA - GARDOLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO A. STAINER - LAVIS"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13524105123429"],
+                    "46270": ["11.110329803788908"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MARTIGNANO - ARCOBALENO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA  VILLAZZANO - SEZ. DISTACCATA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.04781161521967"],
+                    "46270": ["11.146308612943347"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Bonporti - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA PIEDICASTELLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07151286730557"],
+                    "46270": ["11.114277368343465"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA CASA SERENA - COGNOLA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA  DON L. SERAFINI - MARTIGNANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08893968700557"],
+                    "46270": ["11.129898478589604"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO ARCIVESCOVILE - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA G.B. ZANELLA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06955071717479"],
+                    "46270": ["11.1174399426315"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Pitt.visual Art-virtual Design-m (codice IC83),Pitt.&visual Art-virt.design-mul (codice ID31),Coreutico (codice ID67),Design Per L'industria (codice ISJJ),Pittura & Visual Art (codice ISJL),Arte dei Metalli e dell'oreficer (codice SD04),Disegnatori di Archit. Arredam. (codice SD19),Decorazione Pittorica (codice SD23),"],
+            "2": ["Delle Arti - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["CAMPO NOMADI RAVINA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.03908023162736"],
+                    "46270": ["11.119861178754446"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA ROMAGNANO - GLI GNOMI DEL BOSCO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SOPRAMONTE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.073691065090834"],
+                    "46270": ["11.060809269164755"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Serale Antonio Tambosi - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA A. NICOLODI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.055919922384284"],
+                    "46270": ["11.129461730384236"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA A. GORFER - SOLTERI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08822093359245"],
+                    "46270": ["11.120295259053572"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Scient.tecnol.\"brocca\" Iti (codice IA39),Chimico (codice TF25),Progetto \"edilizia\" - edilizia (codice TF47),Elettrot. ed Autom. (codice TF51),Meccanica (codice TF52),Meccanica (prog. Sirio) (codice TF68),"],
+            "2": ["Michelangelo Buonarroti - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO SACRO CUORE - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06756327707646"],
+                    "46270": ["11.119800466963829"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO G. BRESADOLA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA ROMAGNANO - GLI GNOMI DEL BOSCO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.01638367245853"],
+                    "46270": ["11.105381958527023"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MEANO - M.R.GIO.BATTA PARTELLONI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.12485235950554"],
+                    "46270": ["11.115534770356367"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA CRISTO RE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.078155465457804"],
+                    "46270": ["11.116686176852625"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SOPRAMONTE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA POVO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA VILLAZZANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Scienze Sociali (codice IA44),Quinquennio Autonom. Linguistico (codice IA51),Socio Psicopedag.(brocca-musica) (codice IE10),Socio Psicopedag Brocca Tedesco (codice IE55),Sociopsicoped Musica e Tedesco (codice IE59),Socio Psicopedag. (pr. \"brocca\") (codice ISFP),"],
+            "2": ["Antonio Rosmini - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA F. CRISPI - TRENTO "],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06466435880798"],
+                    "46270": ["11.12548441691497"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA GIANNI RODARI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MELTA - IL GIRASOLE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA  VILLAZZANO - SEZ. DISTACCATA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA VILLAZZANO TRE - L'OFFICINA DEGLI GNOMI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["Serale Antonio Tambosi - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA CASA SERENA - COGNOLA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07217277580028"],
+                    "46270": ["11.145253963676527"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["CAMPO NOMADI RAVINA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO S. PEDROLLI - GARDOLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["ASSOCIAZIONE PEDAGOGICA STEINERIANA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA S. VIGILIO - VELA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08133717696771"],
+                    "46270": ["11.101784621099084"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["Istituto Sacro Cuore"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA R. SANZIO - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07221763674278"],
+                    "46270": ["11.125341462519795"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA A. GORFER - SOLTERI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO F.LLI BRONZETTI E G. SEGANTINI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05909614366666"],
+                    "46270": ["11.124724651417276"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA B. KOFLER - COGNOLA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA P. PEDROTTI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05882906624329"],
+                    "46270": ["11.125074402479408"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA C. CLEMENTI - LAVIS"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.13524105123429"],
+                    "46270": ["11.110329803788908"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA CANOSSIANE VIRGINIA DE PANIZZA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SARDAGNA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06366664151142"],
+                    "46270": ["11.097608348636212"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO O. WINKLER - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.048839881552105"],
+                    "46270": ["11.13266487699897"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA E. DE CARLI - MEANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA U. MOGGIOLI - POVO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.064528213450956"],
+                    "46270": ["11.154319094415394"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA CRISTO RE - IL PICCOLO PRINCIPE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO ARCIVESCOVILE - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.061412813301274"],
+                    "46270": ["11.121621677080633"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA ROMAGNANO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO D'ARTE A. VITTORIA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.050112276267626"],
+                    "46270": ["11.132987037224355"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "35789": ["Linguistico P.pil.   \"da Vinci\" (codice IX89),Scientifico (codice PS00),"],
+            "2": ["Leonardo Da Vinci - Trento"],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["1"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA BIANCANEVE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.104550289736935"],
+                    "46270": ["11.108817509866615"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA DI POVO - MARIACHIARA CONOTTER"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA S. VIGILIO - VELA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Galileo Galilei - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA G.A. SLOP VON CADENBERG - CADINE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08944385261005"],
+                    "46270": ["11.065751175165262"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Leonardo Da Vinci - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA C. CLEMENTI - LAVIS"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA B. KOFLER - S. DONA'"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA CROSINA SARTORI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.055465499448346"],
+                    "46270": ["11.13242223440593"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA PICCOLO MONDO - CLARINA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.053323686976256"],
+                    "46270": ["11.126373920308298"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SOLTERI - IL QUADRIFOGLIO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA G. GRAZIOLI -  LAVIS"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Istituto Sacro Cuore"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA G.A. TOMASI - VILLAZZANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.04874985708001"],
+                    "46270": ["11.145992607899611"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA PARITARIA SACRA FAMIGLIA - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07039502976239"],
+                    "46270": ["11.128582759359613"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA RAVINA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.03795632399838"],
+                    "46270": ["11.10826686887593"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO F. BONPORTI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06466435880798"],
+                    "46270": ["11.12548441691497"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA ROMAGNANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.01931884989"],
+                    "46270": ["11.10530925032744"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Delle Arti - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA G.A. SLOP VON CADENBERG - CADINE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA R. SANZIO - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO D'ARTE A. VITTORIA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA E. BERNARDI - COGNOLA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA PARITARIA SACRA FAMIGLIA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA CRISTO RE - IL PICCOLO PRINCIPE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08151408091981"],
+                    "46270": ["11.1180611830596"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO FOGAZZARO - MATTARELLO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA S. ANTONIO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06038052826617"],
+                    "46270": ["11.130688444378894"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SAN BARTOLOMEO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA CLARINA -TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.052075359044586"],
+                    "46270": ["11.1267039958901"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA SACRO CUORE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA DI GARDOLO E GHIAIE - GHIAIE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA MADONNA BIANCA - L'ALBERO DEL SOLE"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["Andrea Pozzo - Trento"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA MADONNA BIANCA - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA S. BELLESINI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MADONNA BIANCA - L'ALBERO DEL SOLE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040365394506225"],
+                    "46270": ["11.134940962186793"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO ISTITUTO SALESIANO - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06500415627272"],
+                    "46270": ["11.127344573643054"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA S. ANTONIO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA CARLI - VILLAMONTAGNA"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.08511434411512"],
+                    "46270": ["11.157721899558238"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA G.B. DE GASPARI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05569239892536"],
+                    "46270": ["11.11942118098673"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA E. DE CARLI - MEANO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.12472350595207"],
+                    "46270": ["11.11531989302976"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA SAN BARTOLOMEO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.051773125380876"],
+                    "46270": ["11.132060267092356"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA VILLAZZANO TRE - L'OFFICINA DEGLI GNOMI"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0412452260027"],
+                    "46270": ["11.13962758638512"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA PRIMARIA SACRO CUORE"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.067665116998704"],
+                    "46270": ["11.1198000782461"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["1"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA INFANZIA MARGIT LEVINSON - GARDOLO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10073727693588"],
+                    "46270": ["11.102791660502495"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["1"],
+                    "45460": ["0"],
+                    "44822": ["0"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA PRIMARIA G.B. DE GASPARI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA SECONDARIA DI PRIMO GRADO A. MANZONI - TRENTO"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA SARDAGNA"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {"2": ["SCUOLA INFANZIA P. PEDROTTI"]},
+        "type": 132
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+        "attributes": {
+            "2": ["SCUOLA SECONDARIA DI PRIMO GRADO G.PASCOLI - TRENTO"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05343210537442"],
+                    "46270": ["11.150748046112284"]
+                },
+                "type": 120051
+            }],
+            "120081": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:19:08 GMT 2020",
+                "attributes": {
+                    "118205": ["0"],
+                    "45455": ["0"],
+                    "45460": ["0"],
+                    "44822": ["1"]
+                },
+                "type": 120081
+            }]
+        },
+        "type": 22899
+    }
+]

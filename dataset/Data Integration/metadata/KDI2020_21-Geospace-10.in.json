@@ -4,15 +4,10 @@
 "DatasetDescription"="hospitals",
 "ColumnNames"={
     "name"="name",
-    "city"="City",
-    "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",    
     "latitude"="latitude",
     "longitude"="longitude"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="8"
+"NumberItems"="3"

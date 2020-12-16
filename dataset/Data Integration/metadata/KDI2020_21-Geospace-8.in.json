@@ -7,13 +7,8 @@
     "height"="height",
     "latitude"="latitude",
     "longitude"="longitude",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode",
-    "city"="City"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="9"
+"NumberItems"="4"

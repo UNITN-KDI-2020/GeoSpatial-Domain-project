@@ -1,0 +1,354 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epl9enlux1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "theaters.json" ;
+	km-dev:modelPublicationTime "1608106073791"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}]]" ;
+	km-dev:hasModelLabel "theaters.json" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"longitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"longitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"GeoCoordinate\"},
+                    {\"columnName\": \"latitude\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051\",
+                    \"DomainLabel\": \"etype:Geocoordinate_GID-1200511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"GeoCoordinate\\\"},{\\\"columnName\\\":\\\"latitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"name\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Theater_GID-24522\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Theater_GID-245221\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132\",
+                    \"DomainLabel\": \"etype:Theater_GID-245221\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_geocoordinate_GID-120051_Type-132\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Theater_GID-245221\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Theater_GID-24522\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c a rr:TriplesMap .
+
+_:node1epl9enlux1 km-dev:hasTriplesMap km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c .
+
+km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux2 rr:tableName "theaters.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasLogicalTable _:node1epl9enlux2 .
+
+km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c rr:logicalTable _:node1epl9enlux2 ;
+	rr:subjectMap _:node1epl9enlux3 .
+
+_:node1epl9enlux1 km-dev:hasSubjectMap _:node1epl9enlux3 .
+
+_:node1epl9enlux3 km-dev:isPartOfMapping _:node1epl9enlux1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Theater_GID-245221" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#Theater_GID-24522> ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Theater_GID-245221" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_18e563f2-0c60-4fc8-9b80-f3258b27d0af rr:predicate <http://knowdive.disi.unitn.it/etype#has_geocoordinate_GID-120051_Type-132> .
+
+km-dev:RefObjectMap_22a7cf62-017b-4bf2-92df-41b0a3fbf009 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasObjectMap km-dev:RefObjectMap_22a7cf62-017b-4bf2-92df-41b0a3fbf009 .
+
+km-dev:PredicateObjectMap_18e563f2-0c60-4fc8-9b80-f3258b27d0af rr:objectMap km-dev:RefObjectMap_22a7cf62-017b-4bf2-92df-41b0a3fbf009 .
+
+km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c rr:predicateObjectMap km-dev:PredicateObjectMap_18e563f2-0c60-4fc8-9b80-f3258b27d0af .
+
+km-dev:PredicateObjectMap_18e563f2-0c60-4fc8-9b80-f3258b27d0af a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_18e563f2-0c60-4fc8-9b80-f3258b27d0af .
+
+km-dev:PredicateObjectMap_3df36dff-4181-408e-ab8f-d2d88eab7d7b rr:predicate <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> .
+
+_:node1epl9enlux4 rr:column "[\"records\",\"name\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasObjectMap _:node1epl9enlux4 .
+
+km-dev:PredicateObjectMap_3df36dff-4181-408e-ab8f-d2d88eab7d7b rr:objectMap _:node1epl9enlux4 .
+
+km-dev:TriplesMap_f6a9322d-8f85-4c8f-abbe-4cf780a18b6c rr:predicateObjectMap km-dev:PredicateObjectMap_3df36dff-4181-408e-ab8f-d2d88eab7d7b .
+
+km-dev:PredicateObjectMap_3df36dff-4181-408e-ab8f-d2d88eab7d7b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3df36dff-4181-408e-ab8f-d2d88eab7d7b .
+
+km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 a rr:TriplesMap .
+
+_:node1epl9enlux1 km-dev:hasTriplesMap km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 .
+
+km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux5 rr:tableName "theaters.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasLogicalTable _:node1epl9enlux5 .
+
+km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 rr:logicalTable _:node1epl9enlux5 ;
+	rr:subjectMap _:node1epl9enlux6 .
+
+_:node1epl9enlux1 km-dev:hasSubjectMap _:node1epl9enlux6 .
+
+_:node1epl9enlux6 km-dev:isPartOfMapping _:node1epl9enlux1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
+	rr:class <http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051> ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
+
+km-dev:PredicateObjectMap_c1858399-bb3b-462c-9676-e2e78d6840aa rr:predicate <http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051> .
+
+_:node1epl9enlux7 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasObjectMap _:node1epl9enlux7 .
+
+km-dev:PredicateObjectMap_c1858399-bb3b-462c-9676-e2e78d6840aa rr:objectMap _:node1epl9enlux7 .
+
+km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 rr:predicateObjectMap km-dev:PredicateObjectMap_c1858399-bb3b-462c-9676-e2e78d6840aa .
+
+km-dev:PredicateObjectMap_c1858399-bb3b-462c-9676-e2e78d6840aa a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c1858399-bb3b-462c-9676-e2e78d6840aa .
+
+km-dev:PredicateObjectMap_0fa0bf1f-ad14-4571-b30f-6c629af68934 rr:predicate <http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051> .
+
+_:node1epl9enlux8 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasObjectMap _:node1epl9enlux8 .
+
+km-dev:PredicateObjectMap_0fa0bf1f-ad14-4571-b30f-6c629af68934 rr:objectMap _:node1epl9enlux8 .
+
+km-dev:TriplesMap_91fb277f-841b-43c3-8a8d-d05a7cad2f82 rr:predicateObjectMap km-dev:PredicateObjectMap_0fa0bf1f-ad14-4571-b30f-6c629af68934 .
+
+km-dev:PredicateObjectMap_0fa0bf1f-ad14-4571-b30f-6c629af68934 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl9enlux1 .
+
+_:node1epl9enlux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0fa0bf1f-ad14-4571-b30f-6c629af68934 .

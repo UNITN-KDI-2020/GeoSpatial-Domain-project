@@ -36,31 +36,6 @@
             "description": "name of the facility",
             "data_definition": "core"
         },
-        "city": {
-            "type": "string",
-            "description": "the city component of the address",
-            "data_definition": "common"
-        },
-        "housenumber": {
-            "type": "string",
-            "description": "the house number component of the address",
-            "data_definition": "common"
-        },
-        "PostalCode": {
-            "type": "string",
-            "description": "the postcode component of the address",
-            "data_definition": "common"
-        },
-        "StreetName": {
-            "type": "string",
-            "description": "the street component of the address",
-            "data_definition": "common"
-        },
-        "StreetType": {
-            "type": "string",
-            "description": "tyoe of street (street, place, etc)",
-            "data_definition": "common"
-        },  
         "rackSlot": {
             "type": "int",
             "description": "total number of slot bikes",

@@ -14,6 +14,11 @@
             "description": "name of te location",
             "data_definition": "core"
         },
+        "id":{
+            "type": "string",
+            "description": "unique identifier of the railway",
+            "data_definition": "core"
+        },
         "GeoShape": {
             "type": "GeoShape",
             "description": "object containing location information",
