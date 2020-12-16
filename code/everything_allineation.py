@@ -277,52 +277,43 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 				}
 
 	if "railway.json" in filename:
-		# listOfStations = []
-		listOfRails = []
+		listOfStations = []
+		# listOfRails = []
 		tr = pyproj.Transformer.from_proj(pyproj.Proj(init='EPSG:4326'), pyproj.Proj(proj='eqdc', lat_1=45.5, lat_2=46.5))
 		for d_i, d in enumerate(data):
-			if "railway" in d and not "station" in d["railway"]:
-				listOfRails.append(d)
-		for d_i, d in enumerate(data):
-			# print("\r\tprogress: ", round(d_i/len(data)*100),"%",end="")
-			# stdout.flush()
 			if "railway" in d and "station" in d["railway"]:
+				mean = []
+				if d["geometry"]["type"] == "Point":
+					mean = d["geometry"]["coordinates"]
+				elif d["geometry"]["type"] == "LineString":
+					mean = get_mean(d["geometry"]["coordinates"])
+				elif d["geometry"]["type"] == "Polygon":
+					mean = get_mean(d["geometry"]["coordinates"][0])
+
+				d.pop("geometry")
+				d["GeoCoordinate"] = {"longitude" : mean[0], "latitude" : mean[1]}
+
+				listOfStations.append(d)
+		for d_i, d in enumerate(data):
+			if "railway" in d and not "station" in d["railway"]:
 				if "geometry" in d:
-					mean = []
-					if d["geometry"]["type"] == "Point":
-						mean = d["geometry"]["coordinates"]
-					elif d["geometry"]["type"] == "LineString":
-						mean = get_mean(d["geometry"]["coordinates"])
-					elif d["geometry"]["type"] == "Polygon":
-						mean = get_mean(d["geometry"]["coordinates"][0])
+					poly = np.array(d["geometry"]["coordinates"])
+					poly = LineString(poly if len(poly.shape) == 2 else poly[0])
+					geom = ops.transform(tr.transform, poly)
 
-					circle = Point(mean)
-					# circle = ops.transform(partial(
-					# 			pyproj.transform,
-					# 			pyproj.Proj(init='EPSG:4326'),
-					# 			pyproj.Proj(proj='aea',	lat_1=circle.bounds[1], lat_2=circle.bounds[3])),circle)
-					circle = ops.transform(tr.transform, circle)
-					circle = Point(circle).buffer(100).boundary
-
-					for r in listOfRails:
-						poly = np.array(r["geometry"]["coordinates"])
-						poly = LineString(poly if len(poly.shape) == 2 else poly[0])
-						# print(poly.bounds[1],poly.bounds[3])
-						# geom = ops.transform(partial(
-						# 		pyproj.transform,
-						# 		pyproj.Proj(init='EPSG:4326'),
-						# 		pyproj.Proj(proj='aea',	lat_1=poly.bounds[1], lat_2=poly.bounds[3])),poly)
-						geom = ops.transform(tr.transform, poly)
+					for r in listOfStations:
+						circle = Point([r["GeoCoordinate"]["longitude"],r["GeoCoordinate"]["latitude"]])
+						circle = ops.transform(tr.transform, circle)
+						circle = Point(circle).buffer(100).boundary
 						i = circle.intersection(geom)
 						if not i.is_empty:
-							if "rails" in d:
-								d["rails"].append(r["@id"])
+							if "stations" in d:
+								d["stations"].append(r["@id"])
 							else:
-								d["rails"] = [r["@id"]]
-					d.pop("geometry")
-					d["GeoCoordinate"] = {"longitude" : mean[0], "latitude" : mean[1]}
-					if "rails" in d:
-						print(len(d["rails"]))
+								d["stations"] = [r["@id"]]
+
+					if "stations" in d:
+						print(len(d["stations"]))
 				
 		for d_i, d in enumerate(data):
 			if "geometry" in d:
