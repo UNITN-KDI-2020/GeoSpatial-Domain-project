@@ -1,0 +1,213 @@
+{
+	"lastModifiedAt": "2020-07-02T08:14:00.000Z",
+	"source": "www.outdooractive.com",
+	"update_frequency": "no update",
+	"Geographical Coverage": "Provincia di Trento",
+	"format": "json",
+	"fields": {
+		"sat_Id": {
+			"type": "String",
+			"description": "trail id in the SAT registry"
+		},
+		"trainType": {
+			"type": "String",
+			"description": "specifies whether the trail is a hiking, biking or snowshoe trail"
+		},
+		"name": {
+			"type": "String",
+			"description": "name of the trail"
+		},
+		"distance": {
+			"type": "Double",
+			"description": "length of the trail"
+		},
+		"open": {
+			"type": "Boolean",
+			"description": "whether the trail is currently open"
+		},
+		"monthTips": {
+			"type": "array",
+			"description": "optional monthly variance details",
+			"fields": {
+				"month": {
+					"type": "String",
+					"description": "month name"
+				},
+				"open": {
+					"type": "Boolean",
+					"description": "whether the trail is open on a specific month"
+				}
+			}
+		},
+		"elevation": {
+			"type": "ElevationProfile",
+			"description": "elevation details",
+			"fields": {
+				"lowestPoint": {
+					"type": "Integer",
+					"description": "lowest elevation in the trail"
+				},
+				"highestPoint": {
+					"type": "Integer",
+					"description": "highest elevation in the trail"
+				},
+				"ascent": {
+					"type": "Integer",
+					"description": "ascent gradient"
+				},
+				"descent": {
+					"type": "Integer",
+					"description": "descent gradient"
+				},
+				"chartUrl": {
+					"type": "String",
+					"description": "url to a trail-elevation graph"
+				}
+			}
+		},
+		"estimatedTime": {
+			"type": "Duration",
+			"description": "detail on the estimated time required",
+			"fields": "days:hours:minutes:seconds"
+		},
+		"startRoute": {
+			"type": "LocationPoint",
+			"description": "starting point for the trail",
+			"fields": {
+				"altitude": {
+					"type": "Double",
+					"description": "altitude of the point"
+				},
+				"description": {
+					"type": "String",
+					"description": "description of the point"
+				}
+			}
+		},
+		"endRoute": {
+			"type": "LocationPoint",
+			"description": "ending point of the trail",
+			"fields": {
+				"altitude": {
+					"type": "Double",
+					"description": "altitude of the point"
+				},
+				"description": {
+					"type": "String",
+					"description": "description of the point"
+				}
+			}
+		},
+		"route": {
+			"type": "Route",
+			"description": "collection of points marking the trail path",
+			"fields": {
+				"description": {
+					"type": "String",
+					"description": "trail path description"
+				},
+				"geoPoints": {
+					"type": "array",
+					"description": "array of geopoints in the path",
+					"fields": {
+						"latitude": {
+							"type": "Double",
+							"description": "latitude of the point"
+						},
+						"longitude": {
+							"type": "Double",
+							"description": "longitude of the point"
+						}
+					}
+				}
+			}
+		},
+		"difficulty": {
+			"type": "String",
+			"description": "description of the trail difficulty"
+		},
+		"tags": {
+			"type": "array",
+			"description": "array of tags"
+		},
+		"equipment": {
+			"type": "String",
+			"description": "equipments needed for the trail"
+		},
+		"stats": {
+			"type": "TrailStats",
+			"description": "scores for the trail",
+			"fields": {
+				"technique": {
+					"type": "int",
+					"description": "technique score"
+				},
+				"stamina": {
+					"type": "int",
+					"description": "stamina score"
+				},
+				"experience": {
+					"type": "int",
+					"description": "experience score"
+				},
+				"landscape": {
+					"type": "int",
+					"description": "landscape score"
+				}
+			}
+		},
+		"grounds": {
+			"type": "array",
+			"description": "array of types of grounds in the trail",
+			"fields": {
+				"groundType": {
+					"type": "String",
+					"description": "terrain type"
+				},
+				"percentage": {
+					"type": "Double",
+					"description": "percentage of the trail composed of the type of terrain"
+				}
+			}
+		},
+		"metadata": {
+			"type": "MetaData",
+			"description": "metadata",
+			"fields": {
+				"created": {
+					"type": "Timestamp",
+					"description": "timestamp for the creation of the dataset"
+				},
+				"lastModified": {
+					"type": "Timestamp",
+					"description": "timestamp for the last edit of the dataset"
+				},
+				"source": {
+					"type": "String",
+					"description": "source for the dataset"
+				},
+				"resource": {
+					"type": "String",
+					"description": ""
+				}
+			}
+		},
+		"GeoShape": {
+			"type": "GeoShape",
+			"description": "object containing location information",
+			"data_definition": "Common",
+			"fields": {
+				"type": {
+					"type": "string",
+					"description": "type of GeoShape (Line, Polygon, Point)",
+					"data_definition": "Common"
+				},
+				"GeoCoordinates": {
+					"type": "int[2]",
+					"description": "Coordinates of the location in EPSG 4326 projection standard",
+					"data_definition": "Common"
+				}
+			}
+		}
+	}
+}
