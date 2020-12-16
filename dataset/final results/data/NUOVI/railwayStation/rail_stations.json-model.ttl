@@ -1,16 +1,17 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1epla8j9ox1 a km-dev:R2RMLMapping ;
+_:node1eplkgakex1 a km-dev:R2RMLMapping ;
 	km-dev:sourceName "rail_stations.json" ;
-	km-dev:modelPublicationTime "1608106921273"^^xsd:long ;
+	km-dev:modelPublicationTime "1608117660302"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
-	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"@id\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"@id\"}]]" ;
 	km-dev:hasModelLabel "rail_stations.json" ;
 	km-dev:hasWorksheetHistory """[
     {
@@ -202,6 +203,68 @@ _:node1epla8j9ox1 a km-dev:R2RMLMapping ;
         \"tags\": [\"SemanticType\"]
     },
     {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"@id\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Railway_station_GID-22321\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Railway_station_GID-223211\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_identifier_GID-39085_Type-1\",
+                    \"DomainLabel\": \"etype:Railway_station_GID-223211\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"@id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"@id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
         \"commandName\": \"AddLinkCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -236,119 +299,136 @@ _:node1epla8j9ox1 a km-dev:R2RMLMapping ;
     }
 ]""" .
 
-km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c a rr:TriplesMap .
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 a rr:TriplesMap .
 
-_:node1epla8j9ox1 km-dev:hasTriplesMap km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c .
+_:node1eplkgakex1 km-dev:hasTriplesMap km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 .
 
-km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox2 rr:tableName "rail_stations.json" ;
+_:node1eplkgakex2 rr:tableName "rail_stations.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasLogicalTable _:node1epla8j9ox2 .
+_:node1eplkgakex1 km-dev:hasLogicalTable _:node1eplkgakex2 .
 
-km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c rr:logicalTable _:node1epla8j9ox2 ;
-	rr:subjectMap _:node1epla8j9ox3 .
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 rr:logicalTable _:node1eplkgakex2 ;
+	rr:subjectMap _:node1eplkgakex3 .
 
-_:node1epla8j9ox1 km-dev:hasSubjectMap _:node1epla8j9ox3 .
+_:node1eplkgakex1 km-dev:hasSubjectMap _:node1eplkgakex3 .
 
-_:node1epla8j9ox3 km-dev:isPartOfMapping _:node1epla8j9ox1 ;
+_:node1eplkgakex3 km-dev:isPartOfMapping _:node1eplkgakex1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Railway_station_GID-223211" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#Railway_station_GID-22321> ;
+	rr:class etype:Railway_station_GID-22321 ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "etype:Railway_station_GID-223211" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_c625c750-719a-45cb-999a-a872419eb9b2 rr:predicate <http://knowdive.disi.unitn.it/etype#has_geocoordinate_GID-120051_Type-132> .
+km-dev:PredicateObjectMap_f0e289a8-2bb3-4638-b23c-f68e99ef51a9 rr:predicate etype:has_geocoordinate_GID-120051_Type-132 .
 
-km-dev:RefObjectMap_63223f40-b990-4a97-8d25-d9270b598305 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:RefObjectMap_038eec46-41b2-4d42-9cd0-cc296c364b62 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasObjectMap km-dev:RefObjectMap_63223f40-b990-4a97-8d25-d9270b598305 .
+_:node1eplkgakex1 km-dev:hasObjectMap km-dev:RefObjectMap_038eec46-41b2-4d42-9cd0-cc296c364b62 .
 
-km-dev:PredicateObjectMap_c625c750-719a-45cb-999a-a872419eb9b2 rr:objectMap km-dev:RefObjectMap_63223f40-b990-4a97-8d25-d9270b598305 .
+km-dev:PredicateObjectMap_f0e289a8-2bb3-4638-b23c-f68e99ef51a9 rr:objectMap km-dev:RefObjectMap_038eec46-41b2-4d42-9cd0-cc296c364b62 .
 
-km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c rr:predicateObjectMap km-dev:PredicateObjectMap_c625c750-719a-45cb-999a-a872419eb9b2 .
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 rr:predicateObjectMap km-dev:PredicateObjectMap_f0e289a8-2bb3-4638-b23c-f68e99ef51a9 .
 
-km-dev:PredicateObjectMap_c625c750-719a-45cb-999a-a872419eb9b2 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:PredicateObjectMap_f0e289a8-2bb3-4638-b23c-f68e99ef51a9 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c625c750-719a-45cb-999a-a872419eb9b2 .
+_:node1eplkgakex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f0e289a8-2bb3-4638-b23c-f68e99ef51a9 .
 
-km-dev:PredicateObjectMap_0fd5aa75-5280-4339-8748-0a6c96bcee8c rr:predicate <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132> .
+km-dev:PredicateObjectMap_b036c0b0-1905-4985-bc76-521502f605b3 rr:predicate etype:has_name_GID-2_Type-132 .
 
-_:node1epla8j9ox4 rr:column "[\"records\",\"name\"]" ;
+_:node1eplkgakex4 rr:column "[\"records\",\"name\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasObjectMap _:node1epla8j9ox4 .
+_:node1eplkgakex1 km-dev:hasObjectMap _:node1eplkgakex4 .
 
-km-dev:PredicateObjectMap_0fd5aa75-5280-4339-8748-0a6c96bcee8c rr:objectMap _:node1epla8j9ox4 .
+km-dev:PredicateObjectMap_b036c0b0-1905-4985-bc76-521502f605b3 rr:objectMap _:node1eplkgakex4 .
 
-km-dev:TriplesMap_fbccc91f-2201-4bc1-945c-ee119286c26c rr:predicateObjectMap km-dev:PredicateObjectMap_0fd5aa75-5280-4339-8748-0a6c96bcee8c .
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 rr:predicateObjectMap km-dev:PredicateObjectMap_b036c0b0-1905-4985-bc76-521502f605b3 .
 
-km-dev:PredicateObjectMap_0fd5aa75-5280-4339-8748-0a6c96bcee8c a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:PredicateObjectMap_b036c0b0-1905-4985-bc76-521502f605b3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0fd5aa75-5280-4339-8748-0a6c96bcee8c .
+_:node1eplkgakex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b036c0b0-1905-4985-bc76-521502f605b3 .
 
-km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 a rr:TriplesMap .
+km-dev:PredicateObjectMap_406ff068-0972-4915-a7d3-52cc1574e124 rr:predicate etype:has_identifier_GID-39085_Type-1 .
 
-_:node1epla8j9ox1 km-dev:hasTriplesMap km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 .
+_:node1eplkgakex5 rr:column "[\"records\",\"@id\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 km-dev:isPartOfMapping _:node1epla8j9ox1 .
+_:node1eplkgakex1 km-dev:hasObjectMap _:node1eplkgakex5 .
 
-_:node1epla8j9ox5 rr:tableName "rail_stations.json" ;
+km-dev:PredicateObjectMap_406ff068-0972-4915-a7d3-52cc1574e124 rr:objectMap _:node1eplkgakex5 .
+
+km-dev:TriplesMap_b049bc34-cfee-4604-bd23-96ff15ce2bb4 rr:predicateObjectMap km-dev:PredicateObjectMap_406ff068-0972-4915-a7d3-52cc1574e124 .
+
+km-dev:PredicateObjectMap_406ff068-0972-4915-a7d3-52cc1574e124 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
+
+_:node1eplkgakex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_406ff068-0972-4915-a7d3-52cc1574e124 .
+
+km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 a rr:TriplesMap .
+
+_:node1eplkgakex1 km-dev:hasTriplesMap km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 .
+
+km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 km-dev:isPartOfMapping _:node1eplkgakex1 .
+
+_:node1eplkgakex6 rr:tableName "rail_stations.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasLogicalTable _:node1epla8j9ox5 .
+_:node1eplkgakex1 km-dev:hasLogicalTable _:node1eplkgakex6 .
 
-km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 rr:logicalTable _:node1epla8j9ox5 ;
-	rr:subjectMap _:node1epla8j9ox6 .
+km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 rr:logicalTable _:node1eplkgakex6 ;
+	rr:subjectMap _:node1eplkgakex7 .
 
-_:node1epla8j9ox1 km-dev:hasSubjectMap _:node1epla8j9ox6 .
+_:node1eplkgakex1 km-dev:hasSubjectMap _:node1eplkgakex7 .
 
-_:node1epla8j9ox6 km-dev:isPartOfMapping _:node1epla8j9ox1 ;
+_:node1eplkgakex7 km-dev:isPartOfMapping _:node1eplkgakex1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
-	rr:class <http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051> ;
+	rr:class etype:Geocoordinate_GID-120051 ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
 
-km-dev:PredicateObjectMap_834a65d3-b7b0-4721-878f-83de4c60f9ec rr:predicate <http://knowdive.disi.unitn.it/etype#has_longitude_GID-46270_Type-120051> .
+km-dev:PredicateObjectMap_19792683-c46f-4a1f-bf59-8f4ae39d8e39 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
 
-_:node1epla8j9ox7 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
+_:node1eplkgakex8 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasObjectMap _:node1epla8j9ox7 .
+_:node1eplkgakex1 km-dev:hasObjectMap _:node1eplkgakex8 .
 
-km-dev:PredicateObjectMap_834a65d3-b7b0-4721-878f-83de4c60f9ec rr:objectMap _:node1epla8j9ox7 .
+km-dev:PredicateObjectMap_19792683-c46f-4a1f-bf59-8f4ae39d8e39 rr:objectMap _:node1eplkgakex8 .
 
-km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 rr:predicateObjectMap km-dev:PredicateObjectMap_834a65d3-b7b0-4721-878f-83de4c60f9ec .
+km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 rr:predicateObjectMap km-dev:PredicateObjectMap_19792683-c46f-4a1f-bf59-8f4ae39d8e39 .
 
-km-dev:PredicateObjectMap_834a65d3-b7b0-4721-878f-83de4c60f9ec a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:PredicateObjectMap_19792683-c46f-4a1f-bf59-8f4ae39d8e39 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_834a65d3-b7b0-4721-878f-83de4c60f9ec .
+_:node1eplkgakex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_19792683-c46f-4a1f-bf59-8f4ae39d8e39 .
 
-km-dev:PredicateObjectMap_f540b85f-7754-4f5b-9c7f-87f5ec374178 rr:predicate <http://knowdive.disi.unitn.it/etype#has_latitude_GID-46263_Type-120051> .
+km-dev:PredicateObjectMap_76ac429b-2b62-41b4-9598-aa976b3b9b94 rr:predicate etype:has_longitude_GID-46270_Type-120051 .
 
-_:node1epla8j9ox8 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
+_:node1eplkgakex9 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasObjectMap _:node1epla8j9ox8 .
+_:node1eplkgakex1 km-dev:hasObjectMap _:node1eplkgakex9 .
 
-km-dev:PredicateObjectMap_f540b85f-7754-4f5b-9c7f-87f5ec374178 rr:objectMap _:node1epla8j9ox8 .
+km-dev:PredicateObjectMap_76ac429b-2b62-41b4-9598-aa976b3b9b94 rr:objectMap _:node1eplkgakex9 .
 
-km-dev:TriplesMap_b4b24d11-9b73-4bce-8c8a-6cba4b5b3809 rr:predicateObjectMap km-dev:PredicateObjectMap_f540b85f-7754-4f5b-9c7f-87f5ec374178 .
+km-dev:TriplesMap_4911e7df-79c6-4bb9-b061-21423d1440e0 rr:predicateObjectMap km-dev:PredicateObjectMap_76ac429b-2b62-41b4-9598-aa976b3b9b94 .
 
-km-dev:PredicateObjectMap_f540b85f-7754-4f5b-9c7f-87f5ec374178 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epla8j9ox1 .
+km-dev:PredicateObjectMap_76ac429b-2b62-41b4-9598-aa976b3b9b94 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1eplkgakex1 .
 
-_:node1epla8j9ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f540b85f-7754-4f5b-9c7f-87f5ec374178 .
+_:node1eplkgakex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_76ac429b-2b62-41b4-9598-aa976b3b9b94 .
