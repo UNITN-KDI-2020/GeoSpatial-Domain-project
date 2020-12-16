@@ -1,0 +1,557 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Impianto Sportivo Ito del Favero (Madonna Bianca) - Palestre"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040833"],
+                    "46270": ["11.134551"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Giardino centro sportivo Valnigra"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.051027"],
+                    "46270": ["11.143919"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Polivalente Levico"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.001019"],
+                    "46270": ["11.331713"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo sportivo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.436486"],
+                    "46270": ["11.029426"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo sportivo Villa"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.453685"],
+                    "46270": ["11.1167"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Impianto Sportivo G. Manazzon (ex Fogazzaro) - Piscine"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.055986"],
+                    "46270": ["11.13038"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro sportivo \"Don Onorio Spada\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05005"],
+                    "46270": ["11.14428"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo sportivo Predazzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["35.517491"],
+                    "46270": ["-86.580447"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto dello Sport"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.141734"],
+                    "46270": ["10.965146"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palestra artificiale Centro sportivo Le Busatte"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8778"],
+                    "46270": ["10.890844"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro sportivo comunale sito in via Ponte Alto a Cognola"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.073064"],
+                    "46270": ["11.148843"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto dello sport Predazzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.312041"],
+                    "46270": ["11.597544"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Area comunale Sopramonte campo sportivo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06997"],
+                    "46270": ["11.053298"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Intercomunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.930886"],
+                    "46270": ["11.088114"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto polifunzionale dello sport di Molveno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.141734"],
+                    "46270": ["10.965146"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo sportivo di Masen"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.17886"],
+                    "46270": ["11.16748"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto di Caldonazzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.987211"],
+                    "46270": ["11.276874"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Andalo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.17047"],
+                    "46270": ["11.004732"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Parco - Vigne campo sportivo via Fossa"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.919647"],
+                    "46270": ["10.865451"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo Sportivo PlanPalù"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["11.080965"],
+                    "46270": ["11.080965"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Impianto Sportivo G. Manazzon - Palestre"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.055977"],
+                    "46270": ["11.130358"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Impianto Sportivo Ito del Favero (Madonna Bianca) - Piscine"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040833"],
+                    "46270": ["11.134551"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Fiane"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.999943"],
+                    "46270": ["10.696392"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Campo sportivo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.43105"],
+                    "46270": ["11.107007"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto dello sport Predazzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.318723"],
+                    "46270": ["11.63492"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Trento Nord - Piscine Comunali"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.105628"],
+                    "46270": ["11.114881"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro sportivo Stava"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.288883"],
+                    "46270": ["11.507587"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Impianto Sportivo \"Al Zengio\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.817127"],
+                    "46270": ["10.949557"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo \"Mario Formolo\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.237649"],
+                    "46270": ["11.030604"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro sportivo (Palestra / Piscina)"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.012257"],
+                    "46270": ["11.297213"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto dello sport di Palù"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.159444"],
+                    "46270": ["11.1425"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto dello sport di Rovereto"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.89544"],
+                    "46270": ["11.041733"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Palazzetto Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.992757"],
+                    "46270": ["11.260839"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Trento Nord - Palazzetto"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.105628"],
+                    "46270": ["11.114881"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo Pinzolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.15977"],
+                    "46270": ["10.765027"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["BLM Group Arena - Palazzetto"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["46.040854"],
+                    "46270": ["11.122945"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+        "attributes": {
+            "2": ["Centro Sportivo \"Santa Caterina\" - Campi di calcio"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:11:36 GMT 2020",
+                "attributes": {
+                    "46263": ["45.757366"],
+                    "46270": ["11.003151"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 120048
+    }
+]

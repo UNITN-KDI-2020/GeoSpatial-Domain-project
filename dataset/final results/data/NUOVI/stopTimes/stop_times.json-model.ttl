@@ -1,0 +1,902 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1epl93k3ox1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "stop_times.json" ;
+	km-dev:modelPublicationTime "1608105709688"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Seconds\"}],[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Minutes\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Minutes\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Seconds\"}],[{\"columnName\":\"records\"},{\"columnName\":\"stop_sequence\"}],[{\"columnName\":\"records\"},{\"columnName\":\"stop_id\"}],[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Hours\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Hours\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Seconds\"}],[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Minutes\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Minutes\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Seconds\"}],[{\"columnName\":\"records\"},{\"columnName\":\"stop_sequence\"}],[{\"columnName\":\"records\"},{\"columnName\":\"stop_id\"}],[{\"columnName\":\"records\"},{\"columnName\":\"arrival_time\"},{\"columnName\":\"Hours\"}],[{\"columnName\":\"records\"},{\"columnName\":\"departure_time\"},{\"columnName\":\"Hours\"}]]" ;
+	km-dev:hasModelLabel "stop_times.json" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"stop_sequence\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-120054\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-1200541\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_stop_sequence_GID-120126_Type-120054\",
+                    \"DomainLabel\": \"etype:Stop_time_GID-1200541 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"stop_sequence\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"stop_sequence\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"arrival_time\"},
+                    {\"columnName\": \"Hours\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805631\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_hour_GID-81114_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805631 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Hours\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Hours\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"arrival_time\"},
+                    {\"columnName\": \"Minutes\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805631\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_minute_GID-81154_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805631\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Minutes\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Minutes\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"arrival_time\"},
+                    {\"columnName\": \"Seconds\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805631\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_second_GID-81156_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805631\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Seconds\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"arrival_time\\\"},{\\\"columnName\\\":\\\"Seconds\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"departure_time\"},
+                    {\"columnName\": \"Hours\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805632\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_hour_GID-81114_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805632 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Hours\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Hours\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"departure_time\"},
+                    {\"columnName\": \"Minutes\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805632\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_minute_GID-81154_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805632\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Minutes\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Minutes\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"departure_time\"},
+                    {\"columnName\": \"Seconds\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805632\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_second_GID-81156_Type-80563\",
+                    \"DomainLabel\": \"etype:Clock_time_GID-805632\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Seconds\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"departure_time\\\"},{\\\"columnName\\\":\\\"Seconds\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [
+                    {\"columnName\": \"records\"},
+                    {\"columnName\": \"stop_id\"}
+                ]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bus_stop_GID-45937\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bus_stop_GID-459371\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_stop_identifier_GID-120123_Type-45937\",
+                    \"DomainLabel\": \"etype:Bus_stop_GID-459371 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"stop_id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"stop_id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805631\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_arrival_time_GID-80845_Type-120054\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-1200541\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-120054\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-805632\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_departure_time_GID-80846_Type-120054\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Clock_time_GID-80563\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-1200541\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-120054\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Bus_stop_GID-459371\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_busStop_GID-45937_Type-120054\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Bus_stop_GID-45937\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-1200541\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Stop_time_GID-120054\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e a rr:TriplesMap .
+
+_:node1epl93k3ox1 km-dev:hasTriplesMap km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox2 rr:tableName "stop_times.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasLogicalTable _:node1epl93k3ox2 .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e rr:logicalTable _:node1epl93k3ox2 ;
+	rr:subjectMap _:node1epl93k3ox3 .
+
+_:node1epl93k3ox1 km-dev:hasSubjectMap _:node1epl93k3ox3 .
+
+_:node1epl93k3ox3 km-dev:isPartOfMapping _:node1epl93k3ox1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Stop_time_GID-1200541" ;
+	rr:class etype:Stop_time_GID-120054 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Stop_time_GID-1200541" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_43a0d075-3d96-47e2-9902-0407b098d07c rr:predicate etype:has_busStop_GID-45937_Type-120054 .
+
+km-dev:RefObjectMap_813aca8f-4b7d-4be8-9fdf-64c3ee430934 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap km-dev:RefObjectMap_813aca8f-4b7d-4be8-9fdf-64c3ee430934 .
+
+km-dev:PredicateObjectMap_43a0d075-3d96-47e2-9902-0407b098d07c rr:objectMap km-dev:RefObjectMap_813aca8f-4b7d-4be8-9fdf-64c3ee430934 .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e rr:predicateObjectMap km-dev:PredicateObjectMap_43a0d075-3d96-47e2-9902-0407b098d07c .
+
+km-dev:PredicateObjectMap_43a0d075-3d96-47e2-9902-0407b098d07c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_43a0d075-3d96-47e2-9902-0407b098d07c .
+
+km-dev:PredicateObjectMap_fe606ec9-0374-430f-a51f-0a1c9d852dfa rr:predicate etype:has_arrival_time_GID-80845_Type-120054 .
+
+km-dev:RefObjectMap_227a0633-bf9f-47b3-9cff-1b32510c027e a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap km-dev:RefObjectMap_227a0633-bf9f-47b3-9cff-1b32510c027e .
+
+km-dev:PredicateObjectMap_fe606ec9-0374-430f-a51f-0a1c9d852dfa rr:objectMap km-dev:RefObjectMap_227a0633-bf9f-47b3-9cff-1b32510c027e .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e rr:predicateObjectMap km-dev:PredicateObjectMap_fe606ec9-0374-430f-a51f-0a1c9d852dfa .
+
+km-dev:PredicateObjectMap_fe606ec9-0374-430f-a51f-0a1c9d852dfa a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_fe606ec9-0374-430f-a51f-0a1c9d852dfa .
+
+km-dev:PredicateObjectMap_f6315683-d33f-4e51-8374-d74d0b065fa4 rr:predicate etype:has_departure_time_GID-80846_Type-120054 .
+
+km-dev:RefObjectMap_90f82c12-266f-4b9e-b04d-2aaa0dbf4d19 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap km-dev:RefObjectMap_90f82c12-266f-4b9e-b04d-2aaa0dbf4d19 .
+
+km-dev:PredicateObjectMap_f6315683-d33f-4e51-8374-d74d0b065fa4 rr:objectMap km-dev:RefObjectMap_90f82c12-266f-4b9e-b04d-2aaa0dbf4d19 .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e rr:predicateObjectMap km-dev:PredicateObjectMap_f6315683-d33f-4e51-8374-d74d0b065fa4 .
+
+km-dev:PredicateObjectMap_f6315683-d33f-4e51-8374-d74d0b065fa4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f6315683-d33f-4e51-8374-d74d0b065fa4 .
+
+km-dev:PredicateObjectMap_c3c37eae-ceaf-417d-a81e-71ad3d9fa189 rr:predicate etype:has_stop_sequence_GID-120126_Type-120054 .
+
+_:node1epl93k3ox4 rr:column "[\"records\",\"stop_sequence\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox4 .
+
+km-dev:PredicateObjectMap_c3c37eae-ceaf-417d-a81e-71ad3d9fa189 rr:objectMap _:node1epl93k3ox4 .
+
+km-dev:TriplesMap_379b7304-1663-4995-8e92-f2d46fe5d61e rr:predicateObjectMap km-dev:PredicateObjectMap_c3c37eae-ceaf-417d-a81e-71ad3d9fa189 .
+
+km-dev:PredicateObjectMap_c3c37eae-ceaf-417d-a81e-71ad3d9fa189 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c3c37eae-ceaf-417d-a81e-71ad3d9fa189 .
+
+km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 a rr:TriplesMap .
+
+_:node1epl93k3ox1 km-dev:hasTriplesMap km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 .
+
+km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox5 rr:tableName "stop_times.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasLogicalTable _:node1epl93k3ox5 .
+
+km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 rr:logicalTable _:node1epl93k3ox5 ;
+	rr:subjectMap _:node1epl93k3ox6 .
+
+_:node1epl93k3ox1 km-dev:hasSubjectMap _:node1epl93k3ox6 .
+
+_:node1epl93k3ox6 km-dev:isPartOfMapping _:node1epl93k3ox1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Bus_stop_GID-459371" ;
+	rr:class etype:Bus_stop_GID-45937 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Bus_stop_GID-459371" .
+
+km-dev:PredicateObjectMap_9debba20-10d4-4d65-a67b-72537bed5828 rr:predicate etype:has_stop_identifier_GID-120123_Type-45937 .
+
+_:node1epl93k3ox7 rr:column "[\"records\",\"stop_id\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox7 .
+
+km-dev:PredicateObjectMap_9debba20-10d4-4d65-a67b-72537bed5828 rr:objectMap _:node1epl93k3ox7 .
+
+km-dev:TriplesMap_c7bf28e1-9dc0-4e57-a11e-5194acfd46a6 rr:predicateObjectMap km-dev:PredicateObjectMap_9debba20-10d4-4d65-a67b-72537bed5828 .
+
+km-dev:PredicateObjectMap_9debba20-10d4-4d65-a67b-72537bed5828 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9debba20-10d4-4d65-a67b-72537bed5828 .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e a rr:TriplesMap .
+
+_:node1epl93k3ox1 km-dev:hasTriplesMap km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox8 rr:tableName "stop_times.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasLogicalTable _:node1epl93k3ox8 .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e rr:logicalTable _:node1epl93k3ox8 ;
+	rr:subjectMap _:node1epl93k3ox9 .
+
+_:node1epl93k3ox1 km-dev:hasSubjectMap _:node1epl93k3ox9 .
+
+_:node1epl93k3ox9 km-dev:isPartOfMapping _:node1epl93k3ox1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Clock_time_GID-805631" ;
+	rr:class etype:Clock_time_GID-80563 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Clock_time_GID-805631" .
+
+km-dev:PredicateObjectMap_f0624a5d-eda2-4a16-8129-fca918adcabd rr:predicate etype:has_second_GID-81156_Type-80563 .
+
+_:node1epl93k3ox10 rr:column "[\"records\",\"arrival_time\",\"Seconds\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox10 .
+
+km-dev:PredicateObjectMap_f0624a5d-eda2-4a16-8129-fca918adcabd rr:objectMap _:node1epl93k3ox10 .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e rr:predicateObjectMap km-dev:PredicateObjectMap_f0624a5d-eda2-4a16-8129-fca918adcabd .
+
+km-dev:PredicateObjectMap_f0624a5d-eda2-4a16-8129-fca918adcabd a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f0624a5d-eda2-4a16-8129-fca918adcabd .
+
+km-dev:PredicateObjectMap_d13e23fb-6096-456b-a29e-71bbfbf34349 rr:predicate etype:has_minute_GID-81154_Type-80563 .
+
+_:node1epl93k3ox11 rr:column "[\"records\",\"arrival_time\",\"Minutes\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox11 .
+
+km-dev:PredicateObjectMap_d13e23fb-6096-456b-a29e-71bbfbf34349 rr:objectMap _:node1epl93k3ox11 .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e rr:predicateObjectMap km-dev:PredicateObjectMap_d13e23fb-6096-456b-a29e-71bbfbf34349 .
+
+km-dev:PredicateObjectMap_d13e23fb-6096-456b-a29e-71bbfbf34349 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d13e23fb-6096-456b-a29e-71bbfbf34349 .
+
+km-dev:PredicateObjectMap_996c4bfc-37e8-415e-aef5-a7dae179ec5f rr:predicate etype:has_hour_GID-81114_Type-80563 .
+
+_:node1epl93k3ox12 rr:column "[\"records\",\"arrival_time\",\"Hours\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox12 .
+
+km-dev:PredicateObjectMap_996c4bfc-37e8-415e-aef5-a7dae179ec5f rr:objectMap _:node1epl93k3ox12 .
+
+km-dev:TriplesMap_b938e0d6-564e-4d00-b383-1f00f57bcb9e rr:predicateObjectMap km-dev:PredicateObjectMap_996c4bfc-37e8-415e-aef5-a7dae179ec5f .
+
+km-dev:PredicateObjectMap_996c4bfc-37e8-415e-aef5-a7dae179ec5f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_996c4bfc-37e8-415e-aef5-a7dae179ec5f .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 a rr:TriplesMap .
+
+_:node1epl93k3ox1 km-dev:hasTriplesMap km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox13 rr:tableName "stop_times.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasLogicalTable _:node1epl93k3ox13 .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 rr:logicalTable _:node1epl93k3ox13 ;
+	rr:subjectMap _:node1epl93k3ox14 .
+
+_:node1epl93k3ox1 km-dev:hasSubjectMap _:node1epl93k3ox14 .
+
+_:node1epl93k3ox14 km-dev:isPartOfMapping _:node1epl93k3ox1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Clock_time_GID-805632" ;
+	rr:class etype:Clock_time_GID-80563 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Clock_time_GID-805632" .
+
+km-dev:PredicateObjectMap_72b74fb1-eb1a-4af6-ac17-d57ea5e9e6c1 rr:predicate etype:has_minute_GID-81154_Type-80563 .
+
+_:node1epl93k3ox15 rr:column "[\"records\",\"departure_time\",\"Minutes\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox15 .
+
+km-dev:PredicateObjectMap_72b74fb1-eb1a-4af6-ac17-d57ea5e9e6c1 rr:objectMap _:node1epl93k3ox15 .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 rr:predicateObjectMap km-dev:PredicateObjectMap_72b74fb1-eb1a-4af6-ac17-d57ea5e9e6c1 .
+
+km-dev:PredicateObjectMap_72b74fb1-eb1a-4af6-ac17-d57ea5e9e6c1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_72b74fb1-eb1a-4af6-ac17-d57ea5e9e6c1 .
+
+km-dev:PredicateObjectMap_3b7bc774-ca37-47d3-891a-0df0af5a5488 rr:predicate etype:has_second_GID-81156_Type-80563 .
+
+_:node1epl93k3ox16 rr:column "[\"records\",\"departure_time\",\"Seconds\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox16 .
+
+km-dev:PredicateObjectMap_3b7bc774-ca37-47d3-891a-0df0af5a5488 rr:objectMap _:node1epl93k3ox16 .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 rr:predicateObjectMap km-dev:PredicateObjectMap_3b7bc774-ca37-47d3-891a-0df0af5a5488 .
+
+km-dev:PredicateObjectMap_3b7bc774-ca37-47d3-891a-0df0af5a5488 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3b7bc774-ca37-47d3-891a-0df0af5a5488 .
+
+km-dev:PredicateObjectMap_6c6599cb-804c-489a-8c37-c6835dad9115 rr:predicate etype:has_hour_GID-81114_Type-80563 .
+
+_:node1epl93k3ox17 rr:column "[\"records\",\"departure_time\",\"Hours\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasObjectMap _:node1epl93k3ox17 .
+
+km-dev:PredicateObjectMap_6c6599cb-804c-489a-8c37-c6835dad9115 rr:objectMap _:node1epl93k3ox17 .
+
+km-dev:TriplesMap_bd4120f0-d86f-4e96-bfa9-0aca59a249d6 rr:predicateObjectMap km-dev:PredicateObjectMap_6c6599cb-804c-489a-8c37-c6835dad9115 .
+
+km-dev:PredicateObjectMap_6c6599cb-804c-489a-8c37-c6835dad9115 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epl93k3ox1 .
+
+_:node1epl93k3ox1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6c6599cb-804c-489a-8c37-c6835dad9115 .
