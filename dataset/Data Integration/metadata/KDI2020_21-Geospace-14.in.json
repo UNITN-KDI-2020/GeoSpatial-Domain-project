@@ -21,15 +21,9 @@
     "playground:teenshelter"="teenshelter",
     "latitude"="latitude",
     "longitude"="longitude",
-    "city"="City",
-    "housenumber"="HouseNumber",
-    "postal_code"="Postal Code",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "address_additional_information"="AddressInformation"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="24"
+"NumberItems"="18"
 

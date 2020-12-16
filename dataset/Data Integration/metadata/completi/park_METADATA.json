@@ -9,6 +9,11 @@
     "DatasetName":"KDI2020_21-Geospace-14.in",    
     "format": "json",
     "fields": {
+        "name": {
+            "type": "string",
+            "description": "name of the facility",
+            "data_definition": "core"
+        },   
         "playground:basketswing": {
             "type": "boolean",
             "description": "describe if the facility have a basketswing",
@@ -83,32 +88,7 @@
             "type": "boolean",
             "description": "describe if a teen shelter is available",
             "data_definition": "contextual"
-        },
-        "city": {
-            "type": "string",
-            "description": "the city component of the address",
-            "data_definition": "common"
-        },
-        "housenumber": {
-            "type": "string",
-            "description": "the house number component of the address",
-            "data_definition": "common"
-        },
-        "postal_code": {
-            "type": "string",
-            "description": "the postcode component of the address",
-            "data_definition": "common"
-        },
-        "StreetName": {
-            "type": "string",
-            "description": "the street component of the address",
-            "data_definition": "common"
-        },
-        "StreetType": {
-            "type": "string",
-            "description": "tyoe of street (street, place, etc)",
-            "data_definition": "common"
-        },        
+        },       
         "GeoCoordinate": {
             "type": "GeoCoordinate",
             "description": "object containing location information",

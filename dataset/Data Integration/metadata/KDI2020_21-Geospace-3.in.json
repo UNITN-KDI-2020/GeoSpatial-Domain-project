@@ -4,15 +4,10 @@
 "DatasetDescription"="Cafe in Trentino",
 "ColumnNames"={
     "name"="name",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode"
-    "City"="City",
     "latitude"="longitude",
     "longitude"="latitude"
 },
 "SourceDatasetURL"="https://dati.trentino.it/",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="6"
+"NumberItems"="3"

@@ -4,11 +4,6 @@
 "DatasetDescription"="libraries in Trentino",
 "ColumnNames"={
     "name"="name",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "HouseNumber"="HouseNumber",
-    "postal_code"="PostalCode"
-    "city"="City",
     "latitude"="latitude",
     "longitude"="longitude"
 },

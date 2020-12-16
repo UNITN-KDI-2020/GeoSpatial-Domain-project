@@ -8,14 +8,9 @@
     "name"="name",
     "latitude"="latitude",
     "longitude"="longitude",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "HouseNumber"="HouseNumber",
-    "PostalCode"="PostalCode"
-    "City"="City"
 },
 "SourceDatasetURL"="",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG" = "KDI2020_21-Geospace.dkg",
-"NumberItems"="10"
+"NumberItems"="5"
 

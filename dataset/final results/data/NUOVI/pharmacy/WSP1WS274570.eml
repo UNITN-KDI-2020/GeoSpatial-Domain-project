@@ -1,0 +1,2306 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Vinante"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.43025691666667"],
+                    "46270": ["11.68964295"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia De Gerloni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.073149"],
+                    "46270": ["11.0585528"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.4052386"],
+            "46270": ["11.0170999"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0163984"],
+            "46270": ["11.6339731"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Bolego Villazzano"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.04968462857143"],
+                    "46270": ["11.143652457142855"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0519685"],
+            "46270": ["10.8545176"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1542755"],
+                    "46270": ["11.8062406"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Pavani"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8858453"],
+                    "46270": ["11.0279101"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Romanese"],
+            "120067": ["Mo-Sa 08:30-12:30,15:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0114325"],
+                    "46270": ["11.302148"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Romani"],
+            "120067": ["Mo-Sa 08:00-12:15, 15:00-19:15"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1413451"],
+                    "46270": ["11.1071424"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.084496"],
+                    "46270": ["11.2177362"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Gagliardi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0046234"],
+                    "46270": ["10.8423483"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale Castelnuovo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0522737"],
+                    "46270": ["11.4926158"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.1874748"],
+            "46270": ["11.2584887"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia \"Grandi\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0738199"],
+                    "46270": ["11.1251916"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Dispensario farmaceutico"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0438265"],
+                    "46270": ["11.5525707"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3766041"],
+            "46270": ["11.6595457"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Franzellin"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.7575766"],
+                    "46270": ["11.0021142"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Alla Madonna"],
+            "120067": ["Mo-Sa 08:30-12:30,15:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0698069"],
+                    "46270": ["11.1230745"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.9151533"],
+            "46270": ["11.032628"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Chinaglia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.870688"],
+                    "46270": ["10.8765174"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9111219"],
+                    "46270": ["10.900851"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Madonna Delle Grazie"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8997823"],
+                    "46270": ["10.8441919"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0662491"],
+                    "46270": ["11.1228747"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.400882"],
+                    "46270": ["10.8461831"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0414192"],
+            "46270": ["11.2350016"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120067": ["Mo-Fr 08:30-19:00; Sa 08:30-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.070551"],
+                    "46270": ["11.1123177"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Margonari Ada"],
+            "120067": ["08:30-12:30,15:30-19:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.142562"],
+                    "46270": ["10.9662347"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0353784"],
+            "46270": ["10.8724215"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2592562"],
+            "46270": ["10.5851467"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3485815"],
+            "46270": ["11.0889288"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Vinotti"],
+            "120067": ["Mo-Sa 08:30-12:15; Mo-Sa 15:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.320896"],
+                    "46270": ["11.0655384"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Sa 08:30-12:30,15:30-19:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3520987"],
+                    "46270": ["10.9121689"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Santoni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0677922"],
+                    "46270": ["11.1223981"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia di Gardolo"],
+            "120067": ["Mo 15:00-19:00; Tu-Sa 09:00-12:00,15:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1064"],
+                    "46270": ["11.10862"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0623036"],
+            "46270": ["11.2429905"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Barbacovi"],
+            "120067": ["Mo-Fri 08:00-12:30; 14:45-19:15; Sa 8:00-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8830079"],
+                    "46270": ["11.0397548"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2988561"],
+            "46270": ["10.6927744"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.09823004"],
+            "46270": ["11.11097432"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Borsato"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0637581"],
+                    "46270": ["11.5239854"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8894599"],
+            "46270": ["11.0422041"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia dall'Armi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0676744"],
+                    "46270": ["11.1219136"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Morelli"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1335627"],
+                    "46270": ["11.2480642"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 09:15-12:15"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2725633"],
+                    "46270": ["11.4172234"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0605568"],
+            "46270": ["11.2413667"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3510072"],
+            "46270": ["10.6935363"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Thaler"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8898791"],
+                    "46270": ["11.0403937"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.15731848571429"],
+                    "46270": ["11.151260514285715"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0772173"],
+                    "46270": ["10.9082944"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Chinaglia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.87874090000001"],
+                    "46270": ["10.892332699999999"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Ravagni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.7591484"],
+                    "46270": ["11.0034033"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2907521"],
+            "46270": ["11.4620734"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia communale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.918279580000004"],
+                    "46270": ["10.832807"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2646016"],
+            "46270": ["11.0867259"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Mutalipassi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8868604"],
+                    "46270": ["10.8451646"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3021572"],
+            "46270": ["10.8105073"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2910265"],
+                    "46270": ["11.4602172"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9415"],
+                    "46270": ["11.1100893"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.4205104"],
+            "46270": ["11.6732782"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.915030879999996"],
+                    "46270": ["11.173691799999999"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Veterinaria"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0708418"],
+                    "46270": ["11.1234078"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Darma Il Farmastore"],
+            "120067": ["Mo 14:30-20:00; Tu-Su 09:00-20:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.068036"],
+                    "46270": ["11.223445"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Santoni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8843881"],
+                    "46270": ["11.018394"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.477323"],
+                    "46270": ["11.7702598"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.869393"],
+            "46270": ["11.073457"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1395384"],
+                    "46270": ["11.1119943"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Valore salute"],
+            "120067": ["Mo-Sa 08:30-12:30,15:00-19:00; PH closed"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0456752"],
+                    "46270": ["10.9524923"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Fontana"],
+            "120067": ["Mo-Sa 8:00-12:30,15:00-19:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1087268"],
+                    "46270": ["11.1116753"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Kamal"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0529786"],
+                    "46270": ["11.4104062"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale N.6"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0663058"],
+                    "46270": ["11.1541385"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Festa Parafarmacia Profumeria"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.376141"],
+                    "46270": ["11.6609796"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia San Giovanni"],
+            "120067": ["Mo-Sa 08:30-12:30, 15:30-19:30; Su 09:00-12:00, 16:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4200601"],
+                    "46270": ["11.6754117"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia ai Solteri"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0923859"],
+                    "46270": ["11.117635"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia \"Bolghera\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0580074"],
+                    "46270": ["11.1327642"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Giupponi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0069356"],
+                    "46270": ["11.1278389"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Crescini"],
+            "120067": ["Mo-Sa 08:30-12:00, Mo-Sa 15:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0598823"],
+                    "46270": ["11.2383047"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Madonna Bianca"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0401732"],
+                    "46270": ["11.1333734"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.840892"],
+            "46270": ["11.0084513"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.4767228"],
+            "46270": ["11.7420375"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Pieve Tesino"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0681123"],
+                    "46270": ["11.6117172"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Fusi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.848452"],
+                    "46270": ["10.5779212"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["SanitÃ "],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3655522"],
+                    "46270": ["11.0346924"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.9291659"],
+            "46270": ["11.0700857"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.1425363"],
+            "46270": ["11.1956614"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Cobelli"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8901056"],
+                    "46270": ["11.0432418"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacie Comunali"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9118599"],
+                    "46270": ["11.0252009"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia S. Giorgio"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8941621"],
+                    "46270": ["11.0281746"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.1010416"],
+            "46270": ["10.7362286"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Comunale 5"],
+            "120067": ["Tu-Su 09:00-19:30, Mo 14:00-19:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.86874476666666"],
+                    "46270": ["11.013692133333334"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["La farmacia di Roncafort"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0984636"],
+                    "46270": ["11.1020825"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Bettinazzi - R. & T. Pharma Snc"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9164495"],
+                    "46270": ["10.8856849"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Pizzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.067039"],
+                    "46270": ["11.2373933"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Pieve di Dino Ceschinelli"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9395171"],
+                    "46270": ["10.6391288"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Centrale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0539272"],
+                    "46270": ["11.4577617"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Sanit Service s.r.l."],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0669754"],
+                    "46270": ["11.1284969"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.4375538"],
+            "46270": ["11.1366928"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Alberto Foletto"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8885959"],
+                    "46270": ["10.7323059"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06097686"],
+                    "46270": ["11.24121066"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 09:00-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2484813"],
+                    "46270": ["11.1716149"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Redi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9175297"],
+                    "46270": ["10.8799242"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9264458"],
+                    "46270": ["11.0425935"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Campagnola"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2129567"],
+                    "46270": ["11.0913849"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Nardelli Gabriele"],
+            "120067": ["Mo-Fr 08:30-12:00, Mo-Sa 15:00-19:00, Sa 09:00-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9606101"],
+                    "46270": ["10.914025"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.734889"],
+            "46270": ["10.9395448"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.1747289"],
+            "46270": ["11.2209553"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Scaglia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1601535"],
+                    "46270": ["10.7654611"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2620746"],
+            "46270": ["11.8018422"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8865017"],
+            "46270": ["10.8426658"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale nÂ°1"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8917455"],
+                    "46270": ["11.0401438"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3260432"],
+            "46270": ["10.8740406"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale San DonÃ "],
+            "120067": ["Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.071609"],
+                    "46270": ["11.1402607"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0892787"],
+            "46270": ["11.1314234"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Malfatti"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.004345"],
+                    "46270": ["11.1949906"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8915027"],
+            "46270": ["10.9521966"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Soave"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8883664"],
+                    "46270": ["11.0444617"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Santa Chiara"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.063667"],
+                    "46270": ["11.1237066"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.894778"],
+                    "46270": ["10.8498354"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9013786"],
+                    "46270": ["11.0419026"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Campagnolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0167581"],
+                    "46270": ["11.1055828"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.9950813"],
+            "46270": ["11.2603123"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0534713"],
+                    "46270": ["11.1206301"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.2175233"],
+            "46270": ["11.0480565"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.7827256"],
+            "46270": ["11.1181305"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Brancaleoni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1522371"],
+                    "46270": ["11.0974831"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia Campagnola"],
+            "120067": ["Mo-Su 09:00-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2071628"],
+                    "46270": ["11.1000444"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Boni"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0333617"],
+                    "46270": ["10.7244513"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Folgaresi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9933445"],
+                    "46270": ["10.9717397"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120067": ["lunedÃ¬\t08:30â\u20ac\u201c12:15, 15â\u20ac\u201c19 martedÃ¬\t08:30â\u20ac\u201c12:15, 15â\u20ac\u201c19 mercoledÃ¬\t08:30â\u20ac\u201c12:15, 15â\u20ac\u201c19 giovedÃ¬\t08:30â\u20ac\u201c12:15, 15â\u20ac\u201c19venerdÃ¬\t08:30â\u20ac\u201c12:15, 15â\u20ac\u201c19 sabato\t08:30â\u20ac\u201c12:15 domenica\tChiuso"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1264001"],
+                    "46270": ["11.1165086"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Accorsi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8852245"],
+                    "46270": ["10.8409706"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Bailo"],
+            "120067": ["Mo-Sa 08:30-12:15,15:30-19:00; PH closed"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0537033"],
+                    "46270": ["11.4548787"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.04084136"],
+                    "46270": ["11.111329040000001"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8519644"],
+            "46270": ["10.9790058"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Teseo Francesco"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0703675"],
+                    "46270": ["11.4808667"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Gallina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3113252"],
+                    "46270": ["10.7572486"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Sa 08:30-12:15,15:30-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2818543"],
+                    "46270": ["11.4362112"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale Via Benacense"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8783602"],
+                    "46270": ["11.0334873"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale San Rocco"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.916653"],
+                    "46270": ["11.0633565"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia E' Qui"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8826228"],
+                    "46270": ["10.8541457"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Calliano"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9354307"],
+                    "46270": ["11.0940359"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia dott.ssa Venezian"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.918749"],
+                    "46270": ["10.8667757"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.0121165"],
+            "46270": ["11.299756"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale Cognola"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0767326"],
+                    "46270": ["11.1419881"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Turazza"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.079833171428575"],
+                    "46270": ["11.001860657142856"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0583792"],
+                    "46270": ["11.1215688"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia De Maffei"],
+            "120067": ["Mo-Sa 08:15-19:15"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3630657"],
+                    "46270": ["11.0330406"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3311395"],
+                    "46270": ["10.8781988"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Gallina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3159016"],
+                    "46270": ["10.8016006"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia dott.ssa Venezian"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9186901"],
+                    "46270": ["10.8653341"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8902428"],
+            "46270": ["10.6008618"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["farmacia comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8847764"],
+                    "46270": ["11.0082956"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.1756298"],
+            "46270": ["11.829935"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0625095"],
+                    "46270": ["11.6339287"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "120067": ["Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1906731"],
+                    "46270": ["11.1298443"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Clarina"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0487161"],
+                    "46270": ["11.1256929"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia San Lorenzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.076997"],
+                    "46270": ["11.119107"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["dott. Barbacovi  Giorgio"],
+            "120067": ["Mo-Fr 08:30-12:00, 15:30-19:00"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.977247"],
+                    "46270": ["11.09106066"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Zanini"],
+            "120067": ["Mo-Fr 08:30-12:15,15:30-19:15;Sa 08:30-12:15"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2146886"],
+                    "46270": ["11.118874"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Lamberto Gallo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0674124"],
+                    "46270": ["11.1241882"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia all'Angelo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2744403"],
+                    "46270": ["11.0479742"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Comunale \"San Camillo\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0655277"],
+                    "46270": ["11.1320121"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Valle dei Mocheni"],
+            "120067": ["Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00; Su off"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1091824"],
+                    "46270": ["11.3021324"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia \"San Bartolameo\""],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0537028"],
+                    "46270": ["11.1296266"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.3770566"],
+            "46270": ["11.6594938"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Parafarmacia CONAD"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.891211799999994"],
+                    "46270": ["11.040052862500001"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["45.8083537"],
+            "46270": ["10.5404483"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Ottaviani"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["45.817258"],
+                    "46270": ["10.9565781"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Tecnisan articoli sanitari"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0445596"],
+                    "46270": ["11.1286721"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.089857"],
+            "46270": ["11.1820539"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.15527"],
+                    "46270": ["11.7329018"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Nave San Rocco"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1672565"],
+                    "46270": ["11.110319"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Farmacia Baldrachi"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3305292"],
+                    "46270": ["11.0261202"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "2": ["Igea"],
+            "120067": ["Mo-Fr 08:30-12:30,15:00-19:00, Sa 08:30-12:30"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0608378"],
+                    "46270": ["11.1280488"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 17637
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 08:43:12 GMT 2020",
+        "attributes": {
+            "46263": ["46.01671136"],
+            "46270": ["10.94195908"]
+        },
+        "type": 120051
+    }
+]

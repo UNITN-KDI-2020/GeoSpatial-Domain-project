@@ -7,14 +7,9 @@
     "name"="name",
     "latitude"="latitude",
     "longitude"="longitude",
-    "city"="City",
-    "housenumber"="HouseNumber",
-    "PostalCode"="Postal Code",
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
     "hasAtm"="Atm"
 },
 "SourceDatasetURL"="www.openstreetmap.org",
 "SKG" = "KDI2020_21-Geospace.skg",
 "DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="9"
+"NumberItems"="4"
