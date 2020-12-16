@@ -1,0 +1,777 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Grumo - S. Michele"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.193903"],
+                    "46270": ["11.1279605"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/311380464"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Calceranica"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0073126"],
+                    "46270": ["11.2407723"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/330400880"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Pergine Valsugana"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0629337"],
+                    "46270": ["11.2321578"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/6817033417"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Trento"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0722416"],
+                    "46270": ["11.1193186"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381735"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Taio"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3221375"],
+                    "46270": ["11.0677615"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/279318365"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mezzocorona"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2072009"],
+                    "46270": ["11.1286919"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381719"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Lavis"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.148216"],
+                    "46270": ["11.0962279"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/4321052459"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Villazzano"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0458891"],
+                    "46270": ["11.1393028"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/457181953"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mezzocorona Ferrovia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2063729"],
+                    "46270": ["11.1273546"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/6018351090"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Ala"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.759113"],
+                    "46270": ["10.9963774"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/2518597829"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Borgo Valsugana Centro"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0513699"],
+                    "46270": ["11.4540691"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/959514411"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Caldonazzo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9974291"],
+                    "46270": ["11.2649955"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/330400817"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.337589191666666"],
+                    "46270": ["11.063061525"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/142484584"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["MalÃ©"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3535817"],
+                    "46270": ["10.9170884"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/335595260"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Strigno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0511847"],
+                    "46270": ["11.5144411"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/393163600"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.32213272"],
+                    "46270": ["11.06777614"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/131701013"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Levico Terme"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0059194"],
+                    "46270": ["11.3049369"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/598464304"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mori"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8612938"],
+                    "46270": ["11.0024377"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381720"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mezzana"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.31344221578947"],
+                    "46270": ["10.801360247368422"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/432811625"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Trento FTM"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.074360025000004"],
+                    "46270": ["11.120796175"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/24875421"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.193912180000005"],
+                    "46270": ["11.12794358"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/75310574"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Zambana"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1512683"],
+                    "46270": ["11.1007472"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/311380553"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.21348436666667"],
+                    "46270": ["11.093382283333334"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/72369700"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Trento San Bartolameo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.047565"],
+                    "46270": ["11.1352074"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/6813208618"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mollaro"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2948118"],
+                    "46270": ["11.0682629"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/279318407"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Roncegno Bagni-Marter"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0363321"],
+                    "46270": ["11.3986395"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/4276907416"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.214363479999996"],
+                    "46270": ["11.118971579999998"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/73089906"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["San Cristoforo al Lago - Ischia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0397311"],
+                    "46270": ["11.2339293"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/6817029780"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.20639313333333"],
+                    "46270": ["11.1273386"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/72370243"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Dermulo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3375743"],
+                    "46270": ["11.0630878"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/415948281"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1080627"],
+                    "46270": ["11.104632485714285"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/99012770"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Avio"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.7337382"],
+                    "46270": ["10.9560297"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381712"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Nave S. Felice"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.1678799"],
+                    "46270": ["11.1137509"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/311380528"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Trento Santa Chiara"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.05438"],
+                    "46270": ["11.1354677"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/270720712"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Cles"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.36448875555556"],
+                    "46270": ["11.038868888888889"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/80280397"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Gardolo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.10806"],
+                    "46270": ["11.1046112"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/311382070"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Trento Roncafort"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.11138258571429"],
+                    "46270": ["11.094189942857142"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/99496068"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Serravalle all'Adige"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.808218"],
+                    "46270": ["11.015147"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381734"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Povo-Mesiano"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0649234"],
+                    "46270": ["11.1425787"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/4922948640"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Borghetto sull'Adige"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.6968932"],
+                    "46270": ["10.9271072"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381713"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Tezze di Grigno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9904101"],
+                    "46270": ["11.6696124"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/393163669"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.29482374285715"],
+                    "46270": ["11.0682599"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/142896968"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Rovereto"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["45.8908227"],
+                    "46270": ["11.0339061"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/1764381725"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.35355082857143"],
+                    "46270": ["10.917098999999999"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/99858838"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mezzolombardo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2134458"],
+                    "46270": ["11.0934429"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/2757315482"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Grigno"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0153357"],
+                    "46270": ["11.6249743"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/761090461"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Borgo Valsugana Est"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0524061"],
+                    "46270": ["11.4638678"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/959514403"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Mezzocorona Borgata"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2143496"],
+                    "46270": ["11.118986"]
+                },
+                "type": 120051
+            }],
+            "39085": ["node/867538756"]
+        },
+        "type": 22321
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+        "attributes": {
+            "2": ["Lavis"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 15:25:52 GMT 2020",
+                "attributes": {
+                    "46263": ["46.14010067142857"],
+                    "46270": ["11.106213085714284"]
+                },
+                "type": 120051
+            }],
+            "39085": ["way/661764646"]
+        },
+        "type": 22321
+    }
+]

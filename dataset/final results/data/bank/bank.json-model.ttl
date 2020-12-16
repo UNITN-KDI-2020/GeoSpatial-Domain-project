@@ -6,14 +6,13 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1epgqp812x1 a km-dev:R2RMLMapping ;
+_:node1epk1rm87x1 a km-dev:R2RMLMapping ;
 	km-dev:sourceName "bank.json" ;
-	km-dev:modelPublicationTime "1607956471842"^^xsd:long ;
+	km-dev:modelPublicationTime "1608064555271"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"city\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"StreetName\"}],[{\"columnName\":\"records\"},{\"columnName\":\"PostalCode\"}],[{\"columnName\":\"records\"},{\"columnName\":\"HouseNumber\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"StreetType\"}],[{\"columnName\":\"records\"},{\"columnName\":\"hasAtm\"}]]" ;
-	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"city\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"StreetName\"}],[{\"columnName\":\"records\"},{\"columnName\":\"PostalCode\"}],[{\"columnName\":\"records\"},{\"columnName\":\"HouseNumber\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"StreetType\"}],[{\"columnName\":\"records\"},{\"columnName\":\"hasAtm\"}]]" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"hasAtm\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"hasAtm\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}]]" ;
 	km-dev:hasModelLabel "bank.json" ;
-	km-dev:hasBaseURI "http://localhost:8080/source/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SetSemanticTypeCommand\",
@@ -150,254 +149,6 @@ _:node1epgqp812x1 a km-dev:R2RMLMapping ;
                 \"type\": \"hNodeId\",
                 \"value\": [
                     {\"columnName\": \"records\"},
-                    {\"columnName\": \"city\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_city_GID-45988_Type-45803\",
-                    \"DomainLabel\": \"etype:Address_GID-458031 (add)\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"city\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"city\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"records\"},
-                    {\"columnName\": \"StreetType\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_street_type_GID-120108_Type-45803\",
-                    \"DomainLabel\": \"etype:Address_GID-458031\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"StreetType\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"StreetType\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"records\"},
-                    {\"columnName\": \"HouseNumber\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_house_number_GID-120061_Type-45803\",
-                    \"DomainLabel\": \"etype:Address_GID-458031\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"HouseNumber\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"HouseNumber\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"records\"},
-                    {\"columnName\": \"StreetName\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_street_name_GID-33999_Type-45803\",
-                    \"DomainLabel\": \"etype:Address_GID-458031\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"StreetName\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"StreetName\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"records\"},
                     {\"columnName\": \"hasAtm\"}
                 ]
             },
@@ -460,68 +211,6 @@ _:node1epgqp812x1 a km-dev:R2RMLMapping ;
                 \"type\": \"hNodeId\",
                 \"value\": [
                     {\"columnName\": \"records\"},
-                    {\"columnName\": \"PostalCode\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"isPrimary\": true,
-                    \"isProvenance\": false,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_zip_code_GID-34110_Type-45803\",
-                    \"DomainLabel\": \"etype:Address_GID-458031\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"PostalCode\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"records\\\"},{\\\"columnName\\\":\\\"PostalCode\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"records\"},
                     {\"columnName\": \"name\"}
                 ]
             },
@@ -539,12 +228,12 @@ _:node1epgqp812x1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-14896\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-148961\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132\",
-                    \"DomainLabel\": \"etype:Location_GID-1321\"
+                    \"DomainLabel\": \"etype:Bank_GID-148961\"
                 }]
             },
             {
@@ -588,77 +277,11 @@ _:node1epgqp812x1 a km-dev:R2RMLMapping ;
                 \"name\": \"edge\",
                 \"type\": \"other\",
                 \"value\": {
-                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Address_GID-458031\",
-                    \"edgeId\": \"http://www.w3.org/2000/01/rdf-schema#subClassOf\",
-                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Address_GID-45803\",
-                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
-                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"AddLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
                     \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
-                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_geocoordinate_GID-120051_Type-132\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_point_GID-31970_Type-120050\",
                     \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
-                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
-                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"AddLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-148961\",
-                    \"edgeId\": \"http://www.w3.org/2000/01/rdf-schema#subClassOf\",
-                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-14896\",
-                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-1321\",
-                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-132\"
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-148961\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Bank_GID-14896\"
                 }
             },
             {
@@ -676,303 +299,136 @@ _:node1epgqp812x1 a km-dev:R2RMLMapping ;
     }
 ]""" .
 
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 a rr:TriplesMap .
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 a rr:TriplesMap .
 
-_:node1epgqp812x1 km-dev:hasTriplesMap km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 .
+_:node1epk1rm87x1 km-dev:hasTriplesMap km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 .
 
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 km-dev:isPartOfMapping _:node1epgqp812x1 .
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x2 rr:tableName "bank.json" ;
+_:node1epk1rm87x2 rr:tableName "bank.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasLogicalTable _:node1epgqp812x2 .
+_:node1epk1rm87x1 km-dev:hasLogicalTable _:node1epk1rm87x2 .
 
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 rr:logicalTable _:node1epgqp812x2 ;
-	rr:subjectMap _:node1epgqp812x3 .
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 rr:logicalTable _:node1epk1rm87x2 ;
+	rr:subjectMap _:node1epk1rm87x3 .
 
-_:node1epgqp812x1 km-dev:hasSubjectMap _:node1epgqp812x3 .
+_:node1epk1rm87x1 km-dev:hasSubjectMap _:node1epk1rm87x3 .
 
-_:node1epgqp812x3 km-dev:isPartOfMapping _:node1epgqp812x1 ;
-	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Location_GID-1321" ;
-	rr:class etype:Location_GID-132 ;
-	rr:termType rr:BlankNode ;
-	km-dev:namePrefix "etype:Location_GID-1321" ;
-	a km-dev:steinerTreeRootNode .
-
-km-dev:PredicateObjectMap_e10eb917-7fee-46c2-9910-e0eb40c3a3ff rr:predicate rdfs:subClassOf .
-
-km-dev:RefObjectMap_9f13b282-5c47-4926-b675-3604980d4489 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap km-dev:RefObjectMap_9f13b282-5c47-4926-b675-3604980d4489 .
-
-km-dev:PredicateObjectMap_e10eb917-7fee-46c2-9910-e0eb40c3a3ff rr:objectMap km-dev:RefObjectMap_9f13b282-5c47-4926-b675-3604980d4489 .
-
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 rr:predicateObjectMap km-dev:PredicateObjectMap_e10eb917-7fee-46c2-9910-e0eb40c3a3ff .
-
-km-dev:PredicateObjectMap_e10eb917-7fee-46c2-9910-e0eb40c3a3ff a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e10eb917-7fee-46c2-9910-e0eb40c3a3ff .
-
-km-dev:PredicateObjectMap_36a1c99c-d02a-4be1-a78c-7e0bc1c54e97 rr:predicate rdfs:subClassOf .
-
-km-dev:RefObjectMap_756d3f91-6c48-42e5-838a-06b2745f6d9e a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap km-dev:RefObjectMap_756d3f91-6c48-42e5-838a-06b2745f6d9e .
-
-km-dev:PredicateObjectMap_36a1c99c-d02a-4be1-a78c-7e0bc1c54e97 rr:objectMap km-dev:RefObjectMap_756d3f91-6c48-42e5-838a-06b2745f6d9e .
-
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 rr:predicateObjectMap km-dev:PredicateObjectMap_36a1c99c-d02a-4be1-a78c-7e0bc1c54e97 .
-
-km-dev:PredicateObjectMap_36a1c99c-d02a-4be1-a78c-7e0bc1c54e97 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_36a1c99c-d02a-4be1-a78c-7e0bc1c54e97 .
-
-km-dev:PredicateObjectMap_943cc04e-f458-431f-a138-ee8099e2cb59 rr:predicate etype:has_geocoordinate_GID-120051_Type-132 .
-
-km-dev:RefObjectMap_1552cd78-637a-45fb-9d78-a4de3336fe38 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap km-dev:RefObjectMap_1552cd78-637a-45fb-9d78-a4de3336fe38 .
-
-km-dev:PredicateObjectMap_943cc04e-f458-431f-a138-ee8099e2cb59 rr:objectMap km-dev:RefObjectMap_1552cd78-637a-45fb-9d78-a4de3336fe38 .
-
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 rr:predicateObjectMap km-dev:PredicateObjectMap_943cc04e-f458-431f-a138-ee8099e2cb59 .
-
-km-dev:PredicateObjectMap_943cc04e-f458-431f-a138-ee8099e2cb59 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_943cc04e-f458-431f-a138-ee8099e2cb59 .
-
-km-dev:PredicateObjectMap_a826652d-1ad3-40b3-9e1a-c6840afda62f rr:predicate etype:has_name_GID-2_Type-132 .
-
-_:node1epgqp812x4 rr:column "[\"records\",\"name\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x4 .
-
-km-dev:PredicateObjectMap_a826652d-1ad3-40b3-9e1a-c6840afda62f rr:objectMap _:node1epgqp812x4 .
-
-km-dev:TriplesMap_aa4ea252-c473-489a-9ba1-9a70f5409bf6 rr:predicateObjectMap km-dev:PredicateObjectMap_a826652d-1ad3-40b3-9e1a-c6840afda62f .
-
-km-dev:PredicateObjectMap_a826652d-1ad3-40b3-9e1a-c6840afda62f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a826652d-1ad3-40b3-9e1a-c6840afda62f .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 a rr:TriplesMap .
-
-_:node1epgqp812x1 km-dev:hasTriplesMap km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x5 rr:tableName "bank.json" ;
-	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasLogicalTable _:node1epgqp812x5 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:logicalTable _:node1epgqp812x5 ;
-	rr:subjectMap _:node1epgqp812x6 .
-
-_:node1epgqp812x1 km-dev:hasSubjectMap _:node1epgqp812x6 .
-
-_:node1epgqp812x6 km-dev:isPartOfMapping _:node1epgqp812x1 ;
-	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Address_GID-458031" ;
-	rr:class etype:Address_GID-45803 ;
-	rr:termType rr:BlankNode ;
-	km-dev:namePrefix "etype:Address_GID-458031" .
-
-km-dev:PredicateObjectMap_9b51243f-5e24-4d1a-bd7f-ba2d129dbf2b rr:predicate etype:has_city_GID-45988_Type-45803 .
-
-_:node1epgqp812x7 rr:column "[\"records\",\"city\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x7 .
-
-km-dev:PredicateObjectMap_9b51243f-5e24-4d1a-bd7f-ba2d129dbf2b rr:objectMap _:node1epgqp812x7 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:predicateObjectMap km-dev:PredicateObjectMap_9b51243f-5e24-4d1a-bd7f-ba2d129dbf2b .
-
-km-dev:PredicateObjectMap_9b51243f-5e24-4d1a-bd7f-ba2d129dbf2b a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9b51243f-5e24-4d1a-bd7f-ba2d129dbf2b .
-
-km-dev:PredicateObjectMap_2e23fe90-53b4-4360-bb8f-0f9ea9c4b38d rr:predicate etype:has_street_name_GID-33999_Type-45803 .
-
-_:node1epgqp812x8 rr:column "[\"records\",\"StreetName\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x8 .
-
-km-dev:PredicateObjectMap_2e23fe90-53b4-4360-bb8f-0f9ea9c4b38d rr:objectMap _:node1epgqp812x8 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:predicateObjectMap km-dev:PredicateObjectMap_2e23fe90-53b4-4360-bb8f-0f9ea9c4b38d .
-
-km-dev:PredicateObjectMap_2e23fe90-53b4-4360-bb8f-0f9ea9c4b38d a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_2e23fe90-53b4-4360-bb8f-0f9ea9c4b38d .
-
-km-dev:PredicateObjectMap_6ae53043-faf4-477c-aa12-dad477c3c48f rr:predicate etype:has_zip_code_GID-34110_Type-45803 .
-
-_:node1epgqp812x9 rr:column "[\"records\",\"PostalCode\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x9 .
-
-km-dev:PredicateObjectMap_6ae53043-faf4-477c-aa12-dad477c3c48f rr:objectMap _:node1epgqp812x9 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:predicateObjectMap km-dev:PredicateObjectMap_6ae53043-faf4-477c-aa12-dad477c3c48f .
-
-km-dev:PredicateObjectMap_6ae53043-faf4-477c-aa12-dad477c3c48f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6ae53043-faf4-477c-aa12-dad477c3c48f .
-
-km-dev:PredicateObjectMap_3122ec2c-ed79-4ba5-b98b-f2741d66fed7 rr:predicate etype:has_house_number_GID-120061_Type-45803 .
-
-_:node1epgqp812x10 rr:column "[\"records\",\"HouseNumber\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x10 .
-
-km-dev:PredicateObjectMap_3122ec2c-ed79-4ba5-b98b-f2741d66fed7 rr:objectMap _:node1epgqp812x10 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:predicateObjectMap km-dev:PredicateObjectMap_3122ec2c-ed79-4ba5-b98b-f2741d66fed7 .
-
-km-dev:PredicateObjectMap_3122ec2c-ed79-4ba5-b98b-f2741d66fed7 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3122ec2c-ed79-4ba5-b98b-f2741d66fed7 .
-
-km-dev:PredicateObjectMap_84f643e9-3434-4f0d-9481-b3d23ca26e2a rr:predicate etype:has_street_type_GID-120108_Type-45803 .
-
-_:node1epgqp812x11 rr:column "[\"records\",\"StreetType\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x11 .
-
-km-dev:PredicateObjectMap_84f643e9-3434-4f0d-9481-b3d23ca26e2a rr:objectMap _:node1epgqp812x11 .
-
-km-dev:TriplesMap_3039bb76-17f9-4b61-8d98-4ba0b3780ab3 rr:predicateObjectMap km-dev:PredicateObjectMap_84f643e9-3434-4f0d-9481-b3d23ca26e2a .
-
-km-dev:PredicateObjectMap_84f643e9-3434-4f0d-9481-b3d23ca26e2a a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_84f643e9-3434-4f0d-9481-b3d23ca26e2a .
-
-km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 a rr:TriplesMap .
-
-_:node1epgqp812x1 km-dev:hasTriplesMap km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 .
-
-km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x12 rr:tableName "bank.json" ;
-	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
-
-_:node1epgqp812x1 km-dev:hasLogicalTable _:node1epgqp812x12 .
-
-km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 rr:logicalTable _:node1epgqp812x12 ;
-	rr:subjectMap _:node1epgqp812x13 .
-
-_:node1epgqp812x1 km-dev:hasSubjectMap _:node1epgqp812x13 .
-
-_:node1epgqp812x13 km-dev:isPartOfMapping _:node1epgqp812x1 ;
+_:node1epk1rm87x3 km-dev:isPartOfMapping _:node1epk1rm87x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Bank_GID-148961" ;
 	rr:class etype:Bank_GID-14896 ;
 	rr:termType rr:BlankNode ;
-	km-dev:namePrefix "etype:Bank_GID-148961" .
+	km-dev:namePrefix "etype:Bank_GID-148961" ;
+	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_47c02189-afce-416f-af75-5a84d3c4d123 rr:predicate etype:has_cash_machine_GID-16050_Type-14896 .
+km-dev:PredicateObjectMap_c16427dd-b70c-4c9e-9919-ae4ce2f9a451 rr:predicate etype:has_point_GID-31970_Type-120050 .
 
-_:node1epgqp812x14 rr:column "[\"records\",\"hasAtm\"]" ;
+km-dev:RefObjectMap_134b888e-0477-4024-9c61-5787dfac4a5a a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
+
+_:node1epk1rm87x1 km-dev:hasObjectMap km-dev:RefObjectMap_134b888e-0477-4024-9c61-5787dfac4a5a .
+
+km-dev:PredicateObjectMap_c16427dd-b70c-4c9e-9919-ae4ce2f9a451 rr:objectMap km-dev:RefObjectMap_134b888e-0477-4024-9c61-5787dfac4a5a .
+
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 rr:predicateObjectMap km-dev:PredicateObjectMap_c16427dd-b70c-4c9e-9919-ae4ce2f9a451 .
+
+km-dev:PredicateObjectMap_c16427dd-b70c-4c9e-9919-ae4ce2f9a451 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
+
+_:node1epk1rm87x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c16427dd-b70c-4c9e-9919-ae4ce2f9a451 .
+
+km-dev:PredicateObjectMap_c50a455f-19b3-436a-8808-732a597ffecc rr:predicate etype:has_cash_machine_GID-16050_Type-14896 .
+
+_:node1epk1rm87x4 rr:column "[\"records\",\"hasAtm\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x14 .
+_:node1epk1rm87x1 km-dev:hasObjectMap _:node1epk1rm87x4 .
 
-km-dev:PredicateObjectMap_47c02189-afce-416f-af75-5a84d3c4d123 rr:objectMap _:node1epgqp812x14 .
+km-dev:PredicateObjectMap_c50a455f-19b3-436a-8808-732a597ffecc rr:objectMap _:node1epk1rm87x4 .
 
-km-dev:TriplesMap_87c9b6eb-adba-455f-b5b8-1a980a459179 rr:predicateObjectMap km-dev:PredicateObjectMap_47c02189-afce-416f-af75-5a84d3c4d123 .
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 rr:predicateObjectMap km-dev:PredicateObjectMap_c50a455f-19b3-436a-8808-732a597ffecc .
 
-km-dev:PredicateObjectMap_47c02189-afce-416f-af75-5a84d3c4d123 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+km-dev:PredicateObjectMap_c50a455f-19b3-436a-8808-732a597ffecc a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_47c02189-afce-416f-af75-5a84d3c4d123 .
+_:node1epk1rm87x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c50a455f-19b3-436a-8808-732a597ffecc .
 
-km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 a rr:TriplesMap .
+km-dev:PredicateObjectMap_458b657d-4926-4003-87be-37006493ff26 rr:predicate etype:has_name_GID-2_Type-132 .
 
-_:node1epgqp812x1 km-dev:hasTriplesMap km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 .
+_:node1epk1rm87x5 rr:column "[\"records\",\"name\"]" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 km-dev:isPartOfMapping _:node1epgqp812x1 .
+_:node1epk1rm87x1 km-dev:hasObjectMap _:node1epk1rm87x5 .
 
-_:node1epgqp812x15 rr:tableName "bank.json" ;
+km-dev:PredicateObjectMap_458b657d-4926-4003-87be-37006493ff26 rr:objectMap _:node1epk1rm87x5 .
+
+km-dev:TriplesMap_dcaa4a55-4ae7-49f9-ad3a-abf314dfec12 rr:predicateObjectMap km-dev:PredicateObjectMap_458b657d-4926-4003-87be-37006493ff26 .
+
+km-dev:PredicateObjectMap_458b657d-4926-4003-87be-37006493ff26 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
+
+_:node1epk1rm87x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_458b657d-4926-4003-87be-37006493ff26 .
+
+km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c a rr:TriplesMap .
+
+_:node1epk1rm87x1 km-dev:hasTriplesMap km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c .
+
+km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c km-dev:isPartOfMapping _:node1epk1rm87x1 .
+
+_:node1epk1rm87x6 rr:tableName "bank.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasLogicalTable _:node1epgqp812x15 .
+_:node1epk1rm87x1 km-dev:hasLogicalTable _:node1epk1rm87x6 .
 
-km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 rr:logicalTable _:node1epgqp812x15 ;
-	rr:subjectMap _:node1epgqp812x16 .
+km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c rr:logicalTable _:node1epk1rm87x6 ;
+	rr:subjectMap _:node1epk1rm87x7 .
 
-_:node1epgqp812x1 km-dev:hasSubjectMap _:node1epgqp812x16 .
+_:node1epk1rm87x1 km-dev:hasSubjectMap _:node1epk1rm87x7 .
 
-_:node1epgqp812x16 km-dev:isPartOfMapping _:node1epgqp812x1 ;
+_:node1epk1rm87x7 km-dev:isPartOfMapping _:node1epk1rm87x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
 	rr:class etype:Geocoordinate_GID-120051 ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
 
-km-dev:PredicateObjectMap_0d845a21-3ae9-4ead-bdab-cfd91e85db18 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
+km-dev:PredicateObjectMap_c64b2b3b-33fc-471c-a764-1e36a0740c20 rr:predicate etype:has_longitude_GID-46270_Type-120051 .
 
-_:node1epgqp812x17 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
+_:node1epk1rm87x8 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x17 .
+_:node1epk1rm87x1 km-dev:hasObjectMap _:node1epk1rm87x8 .
 
-km-dev:PredicateObjectMap_0d845a21-3ae9-4ead-bdab-cfd91e85db18 rr:objectMap _:node1epgqp812x17 .
+km-dev:PredicateObjectMap_c64b2b3b-33fc-471c-a764-1e36a0740c20 rr:objectMap _:node1epk1rm87x8 .
 
-km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 rr:predicateObjectMap km-dev:PredicateObjectMap_0d845a21-3ae9-4ead-bdab-cfd91e85db18 .
+km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c rr:predicateObjectMap km-dev:PredicateObjectMap_c64b2b3b-33fc-471c-a764-1e36a0740c20 .
 
-km-dev:PredicateObjectMap_0d845a21-3ae9-4ead-bdab-cfd91e85db18 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+km-dev:PredicateObjectMap_c64b2b3b-33fc-471c-a764-1e36a0740c20 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0d845a21-3ae9-4ead-bdab-cfd91e85db18 .
+_:node1epk1rm87x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c64b2b3b-33fc-471c-a764-1e36a0740c20 .
 
-km-dev:PredicateObjectMap_32604724-3151-4d0a-8078-e02f9b37e49d rr:predicate etype:has_longitude_GID-46270_Type-120051 .
+km-dev:PredicateObjectMap_c1df2caa-6533-42f6-bf24-e15c56d25a40 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
 
-_:node1epgqp812x18 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
+_:node1epk1rm87x9 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasObjectMap _:node1epgqp812x18 .
+_:node1epk1rm87x1 km-dev:hasObjectMap _:node1epk1rm87x9 .
 
-km-dev:PredicateObjectMap_32604724-3151-4d0a-8078-e02f9b37e49d rr:objectMap _:node1epgqp812x18 .
+km-dev:PredicateObjectMap_c1df2caa-6533-42f6-bf24-e15c56d25a40 rr:objectMap _:node1epk1rm87x9 .
 
-km-dev:TriplesMap_95452287-e872-40e7-b580-4029829d2893 rr:predicateObjectMap km-dev:PredicateObjectMap_32604724-3151-4d0a-8078-e02f9b37e49d .
+km-dev:TriplesMap_23ce6255-250e-4b2d-a1d4-63a272f3544c rr:predicateObjectMap km-dev:PredicateObjectMap_c1df2caa-6533-42f6-bf24-e15c56d25a40 .
 
-km-dev:PredicateObjectMap_32604724-3151-4d0a-8078-e02f9b37e49d a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1epgqp812x1 .
+km-dev:PredicateObjectMap_c1df2caa-6533-42f6-bf24-e15c56d25a40 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epk1rm87x1 .
 
-_:node1epgqp812x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_32604724-3151-4d0a-8078-e02f9b37e49d .
+_:node1epk1rm87x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c1df2caa-6533-42f6-bf24-e15c56d25a40 .
