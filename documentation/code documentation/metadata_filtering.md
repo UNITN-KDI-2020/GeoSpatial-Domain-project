@@ -2,27 +2,8 @@
 
 ## Scope
 
-The scope of the script is to filter the metadata of the file.
+The scope of the script is to filter the metadata file, from one phase to the other during the fields filtering.
 
 ## How it work
 
-Using the Overpass library, we ran the following query:
-
-```
-[out:json][timeout:25];
-// fetch area “Trentino” to search in
-( area["name"="Provincia di Trento"]; )->.searchArea;
-// gather results
-(
-  // query part for: “highway=path”
-  node["highway"="path"](area.searchArea);
-  way["highway"="path"](area.searchArea);
-  relation["highway"="path"](area.searchArea);
-);
-// print results
-out body;
->;
-out skel qt;
-```
-
-The result was then saved inside a GeoJSON file.
+The script read the JSON file that contain the data and list the fields that continue to be used inside it. Then it read all the fields listed inside the metadata file and if some of this fields are not used anymore they are removed. At the end the modification was saved on the specified destination folder.
