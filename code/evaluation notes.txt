@@ -1,0 +1,375 @@
+Alpha:
+
+Accommodation
+Apartment
+CampingPitch
+House
+SingleFamilyResidence
+Room
+HotelRoom
+MeetingRoom
+Suite
+AdministrativeArea
+City
+Country
+SchoolDistrict
+State
+CivicStructure
+Airport
+Aquarium
+Beach
+BoatTerminal
+Bridge
+BusStation
+BusStop
+Campground
+Cemetery
+Crematorium
+EducationalOrganization
+CollegeOrUniversity
+ElementarySchool
+HighSchool
+MiddleSchool
+Preschool
+School
+EventVenue
+FireStation
+GovernmentBuilding
+CityHall
+Courthouse
+DefenceEstablishment
+Embassy
+LegislativeBuilding
+Hospital
+MovieTheater
+Museum
+MusicVenue
+Park
+ParkingFacility
+PerformingArtsTheater
+PlaceOfWorship
+BuddhistTemple
+Church
+CatholicChurch
+HinduTemple
+Mosque
+Synagogue
+Playground
+PoliceStation
+PublicToilet
+RVPark
+StadiumOrArena
+SubwayStation
+TaxiStand
+TrainStation
+Zoo
+Landform
+BodyOfWater
+Canal
+LakeBodyOfWater
+OceanBodyOfWater
+Pond
+Reservoir
+RiverBodyOfWater
+SeaBodyOfWater
+Waterfall
+Continent
+Mountain
+Volcano
+LandmarksOrHistoricalBuildings
+LocalBusiness
+AnimalShelter
+ArchiveOrganization
+AutomotiveBusiness
+AutoBodyShop
+AutoDealer
+AutoPartsStore
+AutoRental
+AutoRepair
+AutoWash
+GasStation
+MotorcycleDealer
+MotorcycleRepair
+ChildCare
+Dentist
+DryCleaningOrLaundry
+EmergencyService
+FireStation
+Hospital
+PoliceStation
+EmploymentAgency
+EntertainmentBusiness
+AdultEntertainment
+AmusementPark
+ArtGallery
+Casino
+ComedyClub
+MovieTheater
+NightClub
+FinancialService
+AccountingService
+AutomatedTeller
+BankOrCreditUnion
+InsuranceAgency
+FoodEstablishment
+Bakery
+BarOrPub
+Brewery
+CafeOrCoffeeShop
+Distillery
+FastFoodRestaurant
+IceCreamShop
+Restaurant
+Winery
+GovernmentOffice
+PostOffice
+HealthAndBeautyBusiness
+BeautySalon
+DaySpa
+HairSalon
+HealthClub
+NailSalon
+TattooParlor
+HomeAndConstructionBusiness
+Electrician
+GeneralContractor
+HousePainter
+HVACBusiness
+Locksmith
+MovingCompany
+Plumber
+RoofingContractor
+InternetCafe
+LegalService
+Attorney
+Notary
+Library
+LodgingBusiness
+BedAndBreakfast
+Campground
+Hostel
+Hotel
+Motel
+Resort
+SkiResort
+MedicalBusiness
+CommunityHealth
+Dentist
+Dermatology
+DietNutrition
+Emergency
+Geriatric
+Gynecologic
+MedicalClinic
+CovidTestingFacility
+Midwifery
+Nursing
+Obstetric
+Oncologic
+Optician
+Optometric
+Otolaryngologic
+Pediatric
+Pharmacy
+Physician
+Physiotherapy
+PlasticSurgery
+Podiatric
+PrimaryCare
+Psychiatric
+PublicHealth
+ProfessionalService
+RadioStation
+RealEstateAgent
+RecyclingCenter
+SelfStorage
+ShoppingCenter
+SportsActivityLocation
+BowlingAlley
+ExerciseGym
+GolfCourse
+HealthClub
+PublicSwimmingPool
+SkiResort
+SportsClub
+StadiumOrArena
+TennisComplex
+Store
+AutoPartsStore
+BikeStore
+BookStore
+ClothingStore
+ComputerStore
+ConvenienceStore
+DepartmentStore
+ElectronicsStore
+Florist
+FurnitureStore
+GardenStore
+GroceryStore
+HardwareStore
+HobbyShop
+HomeGoodsStore
+JewelryStore
+LiquorStore
+MensClothingStore
+MobilePhoneStore
+MovieRentalStore
+MusicStore
+OfficeEquipmentStore
+OutletStore
+PawnShop
+PetStore
+ShoeStore
+SportingGoodsStore
+TireShop
+ToyStore
+WholesaleStore
+TelevisionStation
+TouristInformationCenter
+TravelAgency
+Residence
+ApartmentComplex
+GatedResidenceCommunity
+TouristAttraction
+TouristDestination
+
+Beta Inception Phase:
+
+Library
+Pharmacy
+School
+Sports
+Bar
+Building
+Park
+Bike path
+Excursion path
+City Center
+Major Road
+Post Office
+Ambulatory
+Theater
+Church
+Elderly center
+Ski area
+Cinema
+Bank Branch
+Internet
+Supermarket
+Train line
+Train Station
+Bus Stop
+Bike-sharing
+Cliff
+Car parking
+Ski slopes
+Stop Times
+
+Intersection:
+
+Library
+Pharmacy
+School
+Sports
+Bar
+Building
+Park
+Post Office
+Ambulatory
+Theater
+Church
+Cinema
+Bank Branch
+Supermarket
+Train Station
+Bus Stop
+Car parking
+Ski slopes
+
+A: 224
+B: 18
+C: 11
+
+alpha: 235
+beta: 29
+
+Beta Inception Phase:
+
+Place
+	Library
+	Pharmacy
+	School
+	Sports Facility Location
+	BarOrClub
+	Building
+	Playground
+	Park
+	City Center
+	Post Office
+	Physician
+	PerformingArtsTheater
+	ParkingFacility
+	Church
+	Elderly center
+	Ski area
+		Slope Statistics
+	MovieTheater
+	BankOrUnionCredit
+	GroceryStore
+	Train Station
+	Bus Stop
+		Stop Times
+		Calendar
+		CalendarDates
+	Bike-sharing Rack
+	NaturalClimbingWall
+	Hospital
+	Transportation Way
+GeoCoordinate
+GeoShape
+	line
+	Polygon
+Plesure path
+	Ski Slope
+	Bike path
+	trail Path
+		Trail Ground
+		Trail stats
+		Elevation Profile
+Postal Address
+
+Intersezione Inception Phase:
+
+Place
+	Library
+	Pharmacy
+	School
+	Sports Facility Location
+	BarOrClub
+	Playground
+	Park
+	Post Office
+	Physician
+	PerformingArtsTheater
+	ParkingFacility
+	Church
+	MovieTheater
+	BankOrUnionCredit
+	GroceryStore
+	Train Station
+	Bus Stop
+	Hospital
+Plesure path
+
+A: 215
+B: 20
+C: 22
+
+alpha: 235
+beta: 42
+
+Coverage = B/alpha = 20/235
+Flexibility = C/alpha = 22/235
+Extensiveness = C/(alpha+beta) = 22/(235+42)
+Sparsity = (A+C)/(alpha+beta) = (215+22)/(235+42)
