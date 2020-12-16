@@ -6,12 +6,12 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1eplg9umjx1 a km-dev:R2RMLMapping ;
+_:node1epm07vahx1 a km-dev:R2RMLMapping ;
 	km-dev:sourceName "hospital.json" ;
-	km-dev:modelPublicationTime "1608113257171"^^xsd:long ;
+	km-dev:modelPublicationTime "1608129969490"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
-	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}]]" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"latitude\"}],[{\"columnName\":\"records\"},{\"columnName\":\"name\"}],[{\"columnName\":\"records\"},{\"columnName\":\"GeoCoordinate\"},{\"columnName\":\"longitude\"}]]" ;
 	km-dev:hasModelLabel "hospital.json" ;
 	km-dev:hasWorksheetHistory """[
     {
@@ -166,12 +166,12 @@ _:node1eplg9umjx1 a km-dev:R2RMLMapping ;
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cinema_GID-16382\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cinema_GID-163821\",
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Hospital_GID-19345\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Hospital_GID-193451\",
                     \"isPrimary\": true,
                     \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-132\",
-                    \"DomainLabel\": \"etype:Cinema_GID-163821\"
+                    \"DomainLabel\": \"etype:Hospital_GID-193451\"
                 }]
             },
             {
@@ -218,8 +218,8 @@ _:node1eplg9umjx1 a km-dev:R2RMLMapping ;
                     \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511\",
                     \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_geocoordinate_GID-120051_Type-132\",
                     \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-120051\",
-                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Cinema_GID-163821\",
-                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Cinema_GID-16382\"
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Hospital_GID-193451\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Hospital_GID-19345\"
                 }
             },
             {
@@ -237,119 +237,119 @@ _:node1eplg9umjx1 a km-dev:R2RMLMapping ;
     }
 ]""" .
 
-km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 a rr:TriplesMap .
+km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 a rr:TriplesMap .
 
-_:node1eplg9umjx1 km-dev:hasTriplesMap km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 .
+_:node1epm07vahx1 km-dev:hasTriplesMap km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 .
 
-km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx2 rr:tableName "hospital.json" ;
+_:node1epm07vahx2 rr:tableName "hospital.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasLogicalTable _:node1eplg9umjx2 .
+_:node1epm07vahx1 km-dev:hasLogicalTable _:node1epm07vahx2 .
 
-km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 rr:logicalTable _:node1eplg9umjx2 ;
-	rr:subjectMap _:node1eplg9umjx3 .
+km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 rr:logicalTable _:node1epm07vahx2 ;
+	rr:subjectMap _:node1epm07vahx3 .
 
-_:node1eplg9umjx1 km-dev:hasSubjectMap _:node1eplg9umjx3 .
+_:node1epm07vahx1 km-dev:hasSubjectMap _:node1epm07vahx3 .
 
-_:node1eplg9umjx3 km-dev:isPartOfMapping _:node1eplg9umjx1 ;
+_:node1epm07vahx3 km-dev:isPartOfMapping _:node1epm07vahx1 ;
 	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Cinema_GID-163821" ;
-	rr:class etype:Cinema_GID-16382 ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Hospital_GID-193451" ;
+	rr:class etype:Hospital_GID-19345 ;
 	rr:termType rr:BlankNode ;
-	km-dev:namePrefix "etype:Cinema_GID-163821" ;
+	km-dev:namePrefix "etype:Hospital_GID-193451" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_0b3bb61c-d0fa-41b2-8803-40817533350a rr:predicate etype:has_geocoordinate_GID-120051_Type-132 .
+km-dev:PredicateObjectMap_57f23668-6a68-415f-8cba-ca924673cbf5 rr:predicate etype:has_geocoordinate_GID-120051_Type-132 .
 
-km-dev:RefObjectMap_110d1d5b-3793-4c70-915b-4f7e2e8f7dfd a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:RefObjectMap_65962c69-3b8e-43f0-b620-a6db1f2a0075 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 ;
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasObjectMap km-dev:RefObjectMap_110d1d5b-3793-4c70-915b-4f7e2e8f7dfd .
+_:node1epm07vahx1 km-dev:hasObjectMap km-dev:RefObjectMap_65962c69-3b8e-43f0-b620-a6db1f2a0075 .
 
-km-dev:PredicateObjectMap_0b3bb61c-d0fa-41b2-8803-40817533350a rr:objectMap km-dev:RefObjectMap_110d1d5b-3793-4c70-915b-4f7e2e8f7dfd .
+km-dev:PredicateObjectMap_57f23668-6a68-415f-8cba-ca924673cbf5 rr:objectMap km-dev:RefObjectMap_65962c69-3b8e-43f0-b620-a6db1f2a0075 .
 
-km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 rr:predicateObjectMap km-dev:PredicateObjectMap_0b3bb61c-d0fa-41b2-8803-40817533350a .
+km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 rr:predicateObjectMap km-dev:PredicateObjectMap_57f23668-6a68-415f-8cba-ca924673cbf5 .
 
-km-dev:PredicateObjectMap_0b3bb61c-d0fa-41b2-8803-40817533350a a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:PredicateObjectMap_57f23668-6a68-415f-8cba-ca924673cbf5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0b3bb61c-d0fa-41b2-8803-40817533350a .
+_:node1epm07vahx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_57f23668-6a68-415f-8cba-ca924673cbf5 .
 
-km-dev:PredicateObjectMap_ae0745cb-8a45-470a-864d-f59829f3deec rr:predicate etype:has_name_GID-2_Type-132 .
+km-dev:PredicateObjectMap_c7d3281f-6c53-4507-89b6-635e13a166b5 rr:predicate etype:has_name_GID-2_Type-132 .
 
-_:node1eplg9umjx4 rr:column "[\"records\",\"name\"]" ;
+_:node1epm07vahx4 rr:column "[\"records\",\"name\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasObjectMap _:node1eplg9umjx4 .
+_:node1epm07vahx1 km-dev:hasObjectMap _:node1epm07vahx4 .
 
-km-dev:PredicateObjectMap_ae0745cb-8a45-470a-864d-f59829f3deec rr:objectMap _:node1eplg9umjx4 .
+km-dev:PredicateObjectMap_c7d3281f-6c53-4507-89b6-635e13a166b5 rr:objectMap _:node1epm07vahx4 .
 
-km-dev:TriplesMap_23ece71c-ebff-401a-8094-f21108aceea0 rr:predicateObjectMap km-dev:PredicateObjectMap_ae0745cb-8a45-470a-864d-f59829f3deec .
+km-dev:TriplesMap_abdf5178-cfd9-44aa-8629-0ebb05677ac1 rr:predicateObjectMap km-dev:PredicateObjectMap_c7d3281f-6c53-4507-89b6-635e13a166b5 .
 
-km-dev:PredicateObjectMap_ae0745cb-8a45-470a-864d-f59829f3deec a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:PredicateObjectMap_c7d3281f-6c53-4507-89b6-635e13a166b5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ae0745cb-8a45-470a-864d-f59829f3deec .
+_:node1epm07vahx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c7d3281f-6c53-4507-89b6-635e13a166b5 .
 
-km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd a rr:TriplesMap .
+km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 a rr:TriplesMap .
 
-_:node1eplg9umjx1 km-dev:hasTriplesMap km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd .
+_:node1epm07vahx1 km-dev:hasTriplesMap km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 .
 
-km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx5 rr:tableName "hospital.json" ;
+_:node1epm07vahx5 rr:tableName "hospital.json" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasLogicalTable _:node1eplg9umjx5 .
+_:node1epm07vahx1 km-dev:hasLogicalTable _:node1epm07vahx5 .
 
-km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd rr:logicalTable _:node1eplg9umjx5 ;
-	rr:subjectMap _:node1eplg9umjx6 .
+km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 rr:logicalTable _:node1epm07vahx5 ;
+	rr:subjectMap _:node1epm07vahx6 .
 
-_:node1eplg9umjx1 km-dev:hasSubjectMap _:node1eplg9umjx6 .
+_:node1epm07vahx1 km-dev:hasSubjectMap _:node1epm07vahx6 .
 
-_:node1eplg9umjx6 km-dev:isPartOfMapping _:node1eplg9umjx1 ;
+_:node1epm07vahx6 km-dev:isPartOfMapping _:node1epm07vahx1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Geocoordinate_GID-1200511" ;
 	rr:class etype:Geocoordinate_GID-120051 ;
 	rr:termType rr:BlankNode ;
 	km-dev:namePrefix "etype:Geocoordinate_GID-1200511" .
 
-km-dev:PredicateObjectMap_b66669d7-0cbc-4cd3-9272-891553e84bfd rr:predicate etype:has_longitude_GID-46270_Type-120051 .
+km-dev:PredicateObjectMap_cf032b0a-344d-4b6a-aa89-e0e884e95607 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
 
-_:node1eplg9umjx7 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
+_:node1epm07vahx7 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasObjectMap _:node1eplg9umjx7 .
+_:node1epm07vahx1 km-dev:hasObjectMap _:node1epm07vahx7 .
 
-km-dev:PredicateObjectMap_b66669d7-0cbc-4cd3-9272-891553e84bfd rr:objectMap _:node1eplg9umjx7 .
+km-dev:PredicateObjectMap_cf032b0a-344d-4b6a-aa89-e0e884e95607 rr:objectMap _:node1epm07vahx7 .
 
-km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd rr:predicateObjectMap km-dev:PredicateObjectMap_b66669d7-0cbc-4cd3-9272-891553e84bfd .
+km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 rr:predicateObjectMap km-dev:PredicateObjectMap_cf032b0a-344d-4b6a-aa89-e0e884e95607 .
 
-km-dev:PredicateObjectMap_b66669d7-0cbc-4cd3-9272-891553e84bfd a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:PredicateObjectMap_cf032b0a-344d-4b6a-aa89-e0e884e95607 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b66669d7-0cbc-4cd3-9272-891553e84bfd .
+_:node1epm07vahx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_cf032b0a-344d-4b6a-aa89-e0e884e95607 .
 
-km-dev:PredicateObjectMap_8d71eb3f-ad12-499d-ab61-02c9736237e4 rr:predicate etype:has_latitude_GID-46263_Type-120051 .
+km-dev:PredicateObjectMap_3f259ebe-356a-404d-94bc-46dfaa4321d2 rr:predicate etype:has_longitude_GID-46270_Type-120051 .
 
-_:node1eplg9umjx8 rr:column "[\"records\",\"GeoCoordinate\",\"latitude\"]" ;
+_:node1epm07vahx8 rr:column "[\"records\",\"GeoCoordinate\",\"longitude\"]" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasObjectMap _:node1eplg9umjx8 .
+_:node1epm07vahx1 km-dev:hasObjectMap _:node1epm07vahx8 .
 
-km-dev:PredicateObjectMap_8d71eb3f-ad12-499d-ab61-02c9736237e4 rr:objectMap _:node1eplg9umjx8 .
+km-dev:PredicateObjectMap_3f259ebe-356a-404d-94bc-46dfaa4321d2 rr:objectMap _:node1epm07vahx8 .
 
-km-dev:TriplesMap_a3fd3585-dc18-4451-961a-a7ac70f412cd rr:predicateObjectMap km-dev:PredicateObjectMap_8d71eb3f-ad12-499d-ab61-02c9736237e4 .
+km-dev:TriplesMap_112b46e4-8ea6-4693-9013-6836df2fa8f1 rr:predicateObjectMap km-dev:PredicateObjectMap_3f259ebe-356a-404d-94bc-46dfaa4321d2 .
 
-km-dev:PredicateObjectMap_8d71eb3f-ad12-499d-ab61-02c9736237e4 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1eplg9umjx1 .
+km-dev:PredicateObjectMap_3f259ebe-356a-404d-94bc-46dfaa4321d2 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1epm07vahx1 .
 
-_:node1eplg9umjx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8d71eb3f-ad12-499d-ab61-02c9736237e4 .
+_:node1epm07vahx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3f259ebe-356a-404d-94bc-46dfaa4321d2 .
