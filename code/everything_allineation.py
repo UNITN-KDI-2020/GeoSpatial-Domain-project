@@ -213,6 +213,8 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 	
 	if "outdooractive_trails.json" in filename:
 		for d_i, d in enumerate(data):
+			if "address" in d:
+				d.pop("address")
 			if "route" in d:
 				d["Path"] = d.pop("route")
 				d["Path"]["GeoCoordinate"] = d["Path"].pop("geoPoints")
@@ -221,6 +223,46 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 			if "estimatedTime" in d:
 				time = d["estimatedTime"]
 				d["estimatedTime"] = str(time["days"])+":"+str(time["hours"])+":"+str(time["minutes"])+":"+str(time["seconds"])
+			if "stats" in d:
+				tech = d["stats"]["technique"]
+				d["stats"]["technique"] = {
+					"technique_1" : 1 if tech == 1 else 0,
+					"technique_2" : 1 if tech == 2 else 0,
+					"technique_3" : 1 if tech == 3 else 0,
+					"technique_4" : 1 if tech == 4 else 0,
+					"technique_5" : 1 if tech == 5 else 0,
+				}
+				stam = d["stats"]["stamina"]
+				d["stats"]["stamina"] = {
+					"stamina_1" : 1 if stam == 1 else 0,
+					"stamina_2" : 1 if stam == 2 else 0,
+					"stamina_3" : 1 if stam == 3 else 0,
+					"stamina_4" : 1 if stam == 4 else 0,
+					"stamina_5" : 1 if stam == 5 else 0,
+				}
+				exp = d["stats"]["experience"]
+				d["stats"]["experience"] = {
+					"experience_1" : 1 if exp == 1 else 0,
+					"experience_2" : 1 if exp == 2 else 0,
+					"experience_3" : 1 if exp == 3 else 0,
+					"experience_4" : 1 if exp == 4 else 0,
+					"experience_5" : 1 if exp == 5 else 0,
+				}
+				land = d["stats"]["landscape"]
+				d["stats"]["landscape"] = {
+					"landscape_1" : 1 if land == 1 else 0,
+					"landscape_2" : 1 if land == 2 else 0,
+					"landscape_3" : 1 if land == 3 else 0,
+					"landscape_4" : 1 if land == 4 else 0,
+					"landscape_5" : 1 if land == 5 else 0,
+				}
+			if "difficulty" in d:
+				diff = d["difficulty"]
+				d["difficulty"] = {
+					"easy" : 1 if diff == "EASY" else 0,
+					"moderate" : 1 if diff == "MODERATE" else 0,
+					"difficult" : 1 if diff == "DIFFICULT" else 0,
+				}
 
 	if "climb.json" in filename:
 		for d_i, d in enumerate(data):
