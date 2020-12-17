@@ -1,58 +1,58 @@
-"creator"="GeoSpatial-Domain-project",
-"CreationDate"="10-10-2020",
-"LKG" = "KDI2020_21-Geospace.lkg"
-"DKG" = "KDI2020_21-Geospace.dkg"
-"EntityTypes"={
+"creator":"GeoSpatial-Domain-project",
+"CreationDate":"10-10-2020",
+"LKG" : "KDI2020_21-Geospace.lkg"
+"DKG" : "KDI2020_21-Geospace.dkg"
+"EntityTypes":{
     "Address":{
         "ObjectProperties":{
-            "o1"="is_inPosition"
-            "o2"="has_internetAvailability"
+            "o1":"is_inPosition"
+            "o2":"has_internetAvailability"
         },
         "DataProperties":{
-            "d1"="postalCode",
-            "d2"="state",
-            "d3"="city",
-            "d4"="county",
-            "d5"="houseNumber",
-            "d6"="barNumber",
-            "d7"="additionalInformation"
+            "d1":"postalCode",
+            "d2":"state",
+            "d3":"city",
+            "d4":"county",
+            "d5":"houseNumber",
+            "d6":"barNumber",
+            "d7":"additionalInformation"
         }
     },
     "Bank":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="ATM"
+            "d1":"ATM"
         }
     },
     "Bicycle Path":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="totalLength",
-            "d2"="reservedForBike"
+            "d1":"totalLength",
+            "d2":"reservedForBike"
         }
     },
     "Bike Sharing Rack":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="rackSlot"
+            "d1":"rackSlot"
         }
     },
     "Building":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="stopName",
-            "d2"="stopID",
-            "d3"="stopCode",
-            "d4"="wheelchairBoarding"
+            "d1":"stopName",
+            "d2":"stopID",
+            "d3":"stopCode",
+            "d4":"wheelchairBoarding"
         }
     }, 
     "Bus Stop":{
         "ObjectProperties":{
-            "o1"="has_stopTime"
+            "o1":"has_stopTime"
         },
         "DataProperties":{
         }
@@ -91,7 +91,7 @@
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="openingHours"
+            "d1":"openingHours"
         }
     },
     "Elderly Center":{
@@ -102,30 +102,30 @@
     },
     "Elevation Profile":{
         "ObjectProperties":{
-            "o1"="is_elevationProfileOf"
+            "o1":"is_elevationProfileOf"
         },
         "DataProperties":{
-            "d1"="chartUrl",
-            "d2"="ascent",
-            "d3"="descent",
-            "d4"="lowestPoint",
-            "d5"="highestPoint"
+            "d1":"chartUrl",
+            "d2":"ascent",
+            "d3":"descent",
+            "d4":"lowestPoint",
+            "d5":"highestPoint"
         }
     },
     "GeoCoordinate":{
         "ObjectProperties":{
-            "o1"="has_address",
-            "o2"="has_location",
-            "o3"="is_contained",
+            "o1":"has_address",
+            "o2":"has_location",
+            "o3":"is_contained",
         },
         "DataProperties":{
-            "d1"="latitude",
-            "d2"="longitude"
+            "d1":"latitude",
+            "d2":"longitude"
         }
     },
     "GeoShape":{
         "ObjectProperties":{
-            "o1"="has_points"
+            "o1":"has_points"
         },
         "DataProperties":{
         }
@@ -138,9 +138,9 @@
     },
     "Internet Availability":{
         "ObjectProperties":{
-            "o1"="has_predicted2022InternetAvailabilityType",
-            "o2"="has_currentInternetAvailabilityType",
-            "o3"="is_internetAvailabilityOf"
+            "o1":"has_predicted2022InternetAvailabilityType",
+            "o2":"has_currentInternetAvailabilityType",
+            "o3":"is_internetAvailabilityOf"
         },
         "DataProperties":{
         }
@@ -148,14 +148,14 @@
     "InternetAvailabilityType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="black_novhcn",
-            "d2"="black_vhcn_fo",
-            "d3"="black_vhcn_fwa",
-            "d4"="grey_novhcn_copper",
-            "d5"="grey_novhcn_radio",
-            "d6"="grey_vhcn_fo",
-            "d7"="grey_vhcn_fwa",
-            "d8"="no_coverage"
+            "d1":"black_novhcn",
+            "d2":"black_vhcn_fo",
+            "d3":"black_vhcn_fwa",
+            "d4":"grey_novhcn_copper",
+            "d5":"grey_novhcn_radio",
+            "d6":"grey_vhcn_fo",
+            "d7":"grey_vhcn_fwa",
+            "d8":"no_coverage"
         }
     },
     "Library":{
@@ -172,24 +172,24 @@
     },
     "Line Transport Calendar":{
         "ObjectProperties":{
-            "o1"="has_lineTransportCalendarException",
-            "o2"="is_lineTransportCalendarOf",
-            "o3"="is_lineTransportCalendarExceptionOf"
+            "o1":"has_lineTransportCalendarException",
+            "o2":"is_lineTransportCalendarOf",
+            "o3":"is_lineTransportCalendarExceptionOf"
         },
         "DataProperties":{
-            "d1"="serviceID",
-            "d2"="sunday",
-            "d3"="monday",
-            "d4"="tuesday",
-            "d5"="wednesday",
-            "d6"="thursday",
-            "d7"="friday",
-            "d8"="saturday",
-            "d9"="startDate",
-            "d10"="endDate",
-            "d11"="serviceID",
-            "d12"="exceptionType",
-            "d13"="date"
+            "d1":"serviceID",
+            "d2":"sunday",
+            "d3":"monday",
+            "d4":"tuesday",
+            "d5":"wednesday",
+            "d6":"thursday",
+            "d7":"friday",
+            "d8":"saturday",
+            "d9":"startDate",
+            "d10":"endDate",
+            "d11":"serviceID",
+            "d12":"exceptionType",
+            "d13":"date"
         }
     },
     "Line Transport Calendar Exception":{
@@ -200,17 +200,17 @@
     },
     "Location":{
         "ObjectProperties":{
-            "o1"="has_geo"
+            "o1":"has_geo"
         },
         "DataProperties":{
-            "d1"="name"
+            "d1":"name"
         }
     },
     "Natural Climbing Wall":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="height"
+            "d1":"height"
         }
     },
     "Park":{
@@ -223,20 +223,20 @@
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="fee",
-            "d2"="capacity"
+            "d1":"fee",
+            "d2":"capacity"
         }
     },
     "Path":{
         "ObjectProperties":{
-            "o1"="has_line"
+            "o1":"has_line"
         },
         "DataProperties":{
         }
     },
     "Playground":{
         "ObjectProperties":{
-            "o1"="has_playgroundFacilitiesType"
+            "o1":"has_playgroundFacilitiesType"
         },
         "DataProperties":{
         }
@@ -244,21 +244,21 @@
     "PlaygroundFacilityType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="aerialrotor",
-            "d2"="basketball_backboard",
-            "d3"="basketswing",
-            "d4"="chain_ladder",
-            "d5"="climbingframe",
-            "d6"="exercise_equipment",
-            "d7"="horizontal_bar",
-            "d8"="multi_plaything",
-            "d9"="sandpit",
-            "d10"="seesaw",
-            "d11"="skate_equipment",
-            "d12"="slide",
-            "d13"="swing",
-            "d14"="teenshelter",
-            "d15"="tunnel_tube"
+            "d1":"aerialrotor",
+            "d2":"basketball_backboard",
+            "d3":"basketswing",
+            "d4":"chain_ladder",
+            "d5":"climbingframe",
+            "d6":"exercise_equipment",
+            "d7":"horizontal_bar",
+            "d8":"multi_plaything",
+            "d9":"sandpit",
+            "d10":"seesaw",
+            "d11":"skate_equipment",
+            "d12":"slide",
+            "d13":"swing",
+            "d14":"teenshelter",
+            "d15":"tunnel_tube"
         }
     },
     "Polygon":{
@@ -271,26 +271,26 @@
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="openingHours"
+            "d1":"openingHours"
         }
     },
     "Railway":{
         "ObjectProperties":{
-            "o1"="has_railwayStation"
+            "o1":"has_railwayStation"
         },
         "DataProperties":{
         }
     },
     "Railway Station":{
         "ObjectProperties":{
-            "o1"="has_railway"
+            "o1":"has_railway"
         },
         "DataProperties":{
         }
     },
     "Road":{
         "ObjectProperties":{
-            "o1"="has_roadType"
+            "o1":"has_roadType"
         },
         "DataProperties":{
         }
@@ -298,49 +298,49 @@
     "RoadType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="highway",
-            "d2"="primary_road",
-            "d3"="secondary_road",
-            "d4"="tertiary_road"
+            "d1":"highway",
+            "d2":"primary_road",
+            "d3":"secondary_road",
+            "d4":"tertiary_road"
         }
     },
     "School":{
         "ObjectProperties":{
-            "o1"="has_schoolType"
+            "o1":"has_schoolType"
         },
         "DataProperties":{
-            "d1"="courseOfStudy"
+            "d1":"courseOfStudy"
         }
     },
     "SchoolType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="nursery",
-            "d2"="elementary",
-            "d3"="middle",
-            "d4"="high"
+            "d1":"nursery",
+            "d2":"elementary",
+            "d3":"middle",
+            "d4":"high"
         }
     },
     "Ski Area":{
         "ObjectProperties":{
-            "o1"="has_slopeStatistics",
-            "o2"="has_skiSlope",
-            "o3"="has_area",
-            "o4"="has_slopeType",
-            "o5"="has_slopeDifficultyType",
-            "o6"="is_inSkiArea"
+            "o1":"has_slopeStatistics",
+            "o2":"has_skiSlope",
+            "o3":"has_area",
+            "o4":"has_slopeType",
+            "o5":"has_slopeDifficultyType",
+            "o6":"is_inSkiArea"
         },
         "DataProperties":{
-            "d1"="adultPrice",
-            "d2"="youngPrice",
-            "d3"="kidPrice",
-            "d4"="open"
+            "d1":"adultPrice",
+            "d2":"youngPrice",
+            "d3":"kidPrice",
+            "d4":"open"
         }
     },
     "Ski Slope":{
         "ObjectProperties":{
-            "o1"="is_skiAreaSlopeStatisticsOf"
-            "o2"="has_slopeType"
+            "o1":"is_skiAreaSlopeStatisticsOf"
+            "o2":"has_slopeType"
         },
         "DataProperties":{
         }
@@ -348,24 +348,24 @@
     "SlopeType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="downhill",
-            "d2"="nordic"
+            "d1":"downhill",
+            "d2":"nordic"
         }
     },    
     "Slope Statistics":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="slopeLength",
-            "d2"="slopeLengthAvailable"
+            "d1":"slopeLength",
+            "d2":"slopeLengthAvailable"
         }
     },
     "SlopeDifficultyType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="easy_slope",
-            "d2"="intermediate_slope",
-            "d3"="advanced_slope"
+            "d1":"easy_slope",
+            "d2":"intermediate_slope",
+            "d3":"advanced_slope"
         }
     },
     "Sport Facility":{
@@ -376,20 +376,20 @@
     },
     "Stop Time":{
         "ObjectProperties":{
-            "o1"="has_lineTransportCalendar"
-            "o2"="has_busStop"
+            "o1":"has_lineTransportCalendar"
+            "o2":"has_busStop"
         },
         "DataProperties":{
-            "d1"="stopSequence",
-            "d2"="departureTime",
-            "d3"="arrivalTime"
+            "d1":"stopSequence",
+            "d2":"departureTime",
+            "d3":"arrivalTime"
         }
     },
     "Supermarket":{
         "ObjectProperties":{
         },
         "DataProperties":{
-            "d1"="area"
+            "d1":"area"
         }
     },
     "Theater":{
@@ -400,43 +400,43 @@
     },
     "Trail":{
         "ObjectProperties":{
-            "o1"="has_trailPathDifficultyType"
-            "o2"="has_trailStatistics",
-            "o3"="has_trailGround",
-            "o4"="has_elevationProfile",
-            "o5"="has_elevationProfile"
+            "o1":"has_trailPathDifficultyType"
+            "o2":"has_trailStatistics",
+            "o3":"has_trailGround",
+            "o4":"has_elevationProfile",
+            "o5":"has_elevationProfile"
         },
         "DataProperties":{
-            "d1"="name",
-            "d2"="equipment",
-            "d3"="distance",
-            "d4"="tags",
-            "d5"="estimatedTime",
-            "d6"="open",
-            "d7"="satId",
-            "d8"="openingMonths"
+            "d1":"name",
+            "d2":"equipment",
+            "d3":"distance",
+            "d4":"tags",
+            "d5":"estimatedTime",
+            "d6":"open",
+            "d7":"satId",
+            "d8":"openingMonths"
         }
     },
     "TrailPathDifficultyType":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="easy_trail",
-            "d2"="moderate_trail",
-            "d3"="difficult_trail"
+            "d1":"easy_trail",
+            "d2":"moderate_trail",
+            "d3":"difficult_trail"
         }
     },
     "Trail Ground":{
         "ObjectProperties":{
-            "o1"="is_trailGroundOf"
+            "o1":"is_trailGroundOf"
         },
         "DataProperties":{
-            "d1"="percentage",
-            "d2"="groundType"
+            "d1":"percentage",
+            "d2":"groundType"
         }
     },
     "Trail Statistics":{
         "ObjectProperties":{
-            "o1"="is_trailStatisticsOf"
+            "o1":"is_trailStatisticsOf"
         },
         "DataProperties":{
         }
@@ -444,11 +444,11 @@
     "TrailStatisticsLevel":{
         "ObjectProperties":{},
         "DataProperties":{
-            "d1"="One",
-            "d2"="Two",
-            "d3"="Three",
-            "d4"="Four",
-            "d5"="Five"
+            "d1":"One",
+            "d2":"Two",
+            "d3":"Three",
+            "d4":"Four",
+            "d5":"Five"
         }
 }
 }

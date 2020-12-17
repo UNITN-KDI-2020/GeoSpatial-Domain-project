@@ -1,17 +1,17 @@
-"creator"="GeoSpatial-Domain-project",
-"CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-7.in",
-"DatasetDescription"="civic numbers in the city of Trento",
-"ColumnNames"={
-    "StreetName"="StreetName",
-    "StreetType"="StreetType",
-    "HouseNumber"="HouseNumber",
-    "postal_code"="PostalCode"
-    "City"="City",
-    "latitude"="latitude",
-    "longitude"="longitude"
+"creator":"GeoSpatial-Domain-project",
+"CreationDate":"10-10-2020",
+"DatasetName":"KDI2020_21-Geospace-7.in",
+"DatasetDescription":"civic numbers in the city of Trento",
+"ColumnNames":{
+    "StreetName":"StreetName",
+    "StreetType":"StreetType",
+    "HouseNumber":"HouseNumber",
+    "postal_code":"PostalCode",
+    "City":"City",
+    "latitude":"latitude",
+    "longitude":"longitude"
 },
-"SourceDatasetURL"="https://dati.trentino.it/dataset/comune-di-trento-numeri-civici",
-"SKG" = "KDI2020_21-Geospace.skg",
-"DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="7"
+"SourceDatasetURL":"https://dati.trentino.it/dataset/comune-di-trento-numeri-civici",
+"SKG" : "KDI2020_21-Geospace.skg",
+"DKG": "KDI2020_21-Geospace.dkg",
+"NumberItems":"7"
