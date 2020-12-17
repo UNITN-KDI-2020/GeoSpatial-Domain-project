@@ -1,0 +1,355 @@
+[
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema teatro comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.03395252"],
+                    "46270": ["10.727189650000001"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Paradiso"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9172029"],
+                    "46270": ["11.1685025"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Dolomiti"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["45.9418117"],
+                    "46270": ["11.2511174"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro San Pietro"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.2114812"],
+                    "46270": ["11.0945682"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Bar Teatro"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3134334"],
+                    "46270": ["11.6008139"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.288872559999994"],
+                    "46270": ["11.51407364"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro di Cavalese"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.28960305384616"],
+                    "46270": ["11.464027584615383"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Marmolada"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.4767712"],
+                    "46270": ["11.7690511"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Multisala G. Modena"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0667854"],
+                    "46270": ["11.125540350000001"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema oratorio Concordia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["45.848203587499995"],
+                    "46270": ["10.5817622875"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Comunale di Ossana"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3096073"],
+                    "46270": ["10.7311525"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema oratorio Concordia"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["45.84816323333334"],
+                    "46270": ["10.581858066666666"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Parrocchiale di Mattarello"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0065876"],
+                    "46270": ["11.1287945"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Nuovo Roma"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.06151961333334"],
+                    "46270": ["11.125033493333335"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Pergine Valsugana"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0622048"],
+                    "46270": ["11.2391965"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Dolomiti"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3486626"],
+                    "46270": ["11.0910096"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Comunale"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3530415"],
+                    "46270": ["10.9139295"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Supercinema Vittoria"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.0698347"],
+                    "46270": ["11.1240549"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Paladolomiti"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.15951097142857"],
+                    "46270": ["10.766137385714286"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "46263": ["46.3661143"],
+            "46270": ["11.0358991"]
+        },
+        "type": 120051
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Astra"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.07574625714285"],
+                    "46270": ["11.118939342857143"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema Teatro Fondo"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.44023878571428"],
+                    "46270": ["11.136650414285713"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Cinema"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["46.3135289"],
+                    "46270": ["11.6006178"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    },
+    {
+        "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+        "attributes": {
+            "2": ["Supercinema Rosmini"],
+            "120051": [{
+                "provenance": "StarLinker import @Wed Dec 16 18:02:11 GMT 2020",
+                "attributes": {
+                    "46263": ["45.890629419999996"],
+                    "46270": ["11.043506194999997"]
+                },
+                "type": 120051
+            }]
+        },
+        "type": 16382
+    }
+]

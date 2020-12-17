@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2020-10-19T19:05:03Z",
+    "DatasetName": "KDI2020_21-Geospace-1.in",
+    "fields": {
+        "name": {
+            "type": "string",
+            "description": "name of data"
+        },
+        "GeoShape": {
+            "type": "GeoShape",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "type": {
+                    "type": "string",
+                    "description": "type of GeoShape (Line, Polygon, Point)",
+                    "data_definition": "Common"
+                },
+                "GeoCoordinates": {
+                    "type": "int[2]",
+                    "description": "Coordinates of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        },
+        "totalLenght": {
+            "type": "string",
+            "description": "total lenght of the ski slopes in the skiarea"
+        },
+        "blackSlopeLenght": {
+            "type": "string",
+            "description": "total lenght of black ski slopes in the skiarea"
+        },
+        "redSlopeLenght": {
+            "type": "string",
+            "description": "total lenght of red ski slopes in the skiarea"
+        },
+        "blueSlopeLenght": {
+            "type": "string",
+            "description": "total lenght of black blue slopes in the skiarea"
+        },
+        "numberLifts": {
+            "type": "int",
+            "description": "number of lift in the skiarea"
+        },
+        "adultPrice": {
+            "type": "string",
+            "description": "price for adult"
+        },
+        "youngPrice": {
+            "type": "string",
+            "description": "price for young"
+        },
+        "kidPrice": {
+            "type": "string",
+            "description": "price for kid"
+        }
+    }
+}

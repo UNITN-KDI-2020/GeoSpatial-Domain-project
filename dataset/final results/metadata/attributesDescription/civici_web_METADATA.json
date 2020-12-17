@@ -1,0 +1,61 @@
+{
+    "Dataset ID": "4f474fc8-181d-4b15-9ee4-60b3f54f4068",
+    "Source": "https://dati.trentino.it/dataset/comune-di-trento-numeri-civici",
+    "Release date": "22-02-2013",
+    "Modification date": "08-05-2019",
+    "Geographical Coverage": "comune di Trento",
+    "DatasetName":"KDI2020_21-Geospace-7.in",    
+    "Temporal extension": {
+        "From": "22-02-2013"
+    },
+    "Holder": {
+        "Name": "Comune di Trento",
+        "Code IPA/IVA": "c_l378"
+    },
+    "Update frequency": "daily",
+    "Format": "json",
+    "fields": {
+        "city": {
+            "type": "string",
+            "description": "the city component of the address",
+            "data_definition": "common"
+        },
+        "HouseNumber": {
+            "type": "string",
+            "description": "the house number component of the address",
+            "data_definition": "common"
+        },
+        "postal_code": {
+            "type": "string",
+            "description": "the postcode component of the address",
+            "data_definition": "common"
+        },
+        "StreetName": {
+            "type": "string",
+            "description": "the street component of the address",
+            "data_definition": "common"
+        },
+        "StreetType": {
+            "type": "string",
+            "description": "tyoe of street (street, place, etc)",
+            "data_definition": "common"
+        }, 
+        "GeoCoordinate": {
+            "type": "GeoCoordinate",
+            "description": "object containing location information",
+            "data_definition": "Common",
+            "fields": {
+                "latitude": {
+                    "type": "double",
+                    "description": "latitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                },
+                "longitude": {
+                    "type": "double",
+                    "description": "longitude coordinate of the location in EPSG 4326 projection standard",
+                    "data_definition": "Common"
+                }
+            }
+        }
+    }
+}        
