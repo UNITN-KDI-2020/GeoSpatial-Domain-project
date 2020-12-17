@@ -113,34 +113,34 @@ for count, filename in enumerate(listdir(IN_FOLDER)):
 
 	for d_i, d in enumerate(data):
 
-		if "city" in d:
-			d.pop("city")
-		if "StreetType" in d:
-			d.pop("StreetType")
-		if "StreetName" in d:
-			d.pop("StreetName")
-		if "postal_code" in d:
-			d.pop("postal_code")
-		if "housenumber" in d:
-			d.pop("housenumber")
-		if "HouseNumber" in d:
-			d.pop("HouseNumber")
-		if "PostalCode" in d:
-			d.pop("PostalCode")
-		if "address_additional_information" in d:
-			d.pop("address_additional_information")
+		# if "city" in d:
+		# 	d.pop("city")
+		# if "StreetType" in d:
+		# 	d.pop("StreetType")
+		# if "StreetName" in d:
+		# 	d.pop("StreetName")
+		# if "postal_code" in d:
+		# 	d.pop("postal_code")
+		# if "housenumber" in d:
+		# 	d.pop("housenumber")
+		# if "HouseNumber" in d:
+		# 	d.pop("HouseNumber")
+		# if "PostalCode" in d:
+		# 	d.pop("PostalCode")
+		# if "address_additional_information" in d:
+		# 	d.pop("address_additional_information")
 		if "address" in d:
-			d.pop("address")
-			# countAddress += 1
-			# address = parse(d["address"], d["city"] if "city" in d else None)
-			# # print("\t"+d["address"]+"\t"+str(address))
-			# if address != None:
-			# 	countValid += 1
-			# 	for k in address.keys():
-			# 		d[k] = address[k]
-			# 	d.pop("address")
-			# else:
-			# 	d["address_additional_information"] = d.pop("address")
+			# d.pop("address")
+			countAddress += 1
+			address = parse(d["address"], d["city"] if "city" in d else None)
+			# print("\t"+d["address"]+"\t"+str(address))
+			if address != None:
+				countValid += 1
+				for k in address.keys():
+					d[k] = address[k]
+				d.pop("address")
+			else:
+				d["address_additional_information"] = d.pop("address")
 			
 		newDataset["records"].append(d)
 	# if countAddress > 0:
