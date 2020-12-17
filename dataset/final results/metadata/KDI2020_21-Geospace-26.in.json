@@ -1,15 +1,15 @@
-"creator"="GeoSpatial-Domain-project",
-"CreationDate"="10-10-2020",
-"DatasetName"="KDI2020_21-Geospace-26.in",
-"DatasetDescription"="supermarket in Trentino",
-"ColumnNames"={
-    "name"="name",
-    "latitude"="latitude",
-    "longitude"="longitude",
-    "area"="area"
+"creator":"GeoSpatial-Domain-project",
+"CreationDate":"10-10-2020",
+"DatasetName":"KDI2020_21-Geospace-26.in",
+"DatasetDescription":"supermarket in Trentino",
+"ColumnNames":{
+    "name":"name",
+    "latitude":"latitude",
+    "longitude":"longitude",
+    "area":"area"
 },
-"SourceDatasetURL"="www.openstreetmap.org",
-"SKG" = "KDI2020_21-Geospace.skg",
-"DKG"= "KDI2020_21-Geospace.dkg",
-"NumberItems"="4"
+"SourceDatasetURL":"www.openstreetmap.org",
+"SKG" : "KDI2020_21-Geospace.skg",
+"DKG": "KDI2020_21-Geospace.dkg",
+"NumberItems":"4"
 
