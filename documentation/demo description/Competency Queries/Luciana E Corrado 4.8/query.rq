@@ -1,0 +1,12 @@
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select ?hospital_name ?longitude ?latitude
+
+where { 
+    ?hospital etype:has_name_GID-2_Type-132 ?hospital_name.
+    ?hospital rdf:type etype:Hospital_GID-19345.
+    ?hospital etype:has_geocoordinate_GID-120051_Type-132 ?geocoordinate.
+    ?geocoordinate etype:has_longitude_GID-46270_Type-120051 ?longitude.
+    ?geocoordinate etype:has_latitude_GID-46263_Type-120051 ?latitude
+}

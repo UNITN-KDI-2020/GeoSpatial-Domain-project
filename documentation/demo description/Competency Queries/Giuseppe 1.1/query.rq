@@ -1,0 +1,23 @@
+PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ofn: <http://www.ontotext.com/sparql/functions/>
+
+select ?library_name ?latitude ?longitude ?distance
+
+where { 
+    ?library etype:has_name_GID-2_Type-132 ?library_name.
+    ?library rdf:type etype:Library_GID-20052.
+    ?library etype:has_geocoordinate_GID-120051_Type-132 ?geocoordinate.
+    ?geocoordinate etype:has_longitude_GID-46270_Type-120051 ?longitude.
+    ?geocoordinate etype:has_latitude_GID-46263_Type-120051 ?latitude.
+    BIND (xsd:float(?latitude) AS ?lat2).
+    BIND (xsd:float(?longitude) AS ?lon2).
+    BIND (46.062533916666666 AS ?lat1).
+    BIND (11.126686583333333 AS ?lon1).
+    BIND (6371e3 * 2 * ofn:atan2(ofn:sqrt(ofn:sin(((?lat2-?lat1) * ofn:pi()/180)/2) * ofn:sin(((?lat2-?lat1) * ofn:pi()/180)/2) + ofn:cos(?lat1 * ofn:pi()/180) * ofn:cos(?lat2 * ofn:pi()/180) * ofn:sin(((?lon2-?lon1) * ofn:pi()/180)/2) * ofn:sin(((?lon2-?lon1) * ofn:pi()/180)/2)), ofn:sqrt(1-(ofn:sin(((?lat2-?lat1) * ofn:pi()/180)/2) * ofn:sin(((?lat2-?lat1) * ofn:pi()/180)/2) + ofn:cos(?lat1 * ofn:pi()/180) * ofn:cos(?lat2 * ofn:pi()/180) * ofn:sin(((?lon2-?lon1) * ofn:pi()/180)/2) * ofn:sin(((?lon2-?lon1) * ofn:pi()/180)/2)))) AS ?distance)
+}
+
+ORDER BY ?distance
+
+LIMIT 1

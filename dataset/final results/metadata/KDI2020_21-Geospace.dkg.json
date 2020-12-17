@@ -4,56 +4,48 @@
 "LKG" = "KDI2020_21-Geospace.dkg",
 "Project" = "KDI2020_21-Geospace.kdi",
 "NumberEntities"={
-    "Address"=7;
-    "Bank"=1;
-    "Bicycle Path"=2
-    "Bike Sharing Rack"=1
-    "Building"=4
-    "Bus Stop"=1
-    "Cafe"=0
-    "Church"=0
-    "Cinema"=0
-    "City Center"=0
-    "Doctor's Office"=0
-    "Drug Store"=1
-    "Elderly Center"=0
-    "Elevation Profile"=5
-    "GeoCoordinate"=2
-    "GeoShape"=0
-    "Hospital"=0
-    "Internet Availability"=0
-    "InternetAvailabilityType"=8
-    "Library"=0
-    "Line"=0
-    "Line Transport Calendar"=13
-    "Line Transport Calendar Exception"=0
-    "Location"=1
-    "Natural Climbing Wall"=1
-    "Park"=0
-    "Parking"=2
-    "Path"=0
-    "Playground"=0
-    "PlaygroundFacilityType"=15
-    "Polygon"=0
-    "Post Office"=0
-    "Railway"=0
-    "Railway Station"=0
-    "Road"=0
-    "RoadType"=4
-    "School"=1
-    "SchoolType"=4
-    "Ski Area"=4
-    "Ski Slope"=0
-    "SlopeType"=2
-    "Slope Statistics"=0
-    "SlopeDifficultyType"=3
-    "Sport Facility"=0
-    "Stop Time"=3
-    "Supermarket"=1
-    "Theater"=0
-    "Trail"=8
-    "TrailPathDifficultyType"=3
-    "Trail Ground"=2
-    "Trail Statistics"=0
-    "TrailStatisticsLevel"=5
+    "Bank":"400",
+    "Bicycle Path":"158",
+    "Bike Sharing Rack":"52",
+    "Building":"",
+    "Bus Stop":"2357",
+    "Cafe":"18",
+    "Church":"265",
+    "Cinema":"24",
+    "CiviciWeb":"39646",
+    "City Center":"765",
+    "Doctor's Office":"74",
+    "Drug Store":"173",
+    "Elderly Center":"10",
+    "Elevation Profile":"1489",
+    "Hospital":"42",
+    "Internet Availability":"86990",
+    "InternetAvailabilityType":"86990",
+    "Library":"70",
+    "Line":"497",
+    "Natural Climbing Wall":"219",
+    "Park":"449",
+    "Parking":"5916",
+    "Playground":"769",
+    "PlaygroundFacilityType":"769",
+    "Post Office":"143",
+    "Railway Station":"49",
+    "Road":"7314",
+    "RoadType":"7314",
+    "School":"108",
+    "SchoolType":"108",
+    "Ski Area":"30",
+    "Ski Slope":"1046",
+    "SlopeType":"1046",
+    "Slope Statistics":"1046",
+    "SlopeDifficultyType":"1046",
+    "Sport Facility":"37",
+    "Stop Time":"66466",
+    "Supermarket":"428",
+    "Theater":"21",
+    "Trail":"1489",
+    "TrailPathDifficultyType":"1489",
+    "Trail Ground":"1489",
+    "Trail Statistics":"1489",
+    "TrailStatisticsLevel":"1489"
     }
