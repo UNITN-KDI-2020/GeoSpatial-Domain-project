@@ -5,7 +5,7 @@
 "EntityTypes":{
     "Address":{
         "ObjectProperties":{
-            "o1":"is_inPosition"
+            "o1":"is_inPosition",
             "o2":"has_internetAvailability"
         },
         "DataProperties":{
